@@ -102,7 +102,7 @@ class SendConfirmSheet extends HookConsumerWidget {
     String? checkMissingBalance() {
       final balance = ref.read(totalBalanceProvider).raw;
       if (balance < amount.raw) {
-        return 'KAS';
+        return 'KLS';
       }
 
       if (fee != null) {

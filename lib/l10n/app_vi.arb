@@ -106,7 +106,7 @@
   "importWalletDescription": "Please select an option below.",
   "instantly": "Ngay tức thì",
   "insufficientBalance": "Số dư không đủ",
-  "insufficientBalanceDetails": "You don't have enough KAS for this transaction",
+  "insufficientBalanceDetails": "You don't have enough KLS for this transaction",
   "invalidAddress": "Địa chỉ đã nhập không hợp lệ",
   "invalidAmount": "Invalid Amount",
   "invalidChecksumMessage": "Please check that your Secret Phrase\n is entered correctly!",

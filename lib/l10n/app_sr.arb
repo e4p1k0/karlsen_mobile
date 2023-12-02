@@ -106,7 +106,7 @@
   "importWalletDescription": "Please select an option below.",
   "instantly": "Инстант",
   "insufficientBalance": "Недовољно Средстава",
-  "insufficientBalanceDetails": "Немате довољно KAS за ову трансакцију",
+  "insufficientBalanceDetails": "Немате довољно KLS за ову трансакцију",
   "invalidAddress": "Унета адреса није валидна",
   "invalidAmount": "Неважећи Износ",
   "invalidChecksumMessage": " Молимо проверите да ли је ваша Тајна Фраза унета исправно!",

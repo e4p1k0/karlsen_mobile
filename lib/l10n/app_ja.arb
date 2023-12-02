@@ -106,7 +106,7 @@
   "importWalletDescription": "Please select an option below.",
   "instantly": "今すぐ",
   "insufficientBalance": "残高不足です",
-  "insufficientBalanceDetails": "You don't have enough KAS for this transaction",
+  "insufficientBalanceDetails": "You don't have enough KLS for this transaction",
   "invalidAddress": "入力したアドレスが無効です",
   "invalidAmount": "Invalid Amount",
   "invalidChecksumMessage": "Please check that your Secret Phrase\n is entered correctly!",
