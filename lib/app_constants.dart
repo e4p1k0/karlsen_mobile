@@ -1,1 +1,1 @@
-const kWalletTitle = 'Kaspium';
+const kWalletTitle = 'Admiralium';
