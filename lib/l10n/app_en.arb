@@ -191,7 +191,7 @@
   "invalidDestinationAddress": "Invalid Destination Address",
   "invalidPassword": "Invalid Password",
   "kaspaDevFund": "Karlsen Dev Fund",
-  "kaspiumWallet": "Kaspium Wallet",
+  "kaspiumWallet": "Admiralium Wallet",
   "language": "Language",
   "loadingTransactions": "Loading Transactions...",
   "lockAppSetting": "Authenticate on Launch",
@@ -303,9 +303,9 @@
   "settingsHeader": "Settings",
   "settingsTransfer": "Load from Paper Wallet",
   "setupFailedMessage": "Something went wrong",
-  "shareKaspium": "Share Kaspium",
-  "shareKaspiumSubject": "Check out Kaspium Wallet",
-  "shareKaspiumText": "Check out Kaspium - Karlsen Mobile Wallet.\nWebsite - kaspium.io",
+  "shareKaspium": "Share Admiralium",
+  "shareKaspiumSubject": "Check out Admiralium Wallet",
+  "shareKaspiumText": "Check out Admiralium - Karlsen Mobile Wallet.\nWebsite - kaspium.io",
   "somethingWentWrong": "Something went wrong",
   "systemDefault": "System Default",
   "tapToHide": "Tap to hide",
@@ -322,7 +322,7 @@
   "transactionsUppercase": "TRANSACTIONS",
   "transfer": "Transfer",
   "transferClose": "Tap anywhere to close the window.",
-  "transferComplete": "{amount} KLS successfully transferred to your Kaspium Wallet.\n",
+  "transferComplete": "{amount} KLS successfully transferred to your Admiralium Wallet.\n",
   "@transferComplete": {
     "placeholders": {
       "amount": {
@@ -342,7 +342,7 @@
   "transferConfirmInfoThird": "Transfer may take several seconds to complete.",
   "transferError": "An error has occurred during the transfer. Please try again later.",
   "transferHeader": "Transfer Funds",
-  "transferIntro": "This process will transfer the funds from a paper wallet to your Kaspium wallet.\n\nTap the \"{button}\" button to start.",
+  "transferIntro": "This process will transfer the funds from a paper wallet to your Admiralium wallet.\n\nTap the \"{button}\" button to start.",
   "@transferIntro": {
     "placeholders": {
       "button": {
@@ -373,7 +373,7 @@
   "walletSetupMessage": "Setting up wallet",
   "walletsTitle": "Wallets",
   "warning": "Warning",
-  "welcomeMessage": "Welcome!\n\nThis is version {version} of Kaspium - the mobile wallet for Karlsen",
+  "welcomeMessage": "Welcome!\n\nThis is version {version} of Admiralium - the mobile wallet for Karlsen",
   "@welcomeMessage": {
     "placeholders": {
       "version": {
@@ -381,7 +381,7 @@
       }
     }
   },
-  "welcomeText": "Welcome to Kaspium. To begin, you may create a new wallet or import an existing one.",
+  "welcomeText": "Welcome to Admiralium. To begin, you may create a new wallet or import an existing one.",
   "xMinutes": "After {minutes, plural, =1{1 minute} other{{minutes} minutes}}",
   "@xMinutes": {
     "placeholders": {
