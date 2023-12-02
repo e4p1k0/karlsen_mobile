@@ -373,30 +373,6 @@ class _SettingsSheetState extends ConsumerState<SettingsSheet>
                           },
                         ),
                       ],
-                      if (!kPlatformIsIOS &&
-                          network == KaspaNetwork.mainnet &&
-                          !wallet.isViewOnly) ...[
-                        Divider(height: 2, color: theme.text15),
-                        DoubleLineItem(
-                          heading: l10n.donate,
-                          defaultMethod: DonateSettingItem(),
-                          icon: Icons.handshake_rounded,
-                          onPressed: () {
-                            final uri = KaspaUri(
-                              address:
-                                  Address.decodeAddress(kKaspaDevFundAddress),
-                            );
-                            Sheets.showAppHeightNineSheet(
-                              context: context,
-                              theme: theme,
-                              widget: SendSheet(
-                                title: l10n.donate.toUpperCase(),
-                                uri: uri,
-                              ),
-                            );
-                          },
-                        ),
-                      ],
                       Divider(height: 2, color: theme.text15),
                       SingleLineItem(
                         heading: l10n.shareKaspium,
