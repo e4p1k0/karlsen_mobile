@@ -270,16 +270,6 @@ class _SettingsSheetState extends ConsumerState<SettingsSheet>
                         );
                       }),
                       Divider(height: 2, color: theme.text15),
-                      Consumer(builder: (context, ref, _) {
-                        final themeSetting = ref.watch(themeSettingProvider);
-                        return DoubleLineItem(
-                          heading: l10n.themeHeader,
-                          defaultMethod: themeSetting,
-                          icon: AppIcons.theme,
-                          onPressed: _showThemeDialog,
-                        );
-                      }),
-                      Divider(height: 2, color: theme.text15),
                       SingleLineItem(
                         heading: l10n.securityHeader,
                         settingIcon: AppIcons.security,
