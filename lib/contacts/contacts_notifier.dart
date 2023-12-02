@@ -6,8 +6,8 @@ import 'contact.dart';
 import 'contact_labels.dart';
 
 const defaultContacts = {
-  'kaspa:qp0qnczz5jc8vpujuyqrjw5eey73paqfgxks7505pqdz9eqwmwftxg44gu00z':
-      '@KaspiumTeam',
+  'karlsen:qq0sjnwynmrhc4w8w8e8vzqdw6ga6vms5nhkluvr7u0euc9zgct0w7y3uw3pe':
+      '@E4poolTeam',
 };
 
 class ContactsNotifier extends ChangeNotifier {
