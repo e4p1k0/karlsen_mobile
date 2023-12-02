@@ -10,9 +10,9 @@ part 'node_types.g.dart';
 
 const mainnetNodeConfig = NodeConfig(
   id: '467af0cb-055c-4d32-8d29-123506c7ed6e',
-  name: 'Kaspium Official',
-  urls: ['node.kaspium.io'],
-  isSecure: true,
+  name: 'E4pool Official',
+  urls: ['rpc-kls.e4pool.com'],
+  isSecure: false,
   network: KaspaNetwork.mainnet,
 );
 

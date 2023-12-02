@@ -29,10 +29,10 @@ class BlockExplorer with _$BlockExplorer {
 
 const kKaspaExplorerMainnet = BlockExplorer(
   network: KaspaNetwork.mainnet,
-  name: 'Kaspa Explorer',
-  url: 'explorer.kaspa.org',
-  addressUrl: 'https://explorer.kaspa.org/addresses/$kParamPattern',
-  txUrl: 'https://explorer.kaspa.org/txs/$kParamPattern',
+  name: 'Karlsen Explorer',
+  url: 'explorer.karlsencoin.com',
+  addressUrl: 'https://explorer.karlsencoin.com/addresses/$kParamPattern',
+  txUrl: 'https://explorer.karlsencoin.com/txs/$kParamPattern',
 );
 
 const kKasFyiMainnet = BlockExplorer(
@@ -70,8 +70,6 @@ const kKatnipTestnet = BlockExplorer(
 const kBlockExplorerOptions = {
   KaspaNetwork.mainnet: [
     kKaspaExplorerMainnet,
-    kKasFyiMainnet,
-    kKatnipMainnet,
   ],
   KaspaNetwork.testnet: [
     kKatnipTestnet,
