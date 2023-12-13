@@ -119,7 +119,7 @@ class TransactionCard extends ConsumerWidget {
                                       .copyWith(fontSize: AppFontSizes.small),
                                 ),
                                 TextSpan(
-                                  text: ' KLS',
+                                  text: ' PYI',
                                   style: styles.textStyleTransactionUnit
                                       .copyWith(fontSize: AppFontSizes.small),
                                 ),

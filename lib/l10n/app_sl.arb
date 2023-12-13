@@ -1,305 +1,1220 @@
 {
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "@@last_modified": "2023-09-25T17:48:36.587Z",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "@@author": "arb-converter-cli",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "account": "Račun",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "accounts": "Računi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "ackBackedUp": "Ste prepričani, da ste varno shranili vaš skrivni niz ali zasebni ključ?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "add": "Add",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addAccount": "Dodaj račun",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addContact": "Dodaj stik",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNode": "Add Node",
-  "addNodeFailed": "Failed to add Karlsen node",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "addNodeFailed": "Failed to add Pyrin node",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNodeFailedMessage": "Failed: {error}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNodeSuccess": "Node Added Successfully",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addingNodeMessage": "Please wait while contacting node",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addingNodeTitle": "Adding Node",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "address": "Address",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressCopied": "Naslov skopiran",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressCopiedFailed": "Failed to copy address",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressHint": "Enter Address",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressMising": "Prosim vnesite naslov",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressShare": "Deli naslov",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "advancedHeader": "Advanced",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amount": "Amount",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountConfirm": "Amount {amount} {coin}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountMissing": "Prosim vnesite znesek",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountZero": "Amount can't be zero",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "areYouSure": "Are you sure?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authBiometricMessage": "Authenticate to Add Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authMethod": "Način avtentikacije",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authPinMessage": "Enter PIN to Add Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "autoLockHeader": "Samodejno zakleni",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "available": "Available",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "backupConfirmButton": "Varno shranjeno",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "backupSecretPhrase": "Backup Secret Phrase",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "biometricsMethod": "Prstni odtis",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "blockExplorer": "Block Explorer",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "cancel": "Prekliči",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "change": "Change",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddress": "Change Address",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddressCopied": "Change address copied",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeIndex": "Change Index",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeIndexParam": "Change {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "checkCameraPermission": "Please check camera permissions",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "clipboardEmpty": "Clipboard is empty",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "close": "Zapri",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirm": "Potrdi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmPasswordHint": "Confirm the password",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmations": "{confirmations} confirmations",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmed": "confirmed",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirming": "confirming",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactAdded": "{contactName} dodan stikom.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactAddressCopied": "{address} address copied",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactExists": "Stik že obstaja",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactHeader": "Stik",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactInvalid": "Neveljavno ime",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactNameHint": "Vnesite ime @",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactNameMissing": "Izberite ime za ta stik",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactRemoved": "{contactName} je bil odstranjen iz stikov!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsHeader": "Stiki",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsImportErr": "Ni možno uvoziti stikov",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsImportSuccess": "Uspešen uvoz {noContacts} stikov.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copied": "Skopirano",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copy": "Kopiraj",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copyAddress": "Kopiraj naslov",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copyErrorButton": "Copy Error",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createAPasswordHeader": "Create a password.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordFirstParagraph": "You can create a password to add additional security to your wallet.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordHint": "Create a password",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordSecondParagraph": "Password is optional, and your wallet will be protected with your PIN or biometrics regardless.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordSheetHeader": "Create",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currency": "Currency",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currencyPoweredBy": "Powered by CoinGecko",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultAccountName": "Glavni račun",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultNewAccountName": "Račun {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultWalletName": "My Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disablePasswordSheetHeader": "Disable",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disablePasswordSuccess": "Password has been disabled",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disableWalletPassword": "Disable Wallet Password",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "doContinue": "Continue",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "donate": "Donate",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "dontShowAgain": "Don't show again",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyCardIntroUtxos": "This is the UTXOs tab. All UTXOs in your wallet will appear here",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyResult": "Empty Result",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyWalletName": "Wallet Name cannot be empty",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "encryptionFailedError": "Failed to set a wallet password",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterAddress": "Vnesite naslov",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterAmount": "Vnesite znesek",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterNote": "Enter Note",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterPasswordHint": "Enter your password",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "errorMessageCopied": "Error message copied to clipboard",
-  "exampleCardIntro": "Dobrodošli v Admiralium. Ko boste prejeli KLS, bodo transakcije prikazane takole:",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "exampleCardIntro": "Dobrodošli v Kapitanium. Ko boste prejeli PYI, bodo transakcije prikazane takole:",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "export": "Export",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fee": "Fee",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "feeConfirm": "Fee {amount} {coin}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "feeTitle": "FEE",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fetchingTransactions": "Fetching Transactions",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fingerprintSeedBackup": "Avtenticiraj za shranitev ključa.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "goBackButton": "Go Back",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "gotItButton": "Razumem!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "import": "Uvozi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhrase": "Uvozi skrivni niz",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHint": "Spodaj vnesite vaš skrivni 24-besedni niz. Vsaka beseda naj bo ločena s presledkom.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHintCombo": "Please enter your 12 or 24 word secret phrase below.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHintLegacy": "Please enter your 12 word secret phrase below.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importWallet": "Uvozi denarnico",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importWalletDescription": "Please select an option below.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "instantly": "Takoj",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "insufficientBalance": "Premalo na računu",
-  "insufficientBalanceDetails": "You don't have enough KLS for this transaction",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "insufficientBalanceDetails": "You don't have enough PYI for this transaction",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidAddress": "Naslov je neveljaven",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidAmount": "Invalid Amount",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidChecksumMessage": "Please check that your Secret Phrase\n is entered correctly!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidKpubMessage": "Please check that your extended public key is entered correctly!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidDestinationAddress": "Invalid Destination Address",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidPassword": "Invalid Password",
-  "kaspaDevFund": "Karlsen Dev Fund",
-  "kaspiumWallet": "Admiralium Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "kaspaDevFund": "Pyrin Dev Fund",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "kaspiumWallet": "Kapitanium Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "language": "Jezik",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "loadingTransactions": "Loading Transactions...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "lockAppSetting": "Avtenticiraj ob zagonu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "locked": "Zaklenjeno",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "loggingOutMessage": "Logging out...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logout": "Odjava",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logoutDialogContent": "Are you sure you want to logout from this wallet?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logoutOrSwitchWallet": "Logout / Switch Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "manage": "Upravljaj",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "manualEntry": "Ročni vnos",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "networkHeader": "Network",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newAddress": "New Address",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newWallet": "Nova denarnica",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nextButton": "Next",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "no": "Ne",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noContactsExport": "Ni stikov za izvoz.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noContactsImport": "Ni novih stikov za uvoz.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noQrCodeFound": "No QR code found",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noSkipButton": "No, Skip",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noUppercase": "NO",
-  "nodeAddress": "Karlsen Node",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodeAddress": "Pyrin Node",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeDeleteMessage": "Are you sure you want to delete?",
-  "nodeDeleteTitle": "Delete Karlsen Node Config?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodeDeleteTitle": "Delete Pyrin Node Config?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNameEmpty": "Node name cannot be empty",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNameHint": "Enter Node Name",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeUrlHint": "Enter Node URL",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeUrlInvalid": "Invalid node URL",
-  "nodesSheetTitle": "Karlsen Nodes",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodesSheetTitle": "Pyrin Nodes",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "off": "Izklopi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "on": "Vklopi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "paperWallet": "Papirna denarnica",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordBlank": "Password cannot be empty",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordNoLongerRequiredToOpenParagraph": "You will not need a password to open this wallet.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordWillBeRequiredToOpenParagraph": "This password will be required to open this wallet.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordsDontMatch": "Passwords do not match",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pasteMnemonicError": "Clipboard content is not a valid secret phrase",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pending": "pending",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinConfirmError": "PIN se ne ujema",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinConfirmTitle": "Potrdi PIN",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinCreateTitle": "Ustvari 6-mestni PIN",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinEnterTitle": "Vnesite PIN",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinInvalid": "Neveljaven PIN",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinMethod": "PIN",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinSeedBackup": "Vnesite PIN za shranitev ključa",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "preferences": "Splošno",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "privacyPolicy": "Zasebnost",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrInvalidAddress": "QR code does not contain a valid address",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrInvalidSeed": "QR koda ne vsebuje veljavnega zasebnega ključa",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrMnemonicError": "QR koda ne vsebuje veljavnega skrivnega niza",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receive": "Prejmi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddress": "Receive Address",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddressCopied": "Receive address copied",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveIndex": "Receive Index",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveIndexParam": "Receive {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "received": "Prejeto",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeContact": "Odstrani stik",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeContactConfirmation": "Ste prepričani, da hočete izbrisati {contactName}?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletAction": "Remove Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletBiometricsMessage": "Authenticate to Remove Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletDetail": "Removing this wallet will remove the Secret Phrase and all wallet-related data from this device. If the Secret Phrase is not backed up, you will never be able to access your funds again.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletPinMessage": "Enter PIN to Remove Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletReassurance": "As long as you've backed up the Secret Phrase you have nothing to worry about.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "requireAPasswordToOpenHeader": "Require a password to open this wallet?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "restartSetupButton": "Restart Setup",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanQrCode": "Zajemi QR kodo",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanQrCodeError": "Failed to parse qr code",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretInfo": "Na naslednjem zaslonu boste videli vaš skrivni niz. Ta niz je geslo za dostop do vašega računa. Nujno je, da ga varno shranite in ne delite z nikomur.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretInfoHeader": "Najprej varnost!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretPhrase": "Skrivni niz",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretWarning": "Če izgubite napravo ali odstranite aplikacijo, boste potrebovali vaš skrivni niz ali zasebni ključ za ponoven dostop do računa!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "securityHeader": "Varnost",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "seed": "Seed",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "seedInvalid": "Zasebni ključ je neveljaven",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "send": "Pošlji",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendConfirm": "Send",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendError": "Napaka. Poskusite kasneje.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendNote": "NOTE",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendToAddressTitle": "To",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendTxProgressDescription": "Please wait while the transaction is sent",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendTxProgressTitle": "Sending Transaction",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sending": "Pošiljam",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sent": "Poslano",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sentTo": "Poslano",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setPassword": "Set Password",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setPasswordSuccess": "Wallet password has been set",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setWalletPassword": "Set Wallet Password",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "settingsHeader": "Nastavitve",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "settingsTransfer": "Naloži iz papirnate denarnice",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setupFailedMessage": "Something went wrong",
-  "shareKaspium": "Deli Admiralium",
-  "shareKaspiumSubject": "Check out Admiralium Wallet",
-  "shareKaspiumText": "Preveri Admiralium! Uradna mobilna Karlsen denarnica!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspium": "Deli Kapitanium",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspiumSubject": "Check out Kapitanium Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspiumText": "Preveri Kapitanium! Uradna mobilna Pyrin denarnica!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "somethingWentWrong": "Something went wrong",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "systemDefault": "Sistemski",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tapToHide": "Pritisnite za skrivanje",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tapToReveal": "Pritisnite za ogled",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeDark": "Dark Theme",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeHeader": "Tema",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeLight": "Light Theme",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "thisWallet": "#This Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "to": "Na",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "toAddress": "To Address",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tooManyFailedAttempts": "Preveč neuspešnih poizkusov.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "totalValue": "Total Value",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transactionId": "Transaction ID",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transactionsUppercase": "TRANSACTIONS",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transfer": "Prenesi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferClose": "Pritisni kjerkoli za izhod.",
-  "transferComplete": "{amount} KLS uspešno prenešenih v vašo Admiralium denarnico.\n",
-  "transferConfirmInfo": "Denarnica z zneskom {amount} KLS je bila zaznana.\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferComplete": "{amount} PYI uspešno prenešenih v vašo Kapitanium denarnico.\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferConfirmInfo": "Denarnica z zneskom {amount} PYI je bila zaznana.\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferConfirmInfoSecond": "Pritisni za prenos zneska.\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferConfirmInfoThird": "Prenos lahko traja nekaj sekund.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferError": "Napaka med prenosom. Poskusite kasneje.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferHeader": "Prenesi znesek",
-  "transferIntro": "Postopek bo prenesel znesek iz papirnate denarnice v vašo Admiralium denarnico.\n\nPritisnite \"{button}\" gumb za začetek.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferIntro": "Postopek bo prenesel znesek iz papirnate denarnice v vašo Kapitanium denarnico.\n\nPritisnite \"{button}\" gumb za začetek.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferLoading": "Prenašam",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferManualHint": "Spodaj vnesite ključ.",
-  "transferNoFunds": "Ključ ne vsebuje nobenega KLS zneska.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferNoFunds": "Ključ ne vsebuje nobenega PYI zneska.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferQrScanError": "QR koda ne vsebuje veljavnega ključa.",
-  "transferQrScanHint": "Zajemi Karlsen \nključ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferQrScanHint": "Zajemi Pyrin \nključ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unconfirmed": "unconfirmed",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "notAccepted": "not accepted",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "accepted": "accepted",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unknown": "unknown",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unlock": "Odkleni",
-  "unlockBiometrics": "Avtenticiraj za odklep Admiralium",
-  "unlockPin": "Vnesite PIN za odklep Admiralium",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "unlockBiometrics": "Avtenticiraj za odklep Kapitanium",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "unlockPin": "Vnesite PIN za odklep Kapitanium",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "utxosUppercase": "UTXOs",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "viewAddress": "View Address",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "viewTransaction": "View Transaction",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletAddresses": "Wallet Addresses",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletName": "Wallet name",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletNameDescription": "Enter a name for your wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletNameHint": "Wallet Name",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletSetupAddressDiscovery": "Running Address Discovery",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletSetupMessage": "Setting up wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletsTitle": "Wallets",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "warning": "Opozorilo",
-  "welcomeMessage": "Welcome!\n\nThis is version {version} of Admiralium - the mobile wallet for Karlsen",
-  "welcomeText": "Dobrodošli v Admiralium. Za začetek ustvarite novo denarnico ali uvozite že obstoječo.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "welcomeMessage": "Welcome!\n\nThis is version {version} of Kapitanium - the mobile wallet for Pyrin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "welcomeText": "Dobrodošli v Kapitanium. Za začetek ustvarite novo denarnico ali uvozite že obstoječo.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "xMinutes": "Po {minutes, plural, =1{1 minuti} other{{minutes} minutah}}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yes": "Da",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yesButton": "Yes",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yesUppercase": "YES",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNotSyncedException": "Node is not synced",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNoUTXOIndexException": "Node does not have UTXO index",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeSecureConnection": "Secure connection",
-  "kaspaUriInvalid": "Invalid Karlsen URI",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "kaspaUriInvalid": "Invalid Pyrin URI",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxos": "Compound transactions",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxosDescription": "Combine multiple UTXOs into one",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxosConfirmation": "Compound transactions?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundingUtxos": "Compounding transactions",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundingMessage": "Please wait...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundSuccess": "Compound successful",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundFailure": "Failed to compound transactions",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundTooFewUtxos": "At least two UTXOs are required",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "balance": "Balance",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "maxSend": "Max Send",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUppercased": "COMPOUND",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "closeUppercased": "CLOSE",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanMoreAddresses": "Scan For More Addresses",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressDiscovery": "Address Discovery",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanningTitle": "Scanning",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanningDescription": "Scanning for new addresses...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanMore": "SCAN MORE",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanFailedMessage": "Scan failed, please try again later",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "indexHeader": "Index",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currentIndex": "Current",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scannedIndex": "Scanned",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newIndex": "New",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogTitle": "Address Filter",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogOptionAllAddresses": "View All Addresses",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogOptionNonZeroBalances": "View Addresses With Balance",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption24WordsTitle": "Import 24 Word Secret Phrase",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption24WordsDescription": "Compatible with Cli Wallet and Ledger",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption12WordsTitle": "Import 12 Word Secret Phrase",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption12WordsDescription": "Compatible with Web Wallet and KDX",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOptionKpubTitle": "Import Watch Only Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOptionKpubDescription": "Monitor the balance and transactions of a wallet using an extended public key",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpub": "Import Watch Only Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubHint": "Please enter your extended public key.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubClipboardError": "Clipboard content is not a valid extended public key",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubQrCodeError": "QR code does not contain a valid extended public key",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubInvalidMessage": "Please check that your extended public key is entered correctly!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddressListEmpty": "Receive address list is empty",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddressListEmpty": "Change address list is empty",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "hintAddressListEmpty": "Check address filter from the top right corner"
+pp_af.arb
+pp_af.arb
+pp_af.arb
 }
+pp_af.arb
+pp_af.arb
+pp_af.arb

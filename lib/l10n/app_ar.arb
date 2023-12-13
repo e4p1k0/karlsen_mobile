@@ -1,305 +1,1220 @@
 {
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "@@last_modified": "2023-09-25T17:48:36.587Z",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "@@author": "arb-converter-cli",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "account": "الحساب",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "accounts": "الحسابات",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "ackBackedUp": "هل أنت متأكد من أنك قمت بنسخ نسخة احتياطية من العبارة السرية أو مفتاحك الخاص؟",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "add": "Add",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addAccount": "إضافة حساب",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addContact": "إضافة جهة الاتصال",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNode": "Add Node",
-  "addNodeFailed": "Failed to add Karlsen node",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "addNodeFailed": "Failed to add Pyrin node",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNodeFailedMessage": "Failed: {error}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNodeSuccess": "Node Added Successfully",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addingNodeMessage": "Please wait while contacting node",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addingNodeTitle": "Adding Node",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "address": "Address",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressCopied": "تم نسخ العنوان",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressCopiedFailed": "Failed to copy address",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressHint": "أدخل العنوان\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressMising": "يرجى إدخال العنوان",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressShare": "أنشر العنوان",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "advancedHeader": "Advanced",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amount": "Amount",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountConfirm": "Amount {amount} {coin}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountMissing": "يرجى إدخال المبلغ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountZero": "Amount can't be zero",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "areYouSure": "Are you sure?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authBiometricMessage": "Authenticate to Add Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authMethod": "طريقة المصادقة",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authPinMessage": "Enter PIN to Add Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "autoLockHeader": "قفل آليً",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "available": "Available",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "backupConfirmButton": "لقد حفظت العبارة السرية",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "backupSecretPhrase": "حفظ العبارة السرية الخاصة بك\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "biometricsMethod": "القياسات الحيوية",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "blockExplorer": "Block Explorer",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "cancel": "إلغاء",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "change": "Change",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddress": "Change Address",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddressCopied": "Change address copied",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeIndex": "Change Index",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeIndexParam": "Change {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "checkCameraPermission": "Please check camera permissions",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "clipboardEmpty": "Clipboard is empty",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "close": "إغلاق",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirm": "تأكيد",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmPasswordHint": "تأكيد كلمة المرور\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmations": "{confirmations} confirmations",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmed": "confirmed",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirming": "confirming",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactAdded": "تم إضافة {contactName} إلى جهات الاتصال.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactAddressCopied": "{address} address copied",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactExists": "جهة الاتصال موجودة مسبقا",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactHeader": "جهة الاتصال",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactInvalid": "اسم جهة الاتصال خاطيء",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactNameHint": "أدخل اسم @",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactNameMissing": "إختر إسم جهة الاتصال",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactRemoved": "تم حذف {contactName} من جهة الاتصال !",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsHeader": "جهات الاتصال",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsImportErr": "فشل استيراد جهات الاتصال",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsImportSuccess": "تم جلب جهات اتصال {noContacts} بنجاح.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copied": "تم نسخ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copy": "نسخ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copyAddress": "نسخ العنوان",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copyErrorButton": "Copy Error",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createAPasswordHeader": "أنشئ كلمة مرور.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordFirstParagraph": "يمكنك إنشاء كلمة مرور لإضافة أمان إلى محفظتك.\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordHint": "أنشئ كلمة مرور\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordSecondParagraph": "كلمة المرور اختيارية ، وسيتم حماية محفظتك برقم التعريف الشخصي أو القياسات الحيوية بغض النظر.\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordSheetHeader": "خلق",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currency": "عملة",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currencyPoweredBy": "Powered by CoinGecko",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultAccountName": "الحساب الرئيسي",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultNewAccountName": "الحساب {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultWalletName": "My Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disablePasswordSheetHeader": "تعطيل",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disablePasswordSuccess": "تم تعطيل كلمة المرور\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disableWalletPassword": "تعطيل كلمة مرور المحفظة\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "doContinue": "Continue",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "donate": "Donate",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "dontShowAgain": "Don't show again",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyCardIntroUtxos": "This is the UTXOs tab. All UTXOs in your wallet will appear here",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyResult": "Empty Result",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyWalletName": "Wallet Name cannot be empty",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "encryptionFailedError": "أخفق إنشاء كلمة مرور المحفظة\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterAddress": "أدخل العنوان",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterAmount": "أدخل المبلغ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterNote": "Enter Note",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterPasswordHint": "ادخل رقمك ادخل رقمك\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "errorMessageCopied": "Error message copied to clipboard",
-  "exampleCardIntro": "مرحبا بكم في نتريوم. بمجرد تلقي KLS ، ستظهر المعاملات كما يلي:",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "exampleCardIntro": "مرحبا بكم في نتريوم. بمجرد تلقي PYI ، ستظهر المعاملات كما يلي:",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "export": "Export",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fee": "Fee",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "feeConfirm": "Fee {amount} {coin}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "feeTitle": "FEE",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fetchingTransactions": "Fetching Transactions",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fingerprintSeedBackup": "المصادقة على نسخ المفتاح الخاص.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "goBackButton": "عد\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "gotItButton": "موافق!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "import": "استيراد",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhrase": "استيراد العبارة السرية",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHint": "الرجاء إدخال عبارة سرية مكونة من 24 كلمة. يجب فصل كل كلمة بمسافة.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHintCombo": "Please enter your 12 or 24 word secret phrase below.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHintLegacy": "Please enter your 12 word secret phrase below.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importWallet": "إجلب محفظة",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importWalletDescription": "Please select an option below.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "instantly": "فوراً",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "insufficientBalance": "لرصيد غير كافي",
-  "insufficientBalanceDetails": "You don't have enough KLS for this transaction",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "insufficientBalanceDetails": "You don't have enough PYI for this transaction",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidAddress": "العنوان المدخل غير صحيح",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidAmount": "Invalid Amount",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidChecksumMessage": "Please check that your Secret Phrase\n is entered correctly!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidKpubMessage": "Please check that your extended public key is entered correctly!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidDestinationAddress": "Invalid Destination Address",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidPassword": "كلمة المرور خاطئ\n",
-  "kaspaDevFund": "Karlsen Dev Fund",
-  "kaspiumWallet": "Admiralium Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "kaspaDevFund": "Pyrin Dev Fund",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "kaspiumWallet": "Kapitanium Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "language": "اللغة",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "loadingTransactions": "Loading Transactions...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "lockAppSetting": "المصادقة في الاطلاق",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "locked": "مقفل",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "loggingOutMessage": "Logging out...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logout": "خروج",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logoutDialogContent": "Are you sure you want to logout from this wallet?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logoutOrSwitchWallet": "Logout / Switch Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "manage": "إدارة",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "manualEntry": "إدخال يدوي",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "networkHeader": "Network",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newAddress": "New Address",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newWallet": "محفظة جديدة",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nextButton": "التالى",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "no": "لا",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noContactsExport": "لا توجد جهات الاتصال للنقل",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noContactsImport": "لا توجد جهات اتصال جديدة للجلب.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noQrCodeFound": "No QR code found",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noSkipButton": "لا ، تخطي\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noUppercase": "NO",
-  "nodeAddress": "Karlsen Node",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodeAddress": "Pyrin Node",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeDeleteMessage": "Are you sure you want to delete?",
-  "nodeDeleteTitle": "Delete Karlsen Node Config?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodeDeleteTitle": "Delete Pyrin Node Config?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNameEmpty": "Node name cannot be empty",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNameHint": "Enter Node Name",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeUrlHint": "Enter Node URL",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeUrlInvalid": "Invalid node URL",
-  "nodesSheetTitle": "Karlsen Nodes",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodesSheetTitle": "Pyrin Nodes",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "off": "غلق",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "on": "فتح",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "paperWallet": "المحفظة الورقية",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordBlank": "لا يمكن أن تكون كلمة المرور فارغة\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordNoLongerRequiredToOpenParagraph": "لن تحتاج إلى كلمة مرور لفتح  نتريم بعد الآن.\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordWillBeRequiredToOpenParagraph": "هناك حاجة إلى كلمة المرور لفتح نتريم",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordsDontMatch": "كلمة المرور غير مطابقة\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pasteMnemonicError": "Clipboard content is not a valid secret phrase",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pending": "pending",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinConfirmError": "رمز الPIN غير مطابق",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinConfirmTitle": "تأكيد رمز الPIN",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinCreateTitle": "ضع 6 أرقام رمز الPIN",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinEnterTitle": "أدخل رمز الPIN",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinInvalid": "رمز الPIN غير صحيح",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinMethod": "PIN",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinSeedBackup": "أدخل الPIN للنسخ المفتاح الخاص",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "preferences": "الاختيارات",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "privacyPolicy": "سياسة الخصوصية",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrInvalidAddress": "لا يحتوي رمز الاستجابة السريعة على وجهة صالحة\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrInvalidSeed": "رمز الاستجابة السريعة لا يحتوي على مفتاح خاص صحيح",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrMnemonicError": "لا يحتوي رمز الاستجابة السريعة على عبارة سرية صالحة",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receive": "إستلام",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddress": "Receive Address",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddressCopied": "Receive address copied",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveIndex": "Receive Index",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveIndexParam": "Receive {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "received": "تم الإستلام",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeContact": "حذف بيانات جهة الاتصال",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeContactConfirmation": "هل تريد حذف {contactName}؟",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletAction": "Remove Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletBiometricsMessage": "Authenticate to Remove Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletDetail": "Removing this wallet will remove the Secret Phrase and all wallet-related data from this device. If the Secret Phrase is not backed up, you will never be able to access your funds again.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletPinMessage": "Enter PIN to Remove Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletReassurance": "As long as you've backed up the Secret Phrase you have nothing to worry about.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "requireAPasswordToOpenHeader": "مطالبة كلمة مرور لفتح نتريم ؟",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "restartSetupButton": "Restart Setup",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanQrCode": "مسح رمز الاستجابة السريعة",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanQrCodeError": "Failed to parse qr code",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretInfo": "في الشاشة التالية ، سترى العبارة السرية الخاصة بك. إنها كلمة مرور للوصول إلى أموالك. من الأهمية أن تقوم بنسخه احتياطيًا وأن لا تشاركه أبدًا مع أي شخص.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretInfoHeader": "السلامة اولا!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretPhrase": "العبارة السرية",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretWarning": "إذا فقدت جهازك أو قمت بحذف التطبيق ، فستحتاج إلى عباراتك السرية أو بمفتاح سري لاسترداد أموالك!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "securityHeader": "تأمين",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "seed": "Seed",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "seedInvalid": "مفتاح خاص غير صحيح",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "send": "إرسال",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendConfirm": "Send",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendError": "يوجد خطأ. حاول لاحقاً.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendNote": "NOTE",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendToAddressTitle": "To",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendTxProgressDescription": "Please wait while the transaction is sent",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendTxProgressTitle": "Sending Transaction",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sending": "إرسال",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sent": "تم الارسال",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sentTo": "تم الإرسال إلى",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setPassword": "إنشاء كلمة مرور\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setPasswordSuccess": "تم إنشاء كلمة مرور المحفظة بنجاح\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setWalletPassword": "إنشاء كلمة مرور المحفظة\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "settingsHeader": "الإعدادات",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "settingsTransfer": "تحميل من المحفظة الورقية",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setupFailedMessage": "Something went wrong",
-  "shareKaspium": "Share Admiralium",
-  "shareKaspiumSubject": "Check out Admiralium Wallet",
-  "shareKaspiumText": "Check out Admiralium - Karlsen Mobile Wallet.\nWebsite - https://github.com/e4p1k0/karlsen_mobile",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspium": "Share Kapitanium",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspiumSubject": "Check out Kapitanium Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspiumText": "Check out Kapitanium - Pyrin Mobile Wallet.\nWebsite - https://github.com/e4p1k0/karlsen_mobile/tree/pyrin"",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "somethingWentWrong": "Something went wrong",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "systemDefault": "النظام الافتراضي",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tapToHide": "إضغط للاخفاء",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tapToReveal": "اضغط للكشف",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeDark": "Dark Theme",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeHeader": "مظهر",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeLight": "Light Theme",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "thisWallet": "#This Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "to": "إلى",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "toAddress": "To Address",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tooManyFailedAttempts": "العديد من محاولات الفتح الفاشلة.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "totalValue": "Total Value",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transactionId": "Transaction ID",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transactionsUppercase": "TRANSACTIONS",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transfer": "تحويل",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferClose": "اضغط في أي مكان لغلق النافذة.",
-  "transferComplete": "تم تحويل {amount} KLS إلى محفظة نتريوم.\n",
-  "transferConfirmInfo": "تم كشف محفظة برصيد {amount} KLS.\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferComplete": "تم تحويل {amount} PYI إلى محفظة نتريوم.\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferConfirmInfo": "تم كشف محفظة برصيد {amount} PYI.\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferConfirmInfoSecond": "إضغط لتأكيد تحويل الرصيد.\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferConfirmInfoThird": "قد يستغرق النقل عدة ثوانيٍ.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferError": "لقد حدث خطأ أثناء النقل. الرجاء إعادة المحاولة في وقت لاحق.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferHeader": "تحويل الرصيد",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferIntro": "ستقوم هذه العملية بتحويل الرصيد من المحفظة الورقية إلى محفظة نتريوم الخاصة بك. \n\n اضغط على الزر \"{button}\" للبدء.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferLoading": "بصدد التحويل",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferManualHint": "الرجاء إدخال المفتاح الخاص.",
-  "transferNoFunds": "هذا المفتاح الخاص لا يحتوي على KLS",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferNoFunds": "هذا المفتاح الخاص لا يحتوي على PYI",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferQrScanError": "لا يحتوي رمز الاستجابة السريعة على مفتاح خاص صحيح.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferQrScanHint": "مسح\n المفتاح الخاص",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unconfirmed": "unconfirmed",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "notAccepted": "not accepted",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "accepted": "accepted",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unknown": "unknown",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unlock": "فتح",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unlockBiometrics": "مصادقة لفتح نتريوم",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unlockPin": "أدخل الPIN لفتح نتريوم",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "utxosUppercase": "UTXOs",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "viewAddress": "View Address",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "viewTransaction": "View Transaction",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletAddresses": "Wallet Addresses",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletName": "Wallet name",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletNameDescription": "Enter a name for your wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletNameHint": "Wallet Name",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletSetupAddressDiscovery": "Running Address Discovery",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletSetupMessage": "Setting up wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletsTitle": "Wallets",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "warning": "تحذير",
-  "welcomeMessage": "Welcome!\n\nThis is version {version} of Admiralium - the mobile wallet for Karlsen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "welcomeMessage": "Welcome!\n\nThis is version {version} of Kapitanium - the mobile wallet for Pyrin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "welcomeText": "أهلا بك في نتريوم. لتبدأ، إحدث محفظة أو إجلب محفظة موجودة.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "xMinutes": "بعد {minutes, plural, =1{1 دقيقة} other{{minutes} دقائق}}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yes": "نعم",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yesButton": "Yes",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yesUppercase": "YES",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNotSyncedException": "Node is not synced",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNoUTXOIndexException": "Node does not have UTXO index",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeSecureConnection": "Secure connection",
-  "kaspaUriInvalid": "Invalid Karlsen URI",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "kaspaUriInvalid": "Invalid Pyrin URI",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxos": "Compound transactions",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxosDescription": "Combine multiple UTXOs into one",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxosConfirmation": "Compound transactions?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundingUtxos": "Compounding transactions",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundingMessage": "Please wait...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundSuccess": "Compound successful",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundFailure": "Failed to compound transactions",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundTooFewUtxos": "At least two UTXOs are required",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "balance": "Balance",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "maxSend": "Max Send",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUppercased": "COMPOUND",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "closeUppercased": "CLOSE",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanMoreAddresses": "Scan For More Addresses",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressDiscovery": "Address Discovery",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanningTitle": "Scanning",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanningDescription": "Scanning for new addresses...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanMore": "SCAN MORE",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanFailedMessage": "Scan failed, please try again later",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "indexHeader": "Index",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currentIndex": "Current",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scannedIndex": "Scanned",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newIndex": "New",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogTitle": "Address Filter",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogOptionAllAddresses": "View All Addresses",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogOptionNonZeroBalances": "View Addresses With Balance",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption24WordsTitle": "Import 24 Word Secret Phrase",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption24WordsDescription": "Compatible with Cli Wallet and Ledger",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption12WordsTitle": "Import 12 Word Secret Phrase",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption12WordsDescription": "Compatible with Web Wallet and KDX",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOptionKpubTitle": "Import Watch Only Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOptionKpubDescription": "Monitor the balance and transactions of a wallet using an extended public key",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpub": "Import Watch Only Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubHint": "Please enter your extended public key.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubClipboardError": "Clipboard content is not a valid extended public key",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubQrCodeError": "QR code does not contain a valid extended public key",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubInvalidMessage": "Please check that your extended public key is entered correctly!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddressListEmpty": "Receive address list is empty",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddressListEmpty": "Change address list is empty",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "hintAddressListEmpty": "Check address filter from the top right corner"
+pp_af.arb
+pp_af.arb
+pp_af.arb
 }
+pp_af.arb
+pp_af.arb
+pp_af.arb

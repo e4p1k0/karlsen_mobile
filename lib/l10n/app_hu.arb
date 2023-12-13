@@ -1,305 +1,1220 @@
 {
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "@@last_modified": "2023-10-08T18:51:30.958Z",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "@@author": "arb-converter-cli",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "account": "Fiók",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "accounts": "Fiókok",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "ackBackedUp": "Biztos, hogy elmentetted a Seed Phrase-t?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "add": "Hozzáadás",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addAccount": "Fiók hozzáadása",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addContact": "Cím felvétele",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNode": "Csomópont hozzáadása",
-  "addNodeFailed": "Karlsen csomópont hozzáadása sikertelen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "addNodeFailed": "Pyrin csomópont hozzáadása sikertelen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNodeFailedMessage": "Hiba: {error}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNodeSuccess": "Csomópont sikeresen hozzáadva",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addingNodeMessage": "Kérlek várj, kapcsolatfelvétel a csomóponttal... ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addingNodeTitle": "Csomópont hozzáadása",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "address": "Cím",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressCopied": "Cím másolva",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressCopiedFailed": "A cím másolása sikertelen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressHint": "Cím megadása",
-  "addressMising": "Adj meg egy Karlsen címet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "addressMising": "Adj meg egy Pyrin címet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressShare": "Cím megosztása",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "advancedHeader": "Haladó",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amount": "Összeg",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountConfirm": "Összeg {amount} {coin}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountMissing": "Adj meg egy összeget",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountZero": "Az összeg nem lehet nulla",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "areYouSure": "Biztos?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authBiometricMessage": "Hitelesítés tárca hozzáadásához",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authMethod": "Hitelesítési módszer",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authPinMessage": "PIN megadás tárca hozzáadáshoz",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "autoLockHeader": "Automatikus zárolás",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "available": "Egyenleg",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "backupConfirmButton": "Mentés kész!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "backupSecretPhrase": "Seed Phrase mentése",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "biometricsMethod": "Biometrikus",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "blockExplorer": "Blokk megjelenítő kiválasztása",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "cancel": "Mégse",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "change": "Cserélt",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddress": "Cserélt cím",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddressCopied": "Cserélt cím kimásolva",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeIndex": "Cserélt Index",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeIndexParam": "Cserélt {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "checkCameraPermission": "Ellenőrizd a kamera engedélyeit",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "clipboardEmpty": "Nincs mit beilleszteni",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "close": "Bezárás",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirm": "Megerősít",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmPasswordHint": "Jelszó megerősítése",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmations": "{confirmations} megerősítés",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmed": "megerősített",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirming": "megerősítve",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactAdded": "{contactName} hozzá lett adva a címjegyzékhez!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactAddressCopied": "{address} cím kimásolva",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactExists": "Ez a cím már szerepel a listán!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactHeader": "Cím",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactInvalid": "Helytelen cím elnevezés",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactNameHint": "Írj be egy nevet @",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactNameMissing": "Nincsenek exportálható címek",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactRemoved": "Törlöd {contactName}-t a címjegyzékből?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsHeader": "Címjegyzék",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsImportErr": "Sikertelen cím importálás",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsImportSuccess": "Sikeresen importáltál {noContacts} címet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copied": "Másolva",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copy": "Másol",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copyAddress": "Cím másolása",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copyErrorButton": "Másolási hiba",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createAPasswordHeader": "Jelszó létrehozása",
-  "createPasswordFirstParagraph": "Megadhatsz egy jelszót, amivel Admiralium tárcád megnyitását védheted. A biztonság mértéke a jelszó erősségétől függ.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "createPasswordFirstParagraph": "Megadhatsz egy jelszót, amivel Kapitanium tárcád megnyitását védheted. A biztonság mértéke a jelszó erősségétől függ.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordHint": "Írd be a jelszót",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordSecondParagraph": "A jelszó nem kötelező, a tárcához való hozzáférés PIN kód használatával, vagy biometrikus azonosítással biztosítható.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordSheetHeader": "Jelszó beállítás",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currency": "Pénznem",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currencyPoweredBy": "CoinGecko adatait használva",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultAccountName": "Cím 1",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultNewAccountName": "Saját cím {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultWalletName": "Tárcám",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disablePasswordSheetHeader": "Kikapcsolás",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disablePasswordSuccess": "Jelszókérés letiltva",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disableWalletPassword": "Jelszókérés tiltása",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "doContinue": "Tovább",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "donate": "Adományozás",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "dontShowAgain": "Ne mutasd újra",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyCardIntroUtxos": "Itt találod majd a tárcába érkezett utalások maradékait.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyResult": "Nincs találat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyWalletName": "Adnod kell egy nevet a tárcának!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "encryptionFailedError": "Jelszó beállítása sikertelen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterAddress": "Küldés erre a címre",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterAmount": "Küldött mennyiség",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterNote": "Megjegyzés",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterPasswordHint": "Írd be a jelszót",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "errorMessageCopied": "Hibaüzenet a vágólapra másolva",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "exampleCardIntro": "Itt találod majd a tárcához tartozó tranzakciókat.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "export": "Export",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fee": "Hálózati díj",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "feeConfirm": "Díj {amount} {coin}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "feeTitle": "DÍJ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fetchingTransactions": "Tranzakciók lekérése",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fingerprintSeedBackup": "Erősítsd meg, hogy szeretnéd elmenteni a Seed Phrase-t.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "goBackButton": "Vissza",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "gotItButton": "Rendben",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "import": "Import",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhrase": "Seed Phrase importálása",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHint": "Írd be a 24 szóból álló Seed Phrase-t.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHintCombo": "Add meg a 12, vagy 24 szóból álló Seed Phrase-t.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHintLegacy": "Add meg a 12 szóból álló Seed Phrase-t.",
-  "importWallet": "KLS tárca importálása",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "importWallet": "PYI tárca importálása",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importWalletDescription": "Válassz az alábbi lehetőségek közül.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "instantly": "Azonnal",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "insufficientBalance": "Fedezethiány",
-  "insufficientBalanceDetails": "Nincs elegendő KLS a tranzakcióhoz",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "insufficientBalanceDetails": "Nincs elegendő PYI a tranzakcióhoz",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidAddress": "A megadott cím érvénytelen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidAmount": "Érvénytelen összeg",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidChecksumMessage": "Ellenőrizd a Seed Phrase-t,\nhogy helyesen legyen megadva!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidKpubMessage": "Ellenőrizd, hogy a kibővített nyilvános kulcs helyesen van-e megadva!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidDestinationAddress": "Érvénytelen a megadott cím",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidPassword": "Helytelen jelszó",
-  "kaspaDevFund": "Karlsen fejlesztői alap",
-  "kaspiumWallet": "Admiralium tárca",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "kaspaDevFund": "Pyrin fejlesztői alap",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "kaspiumWallet": "Kapitanium tárca",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "language": "Nyelv",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "loadingTransactions": "Tranzakciók betöltése...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "lockAppSetting": "Megnyitás hitelesítéssel",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "locked": "Lezárva",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "loggingOutMessage": "Kijelentkezés...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logout": "Kijelentkezés",
-  "logoutDialogContent": "Szeretnél kijelentkezni ebből a KLS tárcából?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "logoutDialogContent": "Szeretnél kijelentkezni ebből a PYI tárcából?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logoutOrSwitchWallet": "Ki-, vagy átjelentkezés",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "manage": "Kezelés",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "manualEntry": "Kézi bevitel",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "networkHeader": "Hálózat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newAddress": "Új cím",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newWallet": "Új tárca",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nextButton": "Tovább",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "no": "Nem",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noContactsExport": "Nincsenek exportálható címek",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noContactsImport": "Nincsenek importálható címek",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noQrCodeFound": "Nem található QR-kód",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noSkipButton": "Nem, kihagyom",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noUppercase": "NEM",
-  "nodeAddress": "Karlsen csomópont",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodeAddress": "Pyrin csomópont",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeDeleteMessage": "Biztos, hogy TÖRÖLNI akarod?",
-  "nodeDeleteTitle": "Törlöd a Karlsen csomópont beállítását?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodeDeleteTitle": "Törlöd a Pyrin csomópont beállítását?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNameEmpty": "Adj nevet a csomópontnak!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNameHint": "Csomópont neve",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeUrlHint": "Csomópont URL",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeUrlInvalid": "Helytelen csomópont URL",
-  "nodesSheetTitle": "Karlsen csomópontok",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodesSheetTitle": "Pyrin csomópontok",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "off": "Ki",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "on": "Be",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "paperWallet": "Papír tárca",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordBlank": "Adj meg egy jelszót!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordNoLongerRequiredToOpenParagraph": "Kikapcsolás után nincs szükség jelszó megadásra a pénztárca megnyitásához.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordWillBeRequiredToOpenParagraph": "Ezzel a jelszóval tudod majd a tárcát megnyitni.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordsDontMatch": "A jelszavak nem egyeznek",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pasteMnemonicError": "A vágólap nem tartalmaz érvényes Seed Phrase-t.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pending": "függőben",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinConfirmError": "A PIN-kódok nem egyeznek",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinConfirmTitle": "Erősítsd meg a PIN-kódod",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinCreateTitle": "Hozz létre egy 6 számjegyű PIN-kódot",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinEnterTitle": "Írd be a PIN-kódot",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinInvalid": "Helytelen PIN-kód",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinMethod": "PIN",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinSeedBackup": "a Seed Phrase megjelenítéséhez.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "preferences": "Beállítások",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "privacyPolicy": "Adatvédelmi Szabályzat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrInvalidAddress": "A QR-kód nem tartalmaz érvényes címet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrInvalidSeed": "A QR-kód nem tartalmaz érvényes Seed Phrase-t, vagy privát kulcsot",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrMnemonicError": "A QR-kód nem tartalmaz érvényes Seed Phrase-t.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receive": "Saját cím",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddress": "Saját cím",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddressCopied": "Saját cím kimásolva",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveIndex": "Saját Index",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveIndexParam": "Saját cím {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "received": "Fogadott",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeContact": "Cím törlése",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeContactConfirmation": "Biztos, hogy {contactName}-t törölni szeretnéd?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletAction": "Tárca eltávolítása",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletBiometricsMessage": "Hitelesítés a tárca eltávolításához",
-  "removeWalletDetail": "A Admiralium tárca eltávolításával eltávolítod a Seed Phrase-t és a tárcával kapcsolatos összes adatot erről az eszközről. Amennyiben a Seed Phrase-ről NEM készült másolat, SOHA többé nem fogsz hozzáférni a tárcádhoz.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "removeWalletDetail": "A Kapitanium tárca eltávolításával eltávolítod a Seed Phrase-t és a tárcával kapcsolatos összes adatot erről az eszközről. Amennyiben a Seed Phrase-ről NEM készült másolat, SOHA többé nem fogsz hozzáférni a tárcádhoz.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletPinMessage": "PIN megadása a tárca eltávolításához",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletReassurance": "Amennyiben elmentetted a Seed Phrase-t, akkor nincs miért aggódnod, mert annak a használatával, bármikor vissza tudsz lépni a tárcádba. ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "requireAPasswordToOpenHeader": "Szeretnél jelszót használni a megnyitáshoz?    ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "restartSetupButton": "Beállítás újraindítása",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanQrCode": "QR-kód beolvasás",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanQrCodeError": "Nem sikerült a QR-kód elemzése",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretInfo": "A következő képernyőn látni fogod a Seed Phrase-t. Ez a 24 szó az, amivel mindig el fogod tudni érni a tárcád. NAGYON fontos, hogy  másolatot készíts róla -ÍRD LE- és soha ne oszd meg senkivel.  ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretInfoHeader": "Első a biztonság!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretPhrase": "Seed Phrase",
-  "secretWarning": "Ha elveszted ezt az eszközt, vagy eltávolítod az alkalmazást, szükség lesz a Seed Phrase-re a Admiralium tárcád ismételt eléréséhez. ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "secretWarning": "Ha elveszted ezt az eszközt, vagy eltávolítod az alkalmazást, szükség lesz a Seed Phrase-re a Kapitanium tárcád ismételt eléréséhez. ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "securityHeader": "Biztonság",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "seed": "Seed",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "seedInvalid": "Helytelen Seed Phrase",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "send": "Küldés",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendConfirm": "Küldök",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendError": "Hiba történt. Próbálkozz később.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendNote": "JEGYZET",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendToAddressTitle": "erre a címre",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendTxProgressDescription": "Kérjük várj, amíg a tranzakció elküldésre kerül",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendTxProgressTitle": "Tranzakció küldése",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sending": "Küldés folyamatban",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sent": "Küldött",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sentTo": "Elküldve ide",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setPassword": "Jelszó mentése",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setPasswordSuccess": "Jelszó sikeresen beállítva",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setWalletPassword": "Jelszó beállítása",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "settingsHeader": "Beállítások",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "settingsTransfer": "Betöltés egy papírtárcából",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setupFailedMessage": "Valami hiba történt.",
-  "shareKaspium": "Admiralium megosztása",
-  "shareKaspiumSubject": "Nézd meg a Admiralium tárcát",
-  "shareKaspiumText": "Próbáld ki a Admiraliumot, a Karlsen mobiltárcáját!\nWebsite - https://github.com/e4p1k0/karlsen_mobile",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspium": "Kapitanium megosztása",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspiumSubject": "Nézd meg a Kapitanium tárcát",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspiumText": "Próbáld ki a Kapitaniumot, a Pyrin mobiltárcáját!\nWebsite - https://github.com/e4p1k0/karlsen_mobile/tree/pyrin"",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "somethingWentWrong": "Valami hiba történt.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "systemDefault": "Alapértelmezett",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tapToHide": "Koppints az elrejtéshez",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tapToReveal": "Koppints a felfedéshez",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeDark": "Sötét",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeHeader": "Megjelenés",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeLight": "Világos",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "thisWallet": "#Ez a tárca",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "to": "Küldés ide",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "toAddress": "címre",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tooManyFailedAttempts": "Túl sok hibás feloldási kísérlet.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "totalValue": "Összérték",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transactionId": "Tranzakció azonosítója",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transactionsUppercase": "TRANZAKCIÓK",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transfer": "Küldés",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferClose": "Koppints bárhova az ablak bezárásához.",
-  "transferComplete": "{amount} KLS sikeresen átkerült a Admiralium tárcádba.\n",
-  "transferConfirmInfo": "{amount} KLS egyenlegű tárca észlelve.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferComplete": "{amount} PYI sikeresen átkerült a Kapitanium tárcádba.\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferConfirmInfo": "{amount} PYI egyenlegű tárca észlelve.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferConfirmInfoSecond": "Koppints az átutalás megerősítéséhez.\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferConfirmInfoThird": "Az átvitel néhány másodpercig tarthat.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferError": "Hiba történt az átvitel során. Kérlek, próbáld újra később.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferHeader": "Átutalás",
-  "transferIntro": "Ez a folyamat egy papírtárcán lévő KLS-t a Admiralium tárcába helyezi át.\n\nA kezdéshez érintsd meg a \"{button}\" gombot.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferIntro": "Ez a folyamat egy papírtárcán lévő PYI-t a Kapitanium tárcába helyezi át.\n\nA kezdéshez érintsd meg a \"{button}\" gombot.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferLoading": "Átutalás folyamatban",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferManualHint": "Írd be a Seed Phrase-t.",
-  "transferNoFunds": "A Seed Phrase-hez tartózó tárcában nincs KLS",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferNoFunds": "A Seed Phrase-hez tartózó tárcában nincs PYI",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferQrScanError": "Ez a QR-kód nem tartalmaz érvényes Seed Phrase-t",
-  "transferQrScanHint": "Olvass be Karlsen\nSeed Phrase-t, vagy privát kulcsot",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferQrScanHint": "Olvass be Pyrin\nSeed Phrase-t, vagy privát kulcsot",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unconfirmed": "nem megerősített",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "notAccepted": "elutasítva",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "accepted": "elfogadva",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unknown": "ismeretlen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unlock": "Feloldás",
-  "unlockBiometrics": "Hitelesítés szükséges a Admiraliumba való bejelentkezéshez",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "unlockBiometrics": "Hitelesítés szükséges a Kapitaniumba való bejelentkezéshez",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unlockPin": "a tárca megnyitásához.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "utxosUppercase": "MARADÉKOK",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "viewAddress": "Cím megtekintése",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "viewTransaction": "Tranzakció megtekintése",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletAddresses": "Tárca címek",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletName": "Tárca neve",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletNameDescription": "Adj egy nevet a tárcának",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletNameHint": "Tárca neve",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletSetupAddressDiscovery": "Címek felderítése",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletSetupMessage": "Tárca beállítása",
-  "walletsTitle": "KLS tárcák",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "walletsTitle": "PYI tárcák",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "warning": "FIGYELEM",
-  "welcomeMessage": "Légy üdvözölve!\n\nEz a Karlsen mobiltárca {version} verziója.",
-  "welcomeText": "Üdv Admiraliumban! Hozz létre egy új tárcát, vagy importálj egy meglévőt.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "welcomeMessage": "Légy üdvözölve!\n\nEz a Pyrin mobiltárca {version} verziója.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "welcomeText": "Üdv Kapitaniumban! Hozz létre egy új tárcát, vagy importálj egy meglévőt.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "xMinutes": "{minutes, plural, =1{1 perc után} other{{minutes} perc után}}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yes": "Igen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yesButton": "Igen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yesUppercase": "IGEN",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNotSyncedException": "A csomópont nincs szinkronizálva",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNoUTXOIndexException": "A csomóponton nincs UTXO index ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeSecureConnection": "Biztonságos kapcsolat",
-  "kaspaUriInvalid": "Helytelen Karlsen URI",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "kaspaUriInvalid": "Helytelen Pyrin URI",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxos": "Tranzakciók egyesítése",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxosDescription": "Több Maradék (UTXOs) egyesítése",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxosConfirmation": "Egyesíted a tranzakciókat?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundingUtxos": "Egyesített tranzakciók",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundingMessage": "Kérlek várj...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundSuccess": "Sikeres egyesítés",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundFailure": "Tranzakciók egyesítése sikertelen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundTooFewUtxos": "Legalább két Maradék szükséges",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "balance": "Egyenleg",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "maxSend": "Egyesítve",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUppercased": "EGYESÍTÉS",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "closeUppercased": "BEZÁR",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanMoreAddresses": "További címek keresése",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressDiscovery": "Címek felfedezése",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanningTitle": "Keresés",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanningDescription": "Új címek keresése...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanMore": "KERESÉS",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanFailedMessage": "Sikertelen keresés, próbáld később",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "indexHeader": "Index",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currentIndex": "Jelenlegi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scannedIndex": "Beolvasva",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newIndex": "Új",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogTitle": "Cím szűrő",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogOptionAllAddresses": "Minden cím látható",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogOptionNonZeroBalances": "Címek egyenleggel",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption24WordsTitle": "24 szavas Secret Phrase importálása",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption24WordsDescription": "Kompatibilis Cli pénztárcával és Ledger-rel ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption12WordsTitle": "12 szavas Secret Phrase importálása",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption12WordsDescription": "Kompatibilis a webes pénztárcával és KDX mentéssel.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOptionKpubTitle": "Tárca figyelés importálása",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOptionKpubDescription": "Egy kibővített nyilvános kulcs segítségével nyomon követhető egy pénztárca egyenlege és tranzakciói.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpub": "Tárca figyelés importálása",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubHint": "Add meg a kibővített nyilvános kulcsod.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubClipboardError": "A vágólap nem tartalmaz érvényes kibővített nyilvános kulcsot",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubQrCodeError": "A QR kód nem tartalmaz érvényes kibővített nyilvános kulcsot",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubInvalidMessage": "Ellenőrizd, hogy a kibővített nyilvános kulcs helyesen van-e megadva!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddressListEmpty": "Saját címek listája üres",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddressListEmpty": "Cserélt címek listája üres",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "hintAddressListEmpty": "Ellenőrizd a cím szűrőt a jobb felső sarokban"
+pp_af.arb
+pp_af.arb
+pp_af.arb
 }
+pp_af.arb
+pp_af.arb
+pp_af.arb

@@ -1,305 +1,1220 @@
 {
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "@@last_modified": "2023-09-25T17:48:36.587Z",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "@@author": "arb-converter-cli",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "account": "アカウント",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "accounts": "アカウント",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "ackBackedUp": "シークレットフレーズやシードをバックアップしましたか？",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "add": "Add",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addAccount": "アカウントを追加する",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addContact": "連絡先を追加する",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNode": "Add Node",
-  "addNodeFailed": "Failed to add Karlsen node",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "addNodeFailed": "Failed to add Pyrin node",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNodeFailedMessage": "Failed: {error}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNodeSuccess": "Node Added Successfully",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addingNodeMessage": "Please wait while contacting node",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addingNodeTitle": "Adding Node",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "address": "Address",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressCopied": "アドレスをコピーしました",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressCopiedFailed": "Failed to copy address",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressHint": "アドレスを入力",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressMising": "アドレスを入力してください",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressShare": "アドレスを共有する",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "advancedHeader": "Advanced",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amount": "Amount",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountConfirm": "Amount {amount} {coin}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountMissing": "金額を入力してください",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountZero": "Amount can't be zero",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "areYouSure": "Are you sure?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authBiometricMessage": "Authenticate to Add Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authMethod": "認証方法",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authPinMessage": "Enter PIN to Add Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "autoLockHeader": "自動的にロックする",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "available": "Available",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "backupConfirmButton": "バックアップしました",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "backupSecretPhrase": "シークレットフレーズをバックアップする",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "biometricsMethod": "生体認証",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "blockExplorer": "Block Explorer",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "cancel": "キャンセル",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "change": "Change",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddress": "Change Address",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddressCopied": "Change address copied",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeIndex": "Change Index",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeIndexParam": "Change {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "checkCameraPermission": "Please check camera permissions",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "clipboardEmpty": "Clipboard is empty",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "close": "閉じる",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirm": "確認しました",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmPasswordHint": "パスワードを確認する",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmations": "{confirmations} confirmations",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmed": "confirmed",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirming": "confirming",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactAdded": "{contactName}が連絡先に追加されました。",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactAddressCopied": "{address} address copied",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactExists": "既に存在する連絡先です",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactHeader": "連絡先",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactInvalid": "連絡先名が無効です",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactNameHint": "@に続けて名前を入力",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactNameMissing": "この連絡先の名前を入力してください",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactRemoved": "{contactName}が連絡先から削除されました！",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsHeader": "連絡先",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsImportErr": "連絡先をインポートできませんでした",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsImportSuccess": "{noContacts}の連絡先を正常にインポートしました。",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copied": "コピー済み",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copy": "コピーする",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copyAddress": "アドレスをコピーする",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copyErrorButton": "Copy Error",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createAPasswordHeader": "パスワードを作成する",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordFirstParagraph": "パスワードを設定してウォレットのセキュリティを追加することができます。",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordHint": "パスワードを作成する",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordSecondParagraph": "パスワードの設定は任意ですが、いずれにしてもウォレットはピンまたは生体認証で保護されます。",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordSheetHeader": "作成する",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currency": "Currency",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currencyPoweredBy": "Powered by CoinGecko",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultAccountName": "メインアカウント",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultNewAccountName": "アカウント{addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultWalletName": "My Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disablePasswordSheetHeader": "無効にする",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disablePasswordSuccess": "パスワードの無効化に成功しました。",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disableWalletPassword": "ウォレットのパスワードを無効にする",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "doContinue": "Continue",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "donate": "Donate",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "dontShowAgain": "Don't show again",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyCardIntroUtxos": "This is the UTXOs tab. All UTXOs in your wallet will appear here",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyResult": "Empty Result",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyWalletName": "Wallet Name cannot be empty",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "encryptionFailedError": "ウォレットパスワードの作成に失敗しました。",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterAddress": "アドレスを入力する",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterAmount": "金額を入力する",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterNote": "Enter Note",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterPasswordHint": "パスワードを入力する",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "errorMessageCopied": "Error message copied to clipboard",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "exampleCardIntro": "ナトリアムへようこそ。 ナノを受け取ると、トランザクションは次のように表示されます。",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "export": "Export",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fee": "Fee",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "feeConfirm": "Fee {amount} {coin}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "feeTitle": "FEE",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fetchingTransactions": "Fetching Transactions",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fingerprintSeedBackup": "シードをバックアップする認証を行います。",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "goBackButton": "戻る",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "gotItButton": "了解しました",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "import": "インポート",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhrase": "シークレットフレーズをインポートする",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHint": "以下に24語のシークレットフレーズを入力してください。各単語はスペースで区切ります。",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHintCombo": "Please enter your 12 or 24 word secret phrase below.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHintLegacy": "Please enter your 12 word secret phrase below.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importWallet": "ウォレットをインポートする",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importWalletDescription": "Please select an option below.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "instantly": "今すぐ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "insufficientBalance": "残高不足です",
-  "insufficientBalanceDetails": "You don't have enough KLS for this transaction",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "insufficientBalanceDetails": "You don't have enough PYI for this transaction",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidAddress": "入力したアドレスが無効です",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidAmount": "Invalid Amount",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidChecksumMessage": "Please check that your Secret Phrase\n is entered correctly!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidKpubMessage": "Please check that your extended public key is entered correctly!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidDestinationAddress": "Invalid Destination Address",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidPassword": "パスワードが無効です",
-  "kaspaDevFund": "Karlsen Dev Fund",
-  "kaspiumWallet": "Admiralium Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "kaspaDevFund": "Pyrin Dev Fund",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "kaspiumWallet": "Kapitanium Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "language": "言語",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "loadingTransactions": "Loading Transactions...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "lockAppSetting": "起動時に認証する",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "locked": "ロック済み",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "loggingOutMessage": "Logging out...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logout": "ログアウト",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logoutDialogContent": "Are you sure you want to logout from this wallet?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logoutOrSwitchWallet": "Logout / Switch Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "manage": "管理",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "manualEntry": "手動で入力",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "networkHeader": "Network",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newAddress": "New Address",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newWallet": "新しいウォレットを作成する",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nextButton": "次へ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "no": "いいえ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noContactsExport": "エクスポートする連絡先はありません。",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noContactsImport": "インポートする新しい連絡先はありません。",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noQrCodeFound": "No QR code found",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noSkipButton": "いいえ、スキップする",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noUppercase": "NO",
-  "nodeAddress": "Karlsen Node",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodeAddress": "Pyrin Node",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeDeleteMessage": "Are you sure you want to delete?",
-  "nodeDeleteTitle": "Delete Karlsen Node Config?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodeDeleteTitle": "Delete Pyrin Node Config?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNameEmpty": "Node name cannot be empty",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNameHint": "Enter Node Name",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeUrlHint": "Enter Node URL",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeUrlInvalid": "Invalid node URL",
-  "nodesSheetTitle": "Karlsen Nodes",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodesSheetTitle": "Pyrin Nodes",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "off": "オフ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "on": "オン",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "paperWallet": "ペーパーウォレット",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordBlank": "パスワードは空欄にできません",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordNoLongerRequiredToOpenParagraph": "Natriumを開く際にパスワードを必要としなくなります。",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordWillBeRequiredToOpenParagraph": "このパスワードはNatriumを開く際に必要となります。",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordsDontMatch": "パスワードが一致しません",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pasteMnemonicError": "Clipboard content is not a valid secret phrase",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pending": "pending",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinConfirmError": "暗証番号が一致しません",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinConfirmTitle": "暗証番号が正しいことを確認しました",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinCreateTitle": "6桁の暗証番号を作成する",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinEnterTitle": "暗証番号を入力してください",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinInvalid": "入力した暗証番号が無効です",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinMethod": "ピン",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinSeedBackup": "シードをバックアップするため暗証番号を入力して下さい",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "preferences": "設定",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "privacyPolicy": "個人情報保護方針",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrInvalidAddress": "QRコードに正しい送金先が含まれていません。",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrInvalidSeed": "QRコードに有効なシードまたは秘密キーが含まれていません",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrMnemonicError": "QRに有効なシークレットフレーズが含まれていません",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receive": "着金",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddress": "Receive Address",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddressCopied": "Receive address copied",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveIndex": "Receive Index",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveIndexParam": "Receive {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "received": "着金済み",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeContact": "連絡先を削除します",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeContactConfirmation": "{contactName}を削除してもよろしいですか？",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletAction": "Remove Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletBiometricsMessage": "Authenticate to Remove Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletDetail": "Removing this wallet will remove the Secret Phrase and all wallet-related data from this device. If the Secret Phrase is not backed up, you will never be able to access your funds again.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletPinMessage": "Enter PIN to Remove Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletReassurance": "As long as you've backed up the Secret Phrase you have nothing to worry about.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "requireAPasswordToOpenHeader": "Natriumを開く際にパスワードを要求しますか?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "restartSetupButton": "Restart Setup",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanQrCode": "QRコードをスキャン",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanQrCodeError": "Failed to parse qr code",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretInfo": "次の画面で、シークレットフレーズが表示されます。資金にアクセスするためのパスワードです。バックアップして、誰とも共有しないでください。",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretInfoHeader": "安全のために",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretPhrase": "シークレットフレーズ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretWarning": "デバイスを紛失したり、アプリケーションをアンインストールした場合、資金を回収するためにシークレットフレーズまたはシードが必要になります！",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "securityHeader": "セキュリティ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "seed": "Seed",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "seedInvalid": "シードが無効です",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "send": "送金",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendConfirm": "Send",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendError": "エラーが発生しました。後で再び実行してください。",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendNote": "NOTE",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendToAddressTitle": "To",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendTxProgressDescription": "Please wait while the transaction is sent",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendTxProgressTitle": "Sending Transaction",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sending": "送金金額",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sent": "送金した",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sentTo": "送金先",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setPassword": "ウォレットのパスワードを作成する",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setPasswordSuccess": "パスワードの設定に成功しました。",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setWalletPassword": "ウォレットのパスワードを作成する",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "settingsHeader": "設定",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "settingsTransfer": "ペーパーウォレットから読み込む",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setupFailedMessage": "Something went wrong",
-  "shareKaspium": "Share Admiralium",
-  "shareKaspiumSubject": "Check out Admiralium Wallet",
-  "shareKaspiumText": "Check out Admiralium - Karlsen Mobile Wallet.\nWebsite - https://github.com/e4p1k0/karlsen_mobile",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspium": "Share Kapitanium",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspiumSubject": "Check out Kapitanium Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspiumText": "Check out Kapitanium - Pyrin Mobile Wallet.\nWebsite - https://github.com/e4p1k0/karlsen_mobile/tree/pyrin"",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "somethingWentWrong": "Something went wrong",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "systemDefault": "システムのデフォルト言語",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tapToHide": "タップして非表示にする",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tapToReveal": "タップして表示する",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeDark": "Dark Theme",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeHeader": "壁紙",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeLight": "Light Theme",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "thisWallet": "#This Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "to": "送金先",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "toAddress": "To Address",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tooManyFailedAttempts": "既定のロック解除の失敗回数を超えています。",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "totalValue": "Total Value",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transactionId": "Transaction ID",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transactionsUppercase": "TRANSACTIONS",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transfer": "転送",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferClose": "任意の場所をタップしてウィンドウを閉じます。",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferComplete": "{amount} ナノがナトリアムウォレットに正常に転送されました。\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferConfirmInfo": "残高{amount} ナノのウォレットが検出されました。\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferConfirmInfoSecond": "確認をタップして資金を転送します。\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferConfirmInfoThird": "転送が完了するまでに数秒かかる場合があります。",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferError": "転送中にエラーが発生しました。後で再び実行してください。",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferHeader": "資金を転送する",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferIntro": "このプロセスにより、資金がペーパーウォレットからNatriumウォレットに転送されます。\n \n{button}「％1」ボタンをタップして開始します。",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferLoading": "転送中",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferManualHint": "シードを入力してください。",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferNoFunds": "このシードにはナノが含まれていません",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferQrScanError": "このQRコードには有効なシードが含まれていません。",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferQrScanHint": "ナノ \n シードまたは秘密キーをスキャンします",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unconfirmed": "unconfirmed",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "notAccepted": "not accepted",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "accepted": "accepted",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unknown": "unknown",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unlock": "ロックを解除する",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unlockBiometrics": "ナトリアムのロックを解除するよう認証する",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unlockPin": "ピンを入力してナトリアムのロックを解除する",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "utxosUppercase": "UTXOs",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "viewAddress": "View Address",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "viewTransaction": "View Transaction",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletAddresses": "Wallet Addresses",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletName": "Wallet name",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletNameDescription": "Enter a name for your wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletNameHint": "Wallet Name",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletSetupAddressDiscovery": "Running Address Discovery",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletSetupMessage": "Setting up wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletsTitle": "Wallets",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "warning": "警告",
-  "welcomeMessage": "Welcome!\n\nThis is version {version} of Admiralium - the mobile wallet for Karlsen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "welcomeMessage": "Welcome!\n\nThis is version {version} of Kapitanium - the mobile wallet for Pyrin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "welcomeText": "ナトリアムへようこそ。最初に、新しいウォレットを作成するか、既存のウォレットをインポートします。",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "xMinutes": "{minutes}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yes": "はい",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yesButton": "Yes",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yesUppercase": "YES",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNotSyncedException": "Node is not synced",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNoUTXOIndexException": "Node does not have UTXO index",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeSecureConnection": "Secure connection",
-  "kaspaUriInvalid": "Invalid Karlsen URI",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "kaspaUriInvalid": "Invalid Pyrin URI",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxos": "Compound transactions",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxosDescription": "Combine multiple UTXOs into one",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxosConfirmation": "Compound transactions?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundingUtxos": "Compounding transactions",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundingMessage": "Please wait...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundSuccess": "Compound successful",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundFailure": "Failed to compound transactions",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundTooFewUtxos": "At least two UTXOs are required",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "balance": "Balance",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "maxSend": "Max Send",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUppercased": "COMPOUND",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "closeUppercased": "CLOSE",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanMoreAddresses": "Scan For More Addresses",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressDiscovery": "Address Discovery",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanningTitle": "Scanning",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanningDescription": "Scanning for new addresses...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanMore": "SCAN MORE",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanFailedMessage": "Scan failed, please try again later",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "indexHeader": "Index",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currentIndex": "Current",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scannedIndex": "Scanned",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newIndex": "New",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogTitle": "Address Filter",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogOptionAllAddresses": "View All Addresses",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogOptionNonZeroBalances": "View Addresses With Balance",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption24WordsTitle": "Import 24 Word Secret Phrase",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption24WordsDescription": "Compatible with Cli Wallet and Ledger",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption12WordsTitle": "Import 12 Word Secret Phrase",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption12WordsDescription": "Compatible with Web Wallet and KDX",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOptionKpubTitle": "Import Watch Only Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOptionKpubDescription": "Monitor the balance and transactions of a wallet using an extended public key",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpub": "Import Watch Only Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubHint": "Please enter your extended public key.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubClipboardError": "Clipboard content is not a valid extended public key",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubQrCodeError": "QR code does not contain a valid extended public key",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubInvalidMessage": "Please check that your extended public key is entered correctly!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddressListEmpty": "Receive address list is empty",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddressListEmpty": "Change address list is empty",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "hintAddressListEmpty": "Check address filter from the top right corner"
+pp_af.arb
+pp_af.arb
+pp_af.arb
 }
+pp_af.arb
+pp_af.arb
+pp_af.arb

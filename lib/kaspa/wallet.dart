@@ -28,7 +28,7 @@ String convertHdPublicKey(String hdPubKey, KaspaNetwork toNetwork) {
 AddressPrefix addressPrefixForNetwork(KaspaNetwork network) {
   switch (network) {
     case KaspaNetwork.mainnet:
-      return AddressPrefix.karlsen;
+      return AddressPrefix.pyrin;
     case KaspaNetwork.testnet:
       return AddressPrefix.kaspaTest;
     case KaspaNetwork.devnet:

@@ -1,4 +1,4 @@
-package io.admiralium.karlsenwallet
+package io.admiralium.pyrinwallet
 
 import io.flutter.embedding.android.FlutterFragmentActivity
 

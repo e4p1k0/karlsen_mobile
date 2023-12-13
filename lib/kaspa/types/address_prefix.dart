@@ -1,14 +1,14 @@
 enum AddressPrefix {
   unknown,
-  karlsen,
+  pyrin,
   kaspaTest,
   kaspaDev,
   kaspaSim;
 
   static AddressPrefix parseBech32Prefix(String prefix) {
     switch (prefix) {
-      case 'karlsen':
-        return AddressPrefix.karlsen;
+      case 'pyrin':
+        return AddressPrefix.pyrin;
       case 'kaspatest':
         return AddressPrefix.kaspaTest;
       case 'kaspadev':

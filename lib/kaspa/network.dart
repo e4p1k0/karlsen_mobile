@@ -1,9 +1,9 @@
 import 'package:coinslib/coinslib.dart' show NetworkType, Bip32Type;
 
-const int kMainnetRpcPort = 42110;
-const int kTestnetPpcPort = 42210;
-const int kSimnetRpcPort = 42510;
-const int kDevnetRpcPort = 42610;
+const int kMainnetRpcPort = 13110;
+const int kTestnetPpcPort = 13210;
+const int kSimnetRpcPort = 13510;
+const int kDevnetRpcPort = 13610;
 
 enum KaspaNetwork {
   mainnet,

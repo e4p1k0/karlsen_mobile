@@ -1,305 +1,1220 @@
 {
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "@@last_modified": "2023-11-10T10:15:24.600Z",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "@@author": "arb-converter-cli",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "account": "Kontua",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "accounts": "Kontuak",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "ackBackedUp": "Ziur zaude zure esaldi sekretuaren babeskopia egin duzula?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "add": "Gehitu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addAccount": "Kontua gehitu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addContact": "Gehitu kontaktua",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNode": "Gehitu nodoa",
-  "addNodeFailed": "Ezin izan da gehitu Karlsen nodoa",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "addNodeFailed": "Ezin izan da gehitu Pyrin nodoa",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNodeFailedMessage": "Huts egin du: {error}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNodeSuccess": "Nodoa ondo gehitu da",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addingNodeMessage": "Mesedez, itxaron nodoarekin harremanetan jartzen zaren bitartean",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addingNodeTitle": "Nodoa gehitzen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "address": "Helbidea",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressCopied": "Helbidea kopiatu da",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressCopiedFailed": "Ezin izan da helbidea kopiatu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressHint": "Sartu helbidea",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressMising": "Mesedez, sartu helbide bat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressShare": "Partekatu helbidea",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "advancedHeader": "Aurreratua",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amount": "Kopurua",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountConfirm": "Kopurua {amount} {coin}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountMissing": "Mesedez, sartu kopurua",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountZero": "Kopurua ezin da zero izan",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "areYouSure": "Ziur zaude?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authBiometricMessage": "Autentifikatu kartera gehitzeko",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authMethod": "Autentifikazio-metodoa",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authPinMessage": "Sartu PIN zenbakia kartera gehitzeko",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "autoLockHeader": "Blokeatu automatikoki",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "available": "Eskuragarri",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "backupConfirmButton": "babeskopia egin dut",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "backupSecretPhrase": "Esaldi sekretua gorde",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "biometricsMethod": "Biometria",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "blockExplorer": "Bloke esploratzailea",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "cancel": "Bertan behera utzi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "change": "Aldatu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddress": "Helbidea aldatu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddressCopied": "Aldatzeko helbidea kopiatu da",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeIndex": "Aldatu indizea",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeIndexParam": "Aldatu {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "checkCameraPermission": "Mesedez, egiaztatu kameraren baimenak",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "clipboardEmpty": "Paper-zorroa hutsik dago",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "close": "Itxi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirm": "Baieztatu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmPasswordHint": "Pasahitza baieztatu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmations": "{confirmations} baimenak",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmed": "Baieztatuta",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirming": "Baieztatzen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactAdded": "{contactName} kontaktuetara gehitu da",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactAddressCopied": "{address} Helbidea kopiatu da",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactExists": "Helbidea dagoeneko existitzen da",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactHeader": "Kontaktua",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactInvalid": "Kontaktuaren izen baliogabea",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactNameHint": "Sartu izena @",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactNameMissing": "Aukeratu kontaktu honentzako izen bat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactRemoved": "{contactName} kontaktuetatik kendu egin da!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsHeader": "Kontaktuak",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsImportErr": "Ezin izan dira inportatu kontaktuak",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsImportSuccess": " {noContacts} kontaktuak ondo inportatu dira",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copied": "Kopiatutak",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copy": "Kopiatu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copyAddress": "Helbidea kopiatu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copyErrorButton": "Kopiaren akatsa",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createAPasswordHeader": "Pasahitza sortu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordFirstParagraph": "Zure karterari segurtasun gehiago emateko pasahitz bat sor dezakezu.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordHint": "Pasahitza sortu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordSecondParagraph": "Pasahitza aukerakoa da, eta zure kartera PIN zenbakiarekin edo biometrikoekin babestuta egongo da edozein dela ere.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordSheetHeader": "Sortu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currency": "Moneta",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currencyPoweredBy": "CoinGecko-k garatuta",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultAccountName": "Helbide 1",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultNewAccountName": "Jaso {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultWalletName": "Nere Kartera",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disablePasswordSheetHeader": "Ezinduta utzi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disablePasswordSuccess": "Pasahitza ezinduta izan da",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disableWalletPassword": "Ezinduta utzi karteraren pasahitza",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "doContinue": "Jarraitu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "donate": "Dohanik eman",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "dontShowAgain": "Berriro ez erakutsi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyCardIntroUtxos": "Hau da UTXOren fitxa. Zure karterako UTXO guztiak hemen agertuko dira",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyResult": "Emaitza hutsa",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyWalletName": "Karterako izena ezin da hutsik egon",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "encryptionFailedError": "Ezin izan da karteraren pasahitza ezarri",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterAddress": "Helbidea jarri",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterAmount": "Zenbatekoa sartu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterNote": "Sartu oharra",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterPasswordHint": "Sartu zure pasahitza",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "errorMessageCopied": "Akats mezua paperzorroan kopiatu egin da",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "exampleCardIntro": "Hau da transakzioen fitxa. Transakzio bat bidali edo jasotzen duzunean, hemen agertuko da.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "export": "Esportatu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fee": "Kuota",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "feeConfirm": "Kouta {amount} {coin}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "feeTitle": "KUOTA",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fetchingTransactions": "Transakzioak eskuratzen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fingerprintSeedBackup": "Autentifikatu esaldi sekretua gordetzeko.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "goBackButton": "Atzera Egin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "gotItButton": "Ulertuta!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "import": "Inportatu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhrase": "Esaldi sekretua inportatu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHint": "Mesedez, idatzi behean zure 24 hitzeko esaldi sekretua.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHintCombo": "Sar ezazu 12 edo 24 hitzeko esaldi sekretua jarraian.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHintLegacy": "Sar ezazu 12 hitzeko esaldi sekretua jarraian.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importWallet": "Kartera inportatu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importWalletDescription": "Mesedez, hautatu aukera bat jarraian.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "instantly": "Berehala",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "insufficientBalance": "Oreka Eskasa",
-  "insufficientBalanceDetails": "Ez duzu KLS nahikoa transakzio honetarako",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "insufficientBalanceDetails": "Ez duzu PYI nahikoa transakzio honetarako",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidAddress": "Sartutako helbidea okerra da",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidAmount": "Kopuru okerra",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidChecksumMessage": "Mesedez, egiaztatu zure esaldi sekretua\nbehar bezala sartu dela!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidKpubMessage": "Egiaztatu zure gako publiko hedatua behar bezala sartuta dagoela!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidDestinationAddress": "Helmuga-helbide okerra",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidPassword": "Pasahitza okerra",
-  "kaspaDevFund": "Karlsen Dev fondoa",
-  "kaspiumWallet": "Admiralium Kartera",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "kaspaDevFund": "Pyrin Dev fondoa",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "kaspiumWallet": "Kapitanium Kartera",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "language": "Hezkuntza",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "loadingTransactions": "Transakzioak kargatzen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "lockAppSetting": "Hasieran autentifikatu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "locked": "Blokeatuta",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "loggingOutMessage": "Saioa amaitzen...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logout": "Saioa amaitu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logoutDialogContent": "Ziur zaude kartera honetatik saioa amaitu nahi duzula?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logoutOrSwitchWallet": "Amaitu / Aldatu Kartera",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "manage": "Kudeatu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "manualEntry": "Eskuzko Sarrera",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "networkHeader": "Sarea",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newAddress": "Helbide Berria",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newWallet": "Kartera Berria",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nextButton": "Hurrengoa",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "no": "Ez",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noContactsExport": "Ez dago kontakturik esportatzeko",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noContactsImport": "Ez dago inportatzeko kontaktu berririk",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noQrCodeFound": "Ez da QR koderik aurkitu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noSkipButton": "Ez. Saltatu.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noUppercase": "EZ",
-  "nodeAddress": "Karlsen Nodoa",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodeAddress": "Pyrin Nodoa",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeDeleteMessage": "Ziur al zaude ezabatu nahi duzula?",
-  "nodeDeleteTitle": "Karlsen Nodoaren konfigurazioa ezabatu?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodeDeleteTitle": "Pyrin Nodoaren konfigurazioa ezabatu?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNameEmpty": "Nodoaren izena ezin da hutsik egon",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNameHint": "Sartu Nodoaren Izena",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeUrlHint": "Sartu Nodoaren URL",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeUrlInvalid": "Nodoaren URL okerra",
-  "nodesSheetTitle": "Karlsen Nodoak",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodesSheetTitle": "Pyrin Nodoak",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "off": "Itzali",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "on": "Piztu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "paperWallet": "Paperezko Kartera",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordBlank": "Pasahitza ezin da hutsik egon",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordNoLongerRequiredToOpenParagraph": "Ez duzu pasahitzik beharko kartera hau irekitzeko.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordWillBeRequiredToOpenParagraph": "Pasahitz hau beharrezkoa izango da kartera hau irekitzeko.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordsDontMatch": "Pasahitzak ez dira berdinak",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pasteMnemonicError": "Paper zorroan dagoen esaldi sekretua okerra da",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pending": "zain",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinConfirmError": "Pin zenbakiak ezberdinak dira",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinConfirmTitle": "Balieztatu zure PIN zenbakia",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinCreateTitle": "Sortu 6 digituko PIN zenbakia",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinEnterTitle": "Satu PIN zenbakia",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinInvalid": "PIN zenbakia okerra",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinMethod": "PIN",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinSeedBackup": "Sartu PIN zenbakia esaldi sekretua gordetzeko",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "preferences": "Lehentasunak",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "privacyPolicy": "Pribatutasun-politika",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrInvalidAddress": "QR kodeak ez du baliozko helbiderik",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrInvalidSeed": "QR kodeak ez du baliozko hazia edo gako pribaturik",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrMnemonicError": "QR kodeak ez du baliozko esaldi sekreturik",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receive": "Jaso",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddress": "Jasotzeko Helbidea",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddressCopied": "Jasotezko helbidea kopiatuta",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveIndex": "Jaso Indizea",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveIndexParam": "Jaso {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "received": "Jasotuta",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeContact": "Ezabatu Kontaktua",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeContactConfirmation": "Ziur zaude {contactName} ezabatu nahi duzula?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletAction": "Kartera Ezabatu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletBiometricsMessage": "Autentifikatu Kartera kentzeko",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletDetail": "Kartera hau kentzen baduzu, esaldi sekretua eta karterarekin erlazionatutako datu guztiak kenduko dira gailutik. Esaldi sekretuaren babeskopia egiten ez bada, ezingo dituzu berriro zure fondoei sartu.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletPinMessage": "Sartu PIN zenbakia Kartera Kentzeko",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletReassurance": "Esaldi sekretuaren babeskopia egiten duzun bitartean, ez duzu zertaz kezkatu.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "requireAPasswordToOpenHeader": "Pasahitz bat beharra jar nahi duzu kartera hau irekitzeko?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "restartSetupButton": "Konfigurazioa berriro hazi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanQrCode": "Eskaneatu QR kodea",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanQrCodeError": "Ezin izan da qr kodea ulertzea",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretInfo": "Hurrengo pantailan, zure esaldi sekretua ikusiko duzu. Zure fondoak sartzeko pasahitza da. Funtsezkoa da babeskopia egitea eta inoiz inorekin partekatzea.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretInfoHeader": "Segurtasuna lehenik!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretPhrase": "Esaldi sekretua",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretWarning": "Zure gailua galtzen baduzu edo aplikazioa desinstalatzen baduzu, zure esaldi sekretua beharko duzu zure fondoak berreskuratzeko!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "securityHeader": "Segurtasuna",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "seed": "Hazia",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "seedInvalid": "Hazia okerra da",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "send": "Bidali",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendConfirm": "Bidali",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendError": "Akats bat gertatu da. Saiatu berriro mesedez",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendNote": "OHARRA",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendToAddressTitle": "Nori",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendTxProgressDescription": "Mesedez, itxaron transakzioa bidaltzen den bitartean",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendTxProgressTitle": "Transakzioa bidaltzen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sending": "Bidali",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sent": "Bidalita",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sentTo": "Badaltzeko helbidea",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setPassword": "Ezarri Pasahitza",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setPasswordSuccess": "Karteraren pasahitza ezarri da",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setWalletPassword": "Ezarri kartearen pasahitza",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "settingsHeader": "Ezarpenak",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "settingsTransfer": "Kargatu Paper-karteratik",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setupFailedMessage": "Zerbait gaizki joan da",
-  "shareKaspium": "Partekatu Admiralium",
-  "shareKaspiumSubject": "Ikusi Admiralium Kartera",
-  "shareKaspiumText": "Ikusi Admiralium - Karlsen mugikorren Kartera. \nWebgunea - https://github.com/e4p1k0/karlsen_mobile",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspium": "Partekatu Kapitanium",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspiumSubject": "Ikusi Kapitanium Kartera",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspiumText": "Ikusi Kapitanium - Pyrin mugikorren Kartera. \nWebgunea - https://github.com/e4p1k0/karlsen_mobile/tree/pyrin"",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "somethingWentWrong": "Zerbait gaizki joan da",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "systemDefault": "Sistema lehenetsia",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tapToHide": "Sakatu ezkutatzeko",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tapToReveal": "Sakatu erakusteko",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeDark": "Gai iluna",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeHeader": "Gaia",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeLight": "Gai Argia",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "thisWallet": "#Kartera hau",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "to": "Nori",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "toAddress": "Helbidera",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tooManyFailedAttempts": "Huts gehigi saiatu dira desblokeatzeko.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "totalValue": "Balio Osoa",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transactionId": "Transakzio ID",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transactionsUppercase": "TRANSAKZIOAK",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transfer": "Transferentzia",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferClose": "Sakatu edozein lekutan leihoa ixteko.",
-  "transferComplete": "{amount} KLS behar bezala transferitu da zure Admiralium Karterera.\n",
-  "transferConfirmInfo": "{amount} KLS-ko saldoa duen kartera bat detektatu da.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferComplete": "{amount} PYI behar bezala transferitu da zure Kapitanium Karterera.\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferConfirmInfo": "{amount} PYI-ko saldoa duen kartera bat detektatu da.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferConfirmInfoSecond": "Ukitu berretsi funtsak transferitzeko.\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferConfirmInfoThird": "Baliteke transferentzia segundo batzuk behar izatea burutzeko.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferError": "Akats bat gertatu da transferentzian. Saiatu berriro geroago.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferHeader": "Funtsak transferitzea",
-  "transferIntro": "Prozesu honek funtsak paperezko kartera batetik zure Admiralium Kartera transferituko ditu. \n\nSakatu \"{button}\" botoia hasteko.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferIntro": "Prozesu honek funtsak paperezko kartera batetik zure Kapitanium Kartera transferituko ditu. \n\nSakatu \"{button}\" botoia hasteko.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferLoading": "Bidaltzen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferManualHint": "Mesedez, sartu behean hazia.",
-  "transferNoFunds": "Hazi honek ez du KLSrik",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferNoFunds": "Hazi honek ez du PYIrik",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferQrScanError": "QR kode honek ez du baliozko hazirik.",
-  "transferQrScanHint": "Eskaneatu Karlsen \nhazia edo giltza pribatu bat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferQrScanHint": "Eskaneatu Pyrin \nhazia edo giltza pribatu bat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unconfirmed": "Baieztatu gabe",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "notAccepted": "ez da onartu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "accepted": "onartuta",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unknown": "ezezaguna",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unlock": "desblokeatu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unlockBiometrics": "Autentifikatu kartera desblokeatzeko",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unlockPin": "Sartu PIN zenbakia kartera desblokeatzeko",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "utxosUppercase": "UTXOak",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "viewAddress": "Helbidea Ikusi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "viewTransaction": "Transakzioa Ikusi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletAddresses": "Karteraren Helbideak",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletName": "Helbidearen izena",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletNameDescription": "Sartu izen bat zure helbidearentzat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletNameHint": "Helbidearen Izena",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletSetupAddressDiscovery": "Helbideen aurkikuntza martxan",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletSetupMessage": "Diru kartera konfiguratzen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletsTitle": "Karterak",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "warning": "Abisua",
-  "welcomeMessage": "Ongi etorri!\n\nHau da {version} Admiralium-en bertsioa - Karlsen-ren mugikorren kartera",
-  "welcomeText": "Ongi etorri Admiralium-era. Hasteko, diru kartera berri bat sor dezakezu edo lehendik dagoen bat inporta dezakezu.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "welcomeMessage": "Ongi etorri!\n\nHau da {version} Kapitanium-en bertsioa - Pyrin-ren mugikorren kartera",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "welcomeText": "Ongi etorri Kapitanium-era. Hasteko, diru kartera berri bat sor dezakezu edo lehendik dagoen bat inporta dezakezu.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "xMinutes": "Gero eta {minutes, plural, =1{1 minutu} other{{minutes} minutuak}}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yes": "Bai",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yesButton": "Bai",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yesUppercase": "BAI",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNotSyncedException": "Nodoa ez dago sinkronizatuta",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNoUTXOIndexException": "Nodoak ez du UTXO indizerik",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeSecureConnection": "Secure connection",
-  "kaspaUriInvalid": "Karlsen URI baliogabea",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "kaspaUriInvalid": "Pyrin URI baliogabea",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxos": "Transakzio konposatuak",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxosDescription": "Konbinatu hainbat UTXO bakarrean",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxosConfirmation": "Transakzio konposatu?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundingUtxos": "Konposaketa-eragiketak",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundingMessage": "Itxaron mesedez...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundSuccess": "konposizioa behar bezala egin da",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundFailure": "Ezin izan dira konposatu transakzioak",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundTooFewUtxos": "Gutxienez bi UTXO behar dira",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "balance": "Balantzea",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "maxSend": "Gehienezko bidalketa",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUppercased": "KONPOSATU",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "closeUppercased": "ITXI",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanMoreAddresses": "Eskaneatu helbide gehiago bilatzeko",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressDiscovery": "Helbidea aurkitzea",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanningTitle": "Eskaneatzen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanningDescription": "Helbide berriak bilatzen...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanMore": "GEHIAGO ESKANEATU",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanFailedMessage": "Ezin izan da eskaneatu. Saiatu berriro geroago",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "indexHeader": "Aurkibidea",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currentIndex": "Oraingoa",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scannedIndex": "Eskaneatuta",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newIndex": "Berria",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogTitle": "Helbide-iragazkia",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogOptionAllAddresses": "Ikusi helbide guztiak",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogOptionNonZeroBalances": "Ikusi helbideak saldoarekin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption24WordsTitle": "Inportatu 24 hitz esaldi sekretua",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption24WordsDescription": "Cli Wallet eta Ledger-ekin bateragarria",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption12WordsTitle": "Inportatu 12 hitz esaldi sekretua",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption12WordsDescription": "Web Wallet eta KDX-rekin bateragarria",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOptionKpubTitle": "Inportatu zorroa ikusteko moduan bakarrik",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOptionKpubDescription": "Kontrolatu diru-zorro baten saldoa eta transakzioak gako publiko hedatua erabiliz",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpub": "Inportatu zorroa ikusteko moduan bakarrik",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubHint": "Mesedez, sartu zure gako publiko hedatua.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubClipboardError": "Arbeleko edukia ez da baliozko gako publiko hedatua",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubQrCodeError": "QR kodeak ez du baliozko gako publiko hedatua",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubInvalidMessage": "Mesedez, egiaztatu zure gako publiko hedatua behar bezala sartu dela!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddressListEmpty": "Jasotzeko helbide-zerrenda hutsik dago",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddressListEmpty": "Aldatu helbideen zerrenda hutsik dago",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "hintAddressListEmpty": "Egiaztatu helbide-iragazkia goiko eskuineko izkinan"
+pp_af.arb
+pp_af.arb
+pp_af.arb
 }
+pp_af.arb
+pp_af.arb
+pp_af.arb

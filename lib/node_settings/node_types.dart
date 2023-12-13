@@ -11,7 +11,7 @@ part 'node_types.g.dart';
 const mainnetNodeConfig = NodeConfig(
   id: '467af0cb-055c-4d32-8d29-123506c7ed6e',
   name: 'E4pool Official',
-  urls: ['rpc-kls.e4pool.com'],
+  urls: ['rpc-pyi.e4pool.com'],
   isSecure: false,
   network: KaspaNetwork.mainnet,
 );

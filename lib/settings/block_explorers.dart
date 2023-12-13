@@ -29,10 +29,10 @@ class BlockExplorer with _$BlockExplorer {
 
 const kKaspaExplorerMainnet = BlockExplorer(
   network: KaspaNetwork.mainnet,
-  name: 'Karlsen Explorer',
-  url: 'explorer.karlsencoin.com',
-  addressUrl: 'https://explorer.karlsencoin.com/addresses/$kParamPattern',
-  txUrl: 'https://explorer.karlsencoin.com/txs/$kParamPattern',
+  name: 'Pyrin Explorer',
+  url: 'explorer.pyrin.network',
+  addressUrl: 'https://explorer.pyrin.network/addresses/$kParamPattern',
+  txUrl: 'https://explorer.pyrin.network/txs/$kParamPattern',
 );
 
 const kKasFyiMainnet = BlockExplorer(

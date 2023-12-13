@@ -1,305 +1,1220 @@
 {
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "@@last_modified": "2023-09-25T17:48:36.587Z",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "@@author": "arb-converter-cli",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "account": "Konto",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "accounts": "Konton",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "ackBackedUp": "Är du säker på att du har sparat ner din hemliga fras eller seed?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "add": "Lägg till",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addAccount": "Lägg till konto",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addContact": "Lägg till kontakt",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNode": "Lägg till nod",
-  "addNodeFailed": "Misslyckades att lägga till en Karlsen nod",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "addNodeFailed": "Misslyckades att lägga till en Pyrin nod",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNodeFailedMessage": "Misslyckades {error}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNodeSuccess": "Nod tillagd",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addingNodeMessage": "Vänligen vänta medan noden kontaktas ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addingNodeTitle": "Lägger till nod",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "address": "Adress",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressCopied": "Adress kopierad",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressCopiedFailed": "Failed to copy address",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressHint": "Ange adress",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressMising": "Ange en adress",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressShare": "Dela adress",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "advancedHeader": "Avancerad ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amount": "Belopp",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountConfirm": "Belopp {amount} {coin}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountMissing": "Vänligen ange ett belopp",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountZero": "Beloppet kan inte vara noll",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "areYouSure": "Är du säker?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authBiometricMessage": "Verifiera för att lägga till plånbok",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authMethod": "Autentiseringsmetod",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authPinMessage": "Skriv in PIN-koden för att lägga till plånbok",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "autoLockHeader": "Lås automatiskt",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "available": "Tillgängligt",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "backupConfirmButton": "Jag har sparat den",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "backupSecretPhrase": "Säkerhetskopiera fras",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "biometricsMethod": "Biometrik",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "blockExplorer": "Utforskare",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "cancel": "Avbryt",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "change": "Ändra",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddress": "Ändra adress",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddressCopied": "Ändra adress kopierad ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeIndex": "Ändra index",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeIndexParam": "Ändra {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "checkCameraPermission": "Vänligen kontrollera kameraåtkomst ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "clipboardEmpty": "Urklippet är tomt",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "close": "Stäng",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirm": "Bekräfta",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmPasswordHint": "Bekräfta lösenordet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmations": "{confirmations} bekräftelser ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmed": "bekräftad ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirming": "bekräftas",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactAdded": "{contactName} har lagts till under kontakter!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactAddressCopied": "{address} adress kopierad ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactExists": "Kontakten existerar redan",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactHeader": "Kontakter",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactInvalid": "Ogiltigt kontaktnamn",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactNameHint": "Ange ett namn @",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactNameMissing": "Välj ett namn för den här kontakten",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactRemoved": "{contactName} har raderats från dina kontakter!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsHeader": "Kontakter",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsImportErr": "Gick ej att importera kontakter",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsImportSuccess": "Lyckad import av {noContacts} kontakter",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copied": "Kopierad",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copy": "Kopiera",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copyAddress": "Kopiera adress",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copyErrorButton": "Kopiera felet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createAPasswordHeader": "Ställ in ett lösenord.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordFirstParagraph": "Du kan ställa in ett lösenord för att öka säkerheten av din plånbok.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordHint": "Ställ in ett lösenord",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordSecondParagraph": "Ett lösenord är valfritt och din plånbok kommer ändå att skyddas av din PIN-kod eller av biometri.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordSheetHeader": "Skapa",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currency": "Valuta",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currencyPoweredBy": "Powered by CoinGecko",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultAccountName": "Huvudkonto",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultNewAccountName": "Konto {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultWalletName": "Min plånbok",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disablePasswordSheetHeader": "Avaktivera",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disablePasswordSuccess": "Lösenordet har avaktiverats",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disableWalletPassword": "Avaktivera plånbokslösenord",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "doContinue": "Fortsätt",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "donate": "Donera",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "dontShowAgain": "Visa inte igen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyCardIntroUtxos": "Det här är fliken för unspent transaction outputs. Alla UTXOs i din plånbok kommer att visas här",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyResult": "Inget resultat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyWalletName": "Plånboken måste ha ett namn",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "encryptionFailedError": "Misslyckades med att ställa in ett lösenord",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterAddress": "Ange adress",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterAmount": "Ange belopp",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterNote": "Ange notering ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterPasswordHint": "Ange ditt lösenord",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "errorMessageCopied": "Felkodmeddelande kopierad till urklipp",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "exampleCardIntro": "Det är här är fliken för transaktioner, när du har tagit emot eller skickat en transaktion så kommer den visas här. ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "export": "Exportera",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fee": "Avgift",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "feeConfirm": "Avgift {amount} {coin}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "feeTitle": "AVGIFT",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fetchingTransactions": "Hämtar transaktioner",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fingerprintSeedBackup": "Verifiera dig för att göra en backup på din hemliga fras.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "goBackButton": "Tillbaka",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "gotItButton": "Jag fattar!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "import": "Importera",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhrase": "Importera hemlig fras",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHint": "Ange din hemliga fras på 24 ord. Varje ord ska separeras med ett mellanslag.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHintCombo": "Please enter your 12 or 24 word secret phrase below.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHintLegacy": "Please enter your 12 word secret phrase below.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importWallet": "Importera plånbok",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importWalletDescription": "Please select an option below.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "instantly": "Omedelbart",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "insufficientBalance": "Otillräckligt saldo",
-  "insufficientBalanceDetails": "Du har inte nog med KLS för att genomföra transaktionen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "insufficientBalanceDetails": "Du har inte nog med PYI för att genomföra transaktionen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidAddress": "Ogiltig mottagaradress",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidAmount": "Ogiltig summa",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidChecksumMessage": "Snälla kontrollera att din hemliga fras är korrekt angiven!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidKpubMessage": "Please check that your extended public key is entered correctly!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidDestinationAddress": "Ogiltig destination adress",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidPassword": "Ogiltigt lösenord",
-  "kaspaDevFund": "Karlsens utvecklingsfond",
-  "kaspiumWallet": "Admiralium plånbok",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "kaspaDevFund": "Pyrins utvecklingsfond",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "kaspiumWallet": "Kapitanium plånbok",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "language": "Språk",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "loadingTransactions": "Laddar transaktioner...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "lockAppSetting": "Verifiera vid uppstart",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "locked": "Låst",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "loggingOutMessage": "Loggar ut...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logout": "Logga ut",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logoutDialogContent": "Är du säker på att du vill logga ut från den här plånboken?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logoutOrSwitchWallet": "Logga ut / byt plånbok ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "manage": "Hantera",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "manualEntry": "Ange manuellt",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "networkHeader": "Nätverk",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newAddress": "Ny adress",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newWallet": "Ny plånbok",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nextButton": "Nästa",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "no": "Nej",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noContactsExport": "Det finns inga kontakter att exportera",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noContactsImport": "Hittade inga kontakter att importera",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noQrCodeFound": "Ingen QR-kod hittad",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noSkipButton": "Nej, hoppa över",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noUppercase": "NEJ",
-  "nodeAddress": "Karlsen nod",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodeAddress": "Pyrin nod",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeDeleteMessage": "Är du säker på att du vill radera?",
-  "nodeDeleteTitle": "Radera Karlsen nod konfiguration?\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodeDeleteTitle": "Radera Pyrin nod konfiguration?\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNameEmpty": "Namnet på noden kan inte vara tomt",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNameHint": "Skriv nodens namn",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeUrlHint": "Skriv nodens URL",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeUrlInvalid": "Ogiltig nod URL",
-  "nodesSheetTitle": "Karlsen noder",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodesSheetTitle": "Pyrin noder",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "off": "Av",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "on": "På",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "paperWallet": "Pappersplånbok",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordBlank": "Lösenordsfältet kan ej lämnas tomt",
-  "passwordNoLongerRequiredToOpenParagraph": "Du kommer inte behöva ett lösenord för att öppna Admiralium längre.",
-  "passwordWillBeRequiredToOpenParagraph": "Lösenordet behövs för att öppna Admiralium.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "passwordNoLongerRequiredToOpenParagraph": "Du kommer inte behöva ett lösenord för att öppna Kapitanium längre.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "passwordWillBeRequiredToOpenParagraph": "Lösenordet behövs för att öppna Kapitanium.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordsDontMatch": "Lösenorden stämmer ej överens",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pasteMnemonicError": "Urklippet innehåller inte en giltig hemlig fras",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pending": "pågående",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinConfirmError": "PIN-kod matchar ej",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinConfirmTitle": "Bekräfta din PIN-kod",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinCreateTitle": "Skapa en 6-siffrig PIN-kod",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinEnterTitle": "Ange PIN-kod",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinInvalid": "Felaktig PIN-kod angiven",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinMethod": "PIN",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinSeedBackup": "Ange PIN-kod för att säkerhetskopiera din hemliga fras",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "preferences": "Preferenser",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "privacyPolicy": "Integritetspolicy",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrInvalidAddress": "QR-koden innehåller inte en giltig destination",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrInvalidSeed": "QR-koden innehåller ingen giltig hemlig fras",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrMnemonicError": "QR innehåller ingen giltig hemlig fras",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receive": "Ta emot",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddress": "Mottagande adress kopierad",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddressCopied": "Mottagande adress kopierad",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveIndex": "Mottagande index",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveIndexParam": "Ta emot {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "received": "Mottagit",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeContact": "Ta bort kontakt",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeContactConfirmation": "Är du säker på att du vill radera {contactName}?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletAction": "Ta bort plånbok",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletBiometricsMessage": "Verifiera för att ta bort plånbok",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletDetail": "Genom att ta bort den här plånboken så kommer den hemliga frasen och all plånboksrelaterade data raderas. Om den hemliga frasen inte är tryggt förvarad så kommer du aldrig åt dina tillgångar igen.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletPinMessage": "Skriv in PIN för att ta bort plånbok",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletReassurance": "Så länge du har säkerhetskopierat den hemliga frasen så har du inget att oroa dig över.",
-  "requireAPasswordToOpenHeader": "Kräv lösenord för att öppna Admiralium?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "requireAPasswordToOpenHeader": "Kräv lösenord för att öppna Kapitanium?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "restartSetupButton": "Starta om setup",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanQrCode": "Skanna QR-kod",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanQrCodeError": "Misslyckades att tolka QR-kod",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretInfo": "På nästa skärm kommer du att se din hemliga fras. Det är ett lösenord för att komma åt dina tillgångar. Det är viktigt att du sparar ner den och aldrig delar den med någon.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretInfoHeader": "Säkerheten först!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretPhrase": "Hemlig fras",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretWarning": "Om du tappar bort din enhet eller avinstallerar applikationen så behöver du din hemliga fras eller ditt seed för att återfå dina tillgångar!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "securityHeader": "Säkerhet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "seed": "Seed",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "seedInvalid": "Angiven hemlig fras är ogiltig",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "send": "Skicka",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendConfirm": "Skicka",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendError": "Ett fel inträffade. Försök igen senare.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendNote": "Notering",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendToAddressTitle": "Till",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendTxProgressDescription": "Vänligen vänta medans transaktionen skickas",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendTxProgressTitle": "Skickar transaktion",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sending": "Skicka",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sent": "Skickat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sentTo": "Skicka till",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setPassword": "Ställ in lösenord",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setPasswordSuccess": "Lösenordet har ställts in",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setWalletPassword": "Ställ in plånbokslösenord",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "settingsHeader": "Inställningar",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "settingsTransfer": "Ladda från pappersplånbok",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setupFailedMessage": "Något gick fel",
-  "shareKaspium": "Dela Admiralium",
-  "shareKaspiumSubject": "Kolla in Admiralium plånboken",
-  "shareKaspiumText": "Prova Admiralium! Karlsens mobila plånbok. Webbsida - https://github.com/e4p1k0/karlsen_mobile",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspium": "Dela Kapitanium",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspiumSubject": "Kolla in Kapitanium plånboken",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspiumText": "Prova Kapitanium! Pyrins mobila plånbok. Webbsida - https://github.com/e4p1k0/karlsen_mobile/tree/pyrin"",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "somethingWentWrong": "Något gick fel",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "systemDefault": "Standardinställning",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tapToHide": "Tryck för att dölja",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tapToReveal": "Tryck för att visa",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeDark": "Mörkt tema",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeHeader": "Tema",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeLight": "Ljust tema",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "thisWallet": "#Den här plånboken",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "to": "Till",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "toAddress": "Till adress",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tooManyFailedAttempts": "För många ogiltiga försök.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "totalValue": "Totalt värde",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transactionId": "Transaktions ID",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transactionsUppercase": "Transaktioner",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transfer": "Överför",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferClose": "Tryck någonstans för att stänga fönstret.",
-  "transferComplete": "{amount} KLS har överförts till din Admiralium-plånbok.",
-  "transferConfirmInfo": "En plånbok med ett saldo på {amount} KLS har upptäckts.\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferComplete": "{amount} PYI har överförts till din Kapitanium-plånbok.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferConfirmInfo": "En plånbok med ett saldo på {amount} PYI har upptäckts.\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferConfirmInfoSecond": "Tryck på bekräfta för att överföra tillgångar.\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferConfirmInfoThird": "Överföringen kan ta upp till flera sekunder att genomföras.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferError": "Ett fel uppstod vid överföringen. Försök igen senare.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferHeader": "Överför\nmedel",
-  "transferIntro": "Den här processen kommer att överföra tillgångar från en pappersplånbok till din Admiralium-plånbok.\n\nTryck på \"{button}\" knappen för att starta.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferIntro": "Den här processen kommer att överföra tillgångar från en pappersplånbok till din Kapitanium-plånbok.\n\nTryck på \"{button}\" knappen för att starta.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferLoading": "Överför",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferManualHint": "Vänligen ange din hemliga fras nedan.",
-  "transferNoFunds": "Detta seed innehåller inga KLS.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferNoFunds": "Detta seed innehåller inga PYI.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferQrScanError": "Denna QR-kod innehåller inget giltigt seed.",
-  "transferQrScanHint": "Skanna en Karlsen \nseed eller en privat nyckel",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferQrScanHint": "Skanna en Pyrin \nseed eller en privat nyckel",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unconfirmed": "obekräftade",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "notAccepted": "not accepted",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "accepted": "accepted",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unknown": "okänd",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unlock": "Lås upp",
-  "unlockBiometrics": "Verifiera för att låsa upp Admiralium",
-  "unlockPin": "Ange PIN för att låsa upp Admiralium",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "unlockBiometrics": "Verifiera för att låsa upp Kapitanium",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "unlockPin": "Ange PIN för att låsa upp Kapitanium",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "utxosUppercase": "UTXOs",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "viewAddress": "Kolla adress",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "viewTransaction": "Kolla transaktion",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletAddresses": "Plånboks adresser",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletName": "Plånbokens namn",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletNameDescription": "Skriv in ett namn för din plånbok",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletNameHint": "Plånbokens namn",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletSetupAddressDiscovery": "Genomför adress upptäckt",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletSetupMessage": "Sätta upp plånbok",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletsTitle": "Plånböcker",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "warning": "Varning",
-  "welcomeMessage": "Välkommen! Det här är version {version} för Admiralium - den mobila appen för Karlsen",
-  "welcomeText": "Välkommen till Admiralium. För att fortsätta så behöver du skapa en ny plånbok eller importera en befintlig plånbok.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "welcomeMessage": "Välkommen! Det här är version {version} för Kapitanium - den mobila appen för Pyrin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "welcomeText": "Välkommen till Kapitanium. För att fortsätta så behöver du skapa en ny plånbok eller importera en befintlig plånbok.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "xMinutes": "Efter {minutes, plural, =1{1 minut} other{{minutes} minuter}}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yes": "Ja",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yesButton": "Ja",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yesUppercase": "JA",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNotSyncedException": "Noden är inte synkroniserad ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNoUTXOIndexException": "Noden har inte ett UTXO index",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeSecureConnection": "Säkra anslutning",
-  "kaspaUriInvalid": "Invalid Karlsen URI",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "kaspaUriInvalid": "Invalid Pyrin URI",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxos": "Compound transactions",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxosDescription": "Combine multiple UTXOs into one",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxosConfirmation": "Compound transactions?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundingUtxos": "Compounding transactions",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundingMessage": "Please wait...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundSuccess": "Compound successful",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundFailure": "Failed to compound transactions",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundTooFewUtxos": "At least two UTXOs are required",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "balance": "Balance",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "maxSend": "Max Send",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUppercased": "COMPOUND",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "closeUppercased": "CLOSE",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanMoreAddresses": "Scan For More Addresses",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressDiscovery": "Address Discovery",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanningTitle": "Scanning",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanningDescription": "Scanning for new addresses...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanMore": "SCAN MORE",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanFailedMessage": "Scan failed, please try again later",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "indexHeader": "Index",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currentIndex": "Current",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scannedIndex": "Scanned",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newIndex": "New",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogTitle": "Address Filter",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogOptionAllAddresses": "View All Addresses",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogOptionNonZeroBalances": "View Addresses With Balance",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption24WordsTitle": "Import 24 Word Secret Phrase",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption24WordsDescription": "Compatible with Cli Wallet and Ledger",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption12WordsTitle": "Import 12 Word Secret Phrase",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption12WordsDescription": "Compatible with Web Wallet and KDX",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOptionKpubTitle": "Import Watch Only Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOptionKpubDescription": "Monitor the balance and transactions of a wallet using an extended public key",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpub": "Import Watch Only Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubHint": "Please enter your extended public key.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubClipboardError": "Clipboard content is not a valid extended public key",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubQrCodeError": "QR code does not contain a valid extended public key",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubInvalidMessage": "Please check that your extended public key is entered correctly!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddressListEmpty": "Receive address list is empty",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddressListEmpty": "Change address list is empty",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "hintAddressListEmpty": "Check address filter from the top right corner"
+pp_af.arb
+pp_af.arb
+pp_af.arb
 }
+pp_af.arb
+pp_af.arb
+pp_af.arb

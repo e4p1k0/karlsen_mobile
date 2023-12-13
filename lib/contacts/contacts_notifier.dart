@@ -6,7 +6,7 @@ import 'contact.dart';
 import 'contact_labels.dart';
 
 const defaultContacts = {
-  'karlsen:qq0sjnwynmrhc4w8w8e8vzqdw6ga6vms5nhkluvr7u0euc9zgct0w7y3uw3pe':
+  'pyrin:qrqns0vhyujrw9cz3u04886ypyd3dsu2jjhwpa3tsrtruvxr8qdvz3ur8vz8k':
       '@E4poolTeam',
 };
 

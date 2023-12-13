@@ -1,305 +1,1220 @@
 {
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "@@last_modified": "2023-09-25T17:48:36.587Z",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "@@author": "arb-converter-cli",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "account": "Счёт",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "accounts": "Счета",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "ackBackedUp": "Вы уверены, что вы сохранили резервную копию вашей seed-фразы?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "add": "Добавить",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addAccount": "Добавить аккаунт",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addContact": "Добавить контакт",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNode": "Добавить ноду",
-  "addNodeFailed": "Не удалось добавить ноду Karlsen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "addNodeFailed": "Не удалось добавить ноду Pyrin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNodeFailedMessage": "Не удалось: {error}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNodeSuccess": "Нода добавлена успешно",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addingNodeMessage": "Дождитесь, пожалуйста, установления связи с нодой",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addingNodeTitle": "Добавление ноды",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "address": "Адрес",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressCopied": "Адрес скопирован",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressCopiedFailed": "Не удалось скопировать адрес",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressHint": "Введите адрес",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressMising": "Пожалуйста, введите адрес",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressShare": "Поделиться адресом",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "advancedHeader": "Дополнительно",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amount": "Количество",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountConfirm": "Количество {amount} {coin}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountMissing": "Пожалуйста, введите сумму",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountZero": "Сумма не может быть нулевой",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "areYouSure": "Вы уверены?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authBiometricMessage": "Аутентифицируйтесь, чтобы добавить кошелек",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authMethod": "Метод аутентификации",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authPinMessage": "Введите PIN-код, чтобы добавить кошелек",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "autoLockHeader": "Блокировать автоматически",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "available": "Доступно",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "backupConfirmButton": "Я сделал резервную копию",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "backupSecretPhrase": "Сделать резервную копию seed-фразы",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "biometricsMethod": "Биометрия",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "blockExplorer": "Обозреватель блоков",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "cancel": "Отмена",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "change": "Сдача",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddress": "Адрес сдачи",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddressCopied": "Адрес сдачи скопирован",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeIndex": "Индекс сдачи",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeIndexParam": "Адрес сдачи {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "checkCameraPermission": "Проверьте, пожалуйста, права на использование камеры",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "clipboardEmpty": "Буфер обмена пуст",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "close": "Закрыть",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirm": "Подтвердить",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmPasswordHint": "Подтвердите пароль",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmations": "{confirmations} подтверждений",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmed": "подтверждено",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirming": "подтверждается",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactAdded": "{contactName} добавлен в контакты",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactAddressCopied": "Адрес {address} скопирован",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactExists": "Контакт уже существует",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactHeader": "Контакт",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactInvalid": "Недопустимое имя контакта",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactNameHint": "Введите имя @",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactNameMissing": "Выберите имя для контакта",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactRemoved": "{contactName} удален из контактов!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsHeader": "Контакты",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsImportErr": "Не удалось импортировать контакты",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsImportSuccess": "Успешно импортировано контактов: {noContacts}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copied": "Скопировано",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copy": "Копировать",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copyAddress": "Копировать адрес",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copyErrorButton": "Ошибка копирования",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createAPasswordHeader": "Создать пароль.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordFirstParagraph": "Вы можете создать пароль для дополнительной безопасности кошелька.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordHint": "Создать пароль",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordSecondParagraph": "Пароль не является обязательным, ваш кошелек будет защищен PIN-кодом или биометрической информацией и без пароля.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordSheetHeader": "Создать",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currency": "Валюта",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currencyPoweredBy": "С поддержкой CoinGecko",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultAccountName": "Адрес 1",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultNewAccountName": "Адрес получения {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultWalletName": "Мой кошелек",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disablePasswordSheetHeader": "Отключить",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disablePasswordSuccess": "Пароль был отключен",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disableWalletPassword": "Отключить пароль",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "doContinue": "Продолжить",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "donate": "Пожертвовать",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "dontShowAgain": "Не показывать снова",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyCardIntroUtxos": "Это вкладка с выходом неизрасходованных транзакций - UTXO. Здесь будут отображаться все UTXO вашего кошелька.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyResult": "Пустой результат",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyWalletName": "Имя кошелька не может быть пустым",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "encryptionFailedError": "Не удалось установить пароль к кошельку",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterAddress": "Введите адрес",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterAmount": "Введите сумму",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterNote": "Введите примечание",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterPasswordHint": "Введите свой пароль",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "errorMessageCopied": "Сообщение об ошибке скопировано в буфер обмена",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "exampleCardIntro": "Это - вкладка с транзакциями. При получении или отправке транзакции она будет отображаться здесь.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "export": "Экспорт",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fee": "Комиссия",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "feeConfirm": "Комиссия {amount} {coin}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "feeTitle": "КОМИССИЯ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fetchingTransactions": "Получение списка транзакций",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fingerprintSeedBackup": "Аутентификация для резервного копирования seed-фразы.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "goBackButton": "Назад",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "gotItButton": "Готово!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "import": "Импорт",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhrase": "Импортировать секретную фразу",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHint": "Пожалуйста, введите вашу секретную фразу из 24 слов ниже. Каждое слово должно быть разделено пробелом.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHintCombo": "Пожалуйста, введите свою секретную фразу из 12 или 24 слов ниже.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHintLegacy": "Пожалуйста, введите свою секретную фразу из 12 слов ниже.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importWallet": "Импортировать",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importWalletDescription": "Пожалуйста, выберите вариант ниже.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "instantly": "Мгновенно",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "insufficientBalance": "Недостаточный баланс",
-  "insufficientBalanceDetails": "У вас не хватает KLS для этой транзакции",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "insufficientBalanceDetails": "У вас не хватает PYI для этой транзакции",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidAddress": "Введен неверный адрес",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidAmount": "Недопустимое количество",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidChecksumMessage": "Удостоверьтесь, пожалуйста, что секретная фраза\nвведена корректно!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidKpubMessage": "Проверьте, пожалуйста, правильность ввода расширенного публичного ключа!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidDestinationAddress": "Неверный адрес назначения",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidPassword": "Неправильный пароль",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "kaspaDevFund": "Фонд разработки Каспы",
-  "kaspiumWallet": "Кошелёк Admiralium",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "kaspiumWallet": "Кошелёк Kapitanium",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "language": "Язык",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "loadingTransactions": "Загрузка переводов...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "lockAppSetting": "Аутентификация при запуске",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "locked": "Заблокировано",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "loggingOutMessage": "Выход из аккаунта...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logout": "Выход",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logoutDialogContent": "Вы уверены, что хотите выйти из кошелька?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logoutOrSwitchWallet": "Выйти / Сменить кошелёк",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "manage": "Управление",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "manualEntry": "Ручной ввод",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "networkHeader": "Сеть",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newAddress": "Новый адрес",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newWallet": "Новый кошелёк",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nextButton": "Далее",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "no": "Нет",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noContactsExport": "Нет контактов для экспорта",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noContactsImport": "Нет контактов для импорта",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noQrCodeFound": "QR-код не обнаружен",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noSkipButton": "Нет, пропустить",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noUppercase": "Нет",
-  "nodeAddress": "Нода Karlsen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodeAddress": "Нода Pyrin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeDeleteMessage": "Вы уверены, что хотите удалить?",
-  "nodeDeleteTitle": "Удалить конфигурацию ноды Karlsen?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodeDeleteTitle": "Удалить конфигурацию ноды Pyrin?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNameEmpty": "Имя ноды не может быть пустым",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNameHint": "Введите имя ноды",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeUrlHint": "Введите URL-адрес ноды",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeUrlInvalid": "Неверный URL-адрес ноды",
-  "nodesSheetTitle": "Ноды Karlsen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodesSheetTitle": "Ноды Pyrin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "off": "Выкл.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "on": "Вкл.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "paperWallet": "Бумажный кошелёк",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordBlank": "Пароль не может быть пустым",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordNoLongerRequiredToOpenParagraph": "Вам больше не понадобится пароль, чтобы открыть этот кошелек.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordWillBeRequiredToOpenParagraph": "Этот пароль будет нужен, чтобы открыть даный кошелёк.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordsDontMatch": "Пароли не совпадают",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pasteMnemonicError": "Содержимое буфера обмена не является корректной seed-фразой",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pending": "в ожидании",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinConfirmError": "PIN-коды не совпадают",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinConfirmTitle": "Подтвердите PIN-код",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinCreateTitle": "Создайте 6-значный PIN-код",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinEnterTitle": "Введите PIN-код",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinInvalid": "Введён неверный PIN-код",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinMethod": "PIN-код",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinSeedBackup": "Введите PIN-код, чтобы выполнить резервное копирование seed-фразы",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "preferences": "Предпочтения",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "privacyPolicy": "Политика конфиденциальности",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrInvalidAddress": "QR-код не содержит корректного адреса",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrInvalidSeed": "QR-код не содержит корректной seed-фразы или приватного ключа",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrMnemonicError": "QR-код не содержит корректной seed-фразы",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receive": "Получить",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddress": "Адрес получения",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddressCopied": "Адрес получения скопирован",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveIndex": "Индекс адреса получения",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveIndexParam": "Адрес получения {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "received": "Получено",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeContact": "Удалить контакт",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeContactConfirmation": "Вы уверены, что хотите удалить {contactName}?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletAction": "Удалить кошелек",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletBiometricsMessage": "Аутентифицируйтесь, чтобы удалить кошелек",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletDetail": "Удаление кошелька удалит с этого устройства seed-фразу кошелька и все относящиеся к нему данные. Если вы не создали и сохранили резервную копию seed-фразы в надежном месте - вы больше никогда не сможете получить доступ к своим средствам.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletPinMessage": "Введите PIN-код, чтобы удалить кошелек",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletReassurance": "Если вы сохранили seed-фразу в безопасном месте - вам не о чем беспокоиться.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "requireAPasswordToOpenHeader": "Требовать пароль для открытия кошелька?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "restartSetupButton": "Перезапустить установку",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanQrCode": "Сканировать QR-код",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanQrCodeError": "Не удалось распознать содержимое QR-кода",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretInfo": "На следующем экране вы увидите свою seed-фразу. Она - ключ для управления вашими средствами. Крайне важно, чтобы вы создали ее резервную копию и никогда никому ee не передавали.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretInfoHeader": "Безопасность прежде всего!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretPhrase": "Секретная фраза",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretWarning": "Если вы потеряете свое устройство или удалите приложение, вам понадобится ваша секретная seed фраза - чтобы вернуть свои средства!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "securityHeader": "Безопасность",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "seed": "Seed",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "seedInvalid": "Некорректная seed-фраза",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "send": "Отправить",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendConfirm": "Отправить",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendError": "Произошла ошибка. Попробуйте позже.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendNote": "ЗАМЕТКА",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendToAddressTitle": "На",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendTxProgressDescription": "Пожалуйста, подождите, пока транзакция будет отправлена",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendTxProgressTitle": "Отправка транзакции",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sending": "Отправить",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sent": "Отправлено",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sentTo": "Отправлено на ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setPassword": "Установить пароль",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setPasswordSuccess": "Пароль был успешно установлен",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setWalletPassword": "Установить пароль кошелька",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "settingsHeader": "Настройки",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "settingsTransfer": "Загрузить с бумажного кошелька",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setupFailedMessage": "Что-то пошло не так",
-  "shareKaspium": "Поделиться Admiralium",
-  "shareKaspiumSubject": "Попробуйте кошелёк Admiralium",
-  "shareKaspiumText": "Попробуйте Admiralium - мобильный кошелёк Karlsen.\nВеб-сайт - https://github.com/e4p1k0/karlsen_mobile",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspium": "Поделиться Kapitanium",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspiumSubject": "Попробуйте кошелёк Kapitanium",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspiumText": "Попробуйте Kapitanium - мобильный кошелёк Pyrin.\nВеб-сайт - https://github.com/e4p1k0/karlsen_mobile/tree/pyrin"",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "somethingWentWrong": "Что-то пошло не так",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "systemDefault": "По умолчанию",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tapToHide": "Нажмите, чтобы скрыть",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tapToReveal": "Нажмите, чтобы показать",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeDark": "Темная тема",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeHeader": "Тема",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeLight": "Светлая тема",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "thisWallet": "#Этот кошелек",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "to": "На",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "toAddress": "На адрес",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tooManyFailedAttempts": "Много неудачных попыток разблокировки.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "totalValue": "Общая сумма",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transactionId": "Идентификатор транзакции",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transactionsUppercase": "ТРАНЗАКЦИИ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transfer": "Отправить",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferClose": "Нажмите в любом месте, чтобы закрыть окно.",
-  "transferComplete": "{amount} KLS успешно переведено в кошелёк Admiralium.\n",
-  "transferConfirmInfo": "Обнаружен кошелёк с балансом {amount} KLS.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferComplete": "{amount} PYI успешно переведено в кошелёк Kapitanium.\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferConfirmInfo": "Обнаружен кошелёк с балансом {amount} PYI.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferConfirmInfoSecond": "Для перевода средств нажмите кнопку 'подтвердить'.\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferConfirmInfoThird": "Перевод может занять несколько секунд.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferError": "Во время передачи произошла ошибка. Пожалуйста, попробуйте позже.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferHeader": "Перевод средств",
-  "transferIntro": "Этот процесс переведёт средства с бумажного кошелька на ваш кошелёк Admiralium.\n\nНажмите кнопку \"{button}\" чтобы начать.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferIntro": "Этот процесс переведёт средства с бумажного кошелька на ваш кошелёк Kapitanium.\n\nНажмите кнопку \"{button}\" чтобы начать.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferLoading": "Переводиться",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferManualHint": "Пожалуйста, введите вашу seed-фразу ниже.",
-  "transferNoFunds": "Эта seed-фраза не имеет KLS.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferNoFunds": "Эта seed-фраза не имеет PYI.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferQrScanError": "Этот QR-код не содержит достоверной seed-фразы.",
-  "transferQrScanHint": "Сканировать seed-фразу \nKarlsen или приватный ключ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferQrScanHint": "Сканировать seed-фразу \nPyrin или приватный ключ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unconfirmed": "неподтверждено",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "notAccepted": "не принято",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "accepted": "принято",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unknown": "неизвестно",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unlock": "Разблокировать",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unlockBiometrics": "Аутентифицируйтесь для разблокировки кошелька",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unlockPin": "Введите PIN-код для разблокировки кошелька",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "utxosUppercase": "UTXOs",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "viewAddress": "Посмотреть адрес",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "viewTransaction": "Посмотреть транзакцию",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletAddresses": "Адреса кошелька",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletName": "Имя кошелька",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletNameDescription": "Введите имя своего кошелька",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletNameHint": "Имя кошелька",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletSetupAddressDiscovery": "Выполняется обнаружение адресов",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletSetupMessage": "Создание кошелька",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletsTitle": "Кошельки",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "warning": "Предупреждение",
-  "welcomeMessage": "Добро пожаловать!\n\nЭто версия {version} Admiralium - мобильного кошелька Karlsen",
-  "welcomeText": "Добро пожаловать в Admiralium. Вы можете создать новый кошелек или импортировать уже существующий.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "welcomeMessage": "Добро пожаловать!\n\nЭто версия {version} Kapitanium - мобильного кошелька Pyrin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "welcomeText": "Добро пожаловать в Kapitanium. Вы можете создать новый кошелек или импортировать уже существующий.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "xMinutes": "Через {minutes, plural, =1{1 минуту} other{{minutes} минут}}.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yes": "Да",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yesButton": "Да",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yesUppercase": "ДА",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNotSyncedException": "Нода не синхронизирована",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNoUTXOIndexException": "Нода не имеет индекса UTXO ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeSecureConnection": "Безопасное соединение",
-  "kaspaUriInvalid": "Недействительный URI Karlsen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "kaspaUriInvalid": "Недействительный URI Pyrin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxos": "Сложить транзакции",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxosDescription": "Сложить несколько UTXO в один",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxosConfirmation": "Сложить транзакции?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundingUtxos": "Сложение транзакций",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundingMessage": "Пожалуйста, подождите...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundSuccess": "Сложение успешно",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundFailure": "Не удалось сложить транзакции",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundTooFewUtxos": "Необходимо наличие не менее двух UTXO",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "balance": "Баланс",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "maxSend": "Отправить максимум",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUppercased": "СЛОЖИТЬ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "closeUppercased": "ЗАКРЫТЬ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanMoreAddresses": "Сканировать дополнительные адреса",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressDiscovery": "Обнаружение адресов",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanningTitle": "Сканирование",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanningDescription": "Сканирование для поиска новых адресов...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanMore": "СКАНИРОВАТЬ БОЛЬШЕ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanFailedMessage": "Сканирование не удалось, повторите попытку позже",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "indexHeader": "Индекс",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currentIndex": "Текущий",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scannedIndex": "Отсканировано",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newIndex": "Новый",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogTitle": "Фильтр адресов",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogOptionAllAddresses": "Просмотреть все адреса",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogOptionNonZeroBalances": "Просмотреть адреса с балансом",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption24WordsTitle": "Импортировать секретную фразу из 24 слов",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption24WordsDescription": "Совместим с кошельком командной строки CLI и Ledger",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption12WordsTitle": "Импортировать секретную фразу из 12 слов",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption12WordsDescription": "Совместим с кошельком командной строки CLI и Ledger",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOptionKpubTitle": "Импортировать кошелек только для просмотра",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOptionKpubDescription": "Наблюдать за балансом и транзакциями кошелька с помощью расширенного публичного ключа",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpub": "Импортировать кошелек только для просмотра",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubHint": "Пожалуйста, введите свой расширенный публичный ключ.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubClipboardError": "Содержимое буфера обмена не является действительным расширенным публичным ключом",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubQrCodeError": "QR-код не содержит действительного расширенного публичного ключа",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubInvalidMessage": "Проверьте, пожалуйста, правильность ввода расширенного публичного ключа!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddressListEmpty": "Список адресов для получения пуст",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddressListEmpty": "Список адресов для сдачи пуст",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "hintAddressListEmpty": "Проверьте фильтр адресов в правом верхнем углу"
+pp_af.arb
+pp_af.arb
+pp_af.arb
 }
+pp_af.arb
+pp_af.arb
+pp_af.arb

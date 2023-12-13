@@ -1,305 +1,1220 @@
 {
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "@@last_modified": "2023-11-10T10:15:24.600Z",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "@@author": "arb-converter-cli",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "account": "অ্যাকাউন্ট",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "accounts": "অ্যাকাউন্টস",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "ackBackedUp": "আপনি কি নিশ্চিত যে আপনি আপনার গোপন বাক্যাংশ বা সীড  ব্যাক আপ করেছেন?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "add": "যোগ করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addAccount": "অ্যাকাউন্ট যোগ করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addContact": "কন্টাক্ট সংরক্ষণ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNode": "নোড যোগ করুন",
-  "addNodeFailed": "Karlsen নোড যোগ করা ব্যর্থ হয়েছে",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "addNodeFailed": "Pyrin নোড যোগ করা ব্যর্থ হয়েছে",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNodeFailedMessage": "ব্যর্থ হয়েছে: {error}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNodeSuccess": "নোড সফলভাবে যোগ করা সম্পন্ন হয়েছে",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addingNodeMessage": "নোডের সাথে যোগাযোগ করার সময় অনুগ্রহ করে অপেক্ষা করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addingNodeTitle": "নোড যোগ করা হচ্ছে",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "address": "ঠিকানা",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressCopied": "ঠিকানা কপি করা হয়েছে",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressCopiedFailed": "ঠিকানা কপি করা ব্যর্থ হয়েছে",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressHint": "ঠিকানা লিখুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressMising": "দয়া করে ঠিকানা লিখুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressShare": "ঠিকানা শেয়ার করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "advancedHeader": "উন্নত স্তরের",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amount": "রাশি",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountConfirm": "রাশি {amount} {coin}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountMissing": "অনুগ্রহ করে রাশি লিখুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountZero": "রাশি শূন্য হতে পারবে না",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "areYouSure": "আপনি কি নিশ্চিত?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authBiometricMessage": "ওয়ালেট যোগ করতে প্রমাণীকরণ করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authMethod": "প্রমাণীকরণ পদ্ধতি",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authPinMessage": "ওয়ালেট যোগ করতে পিন লিখুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "autoLockHeader": "স্বয়ংক্রিয়ভাবে লক",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "available": "উপলব্ধ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "backupConfirmButton": "আমি এটা ব্যাকআপ করেছি",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "backupSecretPhrase": "গোপন বাক্যাংশ ব্যাকআপ করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "biometricsMethod": "বায়োমেট্রিক্স",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "blockExplorer": "ব্লক এক্সপ্লোরার",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "cancel": "বাতিল",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "change": "পরিবর্তন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddress": "ঠিকানা পরিবর্তন করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddressCopied": "ঠিকানা পরিবর্তন কপি করা হয়েছে",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeIndex": "ইনডেক্স পরিবর্তন করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeIndexParam": "পরিবর্তন করুন {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "checkCameraPermission": "ক্যামেরা এর অনুমতিদান পরীক্ষা করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "clipboardEmpty": "ক্লিপবোর্ড টি শূন্য ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "close": "বন্ধ করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirm": "নিশ্চিত করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmPasswordHint": "পাসওয়ার্ড নিশ্চিত করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmations": "{confirmations} নিশ্চিতকরণ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmed": "নিশ্চিত",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirming": "নিশ্চিত করা",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactAdded": "{contactName} কন্টাক্ট সংরক্ষণ সফল",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactAddressCopied": "{address} ঠিকানা কপি করা হয়েছে",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactExists": "কন্টাক্ট আগে থেকেই আছে",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactHeader": "কন্টাক্ট",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactInvalid": "অবৈধ কন্টাক্ট এর নাম",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactNameHint": "নাম লিখুন @",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactNameMissing": "এই কন্টাক্ট এর জন্য একটি নাম চয়ন করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactRemoved": "{contactName} কন্টাক্ট থেকে মুছে ফেলা হয়েছে!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsHeader": "কন্টাক্ট গুলো",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsImportErr": "কন্টাক্ট গুলো আমদানি করতে ব্যর্থ হয়েছে",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsImportSuccess": "কন্টাক্ট সফলভাবে আমদানি করা হয়েছে {noContacts}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copied": "কপি করা হয়েছে",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copy": "কপি",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copyAddress": "ঠিকানা কপি করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copyErrorButton": "কপি করতে ত্রুটি ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createAPasswordHeader": "একটি পাসওয়ার্ড তৈরি করুন.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordFirstParagraph": "আপনার ওয়ালেট এ অতিরিক্ত নিরাপত্তা যোগ করতে আপনি একটি পাসওয়ার্ড তৈরি করতে পারেন।",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordHint": "একটি পাসওয়ার্ড তৈরি করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordSecondParagraph": "পাসওয়ার্ড হলো এক বিকল্প, এবং আপনার ওয়ালেট আপনার পিন বা বায়োমেট্রিক নির্বিশেষে সুরক্ষিত থাকবে।",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordSheetHeader": "তৈরি করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currency": "কারেন্সি",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currencyPoweredBy": "CoinGecko দ্বারা চালিত",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultAccountName": "ঠিকানা 1",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultNewAccountName": "প্রাপ্ত হওয়া {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultWalletName": "আমার ওয়ালেট",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disablePasswordSheetHeader": "নিষ্ক্রিয়",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disablePasswordSuccess": "পাসওয়ার্ড নিষ্ক্রিয় করা হয়েছে",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disableWalletPassword": "ওয়ালেট পাসওয়ার্ড নিষ্ক্রিয় করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "doContinue": "অব্যাহত",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "donate": "দান করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "dontShowAgain": "পুনরায় দেখাবেন না",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyCardIntroUtxos": "এটি UTXOs ট্যাব। আপনার ওয়ালেটের সমস্ত UTXO এখানে পরিলক্ষিত হবে",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyResult": "ফলাফল শূন্য",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyWalletName": "ওয়ালেটের নাম খালি থাকতে পারবে না",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "encryptionFailedError": "ওয়ালেট পাসওয়ার্ড সেট করা ব্যর্থ হয়েছে",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterAddress": "ঠিকানা লিখুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterAmount": "রাশি লিখুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterNote": "নোট লিখুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterPasswordHint": "আপনার পাসওয়ার্ড লিখুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "errorMessageCopied": "ত্রুটি বার্তা ক্লিপবোর্ডে কপি করা হয়েছে",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "exampleCardIntro": "এটা লেনদেন এর ট্যাব। একবার আপনি একটি লেনদেন প্রেরণ বা গ্রহণ করলে, এটি এখানে পরিলক্ষিত হবে৷",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "export": "রপ্তানি",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fee": "ফি",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "feeConfirm": "ফি {amount} {coin}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "feeTitle": "ফি",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fetchingTransactions": "লেনদেনের তথ্য আনা হচ্ছে",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fingerprintSeedBackup": "ব্যাকআপ সীড প্রমাণীকরণ করুন।",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "goBackButton": "পেছনে যান",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "gotItButton": "বুঝেছি!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "import": "আমদানি",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhrase": "গোপন বাক্যাংশ আমদানি করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHint": "নিচে আপনার 24 শব্দের গোপন বাক্যাংশ লিখুন.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHintCombo": "নীচে আপনার 12 বা 24 শব্দের গোপন বাক্যাংশ লিখুন।",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHintLegacy": "নীচে আপনার 12 শব্দের গোপন বাক্যাংশ লিখুন।",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importWallet": "ওয়ালেট আমদানি করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importWalletDescription": "নীচে থেকে একটি বিকল্প নির্বাচন করুন।",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "instantly": "তৎক্ষণাত",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "insufficientBalance": "অপর্যাপ্ত রাশি",
-  "insufficientBalanceDetails": "এই লেনদেনের জন্য আপনার কাছে পর্যাপ্ত KLS নেই",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "insufficientBalanceDetails": "এই লেনদেনের জন্য আপনার কাছে পর্যাপ্ত PYI নেই",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidAddress": "এই ঠিকানাটি অবৈধ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidAmount": "অবৈধ রাশি",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidChecksumMessage": "আপনার গোপন বাক্যাংশ চেক করুন\nসঠিকভাবে প্রবেশ করানো হয়েছে!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidKpubMessage": "আপনার বর্ধিত পাবলিক কী সঠিকভাবে প্রবেশ করানো হয়েছে কিনা তা পরীক্ষা করুন!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidDestinationAddress": "গন্তব্যের ঠিকানা অবৈধ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidPassword": "ভুল পাসওয়ার্ড",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "kaspaDevFund": "কাসপা ডেভ তহবিল",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "kaspiumWallet": "কাস্পিয়াম ওয়ালেট",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "language": "ভাষা",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "loadingTransactions": "লেনদেন লোড হচ্ছে...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "lockAppSetting": "শুরু করতে প্রমাণীকরণ করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "locked": "লক করা হয়েছে",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "loggingOutMessage": "লগ আউট হচ্ছে...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logout": "লগ আউট",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logoutDialogContent": "আপনি কি এই ওয়ালেট থেকে লগআউট করার বিষয়ে নিশ্চিত?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logoutOrSwitchWallet": "লগ আউট/ওয়ালেট পরিবর্তন করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "manage": "পরিচালনা করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "manualEntry": "ম্যানুয়াল এন্ট্রি",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "networkHeader": "নেটওয়ার্ক",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newAddress": "নতুন ঠিকানা",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newWallet": "নুতন ওয়ালেট",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nextButton": "পরবর্তী",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "no": "না",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noContactsExport": "এক্সপোর্ট করার জন্য কোন কন্টাক্ট নেই",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noContactsImport": "ইম্পোর্ট করার জন্য নতুন কোন কন্টাক্ট নেই",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noQrCodeFound": "কোনো QR কোড পাওয়া যায়নি",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noSkipButton": "না, এড়িয়ে যান",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noUppercase": "না",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeAddress": "কাসপা নোড",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeDeleteMessage": "আপনি কি নিশ্চিতভাবে ডিলিট করে ফেলতে চান?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeDeleteTitle": "কাসপা নোড কনফিগারেশন ডিলিট করবেন?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNameEmpty": "নোডের নাম শূন্য হতে পারে না",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNameHint": "নোডের নাম লিখুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeUrlHint": "নোড এর URL লিখুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeUrlInvalid": "অবৈধ নোড URL",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodesSheetTitle": "কাসপা নোডস",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "off": "বন্ধ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "on": "চালু",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "paperWallet": "পেপার ওয়ালেট",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordBlank": "পাসওয়ার্ড খালি রাখা যাবে না",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordNoLongerRequiredToOpenParagraph": "এই ওয়ালেট খুলতে আপনার আর পাসওয়ার্ড লাগবে না।",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordWillBeRequiredToOpenParagraph": "ওয়ালেট খোলার জন্য এই পাসওয়ার্ডের প্রয়োজন হবে।",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordsDontMatch": "পাসওয়ার্ড মিলছে না",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pasteMnemonicError": "ক্লিপবোর্ড এর বিষয়বস্তু একটি বৈধ গোপন বাক্যাংশ নয়",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pending": "অনুমোদন অপেক্ষারত",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinConfirmError": "পিন সঠিক হয় নি",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinConfirmTitle": "আপনার পিন নিশ্চিত করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinCreateTitle": "একটি 6 অঙ্কের পিন তৈরি করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinEnterTitle": "পিন লিখুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinInvalid": "অবৈধ পিন প্রবেশ করা হয়েছে",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinMethod": "পিন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinSeedBackup": "গোপন সীড ব্যাকআপ করতে পিন লিখুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "preferences": "পছন্দ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "privacyPolicy": "গোপনীয়তা নীতি",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrInvalidAddress": "QR কোডে কোনো বৈধ ঠিকানা নেই",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrInvalidSeed": "QR কোডে একটি বৈধ সিড বা ব্যক্তিগত কী নেই",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrMnemonicError": "QR- এ একটি বৈধ গোপন বাক্যাংশ নেই",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receive": "গ্রহণ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddress": "গ্রহণ করার ঠিকানা",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddressCopied": "গ্রহণ করার ঠিকানা কপি করা হয়েছে ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveIndex": "ইনডেক্স গ্রহণ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveIndexParam": "গ্রহণ {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "received": "গৃহীত",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeContact": "কন্টাক্ট মুছে ফেলুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeContactConfirmation": "আপনি কি নিশ্চিত যে আপনি {contactName} মুছে ফেলতে চান?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletAction": "ওয়ালেট অপসারণ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletBiometricsMessage": "ওয়ালেট অপসারণ করতে প্রমাণীকরণ করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletDetail": "এই ওয়ালেটটি অপসারণ করা হলে এই ডিভাইস থেকে গোপন বাক্যাংশ এবং সমস্ত ওয়ালেট-সম্পর্কিত ডেটা মুছে যাবে৷ যদি গোপন বাক্যাংশ ব্যাক আপ না করা হয়, তাহলে আপনি আর কখনও আপনার তহবিল অ্যাক্সেস করতে পারবেন না।",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletPinMessage": "ওয়ালেট অপসরণ করতে পিন লিখুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletReassurance": "যেহেতু আপনি গোপন বাক্যাংশটি ব্যাক আপ করেছেন তাই আপনার উদ্বিগ্ন হওয়ার কিছু নেই।",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "requireAPasswordToOpenHeader": "এই ওয়ালেট খুলতে একটি পাসওয়ার্ড প্রয়োজন?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "restartSetupButton": "সেটআপ পুনরায় চালু করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanQrCode": "QR কোড স্ক্যান করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanQrCodeError": "কিউআর কোড পার্স করতে ব্যর্থ হয়েছে",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretInfo": "পরবর্তী পর্দায়, আপনি আপনার গোপন বাক্যাংশ দেখতে পাবেন। আপনার তহবিল অ্যাক্সেস করার জন্য এটি একটি পাসওয়ার্ড। এটি গুরুত্বপূর্ণ যে আপনি এটি ব্যাক আপ করুন এবং এটি কারও সাথে শেয়ার করবেন না।",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretInfoHeader": "নিরাপত্তাই প্রথম!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretPhrase": "গোপন বাক্যাংশ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretWarning": "আপনি যদি আপনার ডিভাইস হারিয়ে ফেলেন বা অ্যাপ্লিকেশনটি আনইনস্টল করেন, তাহলে আপনার তহবিল পুনরুদ্ধারের জন্য আপনার গোপন বাক্যাংশ বা সীড এর প্রয়োজন হবে!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "securityHeader": "নিরাপত্তা",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "seed": "সীড",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "seedInvalid": "অবৈধ সিড",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "send": "পাঠান",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendConfirm": "পাঠান",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendError": "একটি ত্রুটি ঘটেছে. পরে আবার চেষ্টা করুন।",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendNote": "মন্তব্য",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendToAddressTitle": "প্রতি",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendTxProgressDescription": "রাশি পাঠানো হযচ্ছে অনুগ্রহ করে অপেক্ষা করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendTxProgressTitle": "রাশি পাঠানো হচ্ছে",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sending": "পাঠানো",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sent": "পাঠানো হয়েছে",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sentTo": "পাঠানো",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setPassword": "পাসওয়ার্ড সেট করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setPasswordSuccess": "পাসওয়ার্ড সফলভাবে সেট করা হয়েছে",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setWalletPassword": "ওয়ালেট পাসওয়ার্ড সেট করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "settingsHeader": "সেটিংস",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "settingsTransfer": "পেপার ওয়ালেট থেকে লোড করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setupFailedMessage": "কিছু ভুল হয়েছে",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "shareKaspium": "কাসপিয়াম শেয়ার করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "shareKaspiumSubject": "কাসপিয়াম ওয়ালেট চেক আউট",
-  "shareKaspiumText": "কাসপিয়াম - কাসপা মোবাইল ওয়ালেট দেখুন।\nওয়েবসাইট - https://github.com/e4p1k0/karlsen_mobile",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspiumText": "কাসপিয়াম - কাসপা মোবাইল ওয়ালেট দেখুন।\nওয়েবসাইট - https://github.com/e4p1k0/karlsen_mobile/tree/pyrin"",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "somethingWentWrong": "কিছু ভুল হয়েছে",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "systemDefault": "সিস্টেমের ডিফল্ট",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tapToHide": "লুকানোর জন্য আলতো চাপুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tapToReveal": "দৃশ্যমান করতে আলতো চাপুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeDark": "ডার্ক থিম",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeHeader": "থিম",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeLight": "লাইট থিম",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "thisWallet": "#এই ওয়ালেট",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "to": "প্রতি",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "toAddress": "ঠিকানার প্রতি",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tooManyFailedAttempts": "আনলক করার অনেক ব্যর্থ প্রচেষ্টা।",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "totalValue": "মোট মূল্য",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transactionId": "লেনদেনের আইডি নাম্বার",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transactionsUppercase": "লেনদেন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transfer": "স্থানান্তর",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferClose": "এই উইন্ডো বন্ধ করতে যে কোনো জায়গায় আলতো চাপুন।",
-  "transferComplete": "{amount} KLS সফলভাবে আপনার Admiralium Wallet এ স্থানান্তরিত হয়েছে৷৷\n",
-  "transferConfirmInfo": "{amount} KLS ব্যালেন্স সহ একটি ওয়ালেট সনাক্ত করা হয়েছে৷",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferComplete": "{amount} PYI সফলভাবে আপনার Kapitanium Wallet এ স্থানান্তরিত হয়েছে৷৷\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferConfirmInfo": "{amount} PYI ব্যালেন্স সহ একটি ওয়ালেট সনাক্ত করা হয়েছে৷",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferConfirmInfoSecond": "রাশি স্থানান্তর করতে নিশ্চিত করে আলতো চাপুন।\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferConfirmInfoThird": "স্থানান্তর সম্পূর্ণ হতে কয়েক সেকেন্ড সময় লাগতে পারে।",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferError": "স্থানান্তরের সময় একটি ত্রুটি ঘটেছে৷ অনুগ্রহ করে একটু পরে আবার চেষ্টা করুন।",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferHeader": "তহবিল স্থানান্তর",
-  "transferIntro": "এই প্রক্রিয়াটি পেপার ওয়ালেট থেকে আপনার Admiralium ওয়ালেটে তহবিল স্থানান্তর করবে।\n\nশুরু করতে \"{button}\" বোতামে ট্যাপ করুন।",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferIntro": "এই প্রক্রিয়াটি পেপার ওয়ালেট থেকে আপনার Kapitanium ওয়ালেটে তহবিল স্থানান্তর করবে।\n\nশুরু করতে \"{button}\" বোতামে ট্যাপ করুন।",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferLoading": "স্থানান্তর করা হচ্ছে",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferManualHint": "অনুগ্রহ করে নীচে সিডটি লিখুন।",
-  "transferNoFunds": "এই সিড এ কোন KLS নেই",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferNoFunds": "এই সিড এ কোন PYI নেই",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferQrScanError": "এই QR কোডে বৈধ সিড নেই।",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferQrScanHint": "একটি কাসপা সীড স্ক্যান করুন\nবা ব্যক্তিগত কী",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unconfirmed": "অনিশ্চিত",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "notAccepted": "গ্রহনযোগ্য নয়",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "accepted": "গৃহীত",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unknown": "অজানা",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unlock": "আনলক",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unlockBiometrics": "ক্যাস্পিয়াম আনলক করার জন্য প্রমাণীকরণ করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unlockPin": "ক্যাস্পিয়াম আনলক করতে PIN লিখুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "utxosUppercase": "UTXOs",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "viewAddress": "ঠিকানা দেখুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "viewTransaction": "লেনদেন দেখুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletAddresses": "ওয়ালেট এর ঠিকানা",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletName": "ওয়ালেটের নাম",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletNameDescription": "আপনার ওয়ালেটের জন্য একটি নাম লিখুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletNameHint": "ওয়ালেটের নাম",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletSetupAddressDiscovery": "চলন্ত ঠিকানা আবিষ্কার করা",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletSetupMessage": "ওয়ালেট সেট আপ করা হচ্ছে",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletsTitle": "ওয়ালেটস",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "warning": "সতর্ক থাকুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "welcomeMessage": "স্বাগতম! \n\nএটি ক্যাস্পিয়ামের সংস্করণ {version} - কাস্পার জন্য মোবাইল ওয়ালেট",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "welcomeText": "কাস্পিয়ামে স্বাগতম। শুরু করার জন্য, আপনি একটি নতুন ওয়ালেট তৈরি করতে পারেন অথবা বিদ্যমান একটি ব্যবহার করতে পারেন।",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "xMinutes": "{minutes, plural, =1{1 মিনিট} other{{minutes} মিনিটের}} পরে",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yes": "হ্যাঁ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yesButton": "হ্যাঁ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yesUppercase": "হ্যাঁ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNotSyncedException": "নোড সিঙ্ক করা হয় নি",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNoUTXOIndexException": "এই নোডের UTXO ইনডেক্স নেই",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeSecureConnection": "নিরাপদ সংযোগ",
-  "kaspaUriInvalid": "অবৈধ Karlsen URI",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "kaspaUriInvalid": "অবৈধ Pyrin URI",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxos": "যৌগিক লেনদেন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxosDescription": "একাধিক UTXO একত্রিত করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxosConfirmation": "যৌগিক লেনদেন?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundingUtxos": "চক্রবৃদ্ধি লেনদেন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundingMessage": "অনুগ্রহপূর্বক অপেক্ষা করুন...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundSuccess": "যৌগ সফল",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundFailure": "যৌগিক লেনদেন করতে ব্যর্থ হয়েছে৷",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundTooFewUtxos": "কমপক্ষে দুটি UTXO প্রয়োজন৷",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "balance": "ব্যালেন্স",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "maxSend": "সর্বোচ্চ পাঠান",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUppercased": "যৌগ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "closeUppercased": "বন্ধ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanMoreAddresses": "আরও ঠিকানার জন্য স্ক্যান করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressDiscovery": "ঠিকানা আবিষ্কার",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanningTitle": "স্ক্যানিং",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanningDescription": "নতুন ঠিকানার জন্য স্ক্যান করা হচ্ছে...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanMore": "আরও স্ক্যান করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanFailedMessage": "স্ক্যান ব্যর্থ হয়েছে, অনুগ্রহ করে পরে আবার চেষ্টা করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "indexHeader": "ইনডেক্স",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currentIndex": "বর্তমান",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scannedIndex": "স্ক্যান করা হয়েছে",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newIndex": "নতুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogTitle": "ঠিকানা ফিল্টার",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogOptionAllAddresses": "সব ঠিকানা দেখুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogOptionNonZeroBalances": "ব্যালেন্স সহ ঠিকানা দেখুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption24WordsTitle": "24 শব্দের গোপন বাক্যাংশ আমদানি করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption24WordsDescription": "CLI ওয়ালেট এবং লেজারের সাথে সামঞ্জস্যপূর্ণ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption12WordsTitle": "12 শব্দের গোপন বাক্যাংশ আমদানি করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption12WordsDescription": "ওয়েব ওয়ালেট এবং KDX এর সাথে সামঞ্জস্যপূর্ণ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOptionKpubTitle": "শুধুমাত্র পর্যবেক্ষণ করার ওয়ালেট আমদানি করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOptionKpubDescription": "একটি বর্ধিত পাবলিক কী ব্যবহার করে একটি ওয়ালেটের ব্যালেন্স এবং লেনদেন নিরীক্ষণ করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpub": "শুধুমাত্র পর্যবেক্ষণ করার ওয়ালেট আমদানি করুন",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubHint": " দয়া করে আপনার বর্ধিত পাবলিক কী লিখুন।",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubClipboardError": "ক্লিপবোর্ড সামগ্রী একটি বৈধ বর্ধিত পাবলিক কী নয়",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubQrCodeError": "QR কোডে একটি বৈধ বর্ধিত পাবলিক কী নেই",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubInvalidMessage": "আপনার বর্ধিত পাবলিক কী সঠিকভাবে প্রবেশ করানো হয়েছে তা পরীক্ষা করুন!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddressListEmpty": "প্রাপ্তির ঠিকানা তালিকা খালি",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddressListEmpty": "ঠিকানা পরিবর্তনের তালিকা খালি",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "hintAddressListEmpty": "উপরের ডান কোণ থেকে ঠিকানা ফিল্টার চেক করুন"
+pp_af.arb
+pp_af.arb
+pp_af.arb
 }
+pp_af.arb
+pp_af.arb
+pp_af.arb

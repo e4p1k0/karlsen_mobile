@@ -1,305 +1,1220 @@
 {
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "@@last_modified": "2023-09-25T17:48:36.587Z",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "@@author": "arb-converter-cli",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "account": "Account",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "accounts": "Accounts",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "ackBackedUp": "Weet je zeker dat je een back-up hebt gemaakt van jouw Secret Phrase?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "add": "Toevoegen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addAccount": "Account toevoegen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addContact": "Contact toevoegen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNode": "Node toevoegen",
-  "addNodeFailed": "Karlsen node toevoegen mislukt",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "addNodeFailed": "Pyrin node toevoegen mislukt",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNodeFailedMessage": "Mislukt: {error}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNodeSuccess": "Node Succesvol Toegevoegd",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addingNodeMessage": "Wacht even terwijl de node wordt verbonden",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addingNodeTitle": "Node wordt toegevoegd",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "address": "Adres",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressCopied": "Adres gekopieerd",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressCopiedFailed": "Failed to copy address",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressHint": "Voer adres in",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressMising": "Voer a.u.b. een adres in",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressShare": "Deel adres",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "advancedHeader": "Geavanceerd",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amount": "Hoeveelheid",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountConfirm": "Hoeveelheid {amount} {coin}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountMissing": "Voer a.u.b. een hoeveelheid in",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountZero": "Hoeveelheid kan geen nul zijn",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "areYouSure": "Weet je het zeker?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authBiometricMessage": "Verificatie om wallet toe te voegen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authMethod": "Verificatiemethode",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authPinMessage": "Vul pincode in om wallet toe te voegen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "autoLockHeader": "Automatisch vergrendelen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "available": "Beschikbaar",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "backupConfirmButton": "Ik heb er een back-up van gemaakt",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "backupSecretPhrase": "Backup Secret Phrase",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "biometricsMethod": "Biometrie",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "blockExplorer": "Blok verkenner",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "cancel": "Annuleer",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "change": "Verander",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddress": "Verander adres",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddressCopied": "Verander adres gekopiëerd",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeIndex": "Verander Index",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeIndexParam": "Verander {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "checkCameraPermission": "Controleer aub camera toestemming",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "clipboardEmpty": "Klembord is leeg",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "close": "Sluiten",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirm": "Bevestig",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmPasswordHint": "Bevestig het wachtwoord",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmations": "{confirmations} bevestigingen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmed": "bevestigd",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirming": "bevestigen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactAdded": "{contactName} is toegevoegd aan contacten",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactAddressCopied": "{address} adres gekopieerd",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactExists": "Contact bestaat al",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactHeader": "Contact",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactInvalid": "Ongeldige contact naam",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactNameHint": "Voer naam in @",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactNameMissing": "Kies een naam voor dit contact",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactRemoved": "{contactName} is verwijderd uit contacten!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsHeader": "Contacten",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsImportErr": "Contacten importeren mislukt",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsImportSuccess": "{noContacts} contacten succesvol geïmporteerd",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copied": "Gekopieerd",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copy": "Kopiëren",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copyAddress": "Kopieer adres",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copyErrorButton": "Kopieer fout",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createAPasswordHeader": "Creëer een wachtwoord.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordFirstParagraph": "Je kan een wachtwoord maken om extra beveiliging aan jouw wallet toe te voegen.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordHint": "Creëer een wachtwoord",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordSecondParagraph": "Wachtwoord is optioneel en jouw wallet wordt in ieder geval met je pincode of biometrisch beveiligd.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordSheetHeader": "Creëer",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currency": "Valuta",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currencyPoweredBy": "Powered by CoinGecko",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultAccountName": "Adres 1",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultNewAccountName": "Ontvang {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultWalletName": "Mijn wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disablePasswordSheetHeader": "Uitschakelen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disablePasswordSuccess": "Wachtwoord is uitgeschakeld",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disableWalletPassword": "Wachtwoord van je wallet uitschakelen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "doContinue": "Doorgaan",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "donate": "Doneer",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "dontShowAgain": "Niet meer laten zien",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyCardIntroUtxos": "Dit is de UTXOs tab. Alle UTXOs in je wallet zullen hier te zien zijn",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyResult": "Leeg resultaat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyWalletName": "Naam wallet kan niet leeg zijn",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "encryptionFailedError": "Kan geen wachtwoord voor je wallet instellen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterAddress": "Vul adres in",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterAmount": "Vul bedrag in",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterNote": "Notitie invoeren",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterPasswordHint": "Voer je wachtwoord in",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "errorMessageCopied": "Fout melding gekopieerd naar klembord",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "exampleCardIntro": "Dit is de transactie Tab. Wanneer je een transactie stuurt of ontvangt, is deze hier te zien.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "export": "Exporteren",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fee": "Tarief",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "feeConfirm": "Tarief {amount} {coin}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "feeTitle": "TARIEF",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fetchingTransactions": "Transacties ophalen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fingerprintSeedBackup": "Authoriseer om een back-up van je Secret Phrase te maken",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "goBackButton": "Ga terug",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "gotItButton": "Begrepen!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "import": "Importeren",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhrase": "Importeer Secret Phrase",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHint": "Vul hieronder jouw uit 24 woorden bestaande Secret Phrase in",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHintCombo": "Please enter your 12 or 24 word secret phrase below.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHintLegacy": "Please enter your 12 word secret phrase below.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importWallet": "Importeer wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importWalletDescription": "Please select an option below.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "instantly": "Direct",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "insufficientBalance": "Onvoldoende saldo",
-  "insufficientBalanceDetails": "Je hebt niet genoeg KLS voor deze transactie",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "insufficientBalanceDetails": "Je hebt niet genoeg PYI voor deze transactie",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidAddress": "Ongeldig adres van ontvanger",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidAmount": "Ongeldige hoeveelheid",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidChecksumMessage": "Controleer a.u.b. of je Secret Phrase\n goed is ingevoerd!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidKpubMessage": "Please check that your extended public key is entered correctly!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidDestinationAddress": "Ongeldig ontvangstadres",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidPassword": "Wachtwoord ongeldig",
-  "kaspaDevFund": "Karlsen Dev Fund",
-  "kaspiumWallet": "Admiralium Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "kaspaDevFund": "Pyrin Dev Fund",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "kaspiumWallet": "Kapitanium Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "language": "Taal",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "loadingTransactions": "Laden Transacties...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "lockAppSetting": "Authoriseer bij opstarten",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "locked": "Vergrendeld",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "loggingOutMessage": "Uitloggen...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logout": "Uitloggen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logoutDialogContent": "Weet je zeker dat je uit wil loggen bij deze portemonnee?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logoutOrSwitchWallet": "Uitloggen / Portemonnee wisselen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "manage": "Beheren",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "manualEntry": "Handmatige invoer",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "networkHeader": "Netwerk",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newAddress": "Nieuw adres",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newWallet": "Nieuwe wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nextButton": "Volgende",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "no": "Nee",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noContactsExport": "Er zijn geen contacten aanwezig om te exporteren",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noContactsImport": "Geen nieuwe contacten gevonden om te importeren",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noQrCodeFound": "Geen QR code gevonden",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noSkipButton": "Nee, overslaan",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noUppercase": "Nee",
-  "nodeAddress": "Karlsen Node",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodeAddress": "Pyrin Node",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeDeleteMessage": "Weet je zeker dat je het wil verwijderen?",
-  "nodeDeleteTitle": "Verwijderen Karlsen Node configuratie?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodeDeleteTitle": "Verwijderen Pyrin Node configuratie?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNameEmpty": "Node naam kan niet leeg zijn",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNameHint": "Node Naam invoeren",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeUrlHint": "Invoeren Node URL",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeUrlInvalid": "Invalide node URL",
-  "nodesSheetTitle": "Karlsen Nodes",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodesSheetTitle": "Pyrin Nodes",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "off": "Uit",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "on": "Aan",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "paperWallet": "Paper wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordBlank": "Wachtwoord mag niet leeg zijn",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordNoLongerRequiredToOpenParagraph": "Je hebt geen wachtwoord meer nodig deze wallet te openen.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordWillBeRequiredToOpenParagraph": "Dit wachtwoord is vereist om deze wallet mee te openen.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordsDontMatch": "Wachtwoorden komen niet overeen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pasteMnemonicError": "Klembord inhoud is geen geldige Secret Phrase",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pending": "Afwachten",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinConfirmError": "Pincodes komen niet overeen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinConfirmTitle": "Bevestig pincode",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinCreateTitle": "Creëer een 6-cijferige pincode",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinEnterTitle": "Voer pincode in",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinInvalid": "Ongeldige pincode ingevoerd",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinMethod": "Pincode",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinSeedBackup": "Vul je pincode in om een back up te maken van je Secret Phrase",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "preferences": "Voorkeuren",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "privacyPolicy": "Privacybeleid",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrInvalidAddress": "QR code bevat geen geldig adres",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrInvalidSeed": "QR code bevat geen geldige seed of private key",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrMnemonicError": "QR code bevat geen geldige Secret Phrase",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receive": "Ontvang",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddress": "Ontvangstadres",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddressCopied": "Ontvangstadres gekopieerd",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveIndex": "Ontvang Index",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveIndexParam": "Ontvang {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "received": "Ontvangen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeContact": "Verwijder contact",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeContactConfirmation": "Weet je zeker dat je het contact {contactName} wilt verwijderen?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletAction": "Verwijder wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletBiometricsMessage": "Authenticatie om wallet te verwijderen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletDetail": "Als u deze wallet verwijdert, worden je Secret Phrase en alle aan de wallet gerelateerde gegevens van dit apparaat verwijderd. Als er geen back-up wordt gemaakt van je Secret Phrase, heb je nooit meer toegang tot je fondsen.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletPinMessage": "Vul PIN in om wallet te verwijderen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletReassurance": "Zolang je een back-up van de Secret Phrase hebt gemaakt, hoef je je nergens zorgen over te maken.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "requireAPasswordToOpenHeader": "Wachtwoord vereist om deze wallet te openen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "restartSetupButton": "Setup herstarten",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanQrCode": "Scan QR Code",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanQrCodeError": "Kan QR-code niet analyseren",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretInfo": "In het volgende scherm zie je jouw Secret Phrase. Het is een wachtwoord voor toegang tot jouw fondsen. Het is cruciaal dat je er een back-up van maakt en het nooit met iemand deelt.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretInfoHeader": "Veiligheid eerst!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretPhrase": "Secret Phrase",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretWarning": "Als je jouw apparaat verliest of deze app verwijdert, heb je jouw Secret Phrase nodig om je fondsen te herstellen!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "securityHeader": "Beveiliging",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "seed": "Seed",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "seedInvalid": "Seed is ongeldig",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "send": "Verstuur",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendConfirm": "Stuur",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendError": "Er is een fout opgetreden. Probeer het later nog eens.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendNote": "NOTITIE",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendToAddressTitle": "naar",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendTxProgressDescription": "Wacht even tot de transactie is verstuurd",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendTxProgressTitle": "Transactie versturen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sending": "Versturen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sent": "Verstuurd",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sentTo": "Verstuurd naar",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setPassword": "Wachtwoord aanmaken",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setPasswordSuccess": "Wachtwoord van je wallet is succesvol ingesteld",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setWalletPassword": "Stel een wachtwoord voor je portemonnee in",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "settingsHeader": "Instellingen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "settingsTransfer": "Van Paper Wallet importeren",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setupFailedMessage": "Er is iets verkeerd gegaan",
-  "shareKaspium": "Deel Admiralium",
-  "shareKaspiumSubject": "Probeer de Admiralium Wallet",
-  "shareKaspiumText": "Probeer Admiralium! Karlsen Mobiele Wallet.\nWebsite - https://github.com/e4p1k0/karlsen_mobile",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspium": "Deel Kapitanium",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspiumSubject": "Probeer de Kapitanium Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspiumText": "Probeer Kapitanium! Pyrin Mobiele Wallet.\nWebsite - https://github.com/e4p1k0/karlsen_mobile/tree/pyrin"",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "somethingWentWrong": "Er is iets verkeerd gegaan",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "systemDefault": "Systeem standaardinsteliingen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tapToHide": "Tik om te verbergen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tapToReveal": "Tik om zichtbaar te maken",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeDark": "Donker thema",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeHeader": "Thema",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeLight": "Licht thema",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "thisWallet": "#Deze Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "to": "Naar",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "toAddress": "Naar Adres",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tooManyFailedAttempts": "Te veel mislukte ontgrendelpogingen.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "totalValue": "Totale Waarde",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transactionId": "Transactie ID",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transactionsUppercase": "TRANSACTIES",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transfer": "Overzetten",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferClose": "Tik ergens om het venster te sluiten.",
-  "transferComplete": "{amount} Karlsen succesvol overgezet naar jouw Admiralium Wallet.\n",
-  "transferConfirmInfo": "Een wallet met een saldo van {amount} KLS is gedetecteerd.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferComplete": "{amount} Pyrin succesvol overgezet naar jouw Kapitanium Wallet.\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferConfirmInfo": "Een wallet met een saldo van {amount} PYI is gedetecteerd.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferConfirmInfoSecond": "Tik op bevestigen om het saldo over te zetten.\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferConfirmInfoThird": "Het overzetten kan enkele seconden duren om te voltooien.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferError": "Tijdens het overzetten is er een fout opgetreden. Probeer het later nog eens.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferHeader": "Saldo overzetten",
-  "transferIntro": "Met dit proces wordt het saldo van een paper wallet overgezet naar jouw Admiralium Wallet.\n\nTik op de \"{button}\" knop om te starten.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferIntro": "Met dit proces wordt het saldo van een paper wallet overgezet naar jouw Kapitanium Wallet.\n\nTik op de \"{button}\" knop om te starten.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferLoading": "Overzetten",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferManualHint": "A.u.b. hieronder de seed invoeren.",
-  "transferNoFunds": "Op deze seed staat geen KLS.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferNoFunds": "Op deze seed staat geen PYI.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferQrScanError": "Deze QR-code bevat geen geldige seed.",
-  "transferQrScanHint": "Scan een Karlsen \nseed of een private key",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferQrScanHint": "Scan een Pyrin \nseed of een private key",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unconfirmed": "onbevestigd",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "notAccepted": "not accepted",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "accepted": "accepted",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unknown": "Onbekend",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unlock": "Ontgrendelen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unlockBiometrics": "Verifiëren om wallet te ontgrendelen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unlockPin": "PIN invoeren om wallet te ontgrendelen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "utxosUppercase": "UTXOs",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "viewAddress": "Bekijk adres",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "viewTransaction": "Bekijk transactie",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletAddresses": "Adressen van je Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletName": "Naam van je wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletNameDescription": "Vul een naam voor je Wallet in",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletNameHint": "Naam van je Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletSetupAddressDiscovery": "Lopende adresdetectie",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletSetupMessage": "Set up van je Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletsTitle": "Wallets",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "warning": "WAARSCHUWING",
-  "welcomeMessage": "Welkom!\n\nDit is versie {version} van Admiralium - de mobiele wallet voor Karlsen",
-  "welcomeText": "Welkom bij Admiralium. Creëer een nieuwe wallet of importeer een bestaande wallet om verder te gaan.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "welcomeMessage": "Welkom!\n\nDit is versie {version} van Kapitanium - de mobiele wallet voor Pyrin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "welcomeText": "Welkom bij Kapitanium. Creëer een nieuwe wallet of importeer een bestaande wallet om verder te gaan.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "xMinutes": "Na {minutes, plural, =1{1 minute} other{{minutes} minutes}}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yes": "Ja",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yesButton": "Ja",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yesUppercase": "JA",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNotSyncedException": "Node draait niet synchroon",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNoUTXOIndexException": "Node heeft geen UTXO index",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeSecureConnection": "Beveiligde verbinding",
-  "kaspaUriInvalid": "Invalid Karlsen URI",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "kaspaUriInvalid": "Invalid Pyrin URI",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxos": "Compound transactions",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxosDescription": "Combine multiple UTXOs into one",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxosConfirmation": "Compound transactions?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundingUtxos": "Compounding transactions",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundingMessage": "Please wait...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundSuccess": "Compound successful",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundFailure": "Failed to compound transactions",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundTooFewUtxos": "At least two UTXOs are required",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "balance": "Balance",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "maxSend": "Max Send",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUppercased": "COMPOUND",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "closeUppercased": "CLOSE",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanMoreAddresses": "Scan For More Addresses",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressDiscovery": "Address Discovery",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanningTitle": "Scanning",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanningDescription": "Scanning for new addresses...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanMore": "SCAN MORE",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanFailedMessage": "Scan failed, please try again later",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "indexHeader": "Index",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currentIndex": "Current",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scannedIndex": "Scanned",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newIndex": "New",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogTitle": "Address Filter",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogOptionAllAddresses": "View All Addresses",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogOptionNonZeroBalances": "View Addresses With Balance",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption24WordsTitle": "Import 24 Word Secret Phrase",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption24WordsDescription": "Compatible with Cli Wallet and Ledger",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption12WordsTitle": "Import 12 Word Secret Phrase",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption12WordsDescription": "Compatible with Web Wallet and KDX",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOptionKpubTitle": "Import Watch Only Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOptionKpubDescription": "Monitor the balance and transactions of a wallet using an extended public key",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpub": "Import Watch Only Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubHint": "Please enter your extended public key.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubClipboardError": "Clipboard content is not a valid extended public key",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubQrCodeError": "QR code does not contain a valid extended public key",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubInvalidMessage": "Please check that your extended public key is entered correctly!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddressListEmpty": "Receive address list is empty",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddressListEmpty": "Change address list is empty",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "hintAddressListEmpty": "Check address filter from the top right corner"
+pp_af.arb
+pp_af.arb
+pp_af.arb
 }
+pp_af.arb
+pp_af.arb
+pp_af.arb

@@ -1,305 +1,1220 @@
 {
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "@@last_modified": "2023-09-30T20:57:42.789Z",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "@@author": "arb-converter-cli",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "account": "Рахунок",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "accounts": "Рахунки",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "ackBackedUp": "Ви впевнені, що зробили резервну копію вашої секретної seed-фрази ?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "add": "Додати",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addAccount": "Додати рахунок",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addContact": "Додати контакт",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNode": "Додати ноду",
-  "addNodeFailed": "Помилка додавання ноди Karlsen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "addNodeFailed": "Помилка додавання ноди Pyrin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNodeFailedMessage": "Невдало: {error}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNodeSuccess": "Нода додана успішно",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addingNodeMessage": "Будь-ласка, зачекайте, доки ми встановимо з'єднання з нодою",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addingNodeTitle": "Додавання ноди",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "address": "Адреса",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressCopied": "Адресу скопійовано",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressCopiedFailed": "Не вдалося скопіювати адресу",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressHint": "Введіть адресу",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressMising": "Будь-ласка, введіть адресу",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressShare": "Поділитися адресою",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "advancedHeader": "Додаткові налаштування",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amount": "Сума",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountConfirm": "Сума {amount} {coin}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountMissing": "Будь-ласка, введіть суму",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountZero": "Сума не може бути рівна нулю",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "areYouSure": "Ви впевнені?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authBiometricMessage": "Авторизуйтесь, щоб додати гаманець",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authMethod": "Метод автентифікації",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authPinMessage": "Введіть PIN-код, щоб додати гаманець.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "autoLockHeader": "Автоматично блокувати",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "available": "Доступно",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "backupConfirmButton": "Резервну копію створено",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "backupSecretPhrase": "Резервна копія секретної фрази",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "biometricsMethod": "Біометрія",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "blockExplorer": "Дослідник блокчейну",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "cancel": "Скасувати",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "change": "Решта",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddress": "Адреса решти",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddressCopied": "Адресу решти скопійовано",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeIndex": "Індекс решти",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeIndexParam": "Решта {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "checkCameraPermission": "Будь-ласка, перевірте права доступу до камери",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "clipboardEmpty": "Буфер обміну порожній",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "close": "Закрити",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirm": "Підтвердити",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmPasswordHint": "Підтвердити пароль",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmations": "{confirmations} підтведжень",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmed": "підтверджено",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirming": "підтверджується",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactAdded": "{contactName} додано до контактів",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactAddressCopied": "адресу {address} скопійовано",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactExists": "Такий контакт вже існує",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactHeader": "Контакт",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactInvalid": "Невірне ім'я контакта",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactNameHint": "Введіть ім'я @",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactNameMissing": "Введіть ім'я контакта",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactRemoved": "{contactName} було видалено з контактів!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsHeader": "Контакти",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsImportErr": "Не вдалося імпортувати контакти",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsImportSuccess": "Успішно імпортовано {noContacts} контактів",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copied": "Скопійовано",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copy": "Копіювати",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copyAddress": "Копіювати адресу",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copyErrorButton": "Помилка копіювання",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createAPasswordHeader": "Встановити пароль.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordFirstParagraph": "Ви можете встановити пароль для додаткового захисту вашого гаманця.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordHint": "Встановити пароль",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordSecondParagraph": "Пароль є опціональним, в будь-якому разі ваш гаманець буде захищений вашим PIN-кодом або біометричними даними.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordSheetHeader": "Створити",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currency": "Валюта",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currencyPoweredBy": "За допомогою CoinGecko",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultAccountName": "Адреса 1",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultNewAccountName": "Отримання {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultWalletName": "Мій гаманець",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disablePasswordSheetHeader": "Вимкнути",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disablePasswordSuccess": "Пароль було вимкнено",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disableWalletPassword": "Вимкнути пароль гаманця",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "doContinue": "Продовжити",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "donate": "Пожертвувати",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "dontShowAgain": "Не показувати знову",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyCardIntroUtxos": "Це вкладка невитраченого результату транзакції - UTXO. Усі UTXOs у вашому гаманці з'являтимуться тут.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyResult": "Порожній результат",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyWalletName": "Назва гаманця не може бути порожньою",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "encryptionFailedError": "Не вдалося встановити пароль гаманця",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterAddress": "Введіть адресу",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterAmount": "Введіть суму",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterNote": "Введіть примітку",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterPasswordHint": "Введіть пароль",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "errorMessageCopied": "Повідомлення про помилку скопійовано в буфер обміну",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "exampleCardIntro": "Це вкладка транзакцій. Як тільки ви надішлете або отримаєте транзакцію - вона з'явиться тут.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "export": "Експорт",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fee": "Комісія",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "feeConfirm": "Комісія {amount} {coin}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "feeTitle": "КОМІСІЯ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fetchingTransactions": "Завантаження транзакцій",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fingerprintSeedBackup": "Автентифікуйтесь, щоб зробити резервну копію секретної seed-фрази.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "goBackButton": "Назад",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "gotItButton": "Зрозуміло!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "import": "Імпортувати",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhrase": "Імпортувати секретну фразу",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHint": "Будь-ласка, введіть вашу секретну seed фразу з 24-ох слів нижче.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHintCombo": "Будь ласка, введіть свою секретну фразу з 12 або 24 слів нижче.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHintLegacy": "Будь ласка, введіть свою секретну фразу з 12 слів нижче.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importWallet": "Імпортувати гаманець",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importWalletDescription": "Будь ласка, оберіть варіант нижче.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "instantly": "Миттєво",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "insufficientBalance": "Недостатній баланс",
-  "insufficientBalanceDetails": "У вас недостатньо KLS для даної транзакції",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "insufficientBalanceDetails": "У вас недостатньо PYI для даної транзакції",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidAddress": "Введено неправильну адресу",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidAmount": "Неправильна сума",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidChecksumMessage": "Будь-ласка, перевірте правильність введення вашої \nсекретної seed-фрази!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidKpubMessage": "Будь ласка, перевірте правильність введення вашого розширеного публічного ключа!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidDestinationAddress": "Неправильна адреса призначення",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidPassword": "Невірний пароль",
-  "kaspaDevFund": "Фонд розвитку Karlsen",
-  "kaspiumWallet": "Гаманець Admiralium",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "kaspaDevFund": "Фонд розвитку Pyrin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "kaspiumWallet": "Гаманець Kapitanium",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "language": "Мова",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "loadingTransactions": "Завантаження транзакцій...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "lockAppSetting": "Аутентифікуватися при вході",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "locked": "Заблоковано",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "loggingOutMessage": "Вихід з системи...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logout": "Вийти",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logoutDialogContent": "Ви впевнені, що хочете вийти з цього гаманця?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logoutOrSwitchWallet": "Вийти / Змінити гаманець",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "manage": "Управління",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "manualEntry": "Ручне введення",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "networkHeader": "Мережа",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newAddress": "Нова адреса",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newWallet": "Новий гаманець",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nextButton": "Далі",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "no": "Ні",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noContactsExport": "Немає контактів для експорту",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noContactsImport": "Немає нових контактів для імпорту",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noQrCodeFound": "QR-Код не знайдено",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noSkipButton": "Ні, пропустити",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noUppercase": "НІ",
-  "nodeAddress": "Нода Karlsen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodeAddress": "Нода Pyrin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeDeleteMessage": "Ви впевнені, що бажаєте видалити?",
-  "nodeDeleteTitle": "Видалити конфігурацію ноди Karlsen?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodeDeleteTitle": "Видалити конфігурацію ноди Pyrin?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNameEmpty": "Назва ноди не може бути порожньою",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNameHint": "Введіть назву ноди",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeUrlHint": "Введіть URL-адресу Ноди",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeUrlInvalid": "Невірна URL-адреса ноди",
-  "nodesSheetTitle": "Ноди Karlsen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodesSheetTitle": "Ноди Pyrin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "off": "Вимкнено",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "on": "Увімкнено",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "paperWallet": "Паперовий гаманець",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordBlank": "Пароль не може бути порожнім",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordNoLongerRequiredToOpenParagraph": "Вам більше не знадобиться пароль, щоб відкрити цей гаманець.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordWillBeRequiredToOpenParagraph": "Цей пароль буде необхідним, щоб відкрити даний гаманець.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordsDontMatch": "Паролі не співпадають",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pasteMnemonicError": "Вміст буфера обміну не є дійсною секретною seed-фразою",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pending": "очікується",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinConfirmError": "PIN-коди не співпадають",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinConfirmTitle": "Підтвердіть ваш PIN-код",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinCreateTitle": "Створіть PIN-код з 6-ти цифр",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinEnterTitle": "Введіть PIN-код",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinInvalid": "Введено невірний PIN-код",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinMethod": "PIN-Код",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinSeedBackup": "Введіть PIN-код, щоб створити резервну копію секретної seed-фрази",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "preferences": "Налаштування",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "privacyPolicy": "Політика приватності",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrInvalidAddress": "QR-Код не містить дійсну адресу",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrInvalidSeed": "QR-код не містить правильної секретної seed-фрази або приватного ключа",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrMnemonicError": "QR-код не містить правильної секретної seed-фрази",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receive": "Отримати",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddress": "Адреса отримання",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddressCopied": "Адресу отримання скопійовано",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveIndex": "Індекс отримання",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveIndexParam": "Отримання {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "received": "Отримано",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeContact": "Видалити контакт",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeContactConfirmation": "Ви впевнені, що хочете видалити {contactName}?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletAction": "Видалити гаманець",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletBiometricsMessage": "Авторизуйтесь, щоб видалити гаманець",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletDetail": "Видалення цього гаманця призведе до видалення секретної seed-фрази та всіх даних, пов'язаних з гаманцем, з цього пристрою. Якщо ви не збережете резервну копію секретної seed-фрази - ви більше ніколи не зможете отримати доступ до своїх коштів.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletPinMessage": "Введіть PIN-код для видалення гаманця",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletReassurance": "До тих пір, допоки ви створили та зберігаєте резервну копію секретної seed-фрази у безпечному місці - вам немає про що хвилюватися.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "requireAPasswordToOpenHeader": "Вимагати пароль, щоб відкрити цей гаманець?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "restartSetupButton": "Перезапуск налаштувань",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanQrCode": "Сканувати QR-код",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanQrCodeError": "Не вдалося розпізнати QR-код",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretInfo": "На наступному екрані ви побачите свою секретну seed-фразу. Це пароль для доступу до ваших коштів. Надзвичайно важливо, щоб ви створили його резервну копію і ніколи нікому її не повідомляли.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretInfoHeader": "Перш за все - безпека!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretPhrase": "Секретна seed-фраза",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretWarning": "Якщо ви втратите ваш пристрій або видалите додаток, вам обов'язково та неминуче знадобиться ваша секретна seed-фраза, щоб відновити кошти!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "securityHeader": "Безпека",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "seed": "Seed-фраза",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "seedInvalid": "Невірна seed-фраза",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "send": "Надіслати",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendConfirm": "Надіслати",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendError": "Виникла помилка. Будь-ласка, спробуйте ще раз",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendNote": "НОТАТКА",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendToAddressTitle": "До",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendTxProgressDescription": "Будь-ласка, зачекайте, поки транзакція буде надіслана",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendTxProgressTitle": "Надсилаємо транзакцію",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sending": "Надіслати",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sent": "Надіслано",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sentTo": "Надіслано до",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setPassword": "Встановити пароль",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setPasswordSuccess": "Пароль було успішно встановлено",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setWalletPassword": "Встановити пароль гаманця",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "settingsHeader": "Налаштування",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "settingsTransfer": "Завантажити з паперового гаманця",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setupFailedMessage": "Щось пішло не так",
-  "shareKaspium": "Поділитися Admiralium",
-  "shareKaspiumSubject": "Спробуйте гаманець Admiralium",
-  "shareKaspiumText": "Спробуйте Admiralium - мобільний гаманець Karlsen.\nВебсайт - https://github.com/e4p1k0/karlsen_mobile",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspium": "Поділитися Kapitanium",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspiumSubject": "Спробуйте гаманець Kapitanium",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspiumText": "Спробуйте Kapitanium - мобільний гаманець Pyrin.\nВебсайт - https://github.com/e4p1k0/karlsen_mobile/tree/pyrin"",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "somethingWentWrong": "Щось пішло не так",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "systemDefault": "Системна за замовчуванням",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tapToHide": "Натисніть, щоб приховати",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tapToReveal": "Натисність, щоб показати",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeDark": "Темна тема",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeHeader": "Тема",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeLight": "Світла тема",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "thisWallet": "#Цей гаманець",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "to": "До",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "toAddress": "На адресу",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tooManyFailedAttempts": "Занадто багато невдалих спроб розблокування.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "totalValue": "Загальна сума",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transactionId": "Ідентифікатор транзакції",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transactionsUppercase": "ТРАНЗАКЦІЇ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transfer": "Переказ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferClose": "Натисніть будь-де, щоб закрити вікно.",
-  "transferComplete": "{amount} KLS успішно перераховано до вашого гаманця Admiralium. \n",
-  "transferConfirmInfo": "Виявлено гаманець з балансом {amount} KLS.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferComplete": "{amount} PYI успішно перераховано до вашого гаманця Kapitanium. \n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferConfirmInfo": "Виявлено гаманець з балансом {amount} PYI.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferConfirmInfoSecond": "Натисніть \"Підтвердити\" для переказу коштів.\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferConfirmInfoThird": "Виконання переказу може зайняти кілька секунд.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferError": "Під час переказу сталася помилка. Будь-ласка, спробуйте пізніше.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferHeader": "Переказати кошти",
-  "transferIntro": "Цей процес перенесе кошти з паперового гаманця у ваш гаманець Admiralium.\n\nНатисніть кнопку \"{button}\", щоб почати.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferIntro": "Цей процес перенесе кошти з паперового гаманця у ваш гаманець Kapitanium.\n\nНатисніть кнопку \"{button}\", щоб почати.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferLoading": "Переказується",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferManualHint": "Будь-ласка, введіть вашу seed-фразу нижче.",
-  "transferNoFunds": "Ця seed-фраза не містить KLS на балансі.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferNoFunds": "Ця seed-фраза не містить PYI на балансі.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferQrScanError": "Цей QR-код не містить правильної seed-фрази.",
-  "transferQrScanHint": "Сканувати seed-фразу \nKarlsen або приватний ключ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferQrScanHint": "Сканувати seed-фразу \nPyrin або приватний ключ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unconfirmed": "непідтверджено",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "notAccepted": "не прийнято",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "accepted": "прийнято",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unknown": "невідомий",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unlock": "Розблокувати",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unlockBiometrics": "Автентифікуйтесь, щоб розблокувати гаманець",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unlockPin": "Введіть PIN-код, щоб розблокувати гаманець",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "utxosUppercase": "UTXOs",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "viewAddress": "Переглянути адресу",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "viewTransaction": "Переглянути транзакцію",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletAddresses": "Адреси гаманця",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletName": "Назва гаманця",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletNameDescription": "Введіть назву для вашого гаманця",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletNameHint": "Назва гаманця",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletSetupAddressDiscovery": "Запущено пошук адрес",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletSetupMessage": "Створення гаманця",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletsTitle": "Гаманці",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "warning": "Попередження",
-  "welcomeMessage": "Ласкаво просимо!\n\nЦе версія {version} Admiralium - мобільного гаманця Karlsen.",
-  "welcomeText": "Вітаємо в Admiralium. Щоб розпочати, створіть новий гаманець або імпортуйте існуючий.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "welcomeMessage": "Ласкаво просимо!\n\nЦе версія {version} Kapitanium - мобільного гаманця Pyrin.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "welcomeText": "Вітаємо в Kapitanium. Щоб розпочати, створіть новий гаманець або імпортуйте існуючий.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "xMinutes": "Після {minutes, plural, =1{1 хвилини} other{{minutes} хвилин}}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yes": "Так",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yesButton": "Так",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yesUppercase": "ТАК",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNotSyncedException": "Нода не синхронізована",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNoUTXOIndexException": "Нода не має індексу UTXO",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeSecureConnection": "Захищене з'єднання",
-  "kaspaUriInvalid": "Невірний URI Karlsen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "kaspaUriInvalid": "Невірний URI Pyrin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxos": "Об'єднати транзакції",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxosDescription": "Об'єднати декілька UTXO в один",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxosConfirmation": "Об'єднати транзакції?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundingUtxos": "Об'єднування транзакцій",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundingMessage": "Будь ласка, зачекайте...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundSuccess": "Об'єднання завершено успішно",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundFailure": "Не вдалося об'єднати транзакції",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundTooFewUtxos": "Потрібно принаймні два UTXO",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "balance": "Баланс",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "maxSend": "Надіслати максимум ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUppercased": "ОБ'ЄДНАТИ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "closeUppercased": "ЗАКРИТИ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanMoreAddresses": "Сканувати більше адрес",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressDiscovery": "Виявлення адрес",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanningTitle": "Сканування",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanningDescription": "Сканування нових адрес...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanMore": "СКАНУВАТИ БІЛЬШЕ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanFailedMessage": "Сканування не вдалося, спробуйте пізніше",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "indexHeader": "Індекс",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currentIndex": "Поточний",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scannedIndex": "Відскановано",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newIndex": "Новий",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogTitle": "Фільтр адрес",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogOptionAllAddresses": "Переглянути всі адреси",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogOptionNonZeroBalances": "Переглянути адреси з балансом",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption24WordsTitle": "Імпортувати секретну фразу з 24 слів",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption24WordsDescription": "Сумісний з консольним гаманцем CLI та Ledger",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption12WordsTitle": "Імпортувати секретну фразу з 12 слів",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption12WordsDescription": "Сумісний з веб-гаманцем та KDX",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOptionKpubTitle": "Імпортувати гаманець тільки для перегладу",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOptionKpubDescription": "Контролюйте баланс і транзакції гаманця за допомогою розширеного публічного ключа",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpub": "Імпортувати гаманець тільки для перегладу",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubHint": "Будь ласка, введіть ваш розширений публічний ключ.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubClipboardError": "Вміст буфера обміну не є дійсним розширеним публічним ключем",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubQrCodeError": "QR-код не містить дійсного розширеного публічного ключа",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubInvalidMessage": "Будь ласка, перевірте, чи ваш розширений публічний ключ введено коректно!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddressListEmpty": "Список адрес для отримування порожній",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddressListEmpty": "Список адрес для решти порожній",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "hintAddressListEmpty": "Перевірте фільтр адрес у верхньому правому кутку"
+pp_af.arb
+pp_af.arb
+pp_af.arb
 }
+pp_af.arb
+pp_af.arb
+pp_af.arb

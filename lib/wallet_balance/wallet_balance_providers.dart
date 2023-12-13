@@ -143,7 +143,7 @@ final formatedKaspaPriceProvider = Provider.autoDispose((ref) {
     decimalDigits: decimals,
   ).format(DecimalIntl(price));
 
-  return '$priceStr / KLS';
+  return '$priceStr / PYI';
 });
 
 final formatedTotalBtcProvider = Provider.autoDispose((ref) {

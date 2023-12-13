@@ -95,7 +95,7 @@ final addressPrefixProvider = Provider((ref) {
 final _kaspaApiProvider = Provider<KaspaApi>((ref) {
   final network = ref.watch(networkProvider);
   if (network == KaspaNetwork.mainnet) {
-    return KaspaApiMainnet('https://api.karlsencoin.com');
+    return KaspaApiMainnet('https://api.pyrin.network');
   }
   return KaspaApiEmpty();
 });

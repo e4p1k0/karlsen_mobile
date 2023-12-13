@@ -1,305 +1,1220 @@
 {
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "@@last_modified": "2023-09-25T17:48:36.587Z",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "@@author": "arb-converter-cli",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "account": "Tili",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "accounts": "Tilit",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "ackBackedUp": "Oletko varma että olet varmuuskopioinut turvasanasi?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "add": "Lisää",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addAccount": "Lisää tili",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addContact": "Lisää yhteystieto",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNode": "Lisää solmu",
-  "addNodeFailed": "Karlsen-solmun lisääminen epäonnistui",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "addNodeFailed": "Pyrin-solmun lisääminen epäonnistui",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNodeFailedMessage": "Virhe: {error}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNodeSuccess": "Solmu lisätty onnistuneesti",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addingNodeMessage": "Odota kunnes yhteys solmuun luotu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addingNodeTitle": "Lisätään solmua",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "address": "Osoite",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressCopied": "Osoite kopioitu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressCopiedFailed": "Osoitteen kopiointi epäonnistui",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressHint": "Syötä osoite",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressMising": "Syötä osoite",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressShare": "Jaa osoite",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "advancedHeader": "Edistynyt",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amount": "Määrä",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountConfirm": "Määrä {amount} {coin}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountMissing": "Syötä määrä",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountZero": "Määrä ei voi olla nolla",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "areYouSure": "Oletko varma?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authBiometricMessage": "Tunnistaudu lisätäksesi lompakon",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authMethod": "Tunnistautumistapa",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authPinMessage": "Syötä PIN-koodi lisätäksesi lompakon",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "autoLockHeader": "Lukitse automaattisesti",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "available": "Saatavilla",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "backupConfirmButton": "Olen varmuuskopioinut",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "backupSecretPhrase": "Varmuuskopioi turvasanat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "biometricsMethod": "Biometriikka",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "blockExplorer": "Lohkoselain",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "cancel": "Peruuta",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "change": "Vaihtoraha",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddress": "Vaihtorahaosoite",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddressCopied": "Vaihtorahaosoite kopioitu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeIndex": "Vaihtorahaindeksi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeIndexParam": "Vaihtoraha {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "checkCameraPermission": "Tarkista kameran käyttöoikeudet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "clipboardEmpty": "Leikepöytä on tyhjä",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "close": "Sulje",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirm": "Vahvista",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmPasswordHint": "Vahvista salasana",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmations": "{confirmations} vahvistusta",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmed": "Vahvistettu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirming": "Vahvistetaan",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactAdded": "{contactName} on lisätty yhteystietoihin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactAddressCopied": "{address} osoite kopioitu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactExists": "Yhteystieto on jo olemassa",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactHeader": "Yhteystieto",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactInvalid": "Virheellinen yhteystiedon nimi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactNameHint": "Lisää nimi @",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactNameMissing": "Valitse tälle yhteystiedolle nimi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactRemoved": "{contactName} on poistettu yhteystiedoista!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsHeader": "Yhteystiedot",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsImportErr": "Yhteystietojen tuonti epäonnistui",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsImportSuccess": "{noContacts} yhteystietoa tuotu onnistuneesti",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copied": "Kopioitu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copy": "Kopioi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copyAddress": "Kopioi osoite",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copyErrorButton": "Kopiointivirhe",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createAPasswordHeader": "Luo salasana.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordFirstParagraph": "Voit luoda salasanan lisätäksesi turvallisuutta lompakollesi.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordHint": "Luo salasana",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordSecondParagraph": "Salasana ei ole pakollinen, ja lompakkosi suojataan PIN-koodilla tai biometriikalla joka tapauksessa.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordSheetHeader": "Luo",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currency": "Valuutta",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currencyPoweredBy": "Palvelun tarjoaa CoinGecko",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultAccountName": "Osoite 1",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultNewAccountName": "Vastaanotto {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultWalletName": "Lompakkoni",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disablePasswordSheetHeader": "Kytke pois",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disablePasswordSuccess": "Salasana poistettu käytöstä",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disableWalletPassword": "Kytke pois lompakon salasana",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "doContinue": "Jatka",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "donate": "Lahjoita",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "dontShowAgain": "Älä näytä uudelleen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyCardIntroUtxos": "Tämä on UTXO-välilehti. Kaikki lompakkosi UTXO:t näkyvät täällä",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyResult": "Tyhjä tulos",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyWalletName": "Lompakon nimi ei voi olla tyhjä",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "encryptionFailedError": "Lompakon salasanan asetus epäonnistui",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterAddress": "Syötä osoite",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterAmount": "Syötä määrä",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterNote": "Syötä viesti",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterPasswordHint": "Syötä salasana",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "errorMessageCopied": "Virheviesti kopioitu leikepöydälle",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "exampleCardIntro": "Tämä on tapahtumien välilehti. Kun olet lähettänyt tai vastaanottanut tapahtumia, ne näkyvät täällä.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "export": "Vie",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fee": "Taksa",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "feeConfirm": "Taksa {amount} {coin}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "feeTitle": "TAKSA",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fetchingTransactions": "Haetaan tapahtumia",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fingerprintSeedBackup": "Tunnistaudu varmuuskopioidaksesi turvasanat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "goBackButton": "Takaisin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "gotItButton": "Selvä!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "import": "Tuo",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhrase": "Tuo turvasanat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHint": "Syötä 24 turvasanaa alle",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHintCombo": "Syötä 12 tai 24 turvasanaa alle.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHintLegacy": "Syötä 12 turvasanaa alle.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importWallet": "Tuo lompakko",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importWalletDescription": "Valitse yksi vaihtoehto alta.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "instantly": "Välittömästi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "insufficientBalance": "Riittämätön määrä",
-  "insufficientBalanceDetails": "Sinulla ei ole tapahtuman vaatimaa KLS-määrää",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "insufficientBalanceDetails": "Sinulla ei ole tapahtuman vaatimaa PYI-määrää",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidAddress": "Syöttämäsi osoite on virheellinen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidAmount": "Virheellinen määrä",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidChecksumMessage": "Tarkista että turvasanat\n ovat syötetty oikein!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidKpubMessage": "Varmista että laajennettu julkinen avaimesi on syötetty oikein!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidDestinationAddress": "Vastaanottajan osoite on virheellinen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidPassword": "Virheellinen salasana",
-  "kaspaDevFund": "Karlsenn kehitysvarat",
-  "kaspiumWallet": "Admiralium-lompakko",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "kaspaDevFund": "Pyrinn kehitysvarat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "kaspiumWallet": "Kapitanium-lompakko",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "language": "Kieli",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "loadingTransactions": "Ladataan tapahtumia...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "lockAppSetting": "Tunnistaudu käynnistettäessä",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "locked": "Lukittu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "loggingOutMessage": "Kirjaudutaan ulos...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logout": "Kirjaudu ulos",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logoutDialogContent": "Oletko varma, että haluat kirjautua ulos tästä lompakosta?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logoutOrSwitchWallet": "Kirjaudu ulos / Vaihda lompakkoa",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "manage": "Hallinnoi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "manualEntry": "Manuaalinen kirjaus",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "networkHeader": "Verkko",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newAddress": "Uusi osoite",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newWallet": "Uusi lompakko",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nextButton": "Seuraava",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "no": "Ei",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noContactsExport": "Ei ole yhteystietoja, joita viedä",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noContactsImport": "Ei uusia yhteystietoja, joita tuoda",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noQrCodeFound": "QR-koodia ei löytynyt",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noSkipButton": "Ei, ohita",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noUppercase": "EI",
-  "nodeAddress": "Karlsen-solmu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodeAddress": "Pyrin-solmu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeDeleteMessage": "Haluatko varmasti poistaa?",
-  "nodeDeleteTitle": "Poista Karlsen-solmun asetukset?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodeDeleteTitle": "Poista Pyrin-solmun asetukset?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNameEmpty": "Solmun nimi ei voi olla tyhjä",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNameHint": "Syötä solmun nimi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeUrlHint": "Syötä solmun URL-osoite",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeUrlInvalid": "Virheellinen solmun URL-osoite",
-  "nodesSheetTitle": "Karlsen-solmut",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodesSheetTitle": "Pyrin-solmut",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "off": "Pois päältä",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "on": "Päälle",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "paperWallet": "Paperilompakko",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordBlank": "Salasana ei voi olla tyhjä",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordNoLongerRequiredToOpenParagraph": "Et tule tarvitsemaan salasanaa avataksesi tätä lompakkoa.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordWillBeRequiredToOpenParagraph": "Tämä salasana vaaditaan tämän lompakon avaamiseen.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordsDontMatch": "Salasanat eivät täsmää",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pasteMnemonicError": "Leikepöytä ei sisällä valideja turvasanoja",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pending": "odottaa",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinConfirmError": "PIN-koodit eivät täsmää",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinConfirmTitle": "Vahvista PIN-koodisi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinCreateTitle": "Luo 6-numeroinen PIN-koodi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinEnterTitle": "Syötä PIN-koodi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinInvalid": "Väärä PIN-koodi syötetty",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinMethod": "PIN-koodi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinSeedBackup": "Syötä PIN-koodi varmuuskopioidaksesi turvasanat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "preferences": "Asetukset",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "privacyPolicy": "Tietosuojatiedote",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrInvalidAddress": "QR-koodi ei sisällä validia osoitetta",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrInvalidSeed": "QR-koodi ei sisällä validia seediä tai yksityistä avainta",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrMnemonicError": "QR-koodi ei sisällä valideja turvasanoja",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receive": "Vastaanota",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddress": "Vastaanotto-osoite",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddressCopied": "Vastaanotto-osoite kopioitu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveIndex": "Vastaanottoindeksi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveIndexParam": "Vastaanotto {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "received": "Vastaanotettu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeContact": "Poista yhteystieto",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeContactConfirmation": "Oletko varma että haluat poistaa {contactName}?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletAction": "Poista lompakko",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletBiometricsMessage": "Tunnistaudu poistaaksesi lompakon",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletDetail": "Poistamalla tämän lompakon tästä laitteesta poistuvat myös turvasanat ja kaikki lompakon tiedot. Jos turvasanoja ei ole varmuuskopioitu, et tule koskaan pääsemään käsiksi varoihin uudestaan.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletPinMessage": "Syötä PIN-koodi poistaaksesi lompakon",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletReassurance": "Kunhan olet varmuuskopioinut turvasanasi, ei sinulla ole mitään huolta.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "requireAPasswordToOpenHeader": "Vaaditaanko salasana tämän lompakon avaamiseen?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "restartSetupButton": "Käynnistä alustus uudelleen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanQrCode": "Skannaa QR-koodi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanQrCodeError": "QR-koodin jäsentäminen epäonnistui",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretInfo": "Seuraavalla sivulla näet turvasanasi. Ne ovat salasanasi päästäksesi käsiksi varoihisi. On todella tärkeää, että varmuuskopioit ne etkä ikinä jaa niitä kenellekään.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretInfoHeader": "Turvallisuus ensin!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretPhrase": "Turvasanat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretWarning": "Mikäli hävität laitteesi tai poistat sovelluksen, tarvitset turvasanasi palauttaaksesi varasi!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "securityHeader": "Turvallisuus",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "seed": "Seed",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "seedInvalid": "Seed on virheellinen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "send": "Lähetä",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendConfirm": "Lähetä",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendError": "Tapahtui virhe. Yritä uudelleen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendNote": "VIESTI",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendToAddressTitle": "Vastaanottajalle",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendTxProgressDescription": "Odota kunnes tapahtuma on lähetetty",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendTxProgressTitle": "Lähetetään tapahtumaa",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sending": "Lähetä",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sent": "Lähetetty",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sentTo": "Lähetä vastaanottajalle",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setPassword": "Aseta salasana",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setPasswordSuccess": "Lompakon salasana asetettu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setWalletPassword": "Aseta lompakon salasana",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "settingsHeader": "Asetukset",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "settingsTransfer": "Lataa paperilompakosta",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setupFailedMessage": "Jokin meni pieleen",
-  "shareKaspium": "Jaa Admiralium",
-  "shareKaspiumSubject": "Käy tutustumassa Admiralium-lompakkoon",
-  "shareKaspiumText": "Käy tutustumassa Admiraliumiin — Karlsen-mobiililompakko.\nVerkkosivusto — https://github.com/e4p1k0/karlsen_mobile",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspium": "Jaa Kapitanium",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspiumSubject": "Käy tutustumassa Kapitanium-lompakkoon",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspiumText": "Käy tutustumassa Kapitaniumiin — Pyrin-mobiililompakko.\nVerkkosivusto — https://github.com/e4p1k0/karlsen_mobile/tree/pyrin"",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "somethingWentWrong": "Jokin meni pieleen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "systemDefault": "Järjestelmän oletusarvo",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tapToHide": "Piilota napauttamalla",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tapToReveal": "Tuo esiin napauttamalla",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeDark": "Tumma teema",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeHeader": "Teema",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeLight": "Vaalea teema",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "thisWallet": "#Tämä lompakko",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "to": "Vastaanottajalle",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "toAddress": "Osoitteeseen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tooManyFailedAttempts": "Liian monta virheellistä avausyritystä.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "totalValue": "Kokonaisarvo",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transactionId": "Tapahtuma-ID",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transactionsUppercase": "TAPAHTUMAT",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transfer": "Siirrä",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferClose": "Sulje ikkuna napauttamalla mihin tahansa.",
-  "transferComplete": "{amount} KLS onnistuneesti siirretty Admiralium-lompakkoosi.\n",
-  "transferConfirmInfo": "Lompakko, joka sisältää {amount} KLS havaittu.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferComplete": "{amount} PYI onnistuneesti siirretty Kapitanium-lompakkoosi.\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferConfirmInfo": "Lompakko, joka sisältää {amount} PYI havaittu.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferConfirmInfoSecond": "Hyväksy varojen siirto napauttamalla Vahvista.\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferConfirmInfoThird": "Siirto saattaa kestää muutaman sekunnin.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferError": "Siirrossa tapahtui virhe. Yritä myöhemmin uudelleen.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferHeader": "Siirrä Varat",
-  "transferIntro": "Tämä prosessi siirtää varat paperilompakosta Admiralium-lompakkoosi.\n\nNapauta painiketta \"{button}\" aloittaaksesi.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferIntro": "Tämä prosessi siirtää varat paperilompakosta Kapitanium-lompakkoosi.\n\nNapauta painiketta \"{button}\" aloittaaksesi.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferLoading": "Siirretään",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferManualHint": "Syötä seed alle.",
-  "transferNoFunds": "Tämä seed ei pidä sisällään yhtään KLSia",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferNoFunds": "Tämä seed ei pidä sisällään yhtään PYIia",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferQrScanError": "Tämä QR-koodi ei sisällä validia seediä.",
-  "transferQrScanHint": "Skannaa Karlsen \nseed tai yksityinen avain",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferQrScanHint": "Skannaa Pyrin \nseed tai yksityinen avain",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unconfirmed": "vahvistamaton",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "notAccepted": "ei hyväksytty",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "accepted": "hyväksytty",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unknown": "tuntematon",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unlock": "Avaa",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unlockBiometrics": "Tunnistaudu avataksesi lompakon",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unlockPin": "Syötä PIN-koodi avataksesi lompakon",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "utxosUppercase": "UTXO:t",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "viewAddress": "Tarkastele osoitetta",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "viewTransaction": "Tarkastele tapahtumaa",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletAddresses": "Lompakon osoitteet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletName": "Lompakon nimi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletNameDescription": "Syötä nimi lompakollesi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletNameHint": "Lompakon nimi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletSetupAddressDiscovery": "Osoitehakemisto käynnissä",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletSetupMessage": "Alustetaan lompakkoa",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletsTitle": "Lompakot",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "warning": "Varoitus",
-  "welcomeMessage": "Tervetuloa!\n\nTämä on versio {version} Admiraliumista - Mobiililompakko Karlsenlle",
-  "welcomeText": "Tervetuloa Admiraliumiin. Aloittaaksesi voit luoda uuden lompakon tai tuoda olemassa olevan.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "welcomeMessage": "Tervetuloa!\n\nTämä on versio {version} Kapitaniumista - Mobiililompakko Pyrinlle",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "welcomeText": "Tervetuloa Kapitaniumiin. Aloittaaksesi voit luoda uuden lompakon tai tuoda olemassa olevan.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "xMinutes": "{minutes, plural, =1{1 minuutin} other{{minutes} minuutin}} jälkeen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yes": "Kyllä",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yesButton": "Kyllä",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yesUppercase": "KYLLÄ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNotSyncedException": "Solmua ei ole synkronoitu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNoUTXOIndexException": "Solmulla ei ole UTXO-indeksiä",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeSecureConnection": "Salattu yhteys",
-  "kaspaUriInvalid": "Virheellinen Karlsen-URI",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "kaspaUriInvalid": "Virheellinen Pyrin-URI",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxos": "Koosta tapahtumat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxosDescription": "Yhdistä monet UTXO:t yhdeksi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxosConfirmation": "Koostetaanko tapahtumat?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundingUtxos": "Koostetaan tapahtumat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundingMessage": "Odota...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundSuccess": "Koostaminen onnistui",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundFailure": "Tapahtumien koostaminen epäonnistui",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundTooFewUtxos": "Vaaditaan vähintään kaksi UTXO:ta",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "balance": "Saldo",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "maxSend": "Maksimilähetys",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUppercased": "KOOSTA",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "closeUppercased": "SULJE",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanMoreAddresses": "Skannaa lisää osoitteita",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressDiscovery": "Osoitteiden löytäminen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanningTitle": "Skannataan",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanningDescription": "Skannataan uusia osoitteita...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanMore": "SKANNAA LISÄÄ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanFailedMessage": "Skannaus epäonnistui, yritä uudelleen myöhemmin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "indexHeader": "Indeksi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currentIndex": "Nykyinen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scannedIndex": "Skannattu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newIndex": "Uusi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogTitle": "Osoitteen suodatus",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogOptionAllAddresses": "Näytä kaikki osoitteet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogOptionNonZeroBalances": "Näytä osoitteet, joissa saldoa",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption24WordsTitle": "Tuo 24 turvasanaa",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption24WordsDescription": "Yhteensopiva Cli-lompakon ja Ledgerin kanssa",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption12WordsTitle": "Tuo 12 turvasanaa",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption12WordsDescription": "Yhteensopiva Web-lompakon ja KDX:n kanssa",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOptionKpubTitle": "Tuo Watch-seurantalompakko",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOptionKpubDescription": "Seuraa lompakon saldoa ja tapahtumia laajennetun julkisen avaimen avulla",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpub": "Tuo Watch-seurantalompakko",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubHint": "Syötä laajennettu julkinen avaimesi.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubClipboardError": "Leikepyödän sisältö ei ole validi laajennettu julkinen avain",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubQrCodeError": "QR-koodi ei sisällä validia laajennettua julkista avainta",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubInvalidMessage": "Varmista, että syötit laajennetun julkisen avaimesi oikein!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddressListEmpty": "Vastaanottajaosoitteiden lista on tyhjä",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddressListEmpty": "Vaihtorahaosoitteiden lista on tyhjä",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "hintAddressListEmpty": "Varmista osoitteiden suodatus oikeasta yläreunasta"
+pp_af.arb
+pp_af.arb
+pp_af.arb
 }
+pp_af.arb
+pp_af.arb
+pp_af.arb

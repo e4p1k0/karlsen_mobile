@@ -1,305 +1,1220 @@
 {
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "@@last_modified": "2023-09-25T17:48:36.587Z",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "@@author": "arb-converter-cli",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "account": "Účet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "accounts": "Účty",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "ackBackedUp": "Jste si jisti, že jste zálohovali svou tajnou frázi?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "add": "Přidat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addAccount": "Přidat účet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addContact": "Přidat kontakt",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNode": "Přidat Uzel",
-  "addNodeFailed": "Přidání Karlsen Uzlu selhalo",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "addNodeFailed": "Přidání Pyrin Uzlu selhalo",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNodeFailedMessage": "Selhání: {error}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNodeSuccess": "Uzel Úspěšně Přidán",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addingNodeMessage": "Počkejte prosím, spojuji se s uzlem",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addingNodeTitle": "Přidávám Uzel",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "address": "Adresa",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressCopied": "Adresa zkopírována",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressCopiedFailed": "Failed to copy address",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressHint": "Zadejte adresu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressMising": "Prosím zadejte adresu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressShare": "Sdílet adresu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "advancedHeader": "Rozšířené",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amount": "Částka",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountConfirm": "Částka {amount} {coin}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountMissing": "Prosím zadejte částku",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountZero": "Částka nemůže být nula",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "areYouSure": "Jste si jistí?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authBiometricMessage": "Pro přidání Peněženky Ověřte",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authMethod": "Metoda ověření",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authPinMessage": "Pro přidání Peněženky zadejte PIN",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "autoLockHeader": "Automaticky zamknout",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "available": "Dostupný",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "backupConfirmButton": "Zálohoval jsem to",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "backupSecretPhrase": "Zálohovat tajnou frázi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "biometricsMethod": "Biometrie",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "blockExplorer": "Průzkumník bloků",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "cancel": "Zrušit",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "change": "Změnit",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddress": "Změnit Adresu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddressCopied": "Změna Adresy Zkopírována",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeIndex": "Index Změny",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeIndexParam": "Změnit {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "checkCameraPermission": "Zkontrolujte prosím přístupy kamery",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "clipboardEmpty": "Schránka je prázdná",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "close": "Zavřít",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirm": "Potvrdit",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmPasswordHint": "Potvrďte heslo",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmations": "{confirmations} potvrzení",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmed": "potvrzeno",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirming": "potvrzuji",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactAdded": "{contactName} přidán do kontaktů.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactAddressCopied": "{address} adresa zkopírována",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactExists": "Kontakt Již Existuje.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactHeader": "Kontakt",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactInvalid": "Neplatné Jméno Kontaktu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactNameHint": "Zadejte jméno @",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactNameMissing": "Zadejte nové jméno pro tento kontakt",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactRemoved": "{contactName} byl úspěšně odstraněn z kontaktů!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsHeader": "Kontakty",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsImportErr": "Import kontaktů se nezdařil",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsImportSuccess": "Úspěšně importovány {noContacts} kontakty ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copied": "Zkopírováno",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copy": "Kopírovat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copyAddress": "Kopírovat adresu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copyErrorButton": "Chyba Kopírování",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createAPasswordHeader": "Vytvořte si heslo.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordFirstParagraph": "Můžete si vytvořit heslo a lépe tak zabezpečit svou peněženku",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordHint": "Vytvořit heslo",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordSecondParagraph": "Heslo je volitelné a vaše peněženka bude bez ohledu na to chráněna vaším PIN kódem nebo biometrickými údaji.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordSheetHeader": "Vytvořit",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currency": "Měna",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currencyPoweredBy": "Poháněno serverem CoinGecko",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultAccountName": "Adresa 1",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultNewAccountName": "Přijmout {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultWalletName": "Má Peněženka",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disablePasswordSheetHeader": "Znemožnit",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disablePasswordSuccess": "Heslo bylo úspěšně znemožněno",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disableWalletPassword": "Znemožnit heslo peněženky",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "doContinue": "Pokračovat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "donate": "Darovat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "dontShowAgain": "Znovu Neukazovat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyCardIntroUtxos": "Toto je záložka UTXO. Všechna UTXO ve Vaší peněžence se objeví zde",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyResult": "Výsledek Prázdný",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyWalletName": "Název Peněženky nemůže být prázdný",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "encryptionFailedError": "Nastavení hesla k peněžence se nezdařilo",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterAddress": "Zadejte Adresu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterAmount": "Zadejte Částku",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterNote": "Zadejte Poznámku",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterPasswordHint": "Zadejte vaše heslo",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "errorMessageCopied": "Kód chyby zkopírován do schránky",
-  "exampleCardIntro": "Toto je záložka transakcí. Jakmile pošleš nebo obdržíš KLS, ukáže se to zde:",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "exampleCardIntro": "Toto je záložka transakcí. Jakmile pošleš nebo obdržíš PYI, ukáže se to zde:",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "export": "Exportovat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fee": "Poplatek",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "feeConfirm": "Poplatek {amount} {coin}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "feeTitle": "POPLATEK",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fetchingTransactions": "Přivádím Transakce",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fingerprintSeedBackup": "Ověřte se pro zálohu Tajné Fráze.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "goBackButton": "Zpět",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "gotItButton": "Rozumím!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "import": "Importovat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhrase": "Importovat tajnou frázi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHint": "Níže prosím zadejte svoji 24-slovní tajnou frázi. ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHintCombo": "Please enter your 12 or 24 word secret phrase below.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHintLegacy": "Please enter your 12 word secret phrase below.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importWallet": "Importovat pěněženku",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importWalletDescription": "Please select an option below.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "instantly": "Ihned",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "insufficientBalance": "Nedostatečný zůstatek",
-  "insufficientBalanceDetails": "Nemáte dostatek KLS pro provedení této transakce",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "insufficientBalanceDetails": "Nemáte dostatek PYI pro provedení této transakce",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidAddress": "Zadaná adresa je neplatná",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidAmount": "Neplatná Částka",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidChecksumMessage": "Zkontrolujte prosím, zda je Vaše Tajná Fráze \nzadána správně!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidKpubMessage": "Please check that your extended public key is entered correctly!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidDestinationAddress": "Neplataná Doručovací Adresa",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidPassword": "Neplatné Heslo",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "kaspaDevFund": "Vývojářský Fond Kaspy",
-  "kaspiumWallet": "Peněženka Admiralium",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "kaspiumWallet": "Peněženka Kapitanium",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "language": "Jazyk",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "loadingTransactions": "Nahrávám Transakce...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "lockAppSetting": "Ověřit při Spuštění",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "locked": "Zamčeno",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "loggingOutMessage": "Odhlašuji...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logout": "Odhlásit",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logoutDialogContent": "Opravdu se chcete odhlásit z této peněženky?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logoutOrSwitchWallet": "Odhlásit / Přepnout Peněženku",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "manage": "Spravovat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "manualEntry": "Ruční zadání",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "networkHeader": "Síť",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newAddress": "Nová Adresa",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newWallet": "Nová Peněženka",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nextButton": "Další",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "no": "Ne",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noContactsExport": "Neexistují žádné kontakty k exportu.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noContactsImport": "Žádné nové kontakty k importu.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noQrCodeFound": "Žádný QR kód nenalezen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noSkipButton": "Ne, přeskočit",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noUppercase": "NO",
-  "nodeAddress": "Karlsen Uzel",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodeAddress": "Pyrin Uzel",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeDeleteMessage": "Jste si jisti, že to chcete smazat?",
-  "nodeDeleteTitle": "Smazat nastavení Karlsen Uzlu?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodeDeleteTitle": "Smazat nastavení Pyrin Uzlu?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNameEmpty": "Název Uzlu nemůže být prázdný",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNameHint": "Přidat Název Uzlu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeUrlHint": "Přidat URL Uzlu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeUrlInvalid": "Neplatné URL Uzlu",
-  "nodesSheetTitle": "Karlsen Uzly",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodesSheetTitle": "Pyrin Uzly",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "off": "Vypnout",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "on": "Zapnout",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "paperWallet": "Papírová Peněženka",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordBlank": "Heslo nemůže být prázdné",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordNoLongerRequiredToOpenParagraph": "Už nebudete potřebovat heslo pro otevření Peněženky.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordWillBeRequiredToOpenParagraph": "Toto heslo bude vyžadováno k otevření Peněženky.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordsDontMatch": "Hesla se neshodují",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pasteMnemonicError": "Zkopírovaný obsah není platná tajná fráze",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pending": "čekající",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinConfirmError": "Piny se neshodují",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinConfirmTitle": "Potvrdit Váš pin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinCreateTitle": "Vytvořte si 6-místný pin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinEnterTitle": "Zadejte pin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinInvalid": "Zadaný PIN je neplatný",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinMethod": "PIN",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinSeedBackup": "Zadejte PIN pro Zálohu Tajné Fráze",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "preferences": "Předvolby",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "privacyPolicy": "Zásady ochrany osobních údajů",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrInvalidAddress": "QR kód neobsahuje platnou cílovou adresu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrInvalidSeed": "QR kód neobsahuje platné jádro ani soukromý klíč",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrMnemonicError": "QR neobsahuje platnou tajnou frázi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receive": "Přijmout",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddress": "Příjmová Adresa",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddressCopied": "Příjmová Adresa Zkopírována",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveIndex": "Příjmový Index",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveIndexParam": "Přijmout {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "received": "Přijato",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeContact": "Odstranit kontakt",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeContactConfirmation": "Opravdu chcete odstranit {contactName}?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletAction": "Odstranit Peněženku",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletBiometricsMessage": "Ověřte se pro odstranění Peněženky",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletDetail": "Odstranění této peněženky odstraní tajnou frázi a všechna na peněženku vázaná data z tohoto zařízení. Pokud jste si nezálohovali tajnou frázi, už se nikdy ke svým prostředkům nedostanete.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletPinMessage": "Zadat PIN pro Odstranění Peněženky",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletReassurance": "Pokud jste si zálohovaly tajnou frázi, nemusíte se ničeho obávat.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "requireAPasswordToOpenHeader": "Vyžadovat heslo k otevření této peněženky?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "restartSetupButton": "Restartovat Nastavení?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanQrCode": "Naskenovat QR kód",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanQrCodeError": "Selhání rozebrání qr kódu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretInfo": "Na následující obrazovce uvidíte svoji tajnou frázi. Jedná se o heslo pro přístup k vašim finančním prostředkům. Je klíčové, abyste jej zálohovali a nikdy s nikým nesdíleli.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretInfoHeader": "Bezpečnost především!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretPhrase": "Tajná fráze",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretWarning": "Pokud ztratíte zařízení nebo odinstalujete aplikaci, budete potřebovat tajnou frázi nebo jádro, abyste mohli získat zpět své prostředky!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "securityHeader": "Zabezpečení",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "seed": "Seed",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "seedInvalid": "Jádro je Neplatné",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "send": "Poslat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendConfirm": "Poslat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendError": "Došlo k chybě. Zkuste to znovu.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendNote": "POZNÁMKA",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendToAddressTitle": "Kam",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendTxProgressDescription": "Prosím počkejte, než se transakce odešle",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendTxProgressTitle": "Odesílám Transakci",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sending": "Poslat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sent": "Odesláno",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sentTo": "Odeslat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setPassword": "Nastavit heslo",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setPasswordSuccess": "Heslo bylo úspěšně nastaveno",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setWalletPassword": "Nastavit heslo peněženky",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "settingsHeader": "Nastavení",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "settingsTransfer": "Načíst z Papírové Peněženky",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setupFailedMessage": "Něco se pokazilo",
-  "shareKaspium": "Sdílet Admiralium",
-  "shareKaspiumSubject": "Vyzkoušet Peněženku Admiralium",
-  "shareKaspiumText": "Vyzkoušejte Admiralium - mobilní peněženka pro Kaspu. Web - https://github.com/e4p1k0/karlsen_mobile",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspium": "Sdílet Kapitanium",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspiumSubject": "Vyzkoušet Peněženku Kapitanium",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspiumText": "Vyzkoušejte Kapitanium - mobilní peněženka pro Kaspu. Web - https://github.com/e4p1k0/karlsen_mobile/tree/pyrin"",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "somethingWentWrong": "Něco se pokazilo",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "systemDefault": "Výchozí systému",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tapToHide": "Klepnutím skryjete",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tapToReveal": "Klikněte pro odhalení",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeDark": "Tmavý Motiv",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeHeader": "Motiv",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeLight": "Světlý Motiv",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "thisWallet": "#Tato Peněženka",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "to": "Kam",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "toAddress": "Na Adresu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tooManyFailedAttempts": "Příliš mnoho neúspěšných pokusů o odemknutí.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "totalValue": "Celková Hodnota",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transactionId": "ID Transakce",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transactionsUppercase": "TRANSAKCE",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transfer": "Převést",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferClose": "Klepnutím kamkoli zavřete okno.",
-  "transferComplete": "{amount} KLS úspěšně převedeno do vaší peněženky Admiralium. \n",
-  "transferConfirmInfo": "Byla nalezena peněženka se zůstatkem {amount} KLS. ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferComplete": "{amount} PYI úspěšně převedeno do vaší peněženky Kapitanium. \n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferConfirmInfo": "Byla nalezena peněženka se zůstatkem {amount} PYI. ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferConfirmInfoSecond": "Klepněte pro potvrzení převedení prostředků.\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferConfirmInfoThird": "Dokončení přenosu může trvat několik sekund.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferError": "Během přenosu došlo k chybě. Prosím zkuste to znovu později.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferHeader": "Převést Prostředky",
-  "transferIntro": "Tento proces přenese prostředky z papírové peněženky do vaší peněženky Admiralium. \n\n Začněte klepnutím na tlačítko \"{button}\".",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferIntro": "Tento proces přenese prostředky z papírové peněženky do vaší peněženky Kapitanium. \n\n Začněte klepnutím na tlačítko \"{button}\".",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferLoading": "Probíhá Přenos",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferManualHint": "Zadejte jádro níže.",
-  "transferNoFunds": "Toto jádro na sobě nemá žádné KLS ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferNoFunds": "Toto jádro na sobě nemá žádné PYI ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferQrScanError": "Tento QR kód neobsahuje platné jádro.",
-  "transferQrScanHint": "Naskenujte Karlsen\njádro nebo soukromý klíč ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferQrScanHint": "Naskenujte Pyrin\njádro nebo soukromý klíč ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unconfirmed": "nepotvrzená",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "notAccepted": "not accepted",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "accepted": "accepted",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unknown": "Neznámá",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unlock": "Odemknout",
-  "unlockBiometrics": "Ověřte a Odemkněte Admiralium",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "unlockBiometrics": "Ověřte a Odemkněte Kapitanium",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unlockPin": "Zadejte PIN pro odemčení Peněženky",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "utxosUppercase": "UTXOs",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "viewAddress": "Zobrazit Adresu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "viewTransaction": "Zobrazit Transakci",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletAddresses": "Adresy Peněženky",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletName": "Název Peněženky",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletNameDescription": "Zadejte název své peněženky",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletNameHint": "Název Peněženky",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletSetupAddressDiscovery": "Probíhá Odhalování Adres ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletSetupMessage": "Nastavuji Peněženku",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletsTitle": "Peněženky",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "warning": "Varování",
-  "welcomeMessage": "Vítejte!\n\nToto je verze {version} Admiralium Peněženky - mobilní peněženky pro Kaspu",
-  "welcomeText": "Vítejte v Admiralium. Nejprve můžete vytvořit novou peněženku nebo importovat stávající.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "welcomeMessage": "Vítejte!\n\nToto je verze {version} Kapitanium Peněženky - mobilní peněženky pro Kaspu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "welcomeText": "Vítejte v Kapitanium. Nejprve můžete vytvořit novou peněženku nebo importovat stávající.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "xMinutes": "Po {minutes, plural, =1{1 minutě} other{{minutes} minutách}}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yes": "Ano",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yesButton": "Ano",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yesUppercase": "ANO",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNotSyncedException": "Uzel není synchronizován",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNoUTXOIndexException": "Uzel nemá UTXO index",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeSecureConnection": "Bezpečné spojení",
-  "kaspaUriInvalid": "Invalid Karlsen URI",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "kaspaUriInvalid": "Invalid Pyrin URI",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxos": "Compound transactions",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxosDescription": "Combine multiple UTXOs into one",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxosConfirmation": "Compound transactions?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundingUtxos": "Compounding transactions",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundingMessage": "Please wait...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundSuccess": "Compound successful",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundFailure": "Failed to compound transactions",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundTooFewUtxos": "At least two UTXOs are required",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "balance": "Balance",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "maxSend": "Max Send",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUppercased": "COMPOUND",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "closeUppercased": "CLOSE",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanMoreAddresses": "Scan For More Addresses",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressDiscovery": "Address Discovery",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanningTitle": "Scanning",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanningDescription": "Scanning for new addresses...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanMore": "SCAN MORE",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanFailedMessage": "Scan failed, please try again later",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "indexHeader": "Index",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currentIndex": "Current",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scannedIndex": "Scanned",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newIndex": "New",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogTitle": "Address Filter",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogOptionAllAddresses": "View All Addresses",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogOptionNonZeroBalances": "View Addresses With Balance",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption24WordsTitle": "Import 24 Word Secret Phrase",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption24WordsDescription": "Compatible with Cli Wallet and Ledger",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption12WordsTitle": "Import 12 Word Secret Phrase",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption12WordsDescription": "Compatible with Web Wallet and KDX",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOptionKpubTitle": "Import Watch Only Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOptionKpubDescription": "Monitor the balance and transactions of a wallet using an extended public key",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpub": "Import Watch Only Wallet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubHint": "Please enter your extended public key.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubClipboardError": "Clipboard content is not a valid extended public key",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubQrCodeError": "QR code does not contain a valid extended public key",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubInvalidMessage": "Please check that your extended public key is entered correctly!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddressListEmpty": "Receive address list is empty",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddressListEmpty": "Change address list is empty",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "hintAddressListEmpty": "Check address filter from the top right corner"
+pp_af.arb
+pp_af.arb
+pp_af.arb
 }
+pp_af.arb
+pp_af.arb
+pp_af.arb

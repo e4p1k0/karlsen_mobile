@@ -1,305 +1,1220 @@
 {
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "@@last_modified": "2023-09-25T17:48:36.587Z",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "@@author": "arb-converter-cli",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "account": "Akun",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "accounts": "Semua Akun",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "ackBackedUp": "Anda yakin sudah menyimpan benih / Kalimat Rahasia anda?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "add": "Tambah",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addAccount": "Tambah Akun",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addContact": "Tambah Kontak",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNode": "Tambah Node",
-  "addNodeFailed": "Gagal menambahkan node Karlsen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "addNodeFailed": "Gagal menambahkan node Pyrin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNodeFailedMessage": "Gagal: {error}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNodeSuccess": "Node Berhasil Ditambahkan",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addingNodeMessage": "Harap tunggu saat menghubungkan node",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addingNodeTitle": "Menambahkan Node",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "address": "Alamat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressCopied": "Alamat berhasil disalin.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressCopiedFailed": "Gagal menyalin alamat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressHint": "Masukkan Alamat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressMising": "Harap Masukkan Alamat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressShare": "Bagikan Alamat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "advancedHeader": "Lanjutan",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amount": "Jumlah",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountConfirm": "Jumlah {amount} {coin}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountMissing": "Masukkan jumlah",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountZero": "Jumlah tidak boleh nol",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "areYouSure": "Apa Anda yakin?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authBiometricMessage": "Autentikasi untuk Menambahkan Dompet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authMethod": "Metode Otentikasi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authPinMessage": "Masukkan PIN untuk Menambahkan Dompet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "autoLockHeader": "Mengunci Secara Otomatis",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "available": "Tersedia",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "backupConfirmButton": "Saya Sudah Mencadangkannya",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "backupSecretPhrase": "Cadangkan Frase Rahasia",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "biometricsMethod": "Biometrik",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "blockExplorer": "Penjelajah Blok",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "cancel": "Batal",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "change": "Ganti",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddress": "Ganti Alamat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddressCopied": "Ganti alamat disalin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeIndex": "Ganti Indeks",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeIndexParam": "Ganti {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "checkCameraPermission": "Silakan periksa izin kamera",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "clipboardEmpty": "Papan klip kosong",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "close": "Tutup",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirm": "Konfirmasi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmPasswordHint": "Konfirmasi kata sandi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmations": "{confirmations} konfirmasi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmed": "dikonfirmasi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirming": "Mengonfirmasi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactAdded": "{contactName} ditambahkan ke kontak!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactAddressCopied": "{address} alamat telah disalin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactExists": "Kontak Sudah Ada",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactHeader": "Kontak",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactInvalid": "Kontak Tidak Valid",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactNameHint": "Masukkan Nama @",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactNameMissing": "Pilih Nama untuk Kontak ini",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactRemoved": "{contactName} telah dihapus dari kontak!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsHeader": "Kontak",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsImportErr": "Gagal mengimpor kontak",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsImportSuccess": "Kontak {noContacts} telah berhasil diimpor",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copied": "Disalin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copy": "Salin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copyAddress": "Salin Alamat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copyErrorButton": "Gagal Menyalin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createAPasswordHeader": "Buat sebuah kata sandi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordFirstParagraph": "Anda dapat membuat kata sandi untuk menambahkan keamanan tambahan ke dompet Anda.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordHint": "Buat kata sandi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordSecondParagraph": "Kata sandi adalah opsional, dan dompet Anda akan dilindungi dengan PIN atau biometrik Anda.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordSheetHeader": "Membuat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currency": "Mata Uang",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currencyPoweredBy": "Didukung oleh CoinGecko",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultAccountName": "Alamat 1",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultNewAccountName": "Terima {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultWalletName": "Dompetku",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disablePasswordSheetHeader": "Nonaktifkan",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disablePasswordSuccess": "Kata sandi telah dinonaktifkan",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disableWalletPassword": "Nonaktifkan Kata Sandi Dompet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "doContinue": "Lanjutkan",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "donate": "Donasi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "dontShowAgain": "Jangan tampilkan lagi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyCardIntroUtxos": "Ini adalah tab UTXO. Semua UTXO di dompet Anda akan muncul di sini",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyResult": "Hasilnya Kosong",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyWalletName": "Nama Dompet tidak boleh kosong",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "encryptionFailedError": "Gagal menetapkan kata sandi dompet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterAddress": "Masukkan Alamat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterAmount": "Masukkan Jumlah",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterNote": "Masukan Catatan",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterPasswordHint": "Masukkan kata sandi Anda",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "errorMessageCopied": "Pesan kesalahan telah disalin ke papan klip",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "exampleCardIntro": "Ini adalah tab transaksi. Setelah Anda mengirim atau menerima transaksi, itu akan muncul di sini.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "export": "Ekspor",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fee": "Biaya",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "feeConfirm": "Biaya {amount} {coin}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "feeTitle": "BIAYA",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fetchingTransactions": "Mengambil Transaksi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fingerprintSeedBackup": "Otentikasi ke Cadangan Frasa Rahasia.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "goBackButton": "Kembali",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "gotItButton": "Mengerti!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "import": "Impor",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhrase": "Impor Frasa Rahasia",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHint": "Masukkan 24 frasa rahasia dibawah ini . Setiap frasa harus dipisahkan dengan spasi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHintCombo": "Silahkan masukkan frasa rahasia 12 atau 24 kata di bawah ini.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHintLegacy": "Silahkan masukan 12 kata frasa rahasia Anda di bawah ini.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importWallet": "Impor Dompet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importWalletDescription": "Pilih salah satu opsi di bawah ini.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "instantly": "Segera",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "insufficientBalance": "Saldo Tidak mencukupi",
-  "insufficientBalanceDetails": "Anda tidak memiliki cukup KLS untuk transaksi ini",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "insufficientBalanceDetails": "Anda tidak memiliki cukup PYI untuk transaksi ini",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidAddress": "Alamat yang dimasukkan tidak valid",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidAmount": "Jumlah Tidak Valid",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidChecksumMessage": "Harap periksa Frasa Rahasia Anda\n telah diketikan dengan benar!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidKpubMessage": "Periksa apakah kunci publik milik Anda yang diperpanjang telah dimasukkan dengan benar!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidDestinationAddress": "Alamat Tujuan Tidak Valid",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidPassword": "Kata sandi tidak valid",
-  "kaspaDevFund": "Dana Pengembang Karlsen",
-  "kaspiumWallet": "Dompet Admiralium",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "kaspaDevFund": "Dana Pengembang Pyrin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "kaspiumWallet": "Dompet Kapitanium",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "language": "Bahasa",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "loadingTransactions": "Memuat Transaksi...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "lockAppSetting": "Otentikasi saat diluncurkan.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "locked": "Terkunci",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "loggingOutMessage": "Mengeluarkan...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logout": "Keluar",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logoutDialogContent": "Apakah Anda sudah yakin ingin keluar dari dompet ini?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logoutOrSwitchWallet": "Keluar / Beralih Dompet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "manage": "Kelola",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "manualEntry": "Entri Manual",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "networkHeader": "Jaringan",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newAddress": "Alamat Baru",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newWallet": "Dompet Baru",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nextButton": "Berikutnya",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "no": "Tidak",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noContactsExport": "Tidak ada kontak untuk diekspor",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noContactsImport": "Tidak ada kontak baru untuk diimpor",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noQrCodeFound": "Kode QR tidak ditemukan",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noSkipButton": "Tidak, Lewati",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noUppercase": "TIDAK",
-  "nodeAddress": "Node Karlsen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodeAddress": "Node Pyrin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeDeleteMessage": "Apakah Anda sudah yakin ingin menghapus?",
-  "nodeDeleteTitle": "Hapus Konfigurasi Node Karlsen?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodeDeleteTitle": "Hapus Konfigurasi Node Pyrin?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNameEmpty": "Nama node tidak boleh kosong",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNameHint": "Ketiklah Nama Node",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeUrlHint": "Ketiklah URL Node",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeUrlInvalid": "URL node tidak valid",
-  "nodesSheetTitle": "Node Karlsen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodesSheetTitle": "Node Pyrin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "off": "Mati",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "on": "Hidup",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "paperWallet": "Dompet Kertas",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordBlank": "Kata sandi tidak boleh kosong",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordNoLongerRequiredToOpenParagraph": "Anda tidak memerlukan kata sandi untuk membuka dompet ini.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordWillBeRequiredToOpenParagraph": "Kata sandi ini akan diperlukan untuk membuka dompet ini.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordsDontMatch": "Kata sandi tidak cocok",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pasteMnemonicError": "Konten pada papan klip bukan frasa rahasia yang valid",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pending": "tertunda",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinConfirmError": "PIN tidak cocok",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinConfirmTitle": "Konfirmasi PIN Anda",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinCreateTitle": "Buat sebuah PIN 6 digit",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinEnterTitle": "Masukan PIN",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinInvalid": "PIN yang dimasukkan salah",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinMethod": "PIN",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinSeedBackup": "Masukkan PIN kedalam Cadangan Frasa Rahasia",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "preferences": "Preferensi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "privacyPolicy": "Kebijakan Privasi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrInvalidAddress": "Kode QR tidak berisi alamat yang valid",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrInvalidSeed": "Kode QR tidak mengandung benih atau kunci pribadi yang valid",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrMnemonicError": "Kode QR tidak mengandung frasa rahasia yang valid",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receive": "Terima",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddress": "Alamat Untuk Menerima",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddressCopied": "Alamat untuk menerima telah disalin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveIndex": "Terima Indeks",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveIndexParam": "Terima {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "received": "Diterima",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeContact": "Hapus Kontak",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeContactConfirmation": "Apakah Anda sudah yakin ingin menghapus {contactName}?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletAction": "Hapus Dompet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletBiometricsMessage": "Otentikasi untuk Menghapus Dompet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletDetail": "Menghapus dompet ini akan menghapus Frasa Rahasia dan semua data terkait dompet dari perangkat ini. Jika Frasa Rahasia tidak dicadangkan, Anda tidak akan dapat mengakses dana Anda lagi.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletPinMessage": "Masukkan PIN untuk Menghapus Dompet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletReassurance": "Selama Anda telah mencadangkan Frasa Rahasia, Anda tidak perlu khawatir.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "requireAPasswordToOpenHeader": "Memerlukan kata sandi untuk membuka dompet ini?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "restartSetupButton": "Mengulang Susunan",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanQrCode": "Pindai Kode QR",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanQrCodeError": "Gagal mengurai kode QR",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretInfo": "Pada layar berikutnya, Anda akan melihat frasa rahasia Anda. Ini adalah kata sandi untuk mengakses dana Anda. Sangat penting bagi Anda untuk mencadangkannya dan tidak pernah membaginya dengan siapa pun.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretInfoHeader": "Keselamatan Utama!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretPhrase": "Frasa Rahasia",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretWarning": "Jika Anda kehilangan perangkat atau mencopot pemasangan aplikasi, Anda memerlukan frasa rahasia untuk memulihkan dana Anda!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "securityHeader": "Keamanan",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "seed": "Benih",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "seedInvalid": "Benih tidak valid",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "send": "Kirim",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendConfirm": "Kirim",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendError": "Terjadi kesalahan. Coba lagi nanti.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendNote": "CATATAN",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendToAddressTitle": "Kepada",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendTxProgressDescription": "Harap tunggu sementara transaksi dikirim",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendTxProgressTitle": "Mengirim Transaksi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sending": "Kirim",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sent": "Terkirim",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sentTo": "Terkirim Kepada",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setPassword": "Atur Kata Sandi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setPasswordSuccess": "Kata Sandi dompet telah berhasil ditetapkan",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setWalletPassword": "Atur Kata Sandi Dompet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "settingsHeader": "Pengaturan",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "settingsTransfer": "Memuat dari Dompet Kertas",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setupFailedMessage": "Ada yang salah",
-  "shareKaspium": "Bagikan Admiralium",
-  "shareKaspiumSubject": "Periksa Dompet Admiralium",
-  "shareKaspiumText": "Periksa Admiralium - Dompet Seluler Karlsen.\nSitus Web - https://github.com/e4p1k0/karlsen_mobile",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspium": "Bagikan Kapitanium",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspiumSubject": "Periksa Dompet Kapitanium",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspiumText": "Periksa Kapitanium - Dompet Seluler Pyrin.\nSitus Web - https://github.com/e4p1k0/karlsen_mobile/tree/pyrin"",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "somethingWentWrong": "Ada yang salah",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "systemDefault": "Sistem Bawaan",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tapToHide": "Ketuk untuk menyembunyikan",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tapToReveal": "Ketuk untuk mengungkapkan",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeDark": "Tema Gelap ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeHeader": "Tema",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeLight": "Tema Terang",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "thisWallet": "#Dompet Ini",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "to": "Kepada",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "toAddress": "Kepada Alamat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tooManyFailedAttempts": "Terlalu banyak upaya membuka kunci yang gagal.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "totalValue": "Jumlah Nilai Keseluruhan",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transactionId": "ID Transaksi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transactionsUppercase": "TRANSAKSI",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transfer": "Transfer",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferClose": "Ketuk di mana saja untuk menutup jendela.",
-  "transferComplete": "{amount} KLS berhasil ditransfer ke Dompet Admiralium Anda.\n",
-  "transferConfirmInfo": "Dompet dengan saldo {amount} KLS telah terdeteksi.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferComplete": "{amount} PYI berhasil ditransfer ke Dompet Kapitanium Anda.\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferConfirmInfo": "Dompet dengan saldo {amount} PYI telah terdeteksi.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferConfirmInfoSecond": "Ketuk konfirmasi untuk mentransfer dana.\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferConfirmInfoThird": "Transfer mungkin memakan waktu beberapa detik untuk dapat selesai.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferError": "Terjadi kesalahan selama transfer. Coba lagi nanti.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferHeader": "Transfer Dana",
-  "transferIntro": "Proses ini akan mentransfer dana dari dompet kertas ke dompet Admiralium Anda.\n\nKetuk tombol \"{button}\" untuk memulai.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferIntro": "Proses ini akan mentransfer dana dari dompet kertas ke dompet Kapitanium Anda.\n\nKetuk tombol \"{button}\" untuk memulai.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferLoading": "Mentransfer",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferManualHint": "Harap masukkan benih di bawah ini.",
-  "transferNoFunds": "Benih ini tidak memiliki KLS di dalamnya",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferNoFunds": "Benih ini tidak memiliki PYI di dalamnya",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferQrScanError": "Kode QR ini tidak mengandung benih yang valid.",
-  "transferQrScanHint": "Pindai Karlsen\nbenih atau kunci pribadi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferQrScanHint": "Pindai Pyrin\nbenih atau kunci pribadi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unconfirmed": "belum dikonfirmasi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "notAccepted": "tidak diterima",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "accepted": "diterima",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unknown": "tidak diketahui",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unlock": "Buka Kunci",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unlockBiometrics": "Otentikasi untuk Membuka Kunci Dompet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unlockPin": "Masukkan PIN untuk Membuka Kunci Dompet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "utxosUppercase": "UTXOs",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "viewAddress": "Lihat Alamat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "viewTransaction": "Lihat Transaksi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletAddresses": "Alamat Dompet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletName": "Nama dompet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletNameDescription": "Masukkan nama untuk dompet Anda",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletNameHint": "Nama Dompet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletSetupAddressDiscovery": "Jalankan Penemuan Alamat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletSetupMessage": "Menyiapkan dompet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletsTitle": "Dompet-dompet",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "warning": "Peringatan",
-  "welcomeMessage": "Selamat Datang\n\nIni adalah versi {version} Admiralium - dompet seluler untuk Karlsen",
-  "welcomeText": "Selamat datang di Admiralium. Untuk memulai, Anda dapat membuat dompet baru atau mengimpor yang sudah ada.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "welcomeMessage": "Selamat Datang\n\nIni adalah versi {version} Kapitanium - dompet seluler untuk Pyrin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "welcomeText": "Selamat datang di Kapitanium. Untuk memulai, Anda dapat membuat dompet baru atau mengimpor yang sudah ada.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "xMinutes": "Setelah {minutes, plural, =1{1 menit} other{{minutes} menit}}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yes": "Ya",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yesButton": "Ya",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yesUppercase": "YA",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNotSyncedException": "Node tidak disinkronkan",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNoUTXOIndexException": "Node tidak memiliki indeks UTXO",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeSecureConnection": "Koneksi Aman",
-  "kaspaUriInvalid": "URI Karlsen tidak valid",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "kaspaUriInvalid": "URI Pyrin tidak valid",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxos": "Gabungkan transaksi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxosDescription": "Menggabungkan beberapa UTXO menjadi satu",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxosConfirmation": "Gabungkan transaksi?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundingUtxos": "Menggabungkan transaksi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundingMessage": "Mohon tunggu...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundSuccess": "Penggabungan berhasil",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundFailure": "Gagal menggabungkan transaksi",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundTooFewUtxos": "Setidaknya diperlukan dua UTXO",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "balance": "Saldo",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "maxSend": "Kirim Maks",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUppercased": "GABUNGKAN",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "closeUppercased": "TUTUP",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanMoreAddresses": "Memindai Lebih Banyak Alamat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressDiscovery": "Penemuan Alamat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanningTitle": "Pemindaian",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanningDescription": "Memindai alamat baru...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanMore": "PINDAI LEBIH BANYAK",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanFailedMessage": "Pemindaian gagal, silahkan coba lagi nanti",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "indexHeader": "Indeks",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currentIndex": "Terkini",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scannedIndex": "Dipindai",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newIndex": "Baru",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogTitle": "Filter Alamat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogOptionAllAddresses": "Lihat Semua Alamat",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogOptionNonZeroBalances": "Lihat Alamat Dengan Saldo",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption24WordsTitle": "Impor 24 Kata Frasa Rahasia",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption24WordsDescription": "Kompatibel dengan Dompet Cli dan Ledger",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption12WordsTitle": "Impor 12 Kata Frasa Rahasia",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption12WordsDescription": "Kompatibel dengan Dompet Web dan KDX",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOptionKpubTitle": "Impor Dompet Khusus Hanya Lihat Saja",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOptionKpubDescription": "Memantau saldo dan transaksi dompet menggunakan kunci publik yang diperpanjang",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpub": "Impor Dompet Khusus Hanya Lihat Saja",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubHint": "Masukkan kunci publik Anda yang telah diperpanjang.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubClipboardError": "Konten di papan klip bukan merupakan kunci publik yang diperpanjang yang valid",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubQrCodeError": "Kode QR tidak mengandung kunci publik yang diperpanjang yang valid",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubInvalidMessage": "Periksa apakah kunci publik yang diperpanjang telah dimasukkan dengan benar!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddressListEmpty": "Daftar alamat penerima kosong",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddressListEmpty": "Daftar perubahan alamat kosong",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "hintAddressListEmpty": "Periksa filter alamat dari sudut kanan atas"
+pp_af.arb
+pp_af.arb
+pp_af.arb
 }
+pp_af.arb
+pp_af.arb
+pp_af.arb

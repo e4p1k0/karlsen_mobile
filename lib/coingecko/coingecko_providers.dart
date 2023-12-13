@@ -25,7 +25,7 @@ final _kaspaPriceRemoteProvider = FutureProvider<CoinGeckoPrice>((ref) async {
   final cached = ref.read(_kaspaPriceCacheProvider);
 
   final uri = Uri.parse(
-      'https://api.coingecko.com/api/v3/simple/price?ids=karlsencoin&vs_currencies=$fiat,btc');
+      'https://api.coingecko.com/api/v3/simple/price?ids=pyrin&vs_currencies=$fiat,btc');
   final response = await http.get(uri, headers: {
     'Accept': 'application/json',
   });

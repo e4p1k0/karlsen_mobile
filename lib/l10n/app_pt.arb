@@ -1,305 +1,1220 @@
 {
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "@@last_modified": "2023-09-25T17:48:36.587Z",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "@@author": "arb-converter-cli",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "account": "Conta",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "accounts": "Contas",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "ackBackedUp": "Tem certeza de que você fez o backup de sua frase secreta?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "add": "Adicionar",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addAccount": "Adicionar Conta",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addContact": "Adicionar Contato",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNode": "Adicionar Nó",
-  "addNodeFailed": "Falha ao adicionar nó Karlsen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "addNodeFailed": "Falha ao adicionar nó Pyrin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNodeFailedMessage": "Falhou: {error}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addNodeSuccess": "Nó adicionado com sucesso",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addingNodeMessage": "Por favor, aguarde comunicação com o nó",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addingNodeTitle": "Adicionando nó",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "address": "Endereço",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressCopied": "Endereço Copiado",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressCopiedFailed": "Cópia de endereço falhada.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressHint": "Insira o Endereço",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressMising": "Por Favor Insira um Endereço",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressShare": "Compartilhar Endereço",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "advancedHeader": "Avançado",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amount": "Valor",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountConfirm": "Valor {amount} {coin}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountMissing": "Por favor, Insira um Valor",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "amountZero": "O valor não pode ser zero",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "areYouSure": "Tem certeza?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authBiometricMessage": "Autenticar para Adicionar Carteira",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authMethod": "Método de Autenticação",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "authPinMessage": "Digite o PIN para adicionar carteira",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "autoLockHeader": "Bloquear Automaticamente",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "available": "Disponível",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "backupConfirmButton": "Eu Fiz o Backup",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "backupSecretPhrase": "Backup da Frase Secreta",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "biometricsMethod": "Biometria",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "blockExplorer": "Explorador de Blocos",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "cancel": "Cancelar",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "change": "Alterar",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddress": "Alterar endereço",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddressCopied": "Endereço alterado foi copiado",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeIndex": "Alterar índice",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeIndexParam": "Alterar {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "checkCameraPermission": "Por favor, verifique as permissões da câmera",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "clipboardEmpty": "Área de transferência vazia",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "close": "Fechar",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirm": "Confirmar",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmPasswordHint": "Confirme a senha",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmations": "{confirmations} confirmações",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirmed": "confirmado",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "confirming": "confirmando",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactAdded": "{contactName} adicionado aos contatos!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactAddressCopied": "{address} endereço copiado",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactExists": "Contato já Existe",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactHeader": "Contato",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactInvalid": "Nome de Contato Inválido",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactNameHint": "Insira um Nome @",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactNameMissing": "Escolha um Nome para Este Contato",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactRemoved": "{contactName} foi removido dos contatos!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsHeader": "Contatos",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsImportErr": "Falha ao importar contatos",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "contactsImportSuccess": "Importado com sucesso {noContacts} contatos",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copied": "Copiado",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copy": "Copiar",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copyAddress": "Copiar Endereço",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "copyErrorButton": "Erro ao Copiar",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createAPasswordHeader": "Crie uma senha.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordFirstParagraph": "Você pode criar uma senha para ter uma segurança adicional à sua carteira.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordHint": "Crie uma senha",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordSecondParagraph": "A senha é opcional, independentemente a sua carteira será protegida com o seu PIN ou biometria.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "createPasswordSheetHeader": "Criar",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currency": "Moeda",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currencyPoweredBy": "Provido por CoinGecko  ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultAccountName": "Endereço 1",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultNewAccountName": "Receber {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "defaultWalletName": "Minha Carteira",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disablePasswordSheetHeader": "Desabilitar",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disablePasswordSuccess": "Senha desabilitada",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "disableWalletPassword": "Desabilitar a Senha da Carteira",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "doContinue": "Continuar",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "donate": "Doar",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "dontShowAgain": "Não mostrar de novo",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyCardIntroUtxos": "Esta é a aba UTXOs. Todos os UTXOs em sua carteira aparecerão aqui.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyResult": "Resultado Vazio",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "emptyWalletName": "O nome da carteira não pode estar vazio",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "encryptionFailedError": "Falha ao definir a senha da carteira",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterAddress": "Insira o endereço",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterAmount": "Digite o valor",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterNote": "Digite uma Anotação",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "enterPasswordHint": "Digite sua senha",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "errorMessageCopied": "Mensagem de erro copiada para a área de transferência",
-  "exampleCardIntro": "Esta é a aba das transações. Quando você receber KLS, as transações aparecerão aqui.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "exampleCardIntro": "Esta é a aba das transações. Quando você receber PYI, as transações aparecerão aqui.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "export": "Exportar",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fee": "Taxa",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "feeConfirm": "Taxa {amount} {coin}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "feeTitle": "TAXA",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fetchingTransactions": "Buscando transações",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "fingerprintSeedBackup": "Autentique para fazer o backup da seed da carteira. ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "goBackButton": "Voltar",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "gotItButton": "Entendi!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "import": "Importar",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhrase": "Importar Frase Secreta",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHint": "Por favor, insira sua frase secreta de 24 palavras abaixo. Cada palavra deve ser separada por um espaço.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHintCombo": "Por favor inserir as suas 12 ou 24 palavras da frase secreta.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importSecretPhraseHintLegacy": "Por favor inserir as suas 12 palavras da frase secreta.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importWallet": "Importar Carteira",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importWalletDescription": "Por favor seleccione umas das opções em baixo.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "instantly": "Imediatamente",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "insufficientBalance": "Saldo Insuficiente",
-  "insufficientBalanceDetails": "Você não possui KLS suficiente para esta transação",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "insufficientBalanceDetails": "Você não possui PYI suficiente para esta transação",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidAddress": "Endereço de destino inválido",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidAmount": "Quantidade inválida",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidChecksumMessage": "Por favor, verifique se sua Frase Secreta\nfoi digitada corretamente!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidKpubMessage": "Por favor verifique se a sua chave pública foi inserida correctamente. ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidDestinationAddress": "Endereço de destino inválido",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "invalidPassword": "Senha Inválida",
-  "kaspaDevFund": "Fundo Dev Karlsen",
-  "kaspiumWallet": "Carteira Admiralium",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "kaspaDevFund": "Fundo Dev Pyrin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "kaspiumWallet": "Carteira Kapitanium",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "language": "Língua",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "loadingTransactions": "Carregando transações...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "lockAppSetting": "Autenticar ao Iniciar",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "locked": "Bloqueado",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "loggingOutMessage": "Fazendo logout...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logout": "Sair",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logoutDialogContent": "Tem certeza de que deseja fazer logout desta carteira?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "logoutOrSwitchWallet": "Fazer logout / Trocar de carteira",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "manage": "Gerenciar",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "manualEntry": "Entrada Manual",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "networkHeader": "Rede",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newAddress": "Novo Endereço",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newWallet": "Nova Carteira",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nextButton": "Próximo",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "no": "Não",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noContactsExport": "Não há contatos para exportar",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noContactsImport": "Não há contatos para importar",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noQrCodeFound": "Nenhum código QR encontrado",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noSkipButton": "Não, pular",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "noUppercase": "NÃO",
-  "nodeAddress": "Nó Karlsen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodeAddress": "Nó Pyrin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeDeleteMessage": "Tem certeza de que deseja excluir?",
-  "nodeDeleteTitle": "Excluir a Configuração do Nó Karlsen?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodeDeleteTitle": "Excluir a Configuração do Nó Pyrin?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNameEmpty": "O nome do nó não pode estar vazio",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNameHint": "Digite o Nome do Nó",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeUrlHint": "Digite a URL do Nó",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeUrlInvalid": "URL do Nó Inválida",
-  "nodesSheetTitle": "Nós Karlsen",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "nodesSheetTitle": "Nós Pyrin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "off": "Desligar",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "on": "Ligar",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "paperWallet": "Carteira de Papel",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordBlank": "A senha não pode estar vazia",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordNoLongerRequiredToOpenParagraph": "Você não precisará mais de uma senha para abrir esta carteira.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordWillBeRequiredToOpenParagraph": "Essa senha será necessária para abrir esta carteira.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "passwordsDontMatch": "As senhas não coincidem",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pasteMnemonicError": "O conteúdo da área de transferência não é uma frase secreta válida",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pending": "pendente",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinConfirmError": "Pins não coincidem",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinConfirmTitle": "Confirme o seu PIN",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinCreateTitle": "Crie um PIN de 6 Dígitos",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinEnterTitle": "Entre com o PIN",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinInvalid": "PIN inválido inserido",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinMethod": "PIN",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "pinSeedBackup": "Digite o PIN para visualizar a frase-seed da carteira.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "preferences": "Preferências",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "privacyPolicy": "Política de Privacidade",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrInvalidAddress": "O código QR não contém um destino válido",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrInvalidSeed": "O código QR não contém uma seed ou chave privada válida",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "qrMnemonicError": "QR não contém uma frase secreta válida",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receive": "Receber",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddress": "Endereço de Recebimento",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddressCopied": "Endereço de recebimento copiado",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveIndex": "Índice de recebimento",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveIndexParam": "Receber {addressIndex}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "received": "Recebido",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeContact": "Remover Contato",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeContactConfirmation": "Tem certeza de que deseja excluir {contactName}?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletAction": "Remover Carteira",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletBiometricsMessage": "Autenticar para Remover Carteira",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletDetail": "A remoção desta carteira excluirá a Frase Secreta e todos os dados relacionados à carteira deste dispositivo. Se a Frase Secreta não estiver armazenada em backup, você nunca mais poderá acessar seus fundos novamente",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletPinMessage": "Digite o PIN para Remover a Carteira",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "removeWalletReassurance": "Desde que você tenha feito backup da Frase Secreta, não há nada com o que se preocupar.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "requireAPasswordToOpenHeader": "Exigir uma senha para abrir esta carteira?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "restartSetupButton": "Reiniciar a Configuração",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanQrCode": "Escanear QR Code",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanQrCodeError": "Falha ao analisar o código QR",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretInfo": "Na próxima tela, você verá sua frase secreta. É uma senha para acessar seus fundos. É crucial que você faça o backup e nunca o compartilhe com ninguém.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretInfoHeader": "Segurança em Primeiro Lugar!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretPhrase": "Frase Secreta",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "secretWarning": "Se você perder seu dispositivo ou desinstalar o aplicativo, precisará da sua frase secreta 'seed' para recuperar seus fundos!",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "securityHeader": "Segurança",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "seed": "Frase-seed",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "seedInvalid": "A frase-seed é inválida",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "send": "Enviar",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendConfirm": "Enviar",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendError": "Um erro ocorreu. Tente mais tarde.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendNote": "NOTA",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendToAddressTitle": "Para",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendTxProgressDescription": "Por favor, aguarde enquanto a transação é enviada",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sendTxProgressTitle": "Enviando transação",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sending": "Enviar",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sent": "Enviado",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "sentTo": "Enviar para",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setPassword": "Definir senha",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setPasswordSuccess": "A senha foi definida com sucesso",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setWalletPassword": "Definir Senha da Carteira",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "settingsHeader": "Configurações",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "settingsTransfer": "Carregue Usando a Carteira de Papel",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "setupFailedMessage": "Algo deu errado",
-  "shareKaspium": "Compartilhe a Admiralium",
-  "shareKaspiumSubject": "Experimente a Carteira Admiralium",
-  "shareKaspiumText": "Confira Admiralium! Carteira Karlsen.\nWebsite - https://github.com/e4p1k0/karlsen_mobile",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspium": "Compartilhe a Kapitanium",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspiumSubject": "Experimente a Carteira Kapitanium",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "shareKaspiumText": "Confira Kapitanium! Carteira Pyrin.\nWebsite - https://github.com/e4p1k0/karlsen_mobile/tree/pyrin"",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "somethingWentWrong": "Algo deu errado",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "systemDefault": "Sistema Padrão",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tapToHide": "Toque para esconder",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tapToReveal": "Toque para revelar",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeDark": "Tema Escuro",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeHeader": "Tema",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "themeLight": "Tema Claro",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "thisWallet": "#Esta Carteira",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "to": "Para",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "toAddress": "Endereço de destino",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "tooManyFailedAttempts": "Muitas tentativas de desbloqueio falharam.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "totalValue": "Valor Total",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transactionId": "ID da transação",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transactionsUppercase": "TRANSAÇÕES",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transfer": "Transferir",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferClose": "Toque em qualquer lugar para fechar a janela.",
-  "transferComplete": "{amount} KLS transferido com sucesso para sua carteira Admiralium.\n",
-  "transferConfirmInfo": "Uma carteira com saldo de {amount} KLS foi detectada.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferComplete": "{amount} PYI transferido com sucesso para sua carteira Kapitanium.\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferConfirmInfo": "Uma carteira com saldo de {amount} PYI foi detectada.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferConfirmInfoSecond": "Toque em confirmar para transferir os fundos.\n",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferConfirmInfoThird": "A transferência pode levar vários segundos para concluir.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferError": "Ocorreu um erro durante a transferência. Por favor, tente novamente mais tarde.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferHeader": "Transferir Fundos",
-  "transferIntro": "Este processo transferirá os fundos de uma carteira de papel para sua carteira Admiralium.\n\nToque no \"{button}\" botão para começar.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferIntro": "Este processo transferirá os fundos de uma carteira de papel para sua carteira Kapitanium.\n\nToque no \"{button}\" botão para começar.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferLoading": "Transferindo",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferManualHint": "Por favor, insira a frase-seed abaixo.",
-  "transferNoFunds": "Não há nenhuma KLS nesta frase-seed.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferNoFunds": "Não há nenhuma PYI nesta frase-seed.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "transferQrScanError": "Este código QR não contém uma frase-seed válida.",
-  "transferQrScanHint": "Escaneie uma Karlsen \nseed ou chave privada",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "transferQrScanHint": "Escaneie uma Pyrin \nseed ou chave privada",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unconfirmed": "não confirmado",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "notAccepted": "não aceite",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "accepted": "aceite ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unknown": "desconhecido",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unlock": "Desbloquear",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unlockBiometrics": "Autentique para Desbloquear a Carteira",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "unlockPin": "Digite o PIN para Desbloquear a Carteira",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "utxosUppercase": "UTXOs",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "viewAddress": "Ver Endereço",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "viewTransaction": "Ver Transação",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletAddresses": "Endereços da Carteira",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletName": "Nome da carteira",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletNameDescription": "Digite um nome para a sua carteira",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletNameHint": "Nome da Carteira",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletSetupAddressDiscovery": "Executando Descoberta de Endereço",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletSetupMessage": "Configurando a carteira",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "walletsTitle": "Carteiras",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "warning": "ATENÇÃO",
-  "welcomeMessage": "Bem-vindo\n\nEsta é a versão {version} da Admiralium - a carteira móvel de Karlsen",
-  "welcomeText": "Bem-vindo a Admiralium. Para continuar, você pode criar uma nova carteira ou importar uma existente.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "welcomeMessage": "Bem-vindo\n\nEsta é a versão {version} da Kapitanium - a carteira móvel de Pyrin",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "welcomeText": "Bem-vindo a Kapitanium. Para continuar, você pode criar uma nova carteira ou importar uma existente.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "xMinutes": "Após {minutes, plural, =1{1 minuto} other{{minutes} minutos}}",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yes": "Sim",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yesButton": "Sim",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "yesUppercase": "SIM",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNotSyncedException": "Nó não está sincronizado",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeNoUTXOIndexException": "Nó não tem o índice UTXO sincronizado ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "nodeSecureConnection": "Conexão segura ",
-  "kaspaUriInvalid": "URI de Karlsen inválido",
+pp_af.arb
+pp_af.arb
+pp_af.arb
+  "kaspaUriInvalid": "URI de Pyrin inválido",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxos": "Combinar transacções ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxosDescription": "Combinar múltiplos UTXOs para um",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUtxosConfirmation": "Combinar transacções?",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundingUtxos": "A combinar transacções",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundingMessage": "Por favor aguarde...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundSuccess": "Combinação sucedida ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundFailure": "Falha ao combinar transacções",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundTooFewUtxos": "Pelo menos 2 UTXOs são necessários ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "balance": "Saldo",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "maxSend": "Enviar o máximo ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "compoundUppercased": "COMBINAR ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "closeUppercased": "FECHAR",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanMoreAddresses": "Escanear Por Mais Endereços ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressDiscovery": "Descoberta de Endereços ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanningTitle": "A Escanear ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanningDescription": "A escanear por novos endereços...",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanMore": "ESCANEAR MAIS ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scanFailedMessage": "Escaneação falhada, por favor tente outra vez mais tarde ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "indexHeader": "Índice ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "currentIndex": "Atual",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "scannedIndex": "Escaneado",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "newIndex": "Novo",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogTitle": "Filtro de Endereços ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogOptionAllAddresses": "Mostrar Todos Os Endereços",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "addressFilterDialogOptionNonZeroBalances": "Mostrar Todos Os Endereços Com Saldo",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption24WordsTitle": "Importar Frase Secreta De 24 Palavras",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption24WordsDescription": "Compatível com carteira CLI e Ledger",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption12WordsTitle": "Importar Frase Secreta De 12 Palavras",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOption12WordsDescription": "Compatível com carteira WEB e KDX",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOptionKpubTitle": "Importar Carteira Só Para Visualizar ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importOptionKpubDescription": "Monitorizar o saldo e transacções de uma carteira usando uma chave pública",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpub": "Importar Carteira Só Para Visualizar",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubHint": "Por favor insira a sua chave publica.",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubClipboardError": "Conteúdo copiado não é uma chave pública válida  ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubQrCodeError": "O código QR não contem uma chave pública válida",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "importKpubInvalidMessage": "Por favor verifique se a chave pública está inserida correctamente! ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "receiveAddressListEmpty": "Lista de endereços para receber vazia",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "changeAddressListEmpty": "Lista de endereços de troco vazia ",
+pp_af.arb
+pp_af.arb
+pp_af.arb
   "hintAddressListEmpty": "Verificar o filtro de endereços a partir do canto no topo direito"
+pp_af.arb
+pp_af.arb
+pp_af.arb
 }
+pp_af.arb
+pp_af.arb
+pp_af.arb
