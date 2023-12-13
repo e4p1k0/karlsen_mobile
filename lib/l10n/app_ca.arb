@@ -1,1220 +1,1220 @@
 {
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "@@last_modified": "2023-09-25T17:48:36.587Z",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "@@author": "arb-converter-cli",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "account": "Compte",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "accounts": "Comptes",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "ackBackedUp": "N'estàs segur que has fet una còpia de seguretat de la teva frase secreta o llavor?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "add": "Afegir",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addAccount": "Afegir compte",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addContact": "Afegir contacte",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNode": "Afegir node",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeFailed": "Error al afegir node Pyrin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeFailedMessage": "Error: {error}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeSuccess": "Node afegit amb èxit",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addingNodeMessage": "Si us plau, espera mentre es contacta amb el node",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addingNodeTitle": "Afegint node",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "address": "Adreça",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressCopied": "Adreça copiada",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressCopiedFailed": "Failed to copy address",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressHint": "Introduir adreça",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressMising": "Si us plau, introdueix una adreça",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressShare": "Compartir adreça",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "advancedHeader": "Avançat",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amount": "Quantitat",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountConfirm": "Quantitat {amount} {coin}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountMissing": "Si us plau, introdueix una quantitat",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountZero": "La quantitat no pot ser zero",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "areYouSure": "N'estàs segur/a?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authBiometricMessage": "Autentica per afegir moneder",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authMethod": "Mètode d'autenticació",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authPinMessage": "Introdueix PIN per afegir moneder",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "autoLockHeader": "Bloqueig automàtic",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "available": "Disponible",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "backupConfirmButton": "N'he fet una còpia de seguretat",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "backupSecretPhrase": "Copiar la frase secreta",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "biometricsMethod": "Biometria",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "blockExplorer": "Explorador de blocs",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "cancel": "Cancel·lar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "change": "Canviar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddress": "Canviar adreça",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddressCopied": "Canviar adreça copiada",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeIndex": "Canviar Índex",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeIndexParam": "Canviar {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "checkCameraPermission": "Si us plau, revisa el permís a la càmera",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "clipboardEmpty": "El porta-retalls està buit",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "close": "Tancar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirm": "Confirmar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmPasswordHint": "Confirma la contrasenya",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmations": "{confirmations} confirmacions",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmed": "Confirmat",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirming": "Confirmant",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactAdded": "{contactName} s'ha afegit als contactes.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactAddressCopied": "{address} adreça copiada",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactExists": "El contacte ja existeix",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactHeader": "Contacte",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactInvalid": "Nom de contacte invàlid",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactNameHint": "Introdueix un nom @",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactNameMissing": "Escull un nom per aquest contacte",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactRemoved": "{contactName} s'ha eliminat dels contactes!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsHeader": "Contactes",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsImportErr": "Error a l'importar contactes",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsImportSuccess": "{noContacts} contactes importats amb èxit.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copied": "Copiat",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copy": "Copia",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copyAddress": "Copiar adreça",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copyErrorButton": "Copiar error",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createAPasswordHeader": "Crea una contrasenya.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordFirstParagraph": "Pots establir una contrasenya per afegir protecció addicional al teu moneder.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordHint": "Crea una contrasenya",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordSecondParagraph": "La contrasenya és opcional, el teu moneder estarà protegit amb el PIN o les dades biomètriques.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordSheetHeader": "Crear",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currency": "Moneda",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currencyPoweredBy": "Amb tecnologia de CoinGecko",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultAccountName": "Compte principal",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultNewAccountName": "Compte {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultWalletName": "El meu moneder",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disablePasswordSheetHeader": "Desactivar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disablePasswordSuccess": "La contrasenya s'ha desactivat",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disableWalletPassword": "Desactivar contrasenya del moneder",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "doContinue": "Continuar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "donate": "Fer una donació",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "dontShowAgain": "No mostris més",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyCardIntroUtxos": "Aquesta és la pestanya de UTXOs. Tots els UTXOs del teu moneder apareixeran aquí",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyResult": "Resultat buit",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyWalletName": "El nom del moneder no pot quedar buit",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "encryptionFailedError": "Error a l'establir la contrasenya del moneder",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterAddress": "Introduir adreça",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterAmount": "Introduir quantitat",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterNote": "Inserir nota",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterPasswordHint": "Introdueix la teva contrasenya",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "errorMessageCopied": "Missatge d'error copiat al porta-retalls",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "exampleCardIntro": "Benvingut a Natrium. Un cop hagis rebut PYI, les transaccions apareixeran així:",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "export": "Exportar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fee": "Comissió",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "feeConfirm": "Comissió {amount} {coin}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "feeTitle": "COMISSIÓ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fetchingTransactions": "Buscant Transaccions",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fingerprintSeedBackup": "Autentica't per copiar la llavor i la frase secreta.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "goBackButton": "Tornar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "gotItButton": "Ho entenc!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "import": "Importar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhrase": "Importar frase secreta",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHint": "Si us plau, introdueix la teva frase secreta de 24 paraules a sota. Cada paraula ha d'estar separada per un espai.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHintCombo": "Please enter your 12 or 24 word secret phrase below.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHintLegacy": "Please enter your 12 word secret phrase below.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importWallet": "Importar el moneder",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importWalletDescription": "Please select an option below.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "instantly": "A l'instant",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "insufficientBalance": "Saldo insuficient",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "insufficientBalanceDetails": "No tens suficient PYI per a aquesta transacció",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidAddress": "L'adreça introduïda no és vàlida",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidAmount": "Quantitat incorrecta",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidChecksumMessage": "Si us plau, comprova que la teva Frase secreta\ns'ha introduït correctament!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidKpubMessage": "Please check that your extended public key is entered correctly!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidDestinationAddress": "Adreça de destí incorrecta",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidPassword": "Contrasenya no vàlida",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspaDevFund": "Fons de Desenvolupadors Pyrin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspiumWallet": "Moneder Kapitanium",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "language": "Idioma",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "loadingTransactions": "Carregant Transaccions...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "lockAppSetting": "Autenticar-se a l'inici",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "locked": "Bloquejat",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "loggingOutMessage": "Sortint...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logout": "Tancar la sessió",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logoutDialogContent": "Segur que vols sortir d'aquest moneder?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logoutOrSwitchWallet": "Sortir / Canviar de moneder",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "manage": "Administrar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "manualEntry": "Introduir manualment",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "networkHeader": "Xarxa",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newAddress": "Nova adreça",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newWallet": "Nou moneder",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nextButton": "Següent",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "no": "No",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noContactsExport": "No hi ha contactes per exportar.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noContactsImport": "No hi ha nous contactes per importar.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noQrCodeFound": "No s'ha trobat el QR",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noSkipButton": "No, ometre",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noUppercase": "NO",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeAddress": "Node Pyrin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeDeleteMessage": "N'estàs segur que vols esborrar-ho?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeDeleteTitle": "Esborrar la configuració del Node Pyrin?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNameEmpty": "El Nom del Node no pot quedar buit",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNameHint": "Introdueix Nom del Node",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeUrlHint": "Introdueix adreça URL del node",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeUrlInvalid": "Adreça URL del node incorrecta",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodesSheetTitle": "Nodes Pyrin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "off": "Desactivades",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "on": "Activades",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "paperWallet": "Moneder de paper",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordBlank": "La contrasenya no pot estar buida",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordNoLongerRequiredToOpenParagraph": "Ja no requeriràs una contrasenya per obrir Natrium.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordWillBeRequiredToOpenParagraph": "Es requerirà aquesta contrasenya per obrir Natrium.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordsDontMatch": "Les contrasenyes no coincideixen",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pasteMnemonicError": "El contingut del porta-retalls no és una frase secreta correcta",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pending": "pendent",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinConfirmError": "Els codis PIN no coincideixen",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinConfirmTitle": "Confirma el teu PIN",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinCreateTitle": "Crea un PIN de 6 dígits",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinEnterTitle": "Introdueix el PIN",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinInvalid": "PIN introduït invàlid",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinMethod": "PIN",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinSeedBackup": "Introdueix el PIN per copiar la llavor i la frase secreta",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "preferences": "Preferències",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "privacyPolicy": "Política de privadesa",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrInvalidAddress": "El codi QR no conté un destí vàlid",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrInvalidSeed": "El codi QR no conté una llavor o clau privada vàlida",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrMnemonicError": "El codi QR no conté una frase secreta vàlida",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receive": "Rebre",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddress": "Rebre adreça",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddressCopied": "S'ha copiat l'adreça rebuda",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveIndex": "Rebre Índex",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveIndexParam": "Rebre {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "received": "Rebut",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeContact": "Eliminar contacte",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeContactConfirmation": "N'estàs segur que vols eliminar a {contactName}?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletAction": "Esborrar moneder",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletBiometricsMessage": "Autenticar per Esborrar moneder",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletDetail": "Al esborrar aquest moneder, s'esborrarà la frase secreta i totes les dades relacionades amb aquest moneder en aquest dispositiu. Si no tens còpia de la frase secreta, mai més podràs accedir als teus fons.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletPinMessage": "Introduir PIN per eliminar el moneder",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletReassurance": "Sempre que tinguis una còpia de la teva frase secreta, no tens per què preocupar-te",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "requireAPasswordToOpenHeader": "Vols requerir una contrasenya per obrir Natrium?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "restartSetupButton": "Reiniciar configuració",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanQrCode": "Escanejar codi QR",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanQrCodeError": "Error al obtenir codi QR",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretInfo": "En la següent pantalla, veuràs una frase secreta. És una contrasenya per accedir als teus fons. És crucial que en facis una còpia de seguretat i no la comparteixis amb ningú.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretInfoHeader": "Seguretat abans que res!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretPhrase": "Frase secreta",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretWarning": "Si perds el teu dispositiu o desinstal·les l'aplicació, necessitaràs la teva frase secreta o llavor per recuperar els teus fons!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "securityHeader": "Seguretat",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "seed": "Seed",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "seedInvalid": "Llavor no vàlida",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "send": "Enviar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendConfirm": "Enviar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendError": "S'ha produït un error. Intenta-ho més tard.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendNote": "NOTA",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendToAddressTitle": "A",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendTxProgressDescription": "Si us plau, espera mentres la transacció s'envia",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendTxProgressTitle": "Enviant transacció",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sending": "Enviar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sent": "Enviat",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sentTo": "Enviar a",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setPassword": "Establir contrasenya",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setPasswordSuccess": "Contrasenya establerta amb èxit",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setWalletPassword": "Establir contrasenya del moneder",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "settingsHeader": "Configuració",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "settingsTransfer": "Carregar des d'un moneder de paper",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setupFailedMessage": "Hi ha hagut un error",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspium": "Compartir Kapitanium",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspiumSubject": "Veure el moneder de Kapitanium",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspiumText": "Mira Kapitanium - Pyrin Moneder Mòbil.\nWeb - https://github.com/e4p1k0/karlsen_mobile/tree/pyrin"",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "somethingWentWrong": "Hi ha hagut un error",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "systemDefault": "Predeterminat del sistema",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tapToHide": "Prem per amagar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tapToReveal": "Prem per mostrar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeDark": "Tema fosc",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeHeader": "Tema",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeLight": "Tema clar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "thisWallet": "#Aquest moneder",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "to": "A",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "toAddress": "A Adreça",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tooManyFailedAttempts": "Massa intents de desbloqueig fallits.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "totalValue": "Valor Total",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transactionId": "ID de la transacció",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transactionsUppercase": "TRANSACCIONS",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transfer": "Transferir",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferClose": "Prem a qualsevol lloc per tancar la finestra.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferComplete": "{amount} PYI han estat transferits amb èxit al teu moneder Natrium.\n",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfo": "S'ha detectat un moneder amb un saldo de {amount} PYI.\n",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfoSecond": "La transferència pot tardar uns quants segons a completar-se.\n",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfoThird": "La transferència pot tardar uns quants segons a completar-se.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferError": "S'ha produït un error en la transferència. Si us plau, intenta-ho més tard.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferHeader": "Transferir fons",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferIntro": "Aquest procés transferirà els fons des d'un moneder de paper al teu moneder Natrium.\n\nPrem el botó \"{button}\" per començar.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferLoading": "Transferint",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferManualHint": "Si us plau, introdueix la llavor a sota.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferNoFunds": "Aquesta llavor no conté cap PYI",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferQrScanError": "Aquest codi QR no conté una llavor vàlida.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferQrScanHint": "Escaneja una llavor\no clau privada Pyrin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unconfirmed": "sense confirmar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "notAccepted": "not accepted",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "accepted": "accepted",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unknown": "desconegut",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlock": "Desbloquejar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlockBiometrics": "Autentica't per desbloquejar Natrium",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlockPin": "Introdueix el PIN per desbloquejar Natrium",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "utxosUppercase": "UTXOs",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "viewAddress": "Veure Adreça",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "viewTransaction": "Veure Transacció",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletAddresses": "Adreces del moneder",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletName": "Nom del moneder",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletNameDescription": "Introdueix un nom pel teu moneder",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletNameHint": "Nom del moneder",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletSetupAddressDiscovery": "Executant Descobriment d'Adreces",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletSetupMessage": "Configurant moneder",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletsTitle": "Moneders",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "warning": "Advertència",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "welcomeMessage": "Benvingut/uda!\n\nAquesta és la versió {version} de Kapitanium - el moneder mòbil per Pyrin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "welcomeText": "Benvingut a Natrium. Per començar, pots crear un nou moneder o importar-ne un d'existent.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "xMinutes": "Després de {minutes, plural, =1{1 minut} other{{minutes} minuts}}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yes": "Sí",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yesButton": "Sí",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yesUppercase": "SÍ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNotSyncedException": "El node no està sincronitzat",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNoUTXOIndexException": "El node no té índex UTXO",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeSecureConnection": "Connexió segura",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspaUriInvalid": "Invalid Pyrin URI",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxos": "Compound transactions",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxosDescription": "Combine multiple UTXOs into one",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxosConfirmation": "Compound transactions?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundingUtxos": "Compounding transactions",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundingMessage": "Please wait...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundSuccess": "Compound successful",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundFailure": "Failed to compound transactions",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundTooFewUtxos": "At least two UTXOs are required",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "balance": "Balance",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "maxSend": "Max Send",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUppercased": "COMPOUND",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "closeUppercased": "CLOSE",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanMoreAddresses": "Scan For More Addresses",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressDiscovery": "Address Discovery",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanningTitle": "Scanning",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanningDescription": "Scanning for new addresses...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanMore": "SCAN MORE",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanFailedMessage": "Scan failed, please try again later",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "indexHeader": "Index",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currentIndex": "Current",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scannedIndex": "Scanned",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newIndex": "New",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogTitle": "Address Filter",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogOptionAllAddresses": "View All Addresses",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogOptionNonZeroBalances": "View Addresses With Balance",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption24WordsTitle": "Import 24 Word Secret Phrase",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption24WordsDescription": "Compatible with Cli Wallet and Ledger",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption12WordsTitle": "Import 12 Word Secret Phrase",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption12WordsDescription": "Compatible with Web Wallet and KDX",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOptionKpubTitle": "Import Watch Only Wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOptionKpubDescription": "Monitor the balance and transactions of a wallet using an extended public key",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpub": "Import Watch Only Wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubHint": "Please enter your extended public key.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubClipboardError": "Clipboard content is not a valid extended public key",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubQrCodeError": "QR code does not contain a valid extended public key",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubInvalidMessage": "Please check that your extended public key is entered correctly!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddressListEmpty": "Receive address list is empty",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddressListEmpty": "Change address list is empty",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "hintAddressListEmpty": "Check address filter from the top right corner"
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
 }
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+

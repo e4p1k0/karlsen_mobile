@@ -1,1220 +1,1220 @@
 {
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "@@last_modified": "2023-09-25T17:48:36.587Z",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "@@author": "arb-converter-cli",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "account": "Llogaria",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "accounts": "Llogaritë",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "ackBackedUp": "Jeni i sigurt që e keni ruajtur frazën tuaj sekrete?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "add": "Shto",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addAccount": "Shto Llogari",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addContact": "Shto Kontakte",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNode": "Shto Nyje",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeFailed": "Shtimi i nyjes Pyrin dështoi",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeFailedMessage": "Dështoi: {error}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeSuccess": "Nyja u shtua me sukses",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addingNodeMessage": "Ju lutemi prisni gjatë kontaktit me nyjen",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addingNodeTitle": "Duke shtuar nyjen",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "address": "Adrresa",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressCopied": "Adresa u kopjua",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressCopiedFailed": "Failed to copy address",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressHint": "Fut Adresën",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressMising": "Ju lutemi shkruani një adresë",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressShare": "Ndani adresën",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "advancedHeader": "E avancuar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amount": "Sasia",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountConfirm": "Shuma {amount} {coin}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountMissing": "Ju lutemi vendosni një shumë",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountZero": "Shuma nuk mund të jetë zero",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "areYouSure": "A je i sigurt?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authBiometricMessage": "Autentifikohu për të shtuar portofolin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authMethod": "Metoda e vërtetimit",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authPinMessage": "Fut kodin PIN për të shtuar portofolin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "autoLockHeader": "Kyç automatikisht",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "available": "Në dispozicion",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "backupConfirmButton": "Unë e kam ruajtur atë",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "backupSecretPhrase": "Ruaj Frazën Sekrete",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "biometricsMethod": "Biometrike",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "blockExplorer": "Block Explorer",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "cancel": "Anullo",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "change": "Ndrysho",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddress": "Ndrysho Adrresën",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddressCopied": "Ndrysho adrresën qe keni kopjuar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeIndex": "Ndrysho Indeksin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeIndexParam": "Ndrysho {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "checkCameraPermission": "Ju lutemi kontrolloni lejet e kamerës",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "clipboardEmpty": "Clipboard është bosh",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "close": "Mbylle",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirm": "Konfirmo",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmPasswordHint": "Konfirmoni fjalëkalimin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmations": "{confirmations} konfirmime",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmed": "konfirmuar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirming": "duke konfirmuar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactAdded": "{contactName} u shtua te kontaktet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactAddressCopied": "{address} adresa u kopjua",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactExists": "Kontakti tashmë ekziston",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactHeader": "Kontaktoni",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactInvalid": "Emri i pavlefshëm i kontaktit",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactNameHint": "Fut një emër @",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactNameMissing": "Zgjidhni një emër për këtë kontakt",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactRemoved": "{contactName} është hequr nga kontaktet!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsHeader": "Kontaktet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsImportErr": "Importimi i kontakteve dështoi",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsImportSuccess": "Kontaktet e {noContacts} u importuan me sukses",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copied": "U kopjua",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copy": "Kopjo",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copyAddress": "Kopjo Adrresën",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copyErrorButton": "Gabim ne kopim",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createAPasswordHeader": "Krijo një fjalëkalim.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordFirstParagraph": "Ju mund të krijoni një fjalëkalim për të shtuar siguri shtesë në portofolin tuaj.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordHint": "Krijo një fjalëkalim",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordSecondParagraph": "Fjalëkalimi është opsional dhe kuleta juaj do të mbrohet me kodin PIN ose biometrikë pavarësisht.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordSheetHeader": "Krijo",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currency": "Valuta",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currencyPoweredBy": "Mundësuar nga CoinGecko",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultAccountName": "Adrresa 1",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultNewAccountName": "Merr {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultWalletName": "Portofoli im",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disablePasswordSheetHeader": "Çaktivizo",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disablePasswordSuccess": "Fjalëkalimi është çaktivizuar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disableWalletPassword": "Çaktivizo fjalëkalimin e portofolit",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "doContinue": "Vazhdo",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "donate": "Dhuroni",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "dontShowAgain": "Mos e shfaq më",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyCardIntroUtxos": "Kjo është skeda UTXOs. Të gjitha UTXO-të në portofolin tuaj do të shfaqen këtu",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyResult": "Rezultati bosh",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyWalletName": "Emri i portofolit nuk mund të jetë bosh",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "encryptionFailedError": "Vendosja e fjalëkalimit të portofolit dështoi",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterAddress": "Fut adresën",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterAmount": "Futni shumën",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterNote": "Shkruani Shënimin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterPasswordHint": "Futni fjalëkalimin tuaj",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "errorMessageCopied": "Mesazhi i gabimit u kopjua",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "exampleCardIntro": "Kjo është skeda e transaksioneve. Pasi të dërgoni ose merrni një transaksion, ai do të shfaqet këtu.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "export": "Eksporto",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fee": "Tarifa",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "feeConfirm": "Tarifa {amount} {coin}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "feeTitle": "TARIFA",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fetchingTransactions": "Marrja e transaksioneve",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fingerprintSeedBackup": "Vërtetoni për të ruajtur frazën sekrete.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "goBackButton": "Shko Mbrapa",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "gotItButton": "E kuptova!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "import": "Importo",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhrase": "Importo Frazën Sekrete",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHint": "Ju lutemi shkruani frazën tuaj sekrete prej 24 fjalësh më poshtë.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHintCombo": "Please enter your 12 or 24 word secret phrase below.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHintLegacy": "Please enter your 12 word secret phrase below.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importWallet": "Importo Portofolin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importWalletDescription": "Please select an option below.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "instantly": "Menjëherë",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "insufficientBalance": "Bilanci i pamjaftueshëm",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "insufficientBalanceDetails": "Nuk keni mjaftueshëm PYI për këtë transaksion",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidAddress": "Adresa e futur ishte e pavlefshme",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidAmount": "Shuma e pavlefshme",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidChecksumMessage": "Ju lutemi kontrolloni që fraza juaj sekrete\nështë futur saktë!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidKpubMessage": "Please check that your extended public key is entered correctly!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidDestinationAddress": "Adresa e destinacionit e pavlefshme",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidPassword": "Fjalëkalim i pavlefshëm",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspaDevFund": "Fondi i Dev te Pyrin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspiumWallet": "Portofoli i Kapitaniumit",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "language": "Gjuhë",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "loadingTransactions": "Transaksionet po ngarkohen...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "lockAppSetting": "Autentifikojeni në nisje",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "locked": "Kycur",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "loggingOutMessage": "Po dilni...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logout": "Dil",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logoutDialogContent": "Jeni i sigurt që dëshironi të dilni nga ky portofol?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logoutOrSwitchWallet": "Dilni / Ndërroni portofolin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "manage": "Menaxho",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "manualEntry": "Hyrja manuale",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "networkHeader": "Rrjeti",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newAddress": "Adrresë e re",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newWallet": "Portofol i ri",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nextButton": "Tjetra",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "no": "Jo",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noContactsExport": "Nuk ka kontakte për të eksportuar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noContactsImport": "Nuk ka kontakte të reja për të eksportuar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noQrCodeFound": "Nuk u gjet asnjë kod QR",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noSkipButton": "Jo, Kalo",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noUppercase": "JO",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeAddress": "Nyje Pyrin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeDeleteMessage": "Jeni i sigurt që dëshironi ta fshini?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeDeleteTitle": "Të fshihet konfigurimi i Nyjes Pyrin?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNameEmpty": "Emri i nyjes nuk mund të jetë bosh",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNameHint": "Futni emrin e nyjes",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeUrlHint": "Fut URL-në e nyjes",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeUrlInvalid": "URL e pavlefshme e nyjes",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodesSheetTitle": "Nyjet Pyrin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "off": "Fik",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "on": "Ndiz",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "paperWallet": "Portofoli prej letre",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordBlank": "Fjalëkalimi nuk mund të jetë bosh",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordNoLongerRequiredToOpenParagraph": "Nuk do t'ju duhet një fjalëkalim për të hapur këtë portofol.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordWillBeRequiredToOpenParagraph": "Ky fjalëkalim do të kërkohet për të hapur këtë portofol.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordsDontMatch": "Fjalëkalimet nuk përputhen",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pasteMnemonicError": "Përmbajtja e kujtesës nuk është një frazë e vlefshme sekrete",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pending": "në pritje",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinConfirmError": "Pinet nuk përputhen",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinConfirmTitle": "Konfirmoni PIN-in tuaj",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinCreateTitle": "Krijo një PIN 6-shifror",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinEnterTitle": "Fut kodin PIN",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinInvalid": "Është futur kodi PIN i pavlefshëm",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinMethod": "PIN",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinSeedBackup": "Fut kodin PIN për të rezervuar frazën sekrete",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "preferences": "Preferancat",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "privacyPolicy": "Politika e privatësisë",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrInvalidAddress": "Kodi QR nuk përmban një adresë të vlefshme",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrInvalidSeed": "Kodi QR nuk përmban një seed të vlefshme ose çelës privat",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrMnemonicError": "Kodi QR nuk përmban një frazë të vlefshme sekrete",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receive": "Merrni",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddress": "Merrni Adrresën",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddressCopied": "Adressa e marrjes është kopjuar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveIndex": "Merr Indeksin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveIndexParam": "Marrë {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "received": "Marrë",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeContact": "Hiq kontaktin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeContactConfirmation": "Jeni i sigurt që dëshironi të fshini {contactName}?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletAction": "Hiq portofolin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletBiometricsMessage": "Autentifikohu për të hequr portofolin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletDetail": "Heqja e këtij portofoli do të heqë frazën sekrete dhe të gjitha të dhënat e lidhura me portofolin nga kjo pajisje. Nëse Fraza Sekrete nuk është e rezervuar, nuk do të mund të përdorni më kurrë fondet tuaja.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletPinMessage": "Fut kodin PIN për të hequr portofolin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletReassurance": "Për sa kohë që e keni ruajtur Frazën Sekrete, nuk keni asgjë për t'u shqetësuar.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "requireAPasswordToOpenHeader": "Kërkohet një fjalëkalim për të hapur këtë portofol?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "restartSetupButton": "Rinis konfigurimin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanQrCode": "Skanoni kodin QR",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanQrCodeError": "Analizimi i kodit qr dështoi",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretInfo": "Në ekranin tjetër, do të shihni frazën tuaj sekrete. Është një fjalëkalim për të hyrë në fondet tuaja. Është thelbësore që ta mbështesni atë dhe të mos e ndani kurrë me askënd.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretInfoHeader": "Siguaria Primare!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretPhrase": "Fraze Sekrete",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretWarning": "Nëse humbni pajisjen tuaj ose çinstaloni aplikacionin, do t'ju duhet fraza juaj sekrete për të rikuperuar fondet tuaja!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "securityHeader": "Siguria",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "seed": "Seed",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "seedInvalid": "Seed është i pavlefshëm",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "send": "Dërgo",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendConfirm": "Dërgo",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendError": "Ka ndodhur një problem. Provoni përsëri",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendNote": "SHËNIM",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendToAddressTitle": "Në",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendTxProgressDescription": "Ju lutemi prisni derisa transaksioni të dërgohet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendTxProgressTitle": "Dërgimi i transaksionit",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sending": "Dërgo",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sent": "Dërguar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sentTo": "Dërgo në",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setPassword": "Vendosni fjalëkalimin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setPasswordSuccess": "Është vendosur fjalëkalimi i portofolit",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setWalletPassword": "Vendosni fjalëkalimin e portofolit",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "settingsHeader": "Cilësimet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "settingsTransfer": "Ngarkoni nga Portofoli i letrës",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setupFailedMessage": "Dicka shkoj keq",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspium": "Shpërnda Kapitanium",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspiumSubject": "Shikoni Portofolin Kapitanium",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspiumText": "Shikoni Kapitanium - Pyrin Mobile Wallet.\nFaqja e internetit - https://github.com/e4p1k0/karlsen_mobile/tree/pyrin"",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "somethingWentWrong": "Dicka shkoj keq",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "systemDefault": "Parazgjedhjet e sistemit",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tapToHide": "Trokit për ta fshehur",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tapToReveal": "Trokit për të zbuluar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeDark": "Temë e errët",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeHeader": "Tema",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeLight": "Tema e lehtë",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "thisWallet": "#Ky Portofol",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "to": "Në",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "toAddress": "Në adresën",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tooManyFailedAttempts": "Shumë përpjekje të dështuara për shkyçje.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "totalValue": "Vlera Totale",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transactionId": "ID Transaksionit",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transactionsUppercase": "TRANSAKSION",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transfer": "Transfertë",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferClose": "Prekni kudo për të mbyllur dritaren.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferComplete": "{amount} PYI u transferua me sukses në portofolin tuaj Kapitanium.\n",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfo": "Është zbuluar një portofol me një bilanc prej {amount} PYI.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfoSecond": "Prekni konfirmoni për të transferuar fondet.\n",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfoThird": "Transferimi mund të marrë disa sekonda për të përfunduar.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferError": "Ka ndodhur një gabim gjatë transferimit. Ju lutemi provoni përsëri më vonë.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferHeader": "Transfero Fondet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferIntro": "Ky proces do të transferojë fondet nga një portofol letre në portofolin tuaj Kapitanium.\n\nPrekni butonin \"{button}\" për të filluar.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferLoading": "Duke transferuar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferManualHint": "Ju lutemi shkruani seed më poshtë.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferNoFunds": "Ky seed nuk ka asnjë PYI mbi të",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferQrScanError": "Ky kod QR nuk përmban një seed të vlefshme.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferQrScanHint": "Skanoni një seed Pyrin\n ose çelës privat",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unconfirmed": "e pakonfirmuar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "notAccepted": "not accepted",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "accepted": "accepted",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unknown": "e paditur",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlock": "Hap",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlockBiometrics": "Autentifikohu për të zhbllokuar portofolin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlockPin": "Fut kodin PIN për të zhbllokuar portofolin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "utxosUppercase": "UTXOs",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "viewAddress": "Shiko adresën",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "viewTransaction": "Shikoni transaksionin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletAddresses": "Adresat e portofolit",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletName": "Emri i portofolit",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletNameDescription": "Futni një emër për portofolin tuaj",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletNameHint": "Emri i portofolit",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletSetupAddressDiscovery": "Zbulimi i adresës në punë",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletSetupMessage": "Vendosja e portofolit",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletsTitle": "Portofolat",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "warning": "Paralajmërim",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "welcomeMessage": "Mirë se vini!\n\nKy është versioni {version} i Kapitanium - portofoli celular për Pyrin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "welcomeText": "Mirë se vini në Kapitanium. Për të filluar, mund të krijoni një portofol të ri ose të importoni një ekzistues.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "xMinutes": "Pas {minutes, plural, =1{1 minuti} other{{minutes} minutash}}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yes": "Po",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yesButton": "Po",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yesUppercase": "PO",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNotSyncedException": "Nyja nuk sinkronizohet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNoUTXOIndexException": "Nyja nuk ka indeks UTXO",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeSecureConnection": "Lidhje e sigurt",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspaUriInvalid": "Invalid Pyrin URI",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxos": "Compound transactions",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxosDescription": "Combine multiple UTXOs into one",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxosConfirmation": "Compound transactions?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundingUtxos": "Compounding transactions",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundingMessage": "Please wait...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundSuccess": "Compound successful",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundFailure": "Failed to compound transactions",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundTooFewUtxos": "At least two UTXOs are required",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "balance": "Balance",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "maxSend": "Max Send",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUppercased": "COMPOUND",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "closeUppercased": "CLOSE",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanMoreAddresses": "Scan For More Addresses",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressDiscovery": "Address Discovery",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanningTitle": "Scanning",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanningDescription": "Scanning for new addresses...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanMore": "SCAN MORE",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanFailedMessage": "Scan failed, please try again later",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "indexHeader": "Index",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currentIndex": "Current",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scannedIndex": "Scanned",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newIndex": "New",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogTitle": "Address Filter",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogOptionAllAddresses": "View All Addresses",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogOptionNonZeroBalances": "View Addresses With Balance",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption24WordsTitle": "Import 24 Word Secret Phrase",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption24WordsDescription": "Compatible with Cli Wallet and Ledger",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption12WordsTitle": "Import 12 Word Secret Phrase",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption12WordsDescription": "Compatible with Web Wallet and KDX",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOptionKpubTitle": "Import Watch Only Wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOptionKpubDescription": "Monitor the balance and transactions of a wallet using an extended public key",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpub": "Import Watch Only Wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubHint": "Please enter your extended public key.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubClipboardError": "Clipboard content is not a valid extended public key",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubQrCodeError": "QR code does not contain a valid extended public key",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubInvalidMessage": "Please check that your extended public key is entered correctly!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddressListEmpty": "Receive address list is empty",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddressListEmpty": "Change address list is empty",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "hintAddressListEmpty": "Check address filter from the top right corner"
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
 }
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+

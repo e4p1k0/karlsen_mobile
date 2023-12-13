@@ -1,1220 +1,1220 @@
 {
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "@@last_modified": "2023-09-25T17:48:36.587Z",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "@@author": "arb-converter-cli",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "account": "Tài khoản",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "accounts": "Các tài khoản",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "ackBackedUp": "Bạn có chắc chắn rằng đã sao lưu cụm từ bí mật hoặc hạt giống của bạn?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "add": "Add",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addAccount": "Thêm tài khoản",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addContact": "Thêm liên hệ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNode": "Add Node",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeFailed": "Failed to add Pyrin node",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeFailedMessage": "Failed: {error}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeSuccess": "Node Added Successfully",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addingNodeMessage": "Please wait while contacting node",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addingNodeTitle": "Adding Node",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "address": "Address",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressCopied": "Đã sao chép địa chỉ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressCopiedFailed": "Failed to copy address",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressHint": "Nhập địa chỉ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressMising": "Hãy nhập một địa chỉ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressShare": "Chia sẻ địa chỉ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "advancedHeader": "Advanced",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amount": "Amount",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountConfirm": "Amount {amount} {coin}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountMissing": "Hãy nhập lượng tiền",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountZero": "Amount can't be zero",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "areYouSure": "Are you sure?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authBiometricMessage": "Authenticate to Add Wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authMethod": "Phương thức xác nhận",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authPinMessage": "Enter PIN to Add Wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "autoLockHeader": "Mở khoá tự động",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "available": "Available",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "backupConfirmButton": "Tôi đã sao lưu",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "backupSecretPhrase": "Sao lưu cụm từ bí mật",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "biometricsMethod": "Sinh trắc học",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "blockExplorer": "Trình khám phá khối",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "cancel": "Hủy",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "change": "Change",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddress": "Change Address",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddressCopied": "Change address copied",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeIndex": "Change Index",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeIndexParam": "Change {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "checkCameraPermission": "Please check camera permissions",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "clipboardEmpty": "Clipboard is empty",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "close": "Đóng",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirm": "Xác nhận",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmPasswordHint": "Xác nhận mật khẩu",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmations": "{confirmations} confirmations",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmed": "confirmed",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirming": "confirming",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactAdded": "Đã thêm {contactName} vào danh bạ.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactAddressCopied": "{address} address copied",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactExists": "Liên hệ đã tồn tại",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactHeader": "Liên hệ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactInvalid": "Tên liên hệ không phù hợp",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactNameHint": "Nhập tên",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactNameMissing": "Nhập tên cho liên hệ này",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactRemoved": "Đã loại {contactName} khỏi danh bạ.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsHeader": "Danh bạ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsImportErr": "Nhập liên hệ thất bại",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsImportSuccess": "Đã nhập thành công {noContacts} liên hệ.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copied": "Đã sao chép",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copy": "Sao chép",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copyAddress": "Sao chép địa chỉ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copyErrorButton": "Copy Error",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createAPasswordHeader": "Tạo mật khẩu.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordFirstParagraph": "Bạn có thể tạo mật khẩu để tăng tính bảo mật cho ví của bạn.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordHint": "Tạo mật khẩu",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordSecondParagraph": "Mật khẩu là tùy chọn không bắt buộc, và ví của bạn sẽ được bảo vệ với mã PIN hoặc sinh trắc học. ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordSheetHeader": "Tạo",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currency": "Tiền tệ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currencyPoweredBy": "Powered by CoinGecko",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultAccountName": "Tài khoản chính",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultNewAccountName": "Tài khoản {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultWalletName": "My Wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disablePasswordSheetHeader": "Vô hiệu hoá",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disablePasswordSuccess": "Đã vô hiệu hoá mật khẩu",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disableWalletPassword": "Vô hiệu hoá mật khẩu ví",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "doContinue": "Continue",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "donate": "Donate",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "dontShowAgain": "Don't show again",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyCardIntroUtxos": "This is the UTXOs tab. All UTXOs in your wallet will appear here",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyResult": "Empty Result",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyWalletName": "Wallet Name cannot be empty",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "encryptionFailedError": "Đặt mật khẩu ví không thành công",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterAddress": "Nhập địa chỉ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterAmount": "Nhập số lượng",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterNote": "Enter Note",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterPasswordHint": "Nhập mật khẩu",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "errorMessageCopied": "Error message copied to clipboard",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "exampleCardIntro": "Chào mừng đến với Kapitanium. Khi bạn nhận Pyrin, các giao dịch sẽ được hiển thị như sau:",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "export": "Export",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fee": "Fee",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "feeConfirm": "Fee {amount} {coin}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "feeTitle": "FEE",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fetchingTransactions": "Fetching Transactions",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fingerprintSeedBackup": "Xác minh để xem hạt giống.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "goBackButton": "Quay lại",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "gotItButton": "Đã hiểu!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "import": "Nhập vào",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhrase": "Nhập cụm từ bí mật",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHint": "Hãy nhập 24 từ bí mật vào dưới đây. Mỗi từ phải được cách nhau bởi dấu cách.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHintCombo": "Please enter your 12 or 24 word secret phrase below.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHintLegacy": "Please enter your 12 word secret phrase below.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importWallet": "Nhập ví hiện có",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importWalletDescription": "Please select an option below.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "instantly": "Ngay tức thì",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "insufficientBalance": "Số dư không đủ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "insufficientBalanceDetails": "You don't have enough PYI for this transaction",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidAddress": "Địa chỉ đã nhập không hợp lệ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidAmount": "Invalid Amount",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidChecksumMessage": "Please check that your Secret Phrase\n is entered correctly!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidKpubMessage": "Please check that your extended public key is entered correctly!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidDestinationAddress": "Invalid Destination Address",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidPassword": "Mật khẩu không hợp lệ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspaDevFund": "Pyrin Dev Fund",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspiumWallet": "Kapitanium Wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "language": "Ngôn ngữ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "loadingTransactions": "Loading Transactions...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "lockAppSetting": "Xác thực khi khởi chạy",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "locked": "Đã khoá",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "loggingOutMessage": "Logging out...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logout": "Đăng xuất",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logoutDialogContent": "Are you sure you want to logout from this wallet?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logoutOrSwitchWallet": "Logout / Switch Wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "manage": "Quản lí",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "manualEntry": "Nhập thủ công",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "networkHeader": "Network",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newAddress": "New Address",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newWallet": "Tạo ví mới",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nextButton": "Tiếp theo",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "no": "Không",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noContactsExport": "Không có liên hệ nào để xuất ra.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noContactsImport": "Không có liên hệ nào để nhập.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noQrCodeFound": "No QR code found",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noSkipButton": "Không, bỏ qua",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noUppercase": "NO",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeAddress": "Pyrin Node",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeDeleteMessage": "Are you sure you want to delete?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeDeleteTitle": "Delete Pyrin Node Config?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNameEmpty": "Node name cannot be empty",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNameHint": "Enter Node Name",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeUrlHint": "Enter Node URL",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeUrlInvalid": "Invalid node URL",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodesSheetTitle": "Pyrin Nodes",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "off": "Tắt",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "on": "Bật",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "paperWallet": "Ví giấy",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordBlank": "Không thể bỏ trống mật khẩu",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordNoLongerRequiredToOpenParagraph": "Bạn sẽ không cần mật khẩu để mở Kapitanium nữa.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordWillBeRequiredToOpenParagraph": "Mật khẩu này sẽ được yêu cầu để mở Kapitanium.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordsDontMatch": "Mật khẩu không khớp",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pasteMnemonicError": "Clipboard content is not a valid secret phrase",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pending": "đang chờ xác nhận",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinConfirmError": "Mã PIN không khớp",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinConfirmTitle": "Xác nhận mã PIN của bạn",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinCreateTitle": "Tạo mã PIN 6 chữ số",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinEnterTitle": "Nhập PIN",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinInvalid": "Mã PIN đã nhập không hợp lệ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinMethod": "Mã PIN",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinSeedBackup": "Nhập mã PIN để sao lưu hạt giống",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "preferences": "Tuỳ chọn",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "privacyPolicy": "Chính sách bảo mật",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrInvalidAddress": "Mã QR không chứa điểm đến hợp lệ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrInvalidSeed": "Mã QR không chứa hạt giống hoặc khoá riêng tư hợp lệ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrMnemonicError": "Mã QR không chứa cụm từ bí mật hợp lệ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receive": "Nhận",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddress": "Receive Address",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddressCopied": "Receive address copied",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveIndex": "Receive Index",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveIndexParam": "Receive {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "received": "Đã nhận",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeContact": "Xóa liên hệ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeContactConfirmation": "Bạn chắc chắn muốn xóa {contactName}?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletAction": "Remove Wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletBiometricsMessage": "Authenticate to Remove Wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletDetail": "Removing this wallet will remove the Secret Phrase and all wallet-related data from this device. If the Secret Phrase is not backed up, you will never be able to access your funds again.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletPinMessage": "Enter PIN to Remove Wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletReassurance": "As long as you've backed up the Secret Phrase you have nothing to worry about.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "requireAPasswordToOpenHeader": "Yêu cầu mật khẩu để mở Kapitanium?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "restartSetupButton": "Restart Setup",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanQrCode": "Quét mã QR",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanQrCodeError": "Failed to parse qr code",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretInfo": "Tiếp theo, bạn sẽ nhìn thấy một cụm từ bí mật. Nó là mật khẩu để truy cập vào ví của bạn. Đừng quên sao lưu nó lại và tuyệt đối không chia sẻ cho bất kỳ ai",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretInfoHeader": "An toàn là trên hết!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretPhrase": "Cụm từ bí mật",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretWarning": "Nếu bạn đánh mất thiết bị hoặc gỡ cài đặt ứng dụng, bạn sẽ cần cụm từ bí mật hoặc hạt giống để khôi phục ví của bạn.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "securityHeader": "Bảo mật",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "seed": "Seed",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "seedInvalid": "Hạt giống (seed) không hợp lệ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "send": "Gửi",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendConfirm": "Send",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendError": "Đã xảy ra lỗi, vui lòng thử lại sau.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendNote": "NOTE",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendToAddressTitle": "To",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendTxProgressDescription": "Please wait while the transaction is sent",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendTxProgressTitle": "Sending Transaction",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sending": "Đang gửi",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sent": "Đã gửi",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sentTo": "Đã gửi tới",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setPassword": "Đặt mật khẩu",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setPasswordSuccess": "Đã đặt mật khẩu thành công",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setWalletPassword": "Đặt mật khẩu ví",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "settingsHeader": "Cài đặt",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "settingsTransfer": "Nhập từ ví giấy",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setupFailedMessage": "Something went wrong",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspium": "Chia sẻ Kapitanium",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspiumSubject": "Check out Kapitanium Wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspiumText": "Thử ngay Kapitanium! Ví Pyrin di động chính thức!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "somethingWentWrong": "Something went wrong",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "systemDefault": "Mặc định hệ thống",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tapToHide": "Nhấn để ẩn",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tapToReveal": "Nhấn để hiển thị",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeDark": "Dark Theme",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeHeader": "Chủ đề",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeLight": "Light Theme",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "thisWallet": "#This Wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "to": "tới",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "toAddress": "To Address",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tooManyFailedAttempts": "Quá nhiều lần mở khoá thất bại.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "totalValue": "Total Value",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transactionId": "Transaction ID",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transactionsUppercase": "TRANSACTIONS",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transfer": "Chuyển giao",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferClose": "Chạm một chỗ bất kỳ để đóng cửa sổ.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferComplete": "{amount} Pyrin đã được chuyển vào ví Kapitanium của bạn.\n",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfo": "Đã tìm thấy một ví với số dư là {amount} BAN. \n",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfoSecond": "Nhấn xác nhận để chuyển tiền.\n",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfoThird": "Có thể mất vài giây để hoàn thành giao dịch.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferError": "Đã có lỗi trong quá trình giao dịch, vui lòng thử lại sau.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferHeader": "Chuyển tiền",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferIntro": "Quá trình này sẽ chuyển toàn bộ số dư từ ví giấy sang ví Kapitanium của bạn.\n\nNhấn nút \"{button}\" để bắt đầu.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferLoading": "Đang chuyển",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferManualHint": "Hãy nhập hạt giống dưới đây",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferNoFunds": "Hạt giống này không chứa chút Pyrin nào",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferQrScanError": "Mã QR này không chứa hạt giống hợp lệ.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferQrScanHint": "Quét \nhạt giống Pyrin hoặc khoá riêng tư",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unconfirmed": "chưa xác nhận",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "notAccepted": "not accepted",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "accepted": "accepted",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unknown": "unknown",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlock": "Mở khoá",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlockBiometrics": "Xác nhận mở khoá Kapitanium",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlockPin": "Nhập mã PIN để mở khoá Kapitanium",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "utxosUppercase": "UTXOs",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "viewAddress": "View Address",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "viewTransaction": "View Transaction",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletAddresses": "Wallet Addresses",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletName": "Wallet name",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletNameDescription": "Enter a name for your wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletNameHint": "Wallet Name",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletSetupAddressDiscovery": "Running Address Discovery",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletSetupMessage": "Setting up wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletsTitle": "Wallets",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "warning": "CẢNH BÁO!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "welcomeMessage": "Welcome!\n\nThis is version {version} of Kapitanium - the mobile wallet for Pyrin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "welcomeText": "Chào mừng đến với Kapitanium. Để bắt đầu, bạn có thể tạo ví mới hoặc nhập ví hiện có.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "xMinutes": "Sau {minutes, plural, =1{1 phút} other{{minutes} phút}}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yes": "Có",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yesButton": "Yes",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yesUppercase": "YES",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNotSyncedException": "Node is not synced",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNoUTXOIndexException": "Node does not have UTXO index",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeSecureConnection": "Secure connection",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspaUriInvalid": "Invalid Pyrin URI",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxos": "Compound transactions",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxosDescription": "Combine multiple UTXOs into one",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxosConfirmation": "Compound transactions?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundingUtxos": "Compounding transactions",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundingMessage": "Please wait...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundSuccess": "Compound successful",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundFailure": "Failed to compound transactions",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundTooFewUtxos": "At least two UTXOs are required",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "balance": "Balance",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "maxSend": "Max Send",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUppercased": "COMPOUND",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "closeUppercased": "CLOSE",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanMoreAddresses": "Scan For More Addresses",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressDiscovery": "Address Discovery",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanningTitle": "Scanning",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanningDescription": "Scanning for new addresses...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanMore": "SCAN MORE",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanFailedMessage": "Scan failed, please try again later",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "indexHeader": "Index",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currentIndex": "Current",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scannedIndex": "Scanned",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newIndex": "New",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogTitle": "Address Filter",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogOptionAllAddresses": "View All Addresses",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogOptionNonZeroBalances": "View Addresses With Balance",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption24WordsTitle": "Import 24 Word Secret Phrase",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption24WordsDescription": "Compatible with Cli Wallet and Ledger",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption12WordsTitle": "Import 12 Word Secret Phrase",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption12WordsDescription": "Compatible with Web Wallet and KDX",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOptionKpubTitle": "Import Watch Only Wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOptionKpubDescription": "Monitor the balance and transactions of a wallet using an extended public key",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpub": "Import Watch Only Wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubHint": "Please enter your extended public key.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubClipboardError": "Clipboard content is not a valid extended public key",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubQrCodeError": "QR code does not contain a valid extended public key",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubInvalidMessage": "Please check that your extended public key is entered correctly!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddressListEmpty": "Receive address list is empty",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddressListEmpty": "Change address list is empty",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "hintAddressListEmpty": "Check address filter from the top right corner"
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
 }
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+

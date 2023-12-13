@@ -1,1220 +1,1220 @@
 {
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "@@last_modified": "2023-09-30T20:57:42.789Z",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "@@author": "arb-converter-cli",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "account": "Compte",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "accounts": "Comptes",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "ackBackedUp": "Êtes-vous sûr de bien avoir correctement sauvegardé votre Seed ?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "add": "Ajouter",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addAccount": "Ajouter un compte",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addContact": "Ajouter un contact",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNode": "Ajouter un nœud",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeFailed": "Échec de l'ajout du nœud Pyrin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeFailedMessage": "Erreur: {error}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeSuccess": "Nœud ajouté avec succès",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addingNodeMessage": "Merci de patienter pendant que je contacte le nœud",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addingNodeTitle": "Ajout du nœud en cours",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "address": "Adresse",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressCopied": "Adresse copiée",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressCopiedFailed": "La copie de l'adresse à échoué",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressHint": "Entrer l'adresse",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressMising": "Veuillez entrer une adresse de destination",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressShare": "Partager",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "advancedHeader": "Avancé",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amount": "Montant",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountConfirm": "Montant {amount} {coin}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountMissing": "Veuillez entrer un montant",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountZero": "Le montant ne peut pas être nul",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "areYouSure": "Êtes-vous sûr ?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authBiometricMessage": "Authentifiez-vous pour ajouter un portefeuille",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authMethod": "Méthode d’authentification",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authPinMessage": "Rentrez votre PIN pour ajouter un portefeuille",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "autoLockHeader": "Verrouiller automatiquement",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "available": "Disponible",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "backupConfirmButton": "J'ai correctement sauvegardé",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "backupSecretPhrase": "Sauvegarder la phrase secrète",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "biometricsMethod": "Biométrie",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "blockExplorer": "Explorateur de blocs",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "cancel": "Annuler",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "change": "Changer",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddress": "Adresse",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddressCopied": "Adresse copiée",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeIndex": "Changer l'index",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeIndexParam": "Changer {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "checkCameraPermission": "Merci de vérifier les permissions de l'appareil photo",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "clipboardEmpty": "Le presse-papier est vide",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "close": "Fermer",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirm": "Confirmer",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmPasswordHint": "Confirmer le mot de passe",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmations": "{confirmations} confirmations",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmed": "confirmé",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirming": "en cours de confirmation",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactAdded": "{contactName} a été ajouté aux contacts !",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactAddressCopied": "{address} adresse copiée",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactExists": "Ce contact existe déjà",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactHeader": "Contact",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactInvalid": "Nom du contact erroné",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactNameHint": "Saisir un nom @",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactNameMissing": "Choisir un nom pour ce contact",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactRemoved": "{contactName} a été supprimé de vos contacts !",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsHeader": "Contacts",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsImportErr": "Échec de l'importation des contacts",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsImportSuccess": "Import de {noContacts} contacts réussi",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copied": "Copié",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copy": "Copier",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copyAddress": "Copier l’adresse",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copyErrorButton": "Erreur de copie",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createAPasswordHeader": "Créer un mot de passe.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordFirstParagraph": "Vous pouvez créer un mot de passe pour sécuriser votre portefeuille.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordHint": "Créer un mot de passe",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordSecondParagraph": "Le mot de passe est optionnel, votre portefeuille sera néanmoins protégé par votre PIN ou les données biométriques.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordSheetHeader": "Créer",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currency": "Devise",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currencyPoweredBy": "Propulsé par CoinGecko",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultAccountName": "Compte principal",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultNewAccountName": "Compte {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultWalletName": "Mon portefeuille",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disablePasswordSheetHeader": "Désactiver",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disablePasswordSuccess": "Mot de passe désactivé",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disableWalletPassword": "Désactiver le mot de passe du portefeuille",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "doContinue": "Continuer",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "donate": "Donner",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "dontShowAgain": "Ne plus afficher ce message",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyCardIntroUtxos": "Ceci est l'onglet des UTXOs. Tous les UTXOs de votre portefeuille apparaîtront ici",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyResult": "Résultat vide",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyWalletName": "Le nom du portefeuille ne peut pas être vide",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "encryptionFailedError": "La définition du mot de passe de portefeuille à échouée",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterAddress": "Saisir l’adresse",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterAmount": "Saisir le montant",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterNote": "Saisir une note",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterPasswordHint": "Entrer le mot de passe",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "errorMessageCopied": "Le message d'erreur à été copié dans le presse-papier",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "exampleCardIntro": "Bienvenue sur Kapitanium. Lorsque vous recevrez ou enverrez des PYI, les transactions apparaîtront ici.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "export": "Exporter",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fee": "Frais",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "feeConfirm": "Frais {amount} {coin}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "feeTitle": "FRAIS",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fetchingTransactions": "Récupération des transactions",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fingerprintSeedBackup": "Merci de vous authentifier pour sauvegarder la Seed.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "goBackButton": "Retour",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "gotItButton": "J'ai compris !",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "import": "Importer",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhrase": "Importer une phrase secrète",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHint": "Veuillez entrer ci-dessous les 24 mots de votre phrase secrète. Les mots doivent être séparés par un espace.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHintCombo": "Merci d'entrer votre passe phrase de 12 ou 24 mots ci-dessous.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHintLegacy": "Merci d'entrer votre passe phrase de 12 ci-dessous.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importWallet": "Importer",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importWalletDescription": "Merci de sélectionner une option ci-dessous.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "instantly": "Immédiatement",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "insufficientBalance": "Solde insuffisant",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "insufficientBalanceDetails": "Vous n'avez pas assez de PYI pour cette transaction",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidAddress": "Adresse du destinataire invalide",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidAmount": "Montant invalide",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidChecksumMessage": "Merci de vérifier que votre phrase secrète\nest correcte !",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidKpubMessage": "Merci de vérifier que la clé publique étendue renseignée soit correcte!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidDestinationAddress": "Adresse du destinataire invalide",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidPassword": "Mot de passe invalide",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspaDevFund": "Fond de développement Pyrin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspiumWallet": "Kapitanium",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "language": "Langue",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "loadingTransactions": "Chargement des transactions...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "lockAppSetting": "Authentifier au démarrage",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "locked": "Verrouillé",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "loggingOutMessage": "Déconnexion...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logout": "Déconnexion",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logoutDialogContent": "Êtes-vous sur de vouloir vous déconnecter de ce portefeuille ?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logoutOrSwitchWallet": "Déconnecter / Changer de portefeuille",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "manage": "Gérer",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "manualEntry": "Saisie manuelle",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "networkHeader": "Réseau",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newAddress": "Ajouter une nouvelle adresse",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newWallet": "Nouveau",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nextButton": "Suivant",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "no": "Non",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noContactsExport": "Il n’y a pas de contacts à exporter",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noContactsImport": "Aucun contact à importer",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noQrCodeFound": "QR Code introuvable",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noSkipButton": "Passer",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noUppercase": "NON",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeAddress": "Nœud Pyrin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeDeleteMessage": "Êtes-vous sûr de vouloir supprimer ?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeDeleteTitle": "Supprimer la configuration du nœud Pyrin ?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNameEmpty": "Le nom du nœud ne peux pas être vide",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNameHint": "Renseigner un nom de nœud",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeUrlHint": "Renseigner une URL de nœud",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeUrlInvalid": "URL du nœud invalide",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodesSheetTitle": "Nœuds Pyrin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "off": "Désactivé",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "on": "Activé",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "paperWallet": "Portefeuille papier",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordBlank": "Le mot de passe ne peut être vide",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordNoLongerRequiredToOpenParagraph": "Vous n'aurez plus besoin de mot de passe pour ouvrir Kapitanium.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordWillBeRequiredToOpenParagraph": "Le mot passe sera utilisé pour ouvrir Kapitanium.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordsDontMatch": "Les mots de passe sont différents",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pasteMnemonicError": "Le contenu du presse-papier n'est pas une phrase secrète valide",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pending": "En attente",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinConfirmError": "Les PINs ne correspondent pas",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinConfirmTitle": "Confirmer votre PIN",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinCreateTitle": "Créer un code PIN à 6 chiffres",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinEnterTitle": "Saisir le PIN",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinInvalid": "Code PIN saisi invalide",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinMethod": "Code PIN",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinSeedBackup": "Saisir le PIN afin de voir votre Seed",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "preferences": "Préférences",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "privacyPolicy": "Politique de confidentialité",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrInvalidAddress": "Le code QR ne contient pas de destinataire valide",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrInvalidSeed": "Le QR code ne contient pas de clé privée valide ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrMnemonicError": "Le Code QR ne contient pas de phrase secrète valide.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receive": "Recevoir",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddress": "Adresse de réception",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddressCopied": "Adresse de réception copiée !",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveIndex": "Adresse de réception",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveIndexParam": "Adresse de réception {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "received": "Reçu",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeContact": "Supprimer le contact",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeContactConfirmation": "Êtes vous sûr de vouloir supprimer {contactName}?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletAction": "Supprimer le portefeuille",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletBiometricsMessage": "Merci de vous authentifier pour supprimer le portefeuille",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletDetail": "La suppression de ce portefeuille supprimera la phrase secrète et toutes les données liées au portefeuille sur cet appareil. Si la phrase secrète n'est pas sauvegardée, vous ne pourrez plus jamais accéder à vos fonds.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletPinMessage": "Entrer votre PIN pour supprimer le portefeuille",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletReassurance": "Tant que vous avez sauvegardé la phrase secrète, vous n'avez rien à craindre.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "requireAPasswordToOpenHeader": "Besoin d'un mot de passe pour ouvrir Kapitanium ?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "restartSetupButton": "Redémarrer la configuration",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanQrCode": "Scanner le QR Code",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanQrCodeError": "Échec de l'analyse du QR Code",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretInfo": "Dans l'écran suivant, vous verrez votre phrase secrète. Il s'agit d'un mot de passe qui permet d'accéder à vos fonds. Il est crucial que vous le sauvegardiez et que vous ne le partagiez jamais avec qui que ce soit.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretInfoHeader": "La sécurité avant tout !",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretPhrase": "Phrase secrète",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretWarning": "Si vous perdez votre appareil ou désinstallez l'application, vous aurez besoin de votre phrase secrète pour restaurer votre portefeuille !",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "securityHeader": "Sécurité",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "seed": "Seed",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "seedInvalid": "La Seed est invalide",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "send": "Envoyer",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendConfirm": "Envoyer",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendError": "Une erreur s'est produite. Veuillez réessayer plus tard.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendNote": "NOTE",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendToAddressTitle": "Vers",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendTxProgressDescription": "Veuillez patienter pendant l'envoi de la transaction",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendTxProgressTitle": "Transaction en cours",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sending": "Envoyer",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sent": "Envoyé",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sentTo": "Envoyé À",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setPassword": "Définir le mot de passe",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setPasswordSuccess": "Mot de passe activé",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setWalletPassword": "Définir le mot de passe du portefeuille",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "settingsHeader": "Réglages",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "settingsTransfer": "Charger depuis un portefeuille papier",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setupFailedMessage": "Une erreur est survenue",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspium": "Partager Kapitanium",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspiumSubject": "Découvrez le portefeuille Kapitanium",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspiumText": "Découvrez Kapitanium - Le portefeuille mobile de Pyrin\nhttps://github.com/e4p1k0/karlsen_mobile/tree/pyrin"",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "somethingWentWrong": "Une erreur est survenue",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "systemDefault": "Paramètres par défaut",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tapToHide": "Taper pour masquer",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tapToReveal": "Taper pour afficher",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeDark": "Thème sombre",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeHeader": "Thème",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeLight": "Thème clair",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "thisWallet": "#Ce portefeuille",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "to": "Vers",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "toAddress": "Vers l'adresse",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tooManyFailedAttempts": "Trop de tentatives de déverrouillage infructueuses.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "totalValue": "Valeur totale",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transactionId": "ID de transaction",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transactionsUppercase": "TRANSACTIONS",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transfer": "Transférer",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferClose": "Appuyer n’importe où afin de fermer ce volet.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferComplete": "{amount} PYI ont été transférés avec succès vers votre portefeuille Kapitanium.\n",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfo": "Un portefeuille avec un solde de {amount} PYI a été détecté.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfoSecond": "Appuyer pour confirmer le transfert de fonds.\n",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfoThird": "Le transfert peut prendre quelques secondes.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferError": "Une erreur s’est produite durant le transfert. Veuillez réessayer plus tard.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferHeader": "Transférer",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferIntro": "Transférer le contenu d'un portefeuille papier vers votre portefeuille Kapitanium.\n\nAppuyer sur le bouton \"{button}\" pour commencer.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferLoading": "Transfert en cours",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferManualHint": "Merci d'entrer votre clé privée ci-dessous",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferNoFunds": "Ce seed ne contient pas de PYI.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferQrScanError": "Ce QR code ne contient pas de seed valide.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferQrScanHint": "Scanner une seed Pyrin\nou une clé privée",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unconfirmed": "non confirmé",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "notAccepted": "rejeté",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "accepted": "accepté",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unknown": "inconnu",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlock": "Déverrouiller",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlockBiometrics": "Authentifiez-vous pour déverrouiller Kapitanium",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlockPin": "Entrer votre PIN pour déverrouiller Kapitanium",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "utxosUppercase": "UTXOs",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "viewAddress": "Voir les adresses",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "viewTransaction": "Voir la transaction",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletAddresses": "Adresses du portefeuille",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletName": "Nom du portefeuille",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletNameDescription": "Entrez un nom pour votre portefeuille",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletNameHint": "Nom du portefeuille",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletSetupAddressDiscovery": "Découverte d'adresses en cours",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletSetupMessage": "Configurer le portefeuille",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletsTitle": "Portefeuilles",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "warning": "ATTENTION",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "welcomeMessage": "Bienvenue !\n\nVoici la version {version} de Kapitanium - le portefeuille mobile de Pyrin !",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "welcomeText": "Bienvenue dans Kapitanium. Avant de continuer, veuillez créer un nouveau portefeuille ou en importer un déjà existant.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "xMinutes": "Après {minutes, plural, =1{1 minute} other{{minutes} minutes}}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yes": "Oui",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yesButton": "Oui",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yesUppercase": "OUI",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNotSyncedException": "Le nœud n'est pas synchronisé",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNoUTXOIndexException": "Le nœud ne possède pas d'index UTXO",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeSecureConnection": "Connexion sécurisée",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspaUriInvalid": "URL Pyrin invalide",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxos": "Combiner les transactions",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxosDescription": "Combiner les multiples UTXOs en une seule",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxosConfirmation": "Combiner les transactions ?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundingUtxos": "Combinaison des transactions en cours",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundingMessage": "Merci de patienter...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundSuccess": "Combinaison réussie",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundFailure": "La combinaison des transactions à échoué",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundTooFewUtxos": "Un minimum de 2 UTXOs sont nécéssaires",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "balance": "Solde",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "maxSend": "Envoyer le total",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUppercased": "COMBINER",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "closeUppercased": "FERMER",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanMoreAddresses": "Scanner pour trouver plus d'adresses",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressDiscovery": "Découverte d'adresses",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanningTitle": "Scan en cours",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanningDescription": "Scanner de nouvelles adresses...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanMore": "SCAN",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanFailedMessage": "Scan échoué, merci d'essayer ultérieurement",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "indexHeader": "Index",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currentIndex": "Actuel",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scannedIndex": "Scanné",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newIndex": "Ajouter",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogTitle": "Filtrer l'adresse",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogOptionAllAddresses": "Voir toutes les adresses",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogOptionNonZeroBalances": "Voir les adresses avec un solde",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption24WordsTitle": "Importer une passe phrase de 24 mots",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption24WordsDescription": "Compatible avec le portefeuille CLI et Ledger",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption12WordsTitle": "Importer une passe phrase de 12 mots",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption12WordsDescription": "Compatible avec le portefeuille web et KDX",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOptionKpubTitle": "Importer un portefeuille en lecture seule",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOptionKpubDescription": "Surveille le solde et les transactions d'un portefeuille à l'aide de sa clé publique étendue",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpub": "Importer un portefeuille en lecture seule",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubHint": "Merci de renseigner la clé publique étendue.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubClipboardError": "Le presse papier ne contient pas une clé publique étendue valide",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubQrCodeError": "Le QR Code ne contient pas une clé publique étendue valide",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubInvalidMessage": "Merci de vérifier que votre clé publique étendue est correctement renseignée!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddressListEmpty": "L'adresse de réception est vide",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddressListEmpty": "La liste d'adresses est vide",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "hintAddressListEmpty": "Vérifier le filtre d'adresses dans le menu en haut à droite"
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
 }
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+

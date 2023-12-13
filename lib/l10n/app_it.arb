@@ -1,1220 +1,1220 @@
 {
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "@@last_modified": "2023-09-25T17:48:36.587Z",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "@@author": "arb-converter-cli",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "account": "Account",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "accounts": "Accounts",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "ackBackedUp": "Sei sicuro di aver fatto una copia della tua frase segreta?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "add": "Aggiungi",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addAccount": "Aggiungi account",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addContact": "Aggiungi contatto",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNode": "Aggiungi nodo",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeFailed": "Impossibile aggiungere nodo Pyrin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeFailedMessage": "Errore: {error}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeSuccess": "Nodo aggiunto con successo",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addingNodeMessage": "Attendi mentre contatto il nodo",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addingNodeTitle": "Aggiungendo il nodo",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "address": "Indirizzo",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressCopied": "Indirizzo copiato",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressCopiedFailed": "Failed to copy address",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressHint": "Inserisci indirizzo",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressMising": "Inserisci un indirizzo",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressShare": "Condividi indirizzo",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "advancedHeader": "Avanzate",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amount": "Importo",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountConfirm": "Importo {amount} {coin}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountMissing": "Inserisci un importo",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountZero": "L'importo non può essere zero",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "areYouSure": "Sei sicuro?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authBiometricMessage": "Autenticazione necessaria per aggiungere un wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authMethod": "Metodo di Autenticazione",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authPinMessage": "Inserisci il PIN per aggiungere il wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "autoLockHeader": "Blocca automaticamente",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "available": "Disponibile",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "backupConfirmButton": "L'ho salvata",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "backupSecretPhrase": "Esegui backup della frase segreta",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "biometricsMethod": "Biometrica",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "blockExplorer": "Explorer",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "cancel": "Annulla",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "change": "Resto",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddress": "Indirizzo del resto",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddressCopied": "Indirizzo del resto copiato",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeIndex": "Indice dei resti",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeIndexParam": "Resto {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "checkCameraPermission": "Controlla il permesso di accesso alla fotocamera",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "clipboardEmpty": "Non hai copiato nulla",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "close": "Chiudi",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirm": "Conferma",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmPasswordHint": "Conferma la password",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmations": "{confirmations} conferme",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmed": "confermata",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirming": "in attesa di conferma",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactAdded": "{contactName} è stato aggiunto ai contatti!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactAddressCopied": "{address} indirizzo copiato",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactExists": "Contatto già esistente",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactHeader": "Contatto",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactInvalid": "Nome contatto non valido",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactNameHint": "Inserisci un nome @",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactNameMissing": "Scegli un nome per questo contatto",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactRemoved": "{contactName} è stato rimosso dai contatti!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsHeader": "Contatti",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsImportErr": "Importazione contatti fallita",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsImportSuccess": "{noContacts} contatti importati con successo",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copied": "Copiato",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copy": "Copia",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copyAddress": "Copia Indirizzo",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copyErrorButton": "Errore durante la copia",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createAPasswordHeader": "Crea una password",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordFirstParagraph": "Puoi creare una password per rendere il tuo wallet ancora più sicuro.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordHint": "Crea una password",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordSecondParagraph": "La password è opzionale e il tuo wallet sarà comunque protetto dal PIN o dal riconoscimento biometrico.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordSheetHeader": "Crea",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currency": "Valuta",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currencyPoweredBy": "Servizio offerto da CoinGecko",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultAccountName": "Indirizzo 1",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultNewAccountName": "Account {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultWalletName": "Il mio wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disablePasswordSheetHeader": "Disattiva",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disablePasswordSuccess": "La password è stata disattivata",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disableWalletPassword": "Disattiva la password del wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "doContinue": "Continua",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "donate": "Dona",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "dontShowAgain": "Non mostrare più",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyCardIntroUtxos": "Questa è la sezione dedicata agli UTXO. Tutti gli UTXO del tuo wallet appariranno qui",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyResult": "Nessun risultato",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyWalletName": "Devi per forza dare un nome al wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "encryptionFailedError": " \nImpostazione della password non riuscita",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterAddress": "Inserisci indirizzo",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterAmount": "Inserisci importo",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterNote": "Inserisci note",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterPasswordHint": "Inserisci la tua password",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "errorMessageCopied": "Messaggio d'errore copiato",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "exampleCardIntro": "Questa è la sezione dedicata alle transazioni. Quando invierai o riceverai una transazione, sarà visualizzata qui.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "export": "Esporta",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fee": "Commissione",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "feeConfirm": "Commissioni: {amount} {coin}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "feeTitle": "COMMISSIONE",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fetchingTransactions": "Sto recuperando le transazioni",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fingerprintSeedBackup": "Conferma l'impronta per eseguire il backup della frase segreta",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "goBackButton": "Indietro",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "gotItButton": "Ho capito!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "import": "Importa",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhrase": "Importa frase segreta",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHint": "Inserisci la tua frase segreta di 24 parole.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHintCombo": "Please enter your 12 or 24 word secret phrase below.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHintLegacy": "Please enter your 12 word secret phrase below.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importWallet": "Importa wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importWalletDescription": "Please select an option below.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "instantly": "Subito",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "insufficientBalance": "Saldo insufficiente",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "insufficientBalanceDetails": "Non hai abbastanza PYI per questa transazione",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidAddress": "L'indirizzo inserito non è valido",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidAmount": "L'importo inserito non è valido",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidChecksumMessage": "Verifica che la tua frase segreta\n sia inserita correttamente!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidKpubMessage": "Please check that your extended public key is entered correctly!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidDestinationAddress": "L'indirizzo di destinazione inserito non è valido",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidPassword": "La password inserita non è valida",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspaDevFund": "Fondo dei developer di Pyrin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspiumWallet": "Kapitanium Wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "language": "Lingua",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "loadingTransactions": "Caricamento delle transazioni in corso...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "lockAppSetting": "Autenticazione all'avvio",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "locked": "Bloccato",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "loggingOutMessage": "Disconnessione in corso...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logout": "Disconnesso",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logoutDialogContent": "Sei sicuro di volerti disconnettere da questo wallet?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logoutOrSwitchWallet": "Disconnessione / Cambia Wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "manage": "Gestisci",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "manualEntry": "Inserisci manualmente",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "networkHeader": "Rete",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newAddress": "Nuovo indirizzo",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newWallet": "Nuovo wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nextButton": "Avanti",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "no": "No",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noContactsExport": "Non ci sono contatti da esportare",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noContactsImport": "Non ci sono nuovi contatti da importare",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noQrCodeFound": "Nessun codice QR trovato",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noSkipButton": "No, salta",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noUppercase": "NO",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeAddress": "Nodo Pyrin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeDeleteMessage": "Sei sicuro di voler cancellare?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeDeleteTitle": "Vuoi cancellare la configurazione del nodo Pyrin?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNameEmpty": "Il nome del nodo non può essere vuoto",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNameHint": "Inserisci il nome del nodo",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeUrlHint": "Inserisci l'URL del nodo",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeUrlInvalid": "L'URL inserito non è valido",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodesSheetTitle": "Nodi Pyrin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "off": "Off",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "on": "On",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "paperWallet": "Wallet cartaceo",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordBlank": "La password non può essere vuota",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordNoLongerRequiredToOpenParagraph": "Non avrai bisogno di una password per aprire questo wallet.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordWillBeRequiredToOpenParagraph": "Questa password ti sarà richiesta per aprire questo wallet.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordsDontMatch": "Le password non corrispondono",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pasteMnemonicError": "Il contenuto copiato non è una frase segreta valida",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pending": "in attesa",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinConfirmError": "I PIN non corrispondono",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinConfirmTitle": "Conferma il tuo PIN",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinCreateTitle": "Crea un PIN a 6 cifre",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinEnterTitle": "Inserisci PIN",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinInvalid": "Il PIN inserito non è valido",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinMethod": "PIN",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinSeedBackup": "Inserisci il PIN per eseguire il backup della frase segreta",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "preferences": "Preferenze",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "privacyPolicy": "Politiche sui dati sensibili",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrInvalidAddress": "Il codice QR non contiene un indirizzo valido",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrInvalidSeed": "Il codice QR non contiene un seed o una chiave privata validi",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrMnemonicError": "Il codice QR non contiene una frase segreta valida",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receive": "Ricevi",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddress": "Indirizzo di ricezione",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddressCopied": "Indirizzo di ricezione copiato",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveIndex": "Indirizzo di ricezione",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveIndexParam": "Ricevi {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "received": "Ricevuti",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeContact": "Rimuovi contatto",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeContactConfirmation": "Sei sicuro di voler rimuovere {contactName}?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletAction": "Elimina wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletBiometricsMessage": "Autenticati per eliminare il wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletDetail": "Eliminando questo wallet la frase segreta e tutti i dati del wallet saranno rimossi da questo dispositivo. Se non hai effettuato un backup della frase segreta, non sarai più in grado di accedere ai tuoi fondi.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletPinMessage": "Inserisci il PIN per eliminare il wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletReassurance": "Se hai effettuato correttamente il backup della frase segreta, puoi stare tranquillo.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "requireAPasswordToOpenHeader": "Vuoi impostare una password per accedere a questo wallet?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "restartSetupButton": "Riavvia l'installazione",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanQrCode": "Scansiona codice QR",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanQrCodeError": "Non è possibile decifrare il codice QR",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretInfo": "Nella prossima schermata, vedrai la tua frase segreta. È la password per accedere ai tuoi fondi. È fondamentale che tu ne faccia una copia e che non la condivida con nessuno.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretInfoHeader": "La sicurezza prima di tutto!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretPhrase": "Frase segreta",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretWarning": "Se perdi il tuo dispositivo o disinstalli l'applicazione, avrai bisogno della tua frase segreta per recuperare i tuoi fondi!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "securityHeader": "Sicurezza",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "seed": "Seed",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "seedInvalid": "Seed non valido",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "send": "Invia",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendConfirm": "Invia",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendError": "Si è verificato un errore. Si prega di riprovare più tardi.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendNote": "NOTE",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendToAddressTitle": "Invia a",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendTxProgressDescription": "Attendi l'invio della transazione",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendTxProgressTitle": "Invio della transazione in corso",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sending": "Invio in corso",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sent": "Inviata",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sentTo": "Inviata a",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setPassword": "Imposta Password",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setPasswordSuccess": "La password è stata impostata correttamente",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setWalletPassword": "Imposta la password del wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "settingsHeader": "Impostazioni",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "settingsTransfer": "Recupera da wallet cartaceo",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setupFailedMessage": "Qualcosa è andato storto",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspium": "Condividi Kapitanium",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspiumSubject": "Dai un'occhiata al wallet Kapitanium",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspiumText": "Dai un'occhiata a Kapitanium, il wallet mobile di Pyrin!\nWebsite - https://github.com/e4p1k0/karlsen_mobile/tree/pyrin"",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "somethingWentWrong": "Qualcosa è andato storto",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "systemDefault": "Predefinito",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tapToHide": "Tocca qui per nascondere",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tapToReveal": "Tocca qui per visualizzare",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeDark": "Tema scuro",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeHeader": "Tema",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeLight": "Tema chiaro",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "thisWallet": "#Questo wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "to": "A",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "toAddress": "All'indirizzo",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tooManyFailedAttempts": "Troppi tentativi di sblocco falliti.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "totalValue": "Valore totale",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transactionId": "ID transazione",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transactionsUppercase": "TRANSAZIONI",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transfer": "Trasferisci",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferClose": "Premi dove vuoi per chiudere la finestra.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferComplete": "{amount} PYI trasferiti con successo al tuo wallet Kapitanium.\n",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfo": "Rilevato un wallet con un saldo di {amount} PYI.\n",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfoSecond": "Premi Conferma per trasferire i fondi.\n",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfoThird": "Il trasferimento potrebbe richiedere diversi secondi.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferError": "Si è verificato un errore durante il trasferimento. Riprova più tardi.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferHeader": "Trasferisci fondi",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferIntro": "Questo processo trasferirà i fondi da un wallet cartaceo al tuo wallet Kapitanium.\n\nPremi il pulsante \"{button}\" per iniziare.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferLoading": "Trasferimento in corso",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferManualHint": "Inserisci il tuo seed.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferNoFunds": "Questo seed non contiene alcun PYI.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferQrScanError": "Questo codice QR non contiene un seed valido.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferQrScanHint": "Scansiona un seed \no una chiave privata",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unconfirmed": "non confermata",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "notAccepted": "not accepted",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "accepted": "accepted",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unknown": "sconosciuta",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlock": "Sblocca",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlockBiometrics": "Autenticati per sbloccare il wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlockPin": "Inserisci il PIN per sbloccare il wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "utxosUppercase": "UTXO",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "viewAddress": "Visualizza indirizzo",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "viewTransaction": "Visualizza transazione",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletAddresses": "Indirizzi del wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletName": "Nome del wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletNameDescription": "Inserisci un nome per il tuo wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletNameHint": "Nome del wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletSetupAddressDiscovery": "Analisi degli indirizzi in corso",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletSetupMessage": "Configurazione del wallet in corso",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletsTitle": "Wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "warning": "Attenzione",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "welcomeMessage": "Benvenuto!\n\nQuesta è la versione {version} di Kapitanium - il wallet mobile per Pyrin ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "welcomeText": "Benvenuto in Kapitanium. Per iniziare, puoi creare un nuovo wallet o importare un wallet già esistente.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "xMinutes": "Dopo {minutes, plural, =1{1 minuto} other{{minutes} minuti}}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yes": "Si",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yesButton": "Si",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yesUppercase": "SI",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNotSyncedException": "Node is not synced",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNoUTXOIndexException": "Node does not have UTXO index",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeSecureConnection": "Secure connection",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspaUriInvalid": "Invalid Pyrin URI",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxos": "Compound transactions",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxosDescription": "Combine multiple UTXOs into one",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxosConfirmation": "Compound transactions?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundingUtxos": "Compounding transactions",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundingMessage": "Please wait...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundSuccess": "Compound successful",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundFailure": "Failed to compound transactions",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundTooFewUtxos": "At least two UTXOs are required",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "balance": "Balance",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "maxSend": "Max Send",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUppercased": "COMPOUND",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "closeUppercased": "CLOSE",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanMoreAddresses": "Scan For More Addresses",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressDiscovery": "Address Discovery",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanningTitle": "Scanning",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanningDescription": "Scanning for new addresses...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanMore": "SCAN MORE",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanFailedMessage": "Scan failed, please try again later",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "indexHeader": "Index",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currentIndex": "Current",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scannedIndex": "Scanned",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newIndex": "New",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogTitle": "Address Filter",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogOptionAllAddresses": "View All Addresses",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogOptionNonZeroBalances": "View Addresses With Balance",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption24WordsTitle": "Import 24 Word Secret Phrase",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption24WordsDescription": "Compatible with Cli Wallet and Ledger",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption12WordsTitle": "Import 12 Word Secret Phrase",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption12WordsDescription": "Compatible with Web Wallet and KDX",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOptionKpubTitle": "Import Watch Only Wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOptionKpubDescription": "Monitor the balance and transactions of a wallet using an extended public key",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpub": "Import Watch Only Wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubHint": "Please enter your extended public key.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubClipboardError": "Clipboard content is not a valid extended public key",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubQrCodeError": "QR code does not contain a valid extended public key",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubInvalidMessage": "Please check that your extended public key is entered correctly!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddressListEmpty": "Receive address list is empty",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddressListEmpty": "Change address list is empty",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "hintAddressListEmpty": "Check address filter from the top right corner"
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
 }
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+

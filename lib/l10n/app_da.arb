@@ -1,1220 +1,1220 @@
 {
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "@@last_modified": "2023-10-08T18:51:30.958Z",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "@@author": "arb-converter-cli",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "account": "Konto",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "accounts": "Konti",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "ackBackedUp": "Er du sikker på, at du har sikkerhedskopieret din hemmelige sætning?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "add": "Tilføj",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addAccount": "Tilføj konto",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addContact": "Tilføj Kontakt",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNode": "Tilføj Node",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeFailed": "Kunne ikke tilføje Pyrin node",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeFailedMessage": "Mislykkedes: {error}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeSuccess": "Node tilføjet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addingNodeMessage": "Vent venligst, mens node kontaktes",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addingNodeTitle": "Tilføjer Node",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "address": "Adresse",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressCopied": "Adresse Kopieret",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressCopiedFailed": "Adressen kunne ikke kopieres",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressHint": "Indtast Adresse",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressMising": "Indtast Venligst en Adresse",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressShare": "Del Adresse",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "advancedHeader": "Avanceret",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amount": "Beløb",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountConfirm": "Beløb {amount} {coin}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountMissing": "Indtast venligst et beløb",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountZero": "Beløbet kan ikke være nul",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "areYouSure": "Er du sikker?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authBiometricMessage": "Godkend for at tilføje pung",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authMethod": "Godkendelsesmetode",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authPinMessage": "Indtast PIN-koden for at tilføje pung",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "autoLockHeader": "Lås automatisk",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "available": "Tilgængelig",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "backupConfirmButton": "Jeg har lavet en sikkerhedskopi",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "backupSecretPhrase": "Sikkerhedskopier hemmelig sætning",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "biometricsMethod": "Biometri",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "blockExplorer": "Bloker Explorer",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "cancel": "Annuller",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "change": "Ændre",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddress": "Ændre Adresse",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddressCopied": "Skift adresse kopieret",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeIndex": "Ændre index",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeIndexParam": "Ændre {addressIndex}\n ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "checkCameraPermission": "Tjek venligst kameratilladelser",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "clipboardEmpty": "Udklipsholderen er tom",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "close": "Luk",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirm": "Bekræft",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmPasswordHint": "Bekræft adgangskode",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmations": "{confirmations} bekræftelser",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmed": "Bekræftet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirming": "Bekræfter",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactAdded": "{contactName} er blevet føjet til kontakter.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactAddressCopied": "{address} addresse kopieret\n ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactExists": "Kontakt eksisterer allerede",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactHeader": "Kontakt",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactInvalid": "Ugyldigt kontaktnavn",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactNameHint": "Indtast et navn @",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactNameMissing": "Vælg et navn til denne kontakt",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactRemoved": "{contactName} er blevet fjernet fra kontakter!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsHeader": "Kontakter",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsImportErr": "Kunne ikke importere kontakter",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsImportSuccess": "kontakter er {noContacts} importeret med succes.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copied": "Kopieret",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copy": "Kopier",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copyAddress": "Kopiér adresse",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copyErrorButton": "Kopieringsfejl",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createAPasswordHeader": "Opret en adgangskode.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordFirstParagraph": "Du kan oprette en adgangskode for at tilføje ekstra sikkerhed til din pung.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordHint": "Opret en adgangskode",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordSecondParagraph": "Adgangskoden er valgfri, din pung er beskyttet med din PIN-kode eller biometri alligevel.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordSheetHeader": "Opret",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currency": "Valuta",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currencyPoweredBy": "Drevet af CoinGecko",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultAccountName": "Adresse 1",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultNewAccountName": "Modtag {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultWalletName": "Min Pung",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disablePasswordSheetHeader": "Deaktiver",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disablePasswordSuccess": "Adgangskoden er deaktiveret",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disableWalletPassword": "Deaktiver pungens adgangskode",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "doContinue": "Fortsæt",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "donate": "Donér",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "dontShowAgain": "Vis ikke igen",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyCardIntroUtxos": "Dette er UTXO fanen. Alle UTXO'er i din pung vises her",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyResult": "Tomt resultat",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyWalletName": "Pungens navn må ikke være tomt",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "encryptionFailedError": "Kunne ikke ændre pungens adgangskode",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterAddress": "Indtast adresse",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterAmount": "Indtast beløb",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterNote": "Indtast Node",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterPasswordHint": "Indtast dit kodeord",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "errorMessageCopied": "Fejlmeddelelse kopieret til udklipsholder",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "exampleCardIntro": "Dette er fanen transaktioner. Når du sender eller modtager en transaktion, vises den her.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "export": "Exporter",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fee": "Gebyr",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "feeConfirm": "Gebyr {amount} {coin}\n ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "feeTitle": "GEBYR",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fetchingTransactions": "Henter transaktioner",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fingerprintSeedBackup": "Verificer for at sikkerhedskopiere Seed.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "goBackButton": "Gå tilbage",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "gotItButton": "Jeg har forstået!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "import": "Importere",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhrase": "Importer hemmelig sætning",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHint": "Indtast venligst din hemmelige 24-ords sætning nedenfor. Hvert ord skal være adskilt af et mellemrum.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHintCombo": "Indtast venligst din hemmelige sætning på 12 eller 24 ord nedenfor.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHintLegacy": "Indtast venligst din hemmelige sætning på 12 ord nedenfor.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importWallet": "Importer tegnebog",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importWalletDescription": "Vælg venligst en mulighed nedenfor.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "instantly": "Straks",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "insufficientBalance": "Saldo er utilstrækkelig",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "insufficientBalanceDetails": "Du har ikke nok PYI til denne transaktion",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidAddress": "Den indtastede adresse er ugyldig",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidAmount": "Ugyldigt Beløb",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidChecksumMessage": "Tjek venligst, at din hemmelige sætning\ner indtastet korrekt!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidKpubMessage": "Tjek venligst, at din udvidede offentlige nøgle er indtastet korrekt!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidDestinationAddress": "Ugyldig modtager adresse",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidPassword": "Ugyldig adgangskode",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspaDevFund": "Pyrin Dev Fund",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspiumWallet": "Kapitanium Pung",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "language": "Sprog",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "loadingTransactions": "Indlæser transaktioner...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "lockAppSetting": "Verificer ved opstart",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "locked": "Låst",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "loggingOutMessage": "Logger ud...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logout": "Log ud",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logoutDialogContent": "Er du sikker på, at du vil logge ud fra denne pung?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logoutOrSwitchWallet": "Log ud / Skift Pung",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "manage": "Administrer",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "manualEntry": "Manuel indtastning",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "networkHeader": "Netværk",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newAddress": "Ny Adresse",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newWallet": "Ny Pung",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nextButton": "Næste",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "no": "Nej",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noContactsExport": "Der er ingen kontakter at eksportere.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noContactsImport": "Ingen kontakter at importere.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noQrCodeFound": "Ingen QR kode fundet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noSkipButton": "Nej, spring over",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noUppercase": "NEJ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeAddress": "Pyrin Node",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeDeleteMessage": "Er du sikker på at du vil slette?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeDeleteTitle": "Slet Pyrin Node Opsætning?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNameEmpty": "Node navn kan ikke være tomt",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNameHint": "Indtast Node Navn",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeUrlHint": "Indtast Node URL",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeUrlInvalid": "Ugyldig node URL",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodesSheetTitle": "Pyrin Noder",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "off": "Deaktivér",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "on": "Aktivér",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "paperWallet": "Papir Pung",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordBlank": "Adgangskoden kan ikke være tom",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordNoLongerRequiredToOpenParagraph": "Du har ikke længere brug for en adgangskode for at åbne denne pung.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordWillBeRequiredToOpenParagraph": "Denne adgangskode vil blive påkrævet for at åbne denne pung.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordsDontMatch": "Adgangskoderne matcher ikke",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pasteMnemonicError": "Udklipsholder indhold er ikke en gyldig hemmelig sætning",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pending": "afventer",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinConfirmError": "PIN-koderne stemmer ikke overens",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinConfirmTitle": "Bekræft din PIN-kode",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinCreateTitle": "Opret en 6-cifret PIN-kode",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinEnterTitle": "Indtast PIN-kode",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinInvalid": "Den indtastede PIN-kode er ugyldig",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinMethod": "PIN-kode",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinSeedBackup": "Indtast PIN-kode for at sikkerhedskopiere Seed",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "preferences": "Præferencer",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "privacyPolicy": "Fortrolighedspolitik",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrInvalidAddress": "QR-koden indeholder ikke en gyldig adresse",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrInvalidSeed": "QR-koden indeholder ikke et gyldigt Seed eller privat nøgle",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrMnemonicError": "QR-koden indeholder ikke en gyldig Tilknytningskode",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receive": "Modtag",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddress": "Modtager Adresse",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddressCopied": "Modtager adresse kopieret",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveIndex": "Modtager index",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveIndexParam": "Modtag {addressIndex}\n ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "received": "Modtaget",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeContact": "Fjern kontakt",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeContactConfirmation": "Er du sikker på, at du vil slette {contactName}?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletAction": "Fjern Pung",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletBiometricsMessage": "Godkend for at fjerne Pung",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletDetail": "Fjernelse af denne pung vil fjerne den hemmelige sætning og alle pungrelaterede data fra denne enhed. Hvis den hemmelige sætning ikke er sikkerhedskopieret, vil du aldrig kunne få adgang til dine penge igen.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletPinMessage": "Indtast PIN for at Fjerne Pung",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletReassurance": "Så længe du har sikkerhedskopieret den hemmelige sætning, har du intet at bekymre dig om.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "requireAPasswordToOpenHeader": "Kræv en adgangskode for at åbne denne pung?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "restartSetupButton": "Genstart opsætning",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanQrCode": "Scan QR-kode",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanQrCodeError": "Kunne ikke parse qr-koden",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretInfo": "På den næste skærm vil du se din hemmelige sætning, som er en adgangskode til dine midler. Det er afgørende, at du sikkerhedskopierer den og aldrig deler den med nogen.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretInfoHeader": "Sikkerhed frem for alt!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretPhrase": "Hemmelig Sætning",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretWarning": "Hvis du mister din enhed eller afinstallerer appen, skal du bruge din hemmelige sætning for at gendanne dine midler!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "securityHeader": "Sikkerhed",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "seed": "Seed",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "seedInvalid": "Seed er ugyldigt",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "send": "Send",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendConfirm": "Send",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendError": "Der opstod en fejl. Prøv igen senere.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendNote": "NOTE",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendToAddressTitle": "Til",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendTxProgressDescription": "Vent venligst, mens transaktionen sendes",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendTxProgressTitle": "Sender transaktion",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sending": "Sender",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sent": "Sendt",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sentTo": "Sendt til",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setPassword": "Skift adgangskode",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setPasswordSuccess": "Adgangskoden er ændret",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setWalletPassword": "Angiv Pungens adgangskode",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "settingsHeader": "Indstillinger",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "settingsTransfer": "Hent fra Papir Pung",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setupFailedMessage": "Noget gik galt",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspium": "Del Kapitanium",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspiumSubject": "Tjek Kapitanium Pung",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspiumText": "Tjek Kapitanium - Pyrin Mobil Pung.\nHjemmeside - https://github.com/e4p1k0/karlsen_mobile/tree/pyrin"",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "somethingWentWrong": "Noget gik galt",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "systemDefault": "Systemstandard",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tapToHide": "Tryk for at skjule",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tapToReveal": "Tryk for at vise",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeDark": "Mørkt Tema",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeHeader": "Tema",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeLight": "Lyst Tema",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "thisWallet": "#Denne Pung",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "to": "Til",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "toAddress": "Til Adresse",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tooManyFailedAttempts": "For mange oplåsningsforsøg mislykkedes.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "totalValue": "Total værdi",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transactionId": "Transaktions ID",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transactionsUppercase": "TRANSAKTIONER",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transfer": "Overførsel",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferClose": "Tryk et vilkårligt sted for at lukke vinduet.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferComplete": "{amount} PYI blev overført til din Kapitanium Pung.\n",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfo": "En Pung med en saldo på {amount} PYI er blevet registreret.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfoSecond": "Tryk på Bekræft for at overføre midlerne.\n",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfoThird": "Overførslen kan tage adskillige sekunder at gennemføre.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferError": "Der opstod en fejl under overførslen. Prøv igen senere.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferHeader": "Overfør midler",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferIntro": "Denne proces overfører midler fra en papir pung til din Kapitanium pung.\n\nTryk på \"{button}\" knappen for at begynde.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferLoading": "Overfører",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferManualHint": "Indtast Seed nedenfor.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferNoFunds": "Der er ingen PYI i dette Seed.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferQrScanError": "Denne QR-kode indeholder ikke et gyldigt Seed.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferQrScanHint": "Scan et Pyrin \nSeed eller privat nøgle",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unconfirmed": "ubekræftet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "notAccepted": "Ikke accepteret",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "accepted": "Accepteret",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unknown": "Ukendt",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlock": "Lås op",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlockBiometrics": "Verificer for at låse pungen op",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlockPin": "Indtast PIN-koden for at låse Natirum op",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "utxosUppercase": "UTXOs",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "viewAddress": "Se Adresse",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "viewTransaction": "Se Transaktion",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletAddresses": "Pung Adresser",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletName": "Pung navn",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletNameDescription": "Indtast et navn til din pung",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletNameHint": "Pung Navn",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletSetupAddressDiscovery": "Kører adresseopdagelse",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletSetupMessage": "Opsætning af pung",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletsTitle": "Punge",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "warning": "Advarsel",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "welcomeMessage": "Velkommen!\n\nDette er version {version} af Kapitanium - mobilpungen til Pyrin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "welcomeText": "Velkommen til Kapitanium. For at fortsætte kan du oprette en ny pung eller importere en eksisterende.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "xMinutes": "Efter {minutes, plural, =1{1 minute} other{{minutes} minutes}}\n ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yes": "Ja",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yesButton": "Ja",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yesUppercase": "JA",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNotSyncedException": "Node er ikke synkroniseret",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNoUTXOIndexException": "Node har ikke UTXO-indeks",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeSecureConnection": "Sikker forbindelse",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspaUriInvalid": "Ugyldig Pyrin URI",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxos": "Sammensatte transaktioner",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxosDescription": "Kombiner flere UTXO'er til én",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxosConfirmation": "Sammensatte transaktioner?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundingUtxos": "Sammensatte transaktioner",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundingMessage": "Vent venligst...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundSuccess": "Forbindelse vellykket",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundFailure": "Det lykkedes ikke at sammensætte transaktioner",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundTooFewUtxos": "Der kræves mindst to UTXO'er",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "balance": "Balance",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "maxSend": "Max Send",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUppercased": "FORBINDELSE",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "closeUppercased": "LUK",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanMoreAddresses": "Scan for flere adresser",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressDiscovery": "Adresseopdagelse",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanningTitle": "Scanner",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanningDescription": "Scanner efter nye adresser...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanMore": "SCAN FLERE",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanFailedMessage": "Scanning mislykkedes. Prøv venligst igen senere",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "indexHeader": "Index",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currentIndex": "Nuværende",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scannedIndex": "Scannet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newIndex": "Ny",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogTitle": "Adresse Filter",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogOptionAllAddresses": "Se alle adresser",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogOptionNonZeroBalances": "Se adresser med balance",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption24WordsTitle": "Importer 24 ord hemmelig sætning",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption24WordsDescription": "Kompatibel med Cli Wallet og Ledger",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption12WordsTitle": "Importer 12 ord hemmelig sætning",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption12WordsDescription": "Kompatibel med Web Wallet og KDX",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOptionKpubTitle": "Importer se-kun pung",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOptionKpubDescription": "Overvåg saldoen og transaktionerne i en pung ved hjælp af en udvidet offentlig nøgle",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpub": "Importer se-kun pung",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubHint": "Indtast venligst din udvidede offentlige nøgle.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubClipboardError": "Udklipsholderindhold er ikke en gyldig udvidet offentlig nøgle",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubQrCodeError": "QR-koden indeholder ikke en gyldig udvidet offentlig nøgle",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubInvalidMessage": "Tjek venligst, at din udvidede offentlige nøgle er indtastet korrekt!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddressListEmpty": "Modtagelsesadresselisten er tom",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddressListEmpty": "Skift adresseliste er tom",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "hintAddressListEmpty": "Tjek adressefilteret fra øverste højre hjørne"
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
 }
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+

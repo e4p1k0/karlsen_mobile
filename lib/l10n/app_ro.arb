@@ -1,1220 +1,1220 @@
 {
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "@@last_modified": "2023-11-10T10:15:24.600Z",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "@@author": "arb-converter-cli",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "account": "Cont",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "accounts": "Conturi",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "ackBackedUp": "Ești sigur/ă că ai salvat formula secretă ori seed-ul portofelului?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "add": "Adaugă",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addAccount": "Adaugă cont",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addContact": "Adaugă contact",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNode": "Adaugă notă",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeFailed": "Adăugare eșuată a nodului Pyrin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeFailedMessage": "Eroare: {error}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeSuccess": "Nodul a fost adăugat cu succes",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addingNodeMessage": "Vă rugăm să așteptați cât se contactează nodul",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addingNodeTitle": "Se adaugă nodul",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "address": "Adresă",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressCopied": "Adresă copiată",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressCopiedFailed": "Adresa nu a putut fi copiată",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressHint": "Introdu adresa",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressMising": "Introduceți o Adresă",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressShare": "Distribuie Adresa",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "advancedHeader": "Avansat",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amount": "Cantitate",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountConfirm": "Cantitate {amount} {coin}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountMissing": "Introduceți o sumă",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountZero": "Cantitatea nu poate fi zero",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "areYouSure": "Sunteți sigur?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authBiometricMessage": "Autentificați-vă pentru a adăuga portofelul",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authMethod": "Metoda de Autentificare",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authPinMessage": "Introduceți codul PIN pentru a adăuga portofelul",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "autoLockHeader": "Blocare automată",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "available": "Disponibil",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "backupConfirmButton": "Am salvat-o într-un loc sigur",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "backupSecretPhrase": "Backup formulă secretă",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "biometricsMethod": "Biometria",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "blockExplorer": "Explorator de blocuri",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "cancel": "Anulare",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "change": "Schimbare",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddress": "Modifică adresa",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddressCopied": "Modificarea adresei a fost copiată",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeIndex": "Modifică indexul",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeIndexParam": "Modifică {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "checkCameraPermission": "Vă rugăm să verificați permisiunile camerei foto",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "clipboardEmpty": "Clipboard-ul este gol",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "close": "Închide",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirm": "Confirmare",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmPasswordHint": "Confirmă parola",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmations": "{confirmations} confirmări",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmed": "confirmat",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirming": "în confirmare",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactAdded": "{contactName} a fost adăugat la contacte",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactAddressCopied": "{address} adresa copiată",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactExists": "Contactul deja există",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactHeader": "Contact",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactInvalid": "Nume de Contact invalid",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactNameHint": "Introdu un nume @",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactNameMissing": "Alege un Nume pentru acest Contact",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactRemoved": "{contactName} a fost șters din lista contactelor!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsHeader": "Contacte",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsImportErr": "Importarea contactelor a eșuat",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsImportSuccess": "Am importat {noContacts} contacte",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copied": "Copiat",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copy": "Copiere",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copyAddress": "Copiază adresa",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copyErrorButton": "Copiaza eroarea",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createAPasswordHeader": "Creați o parolă.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordFirstParagraph": "Puteți adauga o parolă pentru a spori securitatea portofelului.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordHint": "Creează parola",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordSecondParagraph": "Parola este opțională, portofelul este protejat indiferent de către codul PIN sau datele biometrice.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordSheetHeader": "Creează",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currency": "Valută",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currencyPoweredBy": "Susținut de CoinGecko",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultAccountName": "Adresa 1",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultNewAccountName": "Primește {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultWalletName": "Portofelul meu",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disablePasswordSheetHeader": "Dezactivează",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disablePasswordSuccess": "Parola a fost dezactivată",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disableWalletPassword": "Dezactivați parola portofelului",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "doContinue": "Continuă",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "donate": "Donează",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "dontShowAgain": "Nu arăta din nou",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyCardIntroUtxos": "Aceasta este fila UTXO. Toate UTXO-urile din portofelul tău vor apărea aici",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyResult": "Rezultatul este gol",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyWalletName": "Numele portofelului nu poate rămâne necompletat",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "encryptionFailedError": "Setarea parolei a eșuat",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterAddress": "Introdu adresa",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterAmount": "Introdu suma",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterNote": "Introdu nota",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterPasswordHint": "Introdu parola",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "errorMessageCopied": "Mesajul de eroare a fost copiat în clipboard",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "exampleCardIntro": "Bine ai venit! Odată ce primești sau trimiți PYI, tranzacțiile vor fi afișate aici.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "export": "Exportă",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fee": "Taxă",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "feeConfirm": "Taxă {amount} {coin}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "feeTitle": "TAXĂ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fetchingTransactions": "Tranzactiile sunt în curs de primire",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fingerprintSeedBackup": "Autentifică-te pentru a efectua back-up-ul cuvintelor secrete.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "goBackButton": "Înapoi",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "gotItButton": "Am înțeles!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "import": "Importă",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhrase": "Importare formulă secretă",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHint": "Introduceți fraza de 24 de cuvinte mai jos. Fiecare cuvânt trebuie să fie separat printr-un spațiu.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHintCombo": "Te rog să introduci cele 12 sau 24 cuvinte secrete mai jos.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHintLegacy": "Te rog să introduci cele 12 cuvinte secrete mai jos.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importWallet": "Importă portofelul",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importWalletDescription": "Selectează o opțiune de mai jos.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "instantly": "Instant",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "insufficientBalance": "Fonduri insuficiente",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "insufficientBalanceDetails": "Nu aveți destui PYI pentru această tranzacție",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidAddress": "Adresa introdusă este invalidă",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidAmount": "Cantitate greșită",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidChecksumMessage": "Vă rugăm să verifcați dacă fraza secretă\neste introdusă corect!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidKpubMessage": "Verifică dacă cheia ta publică extinsă este introdusă corect!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidDestinationAddress": "Adresa destinatarului este greșită",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidPassword": "Parolă incorectă",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspaDevFund": "Fondul Pyrin Dev",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspiumWallet": "Portofelul Kapitanium",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "language": "Limba",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "loadingTransactions": "Tranzacțiile se încarcă...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "lockAppSetting": "Autentificare la deschidere",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "locked": "Închis",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "loggingOutMessage": "Deconectare...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logout": "Deconectare",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logoutDialogContent": "Sunteți sigur că doriți să vă deconectați de la acest portofel?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logoutOrSwitchWallet": "Deconectare / Schimbare Portofel",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "manage": "Administrare",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "manualEntry": "Introducere manuală",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "networkHeader": "Rețea",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newAddress": "Adresă nouă",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newWallet": "Portofel nou",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nextButton": "Continuă",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "no": "Nu",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noContactsExport": "Nu există contacte pentru export",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noContactsImport": " Nu am gasit contacte pentru import",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noQrCodeFound": "Codul QR nu a fost găsit",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noSkipButton": "Sari peste",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noUppercase": "NU",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeAddress": "Nod Pyrin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeDeleteMessage": "Sigur doriți să ștergeți?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeDeleteTitle": "Ștergeți configurația nodului Pyrin?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNameEmpty": "Numele nodului nu poate rămâne necompletat",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNameHint": "Introduceți numele nodului",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeUrlHint": "Introduceți URL-ul nodului",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeUrlInvalid": "URL-ul nodului este greșit",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodesSheetTitle": "Noduri Pyrin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "off": "Dezactivate",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "on": "Activate",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "paperWallet": "Paper Wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordBlank": "Parola nu poate fi goală",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordNoLongerRequiredToOpenParagraph": "Deschideți aplicația fără a mai introduce parola.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordWillBeRequiredToOpenParagraph": "Această parolă va fi necesară pentru a deschide Kapitanium.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordsDontMatch": "Parolele nu corespund",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pasteMnemonicError": "Clipboard-ul nu conține o frază secretă validă",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pending": "în așteptare",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinConfirmError": "PIN-urile nu corespund",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinConfirmTitle": "Confirmă PIN-ul",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinCreateTitle": "Creați un PIN cu 6 cifre",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinEnterTitle": "Introdu PIN-ul",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinInvalid": "PIN invalid",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinMethod": "PIN",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinSeedBackup": "Introdu PIN-ul pentru a vedea seed-ul portofelului.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "preferences": "Preferințe",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "privacyPolicy": "Politica de confidențialitate",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrInvalidAddress": "Codul QR nu conține o adresă validă",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrInvalidSeed": "Codul QR nu conține un seed sau private key valid",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrMnemonicError": "Codul QR nu conține o formulă secretă corectă",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receive": "Primește",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddress": "Adresa destinatarului",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddressCopied": "Adresa destinatarului este copiată",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveIndex": "Indexul destinatarului",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveIndexParam": "Primește {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "received": "Ai primit",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeContact": "Șterge contactul",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeContactConfirmation": "Dorești să elimini contactul {contactName}?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletAction": "Șterge portofelul",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletBiometricsMessage": "Autentificați-vă pentru a șterge portofelul",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletDetail": "Ștergerea acestui portofel va înlătura de pe dspozitiv fraza secretă și toate datele refertoare la acest portofel. Dacă fraza secretă nu a fost salvată de Dvs., nu veți putea accesa acest portofel niciodată. ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletPinMessage": "Introduceți codul PIN pentru a șterge portofelul",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletReassurance": "Atât timp cât ați salvat faza secretă, nu aveți de ce sa vă faceți griji. ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "requireAPasswordToOpenHeader": "Doriți să setați o parolă pentru a deschide Kapitanium?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "restartSetupButton": "Reporniți configurarea",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanQrCode": "Scanare cod QR",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanQrCodeError": "Codul QR nu a putut fi analizat",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretInfo": "În continuare, veți vedea formula secretă a portofelului. Aceasta este o parolă care permite accesul la fonduri. Este vital să fie notată într-un caiet și să nu fie arătată vreodată nimănui.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretInfoHeader": "Siguranța înainte de toate!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretPhrase": "Formula secretă",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretWarning": "Dacă vă pierdeți dispozitivul sau dezinstalați aplicația, aveți nevoie de seed sau de formula secretă pentru a recupera fondurile!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "securityHeader": "Securitate",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "seed": "Seed",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "seedInvalid": "Seed invalid",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "send": "Trimite",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendConfirm": "Trimite",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendError": "A apărut o eroare. Încercați din nou mai târziu.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendNote": "NOTĂ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendToAddressTitle": "Către",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendTxProgressDescription": "Vă rugăm să așteptați cât se timp se efectuează tranzacția",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendTxProgressTitle": "Se efectuează tranzacția",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sending": "Trimitere...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sent": "Trimis",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sentTo": "Trimite către",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setPassword": "Setează parola",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setPasswordSuccess": "Parola a fost setată cu succes",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setWalletPassword": "Setați o parolă portofelului",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "settingsHeader": "Setări",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "settingsTransfer": "Încarcă din Paper Wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setupFailedMessage": "Ceva nu a mers bine",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspium": "Distribuie Kapitanium",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspiumSubject": "Verifică portofelul Kapitanium",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspiumText": "Descoperă Kapitanium - Portofelul mobil PYI.\nWebsite - https://github.com/e4p1k0/karlsen_mobile/tree/pyrin"",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "somethingWentWrong": "Ceva nu a mers bine",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "systemDefault": "Limba implicită",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tapToHide": "Apăsați pentru a ascunde",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tapToReveal": "Apăsați pentru a afișa",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeDark": "Aspect întunecat",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeHeader": "Aspect",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeLight": "Aspect deschis",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "thisWallet": "#Acest Portofel",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "to": "Către",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "toAddress": "Către adresa",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tooManyFailedAttempts": "Prea multe încercări de deblocare eșuate.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "totalValue": "Valoare totală",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transactionId": "ID-ul tranzacției",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transactionsUppercase": "TRANZACȚII",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transfer": "Transferă",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferClose": "Apăsați oriunde pentru a închide această fereastră.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferComplete": "{amount} PYI au fost transferate cu succes în portofelul dvs. Kapitanium.\n",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfo": "Un portofel cu un sold de {amount} PYI a fost găsit.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfoSecond": "Apăsați pentru a confirma transferul.\n",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfoThird": "Transferul poate dura câteva secunde.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferError": "A avut loc o eroare în timpul transferului. Vă rugăm să încercați din nou mai târziu.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferHeader": "Transferă Fonduri",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferIntro": "Acest proces va transfera fondurile dintr-un Paper Wallet către contul dvs. Kapitanium.\n\nAtingeți butonul \"{button}\" pentru a începe.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferLoading": "Se transferă...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferManualHint": "Introduceți seed-ul mai jos.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferNoFunds": "Acest seed nu conține PYI.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferQrScanError": "Acest cod QR nu conține un seed valid.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferQrScanHint": "Scanați un seed pentru PYI\n sau un private key",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unconfirmed": "neconfirmat",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "notAccepted": "neacceptat",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "accepted": "acceptat",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unknown": "necunoscut",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlock": "Deblochează",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlockBiometrics": "Autentificaţi-vă pentru a debloca Kapitanium",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlockPin": "Introduceți codul PIN pentru a debloca Kapitanium",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "utxosUppercase": "UTXO-uri",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "viewAddress": "Vezi adresa",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "viewTransaction": "Vezi tranzacția",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletAddresses": "Adresele portofelelor",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletName": "Numele portofelului",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletNameDescription": "Introduceți un nume pentru portofelul Dvs.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletNameHint": "Numele Portofelului",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletSetupAddressDiscovery": "Descoperă adresa de rulare",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletSetupMessage": "Setează portofelul",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletsTitle": "Portofele",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "warning": "Avertisment",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "welcomeMessage": "Bine ați venit!\n\nAceasta este versunea {version} a Kapitanium - portofelului mobil pentru Pyrin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "welcomeText": "Bine ai venit! Pentru a continua, creează un portofel nou sau importă unul deja existent.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "xMinutes": "După {minutes, plural, =1{1 minut} other {{minutes} minute}}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yes": "Da",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yesButton": "Da",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yesUppercase": "DA",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNotSyncedException": "Nodul nu este sincronizat",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNoUTXOIndexException": "Nodul nu are un index UTXO.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeSecureConnection": "Conexiune securizată",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspaUriInvalid": "Adresa URL Pyrin este invalidă",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxos": "Agrega tranzacțiile",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxosDescription": "Combină mai multe tranzacții in una singură",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxosConfirmation": "Agregare tranzacții?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundingUtxos": "Tranzacțiile se agregă",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundingMessage": "Te rog să astepți...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundSuccess": "Agregare cu succes",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundFailure": "Eroare la agregarea tranzacțiilor.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundTooFewUtxos": "Cel putin două UTXOs sunt necesare",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "balance": "Balanță",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "maxSend": "Trimite Max",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUppercased": "AGREGĂ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "closeUppercased": "ÎNCHIDE",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanMoreAddresses": "Scanează pentru mai multe adrese",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressDiscovery": "Explorează adresa",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanningTitle": "Scanare",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanningDescription": "Se scanează pentru noi adrese...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanMore": "SCANEAZĂ MAI MULT",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanFailedMessage": "Scanarea a eșuat, încearca mai târziu",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "indexHeader": "Index",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currentIndex": "Curent",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scannedIndex": "Scanat",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newIndex": "Nou",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogTitle": "Filtru Adresă",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogOptionAllAddresses": "Vezi toate Adresele",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogOptionNonZeroBalances": "Vezi Adresele cu sold",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption24WordsTitle": "Importă cele 24 cuvinte secrete",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption24WordsDescription": "Compatibil cu Portofel Cli si Ledger",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption12WordsTitle": "Importă cele 12 cuvinte secrete",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption12WordsDescription": "Compatibil cu Web Wallet și KDX",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOptionKpubTitle": "Importă Portofelul Watch Only",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOptionKpubDescription": "Monitorizați soldul și tranzacțiile unui portofel folosind o cheie publică extinsă",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpub": "Importă Portofelul Watch Only",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubHint": "Te rog să introduci cheia ta publica extinsă.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubClipboardError": "Conținutul clipboard-ului nu este o cheie publică extinsă validă",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubQrCodeError": "Codul QR nu conține o cheie publică extinsă validă",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubInvalidMessage": "Te rog să verifici dacă cheia ta publica extinsă este introdusă corect!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddressListEmpty": "Lista de adrese pentru primire este goală",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddressListEmpty": "Modificarea listei de adresa este goală",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "hintAddressListEmpty": "Verificati filtrul de adrese din colțul din dreapta sus"
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
 }
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+

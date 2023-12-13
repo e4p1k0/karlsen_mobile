@@ -1,1220 +1,1220 @@
 {
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "@@last_modified": "2023-09-25T17:48:36.587Z",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "@@author": "arb-converter-cli",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "account": "Налог",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "accounts": "Налози",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "ackBackedUp": "Да ли сте сигурни да сте направили резервну копију ваше тајне фразе?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "add": "Додај",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addAccount": "Додај Налог",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addContact": "Додај Контакт",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNode": "Додај Белешку",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeFailed": "Додавање Pyrin чвора није успело",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeFailedMessage": "Неуспешно: {error}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeSuccess": "Чвор Успешно Додат",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addingNodeMessage": "Молимо сачекајте док се контактира чвор",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addingNodeTitle": "Додавање Чвора",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "address": "Адреса",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressCopied": "Адреса Копирана",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressCopiedFailed": "Failed to copy address",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressHint": "Унесите Адресу",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressMising": "Молимо Вас Унесите Адресу",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressShare": "Подели Адресу",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "advancedHeader": "Напредно",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amount": "Износ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountConfirm": "Износ {amount} {coin}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountMissing": "Молимо Вас Унесите Износ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountZero": "Износ не може бити нула",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "areYouSure": "Да ли сте сигурни?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authBiometricMessage": "Аутентификујте се да Бисте Додали Новчаник",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authMethod": "Метода Аутентификације",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authPinMessage": "Унесите ПИН да Бисте Додали Новчаник",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "autoLockHeader": "Аутоматски Закључај",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "available": "Доступно",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "backupConfirmButton": "Направавио/ла сам Резервну Копију",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "backupSecretPhrase": "Направите Резервну Копију Тајне Фразе",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "biometricsMethod": "Биометрика",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "blockExplorer": "Претраживач Блокова",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "cancel": "Откажи",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "change": "Измени",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddress": "Промени Адресу",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddressCopied": "Промени Копирану Адресу",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeIndex": "Промени Индекс",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeIndexParam": "Промени {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "checkCameraPermission": "Проверите дозволе за камеру",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "clipboardEmpty": "Клипбоард је празан",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "close": "Затвори",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirm": "Потврди",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmPasswordHint": "Потврди шифру",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmations": "{confirmations} потврда",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmed": "потврђено",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirming": "потврђује се",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactAdded": "{contactName} је додат у контакте",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactAddressCopied": "{address} адреса копирана",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactExists": "Контакт Већ Постоји",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactHeader": "Контакт",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactInvalid": "Име Контакта Није Валидно",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactNameHint": "Унесите име",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactNameMissing": "Изаберите Име за Овај Контакт",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactRemoved": "{contactName} је уклоњен из контаката!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsHeader": "Контакти",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsImportErr": "Увоз контаката није успео",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsImportSuccess": "Успешно увезено {noContacts} контаката",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copied": "Копирано",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copy": "Копирај",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copyAddress": "Копирај Адресу",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copyErrorButton": "Грешка при Копирању",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createAPasswordHeader": "Креирај шифру.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordFirstParagraph": "Можеш креирати шифру ради додатног обезбеђења новчаника",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordHint": "Креирај шифру.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordSecondParagraph": "Шифра је опционална, и ваш новчаник ће бити заштићен са ПИНом или Биометриком без обзира на шифру.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordSheetHeader": "Креирај",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currency": "Валута",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currencyPoweredBy": "Покреће CoinGecko",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultAccountName": "Адреса 1",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultNewAccountName": "Примите {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultWalletName": "Мој Новчаник",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disablePasswordSheetHeader": "Онемогући",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disablePasswordSuccess": "Шифра је успешно онемогућена",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disableWalletPassword": "Онемогући Шифру Новчаника",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "doContinue": "Настави",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "donate": "Донирај",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "dontShowAgain": "Не приказуј поново",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyCardIntroUtxos": "Ово је УТИКСО таб. Сви УТИКСОс у вашем новчанику ће бити приказани овде.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyResult": "Празан Резултат",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyWalletName": "Име Новчаника не може бити празно",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "encryptionFailedError": "Неуспело постављање шифре новчаника",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterAddress": "Унесите Адресу",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterAmount": "Унесите износ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterNote": "Унесите белешку",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterPasswordHint": "Унесите шифру",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "errorMessageCopied": "Порука грешке је копирана у тастатуру",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "exampleCardIntro": "Ово је таб за трансакције, Када пошаљете или примите трансакцију, приказађе се овде.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "export": "Извези",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fee": "Провизија",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "feeConfirm": "Провизија  {amount} {coin}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "feeTitle": "ПРОВИЗИЈА",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fetchingTransactions": "Преузимање Трансакција",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fingerprintSeedBackup": "Аутентификујте се да Бисте направили резервну копију тајне фразе.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "goBackButton": "Назад",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "gotItButton": "Разумем!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "import": "Увези",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhrase": "Увези Тајну Фразу",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHint": "Унесите ваше 24 речи тајне фразе испод.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHintCombo": "Please enter your 12 or 24 word secret phrase below.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHintLegacy": "Please enter your 12 word secret phrase below.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importWallet": "Увези Новчаник",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importWalletDescription": "Please select an option below.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "instantly": "Инстант",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "insufficientBalance": "Недовољно Средстава",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "insufficientBalanceDetails": "Немате довољно PYI за ову трансакцију",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidAddress": "Унета адреса није валидна",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidAmount": "Неважећи Износ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidChecksumMessage": " Молимо проверите да ли је ваша Тајна Фраза унета исправно!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidKpubMessage": "Please check that your extended public key is entered correctly!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidDestinationAddress": "Одредишна Адреса није Важеђа",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidPassword": "Неисправна Лозинка",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspaDevFund": "Каспа Дев Фонд",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspiumWallet": "Каспиум Новчаник",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "language": "Језик",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "loadingTransactions": "Учитавање трансакција...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "lockAppSetting": "Аутентификујте при покретању",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "locked": "Закључано",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "loggingOutMessage": "Одјављивање...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logout": "Одјави се",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logoutDialogContent": "Да ли сте сигурни да желите да се одјавите са новчаника?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logoutOrSwitchWallet": "Одјавите се / промените новчаник",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "manage": "Управљај",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "manualEntry": "Ручни Унос",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "networkHeader": "Мрежа",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newAddress": "Нова Адреса",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newWallet": "Нови Новчаник",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nextButton": "Следеће",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "no": "Не",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noContactsExport": "Нема контаката за извоз",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noContactsImport": "Нема нових контаката за увоз",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noQrCodeFound": "КЈУ-АР код није пронађен",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noSkipButton": "Не, Прескочи",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noUppercase": "НЕ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeAddress": "Каспа Чвор",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeDeleteMessage": "Да ли сте сигурни да желите обрисати? ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeDeleteTitle": "Обриши Конфигурације Каспа Чвора?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNameEmpty": "Име чвора не мозе бити празно",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNameHint": "Унеси Име Чвора",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeUrlHint": "Унеси УРЛ Чвора",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeUrlInvalid": "УРЛ Чвора није валидан",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodesSheetTitle": "Каспа Чворови",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "off": "Искључено",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "on": "Укључено",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "paperWallet": "Папирни Новчаник",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordBlank": "Поље за шифру не може бити празно",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordNoLongerRequiredToOpenParagraph": "Више вам неће требати шифра како би отворили новчаник.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordWillBeRequiredToOpenParagraph": "Ова шифра ће бити потребна за откључавање новчаника.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordsDontMatch": "Шифре се не подударају",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pasteMnemonicError": "Садржај клипбоарда није валидна тајна фраза",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pending": "На чекању",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinConfirmError": "Пинови се не подударају",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinConfirmTitle": "Потврдите ваш ПИН",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinCreateTitle": "Креирај ПИН са 6 цифара",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinEnterTitle": "Унесите ПИН",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinInvalid": "ПИН који сте унели није валидан",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinMethod": "ПИН",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinSeedBackup": "Унесите ПИН да Креирате Копију Тајне Фразе",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "preferences": "Преференције",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "privacyPolicy": "Политика Приватности",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrInvalidAddress": "КЈУ-АР код не садржи валидну адресу",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrInvalidSeed": "КЈУ-АР код не садржи валидно семе или приватан кључ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrMnemonicError": "КЈУ-АР код не садржи валидну тајну фразу",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receive": "Прими",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddress": "Адреса Примања",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddressCopied": "Адреса Примања Копирана",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveIndex": "Индекс Примања",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveIndexParam": "Прими {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "received": "Примљено",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeContact": "Обриши Контакт",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeContactConfirmation": "Да ли сте сигурни да желите обрисати {contactName}?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletAction": "Обриши Новчаник",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletBiometricsMessage": "Аутентификујте се Ради Брисања Новчаника",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletDetail": "Брисање овог новчаника ће обрисати Тајну Фразу и све податке везане за новчаник са овог уређаја. Уколико не постоји резевна копија Тајне Фразе нећете моћи поново приступити вашим средствима.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletPinMessage": "Унеси ПИН да Обришеш Новчаник",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletReassurance": "Ако сте направили тачну резервну копију Тајне Фразе немате о чему да бринете.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "requireAPasswordToOpenHeader": "Захтевај шифру при отварању овог новчаника?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "restartSetupButton": "Подешавање Поновног Покретања",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanQrCode": "Скенирај КЈУ-АР Код",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanQrCodeError": "Неуспело рашчлањавање КЈУ-АР кода",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretInfo": "На следећем екрану, видећете вашу тајну фразу. Она је шифра за приступ вашим средствима. Од пресудног је значаја да направите резервну копију и да је никада не поделите нисаким.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretInfoHeader": "Безбедност на Првом Месту!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretPhrase": "Тајна Фраза",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretWarning": "Уколико изгубите овај уређај или деинсталирате апликацију, биће вам потребна ваша тајна фраза да повратите приступ средствима!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "securityHeader": "Безбедност",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "seed": "Seed",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "seedInvalid": "Семе није валидно",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "send": "Пошаљи",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendConfirm": "Пошаљи",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendError": "Дошло је до грешке. Молимо покушајте касније",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendNote": "БЕЛЕШКА",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendToAddressTitle": "До",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendTxProgressDescription": "Молимо сачекајте док се трансакција шаље",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendTxProgressTitle": "Трансакција се Шаље",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sending": "Пошаљи",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sent": "Послато",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sentTo": "Пошалјите до",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setPassword": "Подеси Шифру",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setPasswordSuccess": "Шифра новчаника је успешно подешена",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setWalletPassword": "Подеси Шифру Новчаника",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "settingsHeader": "Подешавања",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "settingsTransfer": "Учитај са Папирног Новчаника",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setupFailedMessage": "Негде је дошло до грешке",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspium": "Подели Каспиум",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspiumSubject": "Погледај Каспиум Новчаник",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspiumText": "Погледај Каспиум - Каспа Мобилни Новчаник.\nВебсајт - https://github.com/e4p1k0/karlsen_mobile/tree/pyrin"",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "somethingWentWrong": "Негде је дошло до грешке",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "systemDefault": "Системски Подразумевано",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tapToHide": "Кликни да сакријеш",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tapToReveal": "Кликни да откријеш",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeDark": "Тамна Тема",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeHeader": "Тема",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeLight": "Светла Тема",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "thisWallet": "#Овај Новчаник",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "to": "До",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "toAddress": "До Адресе",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tooManyFailedAttempts": "Превише неуспелих покушаја откључавања.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "totalValue": "Укупна Вредност",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transactionId": "ИД Трансакције",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transactionsUppercase": "ТРАНСАКЦИЈЕ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transfer": "Траснфер",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferClose": "Кликните било где да затворите прозор.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferComplete": "{amount} КАС је успешно пребачено у ваш Каспиум Новчаник.\n",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfo": "Новчаник са сумом од {amount} КАС је детектован.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfoSecond": "Кликни да потврдиш слање средстава.\n",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfoThird": "Пренос може трајати више секунди.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferError": "Дошло је до грешке приликом трансфера. Молимо покушајте касније.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferHeader": "Трансфер Средстава",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferIntro": "Овај процес ће послати средства са папирног новчаника у ваш Каспиум новчаник\n\nПритисни \"{button}\" да започнеш.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferLoading": "Пребацивање",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferManualHint": "Унесите семе испод.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferNoFunds": "Ово семе нема КАС на себи",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferQrScanError": "Овај КЈУ-АР код не садржи валидно семе.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferQrScanHint": "Скенирај Каспа семе или приватни кључ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unconfirmed": "непотврђено",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "notAccepted": "not accepted",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "accepted": "accepted",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unknown": "непознато",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlock": "Откључај",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlockBiometrics": "Аутентификуј се Ради Откључавања Новчаника",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlockPin": "Унеси ПИН да Откључаш Новчаник",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "utxosUppercase": "УТКСОс",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "viewAddress": "Види Адресу",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "viewTransaction": "Види Трансакцију",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletAddresses": "Адреса Новчаника",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletName": "Име новчаника",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletNameDescription": "Унесите име за ваш новчаник",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletNameHint": "Име Новчаника",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletSetupAddressDiscovery": "Покренуто Откривање Адреса",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletSetupMessage": "Иницално подешавање новчаника",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletsTitle": "Новчаници",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "warning": "Упозорење",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "welcomeMessage": "Добродошли! \n\nОво је верзија {version} Каспиума - мобилног новчаника за Каспу",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "welcomeText": "Добродошли у Каспиум. Да започнете, можете креирати нов новчаник или увезти већ постојеђи.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "xMinutes": "Након {minutes, plural, =1{1 minute} other{{minutes} minutes}}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yes": "Да",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yesButton": "Да",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yesUppercase": "ДА",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNotSyncedException": "Чвор није синхронизован",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNoUTXOIndexException": "Чвор нема УТИКСО индекс",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeSecureConnection": "Безбедна веза",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspaUriInvalid": "Invalid Pyrin URI",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxos": "Compound transactions",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxosDescription": "Combine multiple UTXOs into one",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxosConfirmation": "Compound transactions?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundingUtxos": "Compounding transactions",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundingMessage": "Please wait...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundSuccess": "Compound successful",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundFailure": "Failed to compound transactions",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundTooFewUtxos": "At least two UTXOs are required",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "balance": "Balance",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "maxSend": "Max Send",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUppercased": "COMPOUND",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "closeUppercased": "CLOSE",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanMoreAddresses": "Scan For More Addresses",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressDiscovery": "Address Discovery",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanningTitle": "Scanning",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanningDescription": "Scanning for new addresses...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanMore": "SCAN MORE",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanFailedMessage": "Scan failed, please try again later",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "indexHeader": "Index",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currentIndex": "Current",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scannedIndex": "Scanned",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newIndex": "New",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogTitle": "Address Filter",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogOptionAllAddresses": "View All Addresses",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogOptionNonZeroBalances": "View Addresses With Balance",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption24WordsTitle": "Import 24 Word Secret Phrase",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption24WordsDescription": "Compatible with Cli Wallet and Ledger",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption12WordsTitle": "Import 12 Word Secret Phrase",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption12WordsDescription": "Compatible with Web Wallet and KDX",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOptionKpubTitle": "Import Watch Only Wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOptionKpubDescription": "Monitor the balance and transactions of a wallet using an extended public key",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpub": "Import Watch Only Wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubHint": "Please enter your extended public key.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubClipboardError": "Clipboard content is not a valid extended public key",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubQrCodeError": "QR code does not contain a valid extended public key",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubInvalidMessage": "Please check that your extended public key is entered correctly!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddressListEmpty": "Receive address list is empty",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddressListEmpty": "Change address list is empty",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "hintAddressListEmpty": "Check address filter from the top right corner"
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
 }
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+

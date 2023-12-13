@@ -1,1220 +1,1220 @@
 {
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "@@last_modified": "2023-09-30T20:57:42.789Z",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "@@author": "arb-converter-cli",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "account": "Акаунт",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "accounts": "Акаунти",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "ackBackedUp": "Сигурни ли сте, че имате копие на тайната си фраза?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "add": "Добави",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addAccount": "Добави акаунт",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addContact": "Добави контакт",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNode": "Добави нод",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeFailed": "Грешка при добавянето на нода",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeFailedMessage": "Грешка: {error}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeSuccess": "Успешно добавяне на нода",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addingNodeMessage": "Моля изчакайте докато сe установи връзка с нода",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addingNodeTitle": "Добавяне на нод",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "address": "Адрес",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressCopied": "Адрес копиран",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressCopiedFailed": "Неуспешно копиране на адрес",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressHint": "Въведете адрес",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressMising": "Моля въведете адрес",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressShare": "Сподели адрес",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "advancedHeader": "Разширени",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amount": "Сума",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountConfirm": "Сума {amount} {coin}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountMissing": "Моля въведете сума",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountZero": "Сумата не може да бъде нула",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "areYouSure": "Сигурни ли сте?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authBiometricMessage": "Удостоверете се, за да добавите портфейл",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authMethod": "Метод за удостоверяване",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authPinMessage": "Въведете ПИН, за да добавите портфейл",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "autoLockHeader": "Автоматично заключване",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "available": "Налично",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "backupConfirmButton": "Направих резервно копие",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "backupSecretPhrase": "Резервно копие на тайната фраза",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "biometricsMethod": "Биометрия",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "blockExplorer": "Block Explorer",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "cancel": "Отмени",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "change": "Ресто",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddress": "Адрес за ресто",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddressCopied": "Адресът за ресто е копиран",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeIndex": "Индекс на ресто",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeIndexParam": "Ресто {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "checkCameraPermission": "Моля разрешете използването на камерата",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "clipboardEmpty": "Няма копирана стойност",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "close": "Затвори",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirm": "Потвърди",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmPasswordHint": "Потвърдете паролата",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmations": "{confirmations} потвърждения",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmed": "потвърдено",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirming": "потвърждаване",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactAdded": "{contactName} добавен/и в контакти.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactAddressCopied": "{address} адресът е копиран",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactExists": "Контакта вече съществува",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactHeader": "Контакт",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactInvalid": "Невалидно име",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactNameHint": "Въведете име @",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactNameMissing": "Изберете име за този контакт",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactRemoved": "{contactName} премахнат/и от контакти!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsHeader": "Контакти",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsImportErr": "Неуспешно импортиране на контакти",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsImportSuccess": "Успешно импортирани {noContacts} контакти.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copied": "Копирано",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copy": "Копирай",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copyAddress": "Копирай адрес",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copyErrorButton": "Копирай грешка",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createAPasswordHeader": "Създаване на парола",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordFirstParagraph": "Може да създадете парола за да направите портфейла още по-сигурен",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordHint": "Създайте парола ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordSecondParagraph": "Паролата не е задължителна и портфейлът ви ще бъде защитен с вашия ПИН или биометрични данни",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordSheetHeader": "Създай",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currency": "Валута",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currencyPoweredBy": "Powered by CoinGecko",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultAccountName": "Адрес 1",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultNewAccountName": "Акаунт {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultWalletName": "Моят портфейл",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disablePasswordSheetHeader": "Деактивирай",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disablePasswordSuccess": "Паролата е премахната",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disableWalletPassword": "Премахни паролата на портфейла",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "doContinue": "Продължи",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "donate": "Дарете средства",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "dontShowAgain": "Не показвай отново",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyCardIntroUtxos": "Това е раздела за неизразходвани изходи от транзакции (UTXO). Всички UTXO в твоят портфейл ще се покажат тук.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyResult": "Празен резултат",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyWalletName": "Името на портфейла не може да бъде празно",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "encryptionFailedError": "Неуспешно създаване на парола",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterAddress": "Въведете адрес",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterAmount": "Въведете сума",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterNote": "Въведете бележка",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterPasswordHint": "Въведете парола",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "errorMessageCopied": "Съобщението за грешка беше успешно копирано",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "exampleCardIntro": "Това е раздела с транзакции. След като направите първата си транзакция, тя ще се появи тук.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "export": "Експортирай",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fee": "Такса",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "feeConfirm": "Такса {amount} {coin}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "feeTitle": "ТАКСА",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fetchingTransactions": "Извличане на транзакциите",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fingerprintSeedBackup": "Удостоверете се за да направите резервно копие на тайната фраза.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "goBackButton": "Върни се назад",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "gotItButton": "Готово!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "import": "Импортирай",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhrase": "Импортирай тайна фраза",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHint": "Моля, въведете вашата тайна фраза от 24 думи по-долу. ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHintCombo": "Моля въведете своята тайна фраза от 12 или 24 думи по-долу.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHintLegacy": "Моля въведете своята тайна фраза от 12 думи по-долу.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importWallet": "Импортирай портфейл",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importWalletDescription": "Моля изберете опция по-долу.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "instantly": "Веднага",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "insufficientBalance": "Недостатъчен баланс",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "insufficientBalanceDetails": "Нямате достатъчно PYI за тази транзакция",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidAddress": "Въведеният адрес е невалиден",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidAmount": "Невалидна сума",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidChecksumMessage": "Моля проверете дали сте въвели тайната фраза коректно",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidKpubMessage": "Моля уверете се че Вашия удължен публичен ключ е въведен коректно!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidDestinationAddress": "Невалиден адрес на получателя",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidPassword": "Грешна парола ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspaDevFund": "Pyrin Dev Fund",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspiumWallet": "Kapitanium Wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "language": "Език",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "loadingTransactions": "Зареждане на транзакциите...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "lockAppSetting": "Удостоверяване при старт",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "locked": "Заключено",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "loggingOutMessage": "Отписване...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logout": "Отпиши се",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logoutDialogContent": "Сигурни ли сте, че искате да се отпишете?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logoutOrSwitchWallet": "Изход / Смяна на портфейл",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "manage": "Управление",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "manualEntry": "Ръчно въвеждане",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "networkHeader": "Мрежа",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newAddress": "Нов адрес",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newWallet": "Нов портфейл",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nextButton": "Следващ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "no": "Не",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noContactsExport": "Няма контакти за експорт",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noContactsImport": "Няма нови контакти за импорт.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noQrCodeFound": "Няма открит QR код",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noSkipButton": "Не, пропусни",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noUppercase": "НЕ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeAddress": "Pyrin Node",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeDeleteMessage": "Потвърждавате ли изтриването",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeDeleteTitle": "Изтриване на конфигурацията за Pyrin нода?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNameEmpty": "Името на нода не може да бъде празно",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNameHint": "Въведете име на нода",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeUrlHint": "Въведете URL на нода",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeUrlInvalid": "Невалиден URL на нода",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodesSheetTitle": "Pyrin нодове",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "off": "Изкл.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "on": "Вкл.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "paperWallet": "Paper Wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordBlank": "Полето за парола не може да бъде празно",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordNoLongerRequiredToOpenParagraph": "Няма да се изисква повече парола при отваряне на портфейла.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordWillBeRequiredToOpenParagraph": "Паролата ще се изисква при всяко отваряне на портфейла.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordsDontMatch": "Паролите не съвпадат",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pasteMnemonicError": "Копираното съдържанието не е валидна тайна фраза",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pending": "в изчакване",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinConfirmError": "ПИН кода не съвпада",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinConfirmTitle": "Потвърдете вашият ПИН",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinCreateTitle": "Създайте 6-цифрен ПИН код",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinEnterTitle": "Въведете ПИН",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinInvalid": "Въведен е невалиден ПИН",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinMethod": "ПИН",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinSeedBackup": "Въведете ПИН за да съхраните тайната фраза",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "preferences": "Предпочитания",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "privacyPolicy": "Декларация за поверителност",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrInvalidAddress": "QR кода не съдържа валидна дестинация ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrInvalidSeed": "QR кода не съдържа валиден Seed или личен ключ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrMnemonicError": "QR кода не съдържа валидна тайна фраза",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receive": "Получи",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddress": "Адрес за получаване",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddressCopied": "Адресът е копиран",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveIndex": "Индекс на получаване",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveIndexParam": "Индекс {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "received": "Получено",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeContact": "Премахни контакт",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeContactConfirmation": "Сигурни ли сте, че искате да изтриете {contactName}?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletAction": "Премахни портфейл",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletBiometricsMessage": "Впишете се, за да премахнете портфейл",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletDetail": "Премахването на този портфейл ще изтрие тайната фраза и всички данни свързани с портфейла от това устройство. Ако не сте запазили тайната фраза може никога да не успеете да достъпите вашите средства отново.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletPinMessage": "Въведете ПИН за потвърждение на премахването",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletReassurance": "Докато имате резервно копие на тайната фраза, няма за какво да се притеснявате.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "requireAPasswordToOpenHeader": "Изисквай парола при отваряне на портфейла?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "restartSetupButton": "Рестартирай настройка",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanQrCode": "Сканирай QR код",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanQrCodeError": "Неуспешно сканиране на QR кода",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretInfo": "На следващия екран ще видите тайната си фраза.  Това е парола за достъп до средствата ви.  От решаващо значение е да направите резервно копие и никога да не я споделяте с никого.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretInfoHeader": "Първо безопасността!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretPhrase": "Тайна фраза",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretWarning": "Ако изгубите устройството си или деинсталирате приложението, ще се нуждаете от тайната си фраза, за да възстановите средствата си!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "securityHeader": "Сигурност",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "seed": "Тайна фраза",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "seedInvalid": "Невалиден Seed",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "send": "Изпрати",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendConfirm": "Изпрати",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendError": "Възникна грешка. Опитайте по-късно.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendNote": "БЕЛЕЖКА",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendToAddressTitle": "До",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendTxProgressDescription": "Моля изчакайте докато транзакцията бъде изпратена",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendTxProgressTitle": "Транзакцията се изпраща",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sending": "Изпрати",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sent": "Изпратено",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sentTo": "Изпратено до",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setPassword": "Създай парола",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setPasswordSuccess": "Паролата е създадена успешно",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setWalletPassword": "Създайте парола за достъп",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "settingsHeader": "Настройки",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "settingsTransfer": "Зареди от Paper Wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setupFailedMessage": "Нещо се обърка",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspium": "Споделете Kapitanium",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspiumSubject": "Виж повече за Kapitanium портфейл",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspiumText": "Научете повече за Kapitanium - Официалният Pyrin мобилен портфейл. \nУебсайт - https://github.com/e4p1k0/karlsen_mobile/tree/pyrin"",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "somethingWentWrong": "Нещо се обърка",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "systemDefault": "По подразбиране",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tapToHide": "Докоснете за да скриете",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tapToReveal": "Докоснете за да разкриете",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeDark": "Тъмна тема",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeHeader": "Тема",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeLight": "Светла тема",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "thisWallet": "#Този портфейл",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "to": "До",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "toAddress": "До адрес",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tooManyFailedAttempts": "Твърде много неуспешни опити за отключване.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "totalValue": "Обща стойност",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transactionId": "ID на транзакцията",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transactionsUppercase": "ТРАНЗАКЦИИ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transfer": "Прехвърли",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferClose": "Докоснете дисплея, за да затворите прозореца.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferComplete": "{amount} PYI успешно прехвърлени към вашия Kapitanium портфейл.\n",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfo": "Портфейл с баланс от {amount} PYI е открит.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfoSecond": "Натиснете за да потвърдите прехвърлянето на средства.\n",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfoThird": "Прехвърлянето може да отнеме няколко секунди.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferError": "Възникна грешка по време на прехвърлянето. Моля опитайте по-късно.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferHeader": "Прехвърли средства",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferIntro": "Този процес ще прехвърли вашите средства от Paper Wallet към Kapitanium Wallet.\n\nНатиснете \"{button}\" бутона за старт.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferLoading": "Прехвърляне",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferManualHint": "Моля въведете тайната фраза по-долу.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferNoFunds": "Този Seed не съдържа PYI",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferQrScanError": "Този QR код не съдържа валиден Seed.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferQrScanHint": "Сканирайте Pyrin \nSeed или личен ключ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unconfirmed": "непотвърдена",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "notAccepted": "не приета",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "accepted": "приета",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unknown": "неизвестна",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlock": "Отключи",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlockBiometrics": "Удостоверете се за достъп до портфейла",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlockPin": "Въведете ПИН за отключване на портфейла",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "utxosUppercase": "UTXO",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "viewAddress": "Виж адрес",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "viewTransaction": "Виж транзакция",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletAddresses": "Адреси на портфейла",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletName": "Име на портфейла",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletNameDescription": "Въведете име на портфейла",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletNameHint": "Име на портфейла",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletSetupAddressDiscovery": "Откриване на адрес",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletSetupMessage": "Портфейла се настройва",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletsTitle": "Портфейли",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "warning": "Внимание",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "welcomeMessage": "Добре дошли!\n\nТова е версия {version} на Kapitanium - мобилният портфейл за Pyrin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "welcomeText": "Добре дошли в Kapitanium. За да започнете, създайте нов портфейл или импортирайте вече съществуващ такъв.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "xMinutes": "След {minutes, plural, =1{1 минута} other{{minutes} минути}}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yes": "Да",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yesButton": "Да",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yesUppercase": "ДА",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNotSyncedException": "Нода не е синхронизиран",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNoUTXOIndexException": "Нода няма UTXO индекс",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeSecureConnection": "Сигурна връзка",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspaUriInvalid": "Невалиден Pyrin URI",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxos": "Обедини транзакциите",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxosDescription": "Комбинирай множество UTXO в едно",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxosConfirmation": "Обедини транзакциите?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundingUtxos": "Обединяване на транзакциите",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundingMessage": "Моля изчакайте...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundSuccess": "Обединяването е успешно",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundFailure": "Неуспешно обединяване на транзакциите",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundTooFewUtxos": "Нужни са поне две UTXO",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "balance": "Баланс",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "maxSend": "Макс. изпращане",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUppercased": "ОБЕДИНИ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "closeUppercased": "ЗАТВОРИ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanMoreAddresses": "Сканирай за повече адреси",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressDiscovery": "Намиране на адрес",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanningTitle": "Сканиране",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanningDescription": "Сканиране за нови адреси...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanMore": "СКАНИРАЙ ОЩЕ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanFailedMessage": "Сканирането завърши неуспешно, моля опитайте по-късно",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "indexHeader": "Индекс",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currentIndex": "Настоящ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scannedIndex": "Сканиран",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newIndex": "Нов",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogTitle": "Филтър за адреси",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogOptionAllAddresses": "Покажи всички адреси",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogOptionNonZeroBalances": "Покажи адресите с наличен баланс",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption24WordsTitle": "Импортирай тайна фраза от 24 думи",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption24WordsDescription": "Съвместим с Cli Wallet и Ledger",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption12WordsTitle": "Импортирай тайна фраза от 12 думи",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption12WordsDescription": "Съвместим с Web Wallet и KDX",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOptionKpubTitle": "Импортирай портфейл само за преглед",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOptionKpubDescription": "Следи балансът и транзакциите на портфейл използващ удължен публичен ключ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpub": "Импортирай портфейл само за преглед",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubHint": "Моля въведете своя удължен публичен ключ.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubClipboardError": "Копираното съдържание не е валиден удължен публичен ключ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubQrCodeError": "QR кода не съдържа валиден удължен публичен ключ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubInvalidMessage": "Моля проверете дали удълженият публичен ключ е въведен правилно!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddressListEmpty": "Списъкът с адреси за получаване е празен",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddressListEmpty": "Списъкът с адреси за ресто е празен",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "hintAddressListEmpty": "Проверете филтърът за адреси в горния десен ъгъл"
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
 }
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+

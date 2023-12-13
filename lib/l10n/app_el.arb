@@ -1,1220 +1,1220 @@
 {
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "@@last_modified": "2023-09-25T17:48:36.587Z",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "@@author": "arb-converter-cli",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "account": "Λογαριασμός",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "accounts": "Λογαριασμοί",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "ackBackedUp": "Είστε σίγουροι ότι έχετε κρατήσει αντίγραφο ασφαλείας της μυστικής σας φράσης;",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "add": "Προσθήκη",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addAccount": "Προσθήκη λογαριασμού",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addContact": "Προσθήκη επαφής",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNode": "Προσθήκη κόμβου",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeFailed": "Αποτυχία προσθήκης κόμβου Pyrin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeFailedMessage": "Σφάλμα: {error}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeSuccess": "Προσθήκη κόμβου επιτυχής",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addingNodeMessage": "Παρακαλώ περιμένετε όσο γίνεται επικοινωνία με τον κόμβο",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addingNodeTitle": "Γίνεται προσθήκη κόμβου",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "address": "Διέυθυνση",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressCopied": "Έγινε αντιγραφή της διεύθυνσης",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressCopiedFailed": "Failed to copy address",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressHint": "Εισαγωγή διεύθυνσης",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressMising": "Παρακαλώ εισάγετε μια διεύθυνση",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressShare": "Κοινοποιήστε μια διεύθυνση",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "advancedHeader": "Για προχωρημένους",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amount": "Ποσό",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountConfirm": "Ποσό {amount} {coin}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountMissing": "Παρακαλώ εισάγετε ένα ποσό",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountZero": "Το ποσό δεν μπορεί να είναι μηδενικό",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "areYouSure": "Είστε σίγουροι;",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authBiometricMessage": "Πραγματοποιήστε έλεγχο ταυτότητας για την προσθήκη πορτοφολιού",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authMethod": "Τρόπος ελέγχου ταυτότητας",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authPinMessage": "Εισάγετε το PIN για να προσθέσετε ένα πορτοφόλι",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "autoLockHeader": "Αυτόματο κλείδωμα",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "available": "Διαθέσιμο",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "backupConfirmButton": "Κράτησα αντίγραφο ασφαλείας",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "backupSecretPhrase": "Αντίγραφο ασφαλείας μυστικής φράσης",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "biometricsMethod": "Βιομετρικά στοιχεία",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "blockExplorer": "Εξερευνητής block",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "cancel": "Άκυρο",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "change": "Αλλαγή",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddress": "Αλλαγή διεύθυνσης",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddressCopied": "Η αλλαγή της διεύθυνσης αντιγράφηκε",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeIndex": "Αλλαγή ευρετηρίου",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeIndexParam": "Αλλαγή {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "checkCameraPermission": "Παρακαλώ ελέγξτε τα δικαιώματα κάμερας",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "clipboardEmpty": "Το πρόχειρο είναι κενό",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "close": "Κλείσιμο",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirm": "Επιβεβαίωση",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmPasswordHint": "Επιβεβαιώστε των κωδικό πρόσβασης",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmations": "{confirmations} επιβεβαιώσεις",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmed": "Επιβεβαιωμένο",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirming": "Γίνεται επιβεβαίωση",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactAdded": "{contactName} προστέθηκε στις επαφές",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactAddressCopied": "{address} η διεύθυνση αντιγράφηκε ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactExists": "Η επαφή υπάρχει ήδη",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactHeader": "Επαφή",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactInvalid": "Μη έγκυρο όνομα επαφής",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactNameHint": "Προσθήκη ονόματος @",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactNameMissing": "Επιλέγξτε ένα όνομα για αυτήν την επαφή",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactRemoved": "{contactName} αφαιρέθηκε από τις επαφές! ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsHeader": "Επαφές",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsImportErr": "Αποτυχία εισαγωγής επαφών",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsImportSuccess": "Εισάχθηκαν με επιτυχία {noContacts} επαφές",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copied": "Αντιγράφηκε",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copy": "Αντιγραφή",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copyAddress": "Αντιγραφή διεύθυνσης",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copyErrorButton": "Σφάλμα αντιγραφής",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createAPasswordHeader": "Δημιουργία κωδικού πρόσβασης.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordFirstParagraph": "Μπορείτε να δημιουργήσετε έναν κωδικό πρόσβασης για την περαιτέρω ασφάλεια του πορτοφολιού σας.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordHint": "Δημιουργία κωδικού πρόσβασης",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordSecondParagraph": "Ο κωδικός πρόσβασης είναι προαιρετικός και το πορτοφόλι σας θα προστατεύεται απο το PIN ή τα βιομετρικά σας στοχεία σας σε κάθε περίπτωση.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordSheetHeader": "Δημιουργία",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currency": "Νόμισμα",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currencyPoweredBy": "Σε συνεργασία με το CoinGecko",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultAccountName": "Διεύθυνση 1",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultNewAccountName": "Λήψη {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultWalletName": "Το πορτοφόλι μου",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disablePasswordSheetHeader": "Απενεργοποίηση",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disablePasswordSuccess": "Ο κωδικός πρόσβασης έχει απενεργοποιηθεί",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disableWalletPassword": "Απενεργοποίηση κωδικού πρόσβασης πορτοφολιού",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "doContinue": "Συνέχεια",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "donate": "Δωρίστε",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "dontShowAgain": "Να μην εμφανιστεί ξανά",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyCardIntroUtxos": "Αυτή είναι η ταμπέλα συνναλαγών UTXO. Όλες οι UTXO συνναλαγές τους πορτοφολιού σας θα εμφανιστούν εδώ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyResult": "Κενό αποτέλεσμα",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyWalletName": "Το όνομα του πορτοφολιού δεν μπορεί ναι είναι κενό",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "encryptionFailedError": "Δεν ήταν δυνατή η ενεργοποίηση κωδικού πρόσβασης πορτοφολιού",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterAddress": "Εισάγετε διεύθυνση",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterAmount": "Εισάγετε ποσό",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterNote": "Εισάγετε σημείωση",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterPasswordHint": "Εισάγετε τον κωδικό πρόσβασης",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "errorMessageCopied": "Το μήνυμα λάθους έχει αντιγραφεί στο πρόχειρο",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "exampleCardIntro": "Αυτή είναι η ταμπέλα συνναλαγών. Αν στείλετε η λάβετε μία συνναλαγή, θα εμφανιστεί εδώ.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "export": "Εξαγωγή",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fee": "Τέλος",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "feeConfirm": "Τέλος {amount} {coin}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "feeTitle": "ΤΕΛΟΣ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fetchingTransactions": "Λήψη συναλλαγών",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fingerprintSeedBackup": "Πιστοποιήστε την ταυτότητά σας για να κάνετε αντίγραφο ασφαλείας της μυστικής σας φράσης",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "goBackButton": "Πάνε πίσω",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "gotItButton": "Το κατάλαβα!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "import": "Εισαγωγή",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhrase": "Εισαγωγή μυστικής φράσης",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHint": "Παρακαλώ εισάγετε την μυστική φράση των 24 λέξεων παρακάτω.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHintCombo": "Please enter your 12 or 24 word secret phrase below.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHintLegacy": "Please enter your 12 word secret phrase below.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importWallet": "Εισαγωγή πορτοφολιού",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importWalletDescription": "Please select an option below.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "instantly": "Στιγμιαία",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "insufficientBalance": "Ανεπαρκές υπόλοιπο",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "insufficientBalanceDetails": "Δεν έχετε αρκετά PYI για αυτήν την συναλλαγή",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidAddress": "Η διεύθυνση που έχετε εισάγει δεν είναι έγκυρη",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidAmount": "Το ποσό που έχετε εισάγει δεν είναι έγκυρο",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidChecksumMessage": "Παρακαλώ ελέγξτε ότι η μυστική σας φράση έχει εισαχθεί σωστά!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidKpubMessage": "Please check that your extended public key is entered correctly!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidDestinationAddress": "Άκυρη διεύθυνση αποστολής",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidPassword": "Άκυρος κωδικός πρόσβασης",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspaDevFund": "Κονδύλιο προγραμματιστών KASPA",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspiumWallet": "Το πορτοφόλι Kapitanium",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "language": "Επιλογή γλώσσας",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "loadingTransactions": "Λήψη συνναλαγών...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "lockAppSetting": "Πιστοποίηση με την έναρξη του προγράμματος",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "locked": "Κλειδωμένο",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "loggingOutMessage": "Αποσυνδέεστε...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logout": "Αποσύνδεση",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logoutDialogContent": "Είστε σίγουροι ότι θέλετε να αποσυνδεθείτε από αυτό το πορτοφόλι;",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logoutOrSwitchWallet": "Αποσύνδεση / Αλλαγή Πορτοφολιού",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "manage": "Διαχείρηση",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "manualEntry": "Χειροκίνητη εισαγωγή",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "networkHeader": "Δίκτυο",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newAddress": "Νέα διεύθυνση",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newWallet": "Νέο πορτοφόλι",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nextButton": "Επόμενο",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "no": "Όχι",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noContactsExport": "Δεν υπάρχουν διαθέσιμες επαφές για εξαγωγή",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noContactsImport": "Δεν υπάρχουν νέες επαφές για εισαγωγή",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noQrCodeFound": "Δεν βρέθηκε κανένας κωδικός QR",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noSkipButton": "Όχι, αγνόησέ το",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noUppercase": "ΟΧΙ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeAddress": "Κόμβος Pyrin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeDeleteMessage": "Είστε σίγουροι ότι θέλετε να το διαγράψετε;",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeDeleteTitle": "Να διαγραφούν οι ρυθμίσεις του κόμβου Pyrin;",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNameEmpty": "Το όνομα του κόμβου δεν μπορεί να είναι κενό",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNameHint": "Εισάγετε το όνομα του κόμβου",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeUrlHint": "Εισάγετε την διέυθυνση ιστοσελίδας του κόμβου \"URL\"",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeUrlInvalid": "Η διεύθυνση ιστοσελίδας του κόμβου δεν είναι έκγυρη",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodesSheetTitle": "Κόμβοι Pyrin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "off": "Κλειστό",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "on": "Ανοιχτό",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "paperWallet": "Χάρτινο πορτοφόλι",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordBlank": "Ο κωδικός πρόσβασης δεν μπορεί να είναι κενός",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordNoLongerRequiredToOpenParagraph": "Δεν θα χρειαστείτε κωδικό πρόσβασης για να ανοίξετε αυτό το πορτοφόλι",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordWillBeRequiredToOpenParagraph": "Αυτός ο κωδικός πρόσβασης θα χρειαστεί για να ανοίξετε αυτό το πορτοφόλι",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordsDontMatch": "Οι κωδικοί πρόσβασης δεν είναι όμοιοι",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pasteMnemonicError": "Το πρόχειρο δεν περιέχει μία έγκυρη μυστική φράση",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pending": "εκκρεμεί ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinConfirmError": "Οι κωδικοί Pin δεν είναι όμοιοι",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinConfirmTitle": "Επικυρώστε τον κωδικό σας PIN",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinCreateTitle": "Δημιουργείστε έναν 6-ψήφιο κωδικό PIN",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinEnterTitle": "Εισάγετε τον κωδικό PIN",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinInvalid": "Ο κωδικός PIN που εισάγατε δεν είναι έγκυρος",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinMethod": "PIN",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinSeedBackup": "Εισάγετε τον κωδικό PIN για να δημιουργήσετε αντίγραφο της μυστικής φράσης",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "preferences": "Ρυθμίσεις",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "privacyPolicy": "Πολιτική απορρήτου",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrInvalidAddress": "Ο κωδικός QR δεν περιέχει μία έγκυρη διεύθυνση",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrInvalidSeed": "Ο κωδικός QR δεν περιέχει έγκυρο seed ή ιδιωτικό κλειδί",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrMnemonicError": "Ο κωδικός QR δεν περιέχει έγκυρη μυστική φράση",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receive": "Λήψη",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddress": "Διεύθυνση λήψης",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddressCopied": "Η διεύθυνση λήψης αντιγράφηκε",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveIndex": "Ευρετήριο λήψεων",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveIndexParam": "Λήψη {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "received": "Ελήφθησαν ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeContact": "Διαγραφή επαφής",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeContactConfirmation": "Είστε σίγουροι ότι θέλετε αν διαγράψατε την επαφή {contactName};",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletAction": "Διαγραφή πορτοφολιού",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletBiometricsMessage": "Πιστοποιήστε τον εαυτό σας για να διαγράψετε το πορτοφόλι",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletDetail": "Κατά την διαγραφή αυτού του πορτοφολιού, θα διαγραφεί και η μυστική φράση και ότι άλλα δεδομένα σχετίζονται με αυτό. Αν δεν έχετε αντίγραφο της μυστικής φράσης, θα χάσετε για πάντα την πρόσβαση σε αυτό το πορτοφόλι.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletPinMessage": "Εισάγετε το PIN για να διαγράψετε το πορτοφόλι",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletReassurance": "Εφόσον έχετε ένα αντίγραφο της μυστικής σας φράσης, δεν χρειάζεται να ανησυχείτε για τίποτα",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "requireAPasswordToOpenHeader": "Να είναι ένας κωδικός πρόσβασης απαραίτητος για το άνοιγμα αυτού του πορτοφολιού;",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "restartSetupButton": "Επανεκκίνηση των ρυθμίσεων",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanQrCode": "Σαρώστε έναν κωδικό QR",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanQrCodeError": "Η σάρωση του κωδικού QR απέτυχε",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretInfo": "Στην επόμενη οθόνη θα δείτε την μυστικής σας φράση. Αυτή είναι ο κωδικός για να έχετε πρόσβαση στα κεφάλαιά σας. Είναι εξαιρετικά σημαντικό να κάνετε ένα αντίγραφο ασφαλείας και να μην μοιραστείτε αυτή την φράση με κανέναν άλλο.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretInfoHeader": "Η ασφάλεια πρώτα!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretPhrase": "Μυστική φράση",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretWarning": "Άμα χάσετε την συσκευή σας ή απεγκαταστήσετε την εφαρμοφή, θα χρειαστείτε την μυστική σας φράση για αν έχετε πρόσβαση στα κεφάλαιά σας.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "securityHeader": "Ασφάλεια",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "seed": "Seed",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "seedInvalid": "Η μυστική σας φράση δεν είναι έγκυρη.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "send": "Αποστολή",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendConfirm": "Αποστολή",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendError": "Έγινε κάποιο λάθος. Παρακαλώ προσπαθείστε ξανά.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendNote": "ΣΗΜΕΙΩΣΗ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendToAddressTitle": "Σε",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendTxProgressDescription": "Παρακαλώ περιμένετε μέχρι να ολοκληρωθεί η συναλλαγή.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendTxProgressTitle": "Αποστολής συναλλαγής",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sending": "Αποστολή",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sent": "Απεστάλη",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sentTo": "Αποστολή σε",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setPassword": "Ενεργοποίηση κωδικού πρόσβασης",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setPasswordSuccess": "Ο κωδικός πρόσβασης του πορτοφολιού ενεργοποιήθηκε",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setWalletPassword": "Ενεργοποίηση κωδικού πρόσβασης πορτοφολιού",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "settingsHeader": "Ρυθμίσεις",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "settingsTransfer": "Φορτώστε τα στοιχεία από το χάρτινο <<εκτυπωμένο>> πορτοφόλι.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setupFailedMessage": "Κάτι πήγε στραβά",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspium": "Μοιράστε το Kapitanium",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspiumSubject": "Τσεκάρετε το πορτοφόλι Kapitanium!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspiumText": "Τσεκάρετε το Kapitanium! Το φορητό πορτοφόλι για το Pyrin. Ιστοσελίδα - https://github.com/e4p1k0/karlsen_mobile/tree/pyrin"",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "somethingWentWrong": "Κάτι πήγε στραβά",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "systemDefault": "Προκαθορισμένες επιλογές του συστήματος",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tapToHide": "Πατήστε εδώ για να το κρύψετε",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tapToReveal": "Πατήστε εδώ για να το εμφανίσετε",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeDark": "Σκοτεινό θέμα",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeHeader": "Θέμα",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeLight": "Φωτεινό θέμα",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "thisWallet": "#Αυτό το πορτοφόλι",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "to": "Σε",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "toAddress": "Στην διεύθυνση",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tooManyFailedAttempts": "Πάρα πολλές λανθασμένες απόπειρες ξεκλειδώματος του πορτοφολιού",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "totalValue": "Συνολική αξία",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transactionId": "Ταυτότητα συναλλαγής",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transactionsUppercase": "ΣΥΝΑΛΛΑΓΕΣ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transfer": "Μεταφορά",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferClose": "Πατήστε οπουδήποτε για να κλείσετε αυτό το παράθυρο.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferComplete": "{amount} PYI μεταφέρθηκαν επιτυχώς στο Kapitanium πορτοφόλι σας.\n",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfo": "Εντοπίσθηκε ένα πορτοφόλι με υπόλοιπο {amount} PYI.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfoSecond": "Πατήστε για να επιβεβαιώσετε την μεταφορά του κεφαλαίου.\n",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfoThird": "Η συναλλαγή μπορεί να χρειαστεί αρκετά δευτερόλεπτα για να ολοκληρωθεί.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferError": "Κατά την διάρκεια της συναλλαγής συνέβη κάποιο λάθος. Παρακαλώ προσπαθήστε ξανά αργότερα.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferHeader": "Μεταφορά κεφαλαίου.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferIntro": "Η διαδικασία αυτή θα μεταφέρει τα κεφάλαιο από το χάρτινο πορτοφόλι στο πορτοφόλι Kapitanium.\n\nΠατήστε το  \"{button}\" κουμπί για να ξεκινήσετε.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferLoading": "Η μεταφορά βρίσκεται σε εξέλιξη",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferManualHint": "Παρακαλώ εισάγετε την μυστική φράση παρακάτω.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferNoFunds": "Το πορτοφόλι που αντιστοιχεί σε αυτήν την μυστική φράση, δεν διαθέτει υπόλοιπο PYI.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferQrScanError": "Αυτός ο κωδικός QR δεν αντιστοιχεί σε μία έγκυρη μυστική φράση.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferQrScanHint": "Σαρώστε μία μυστική φράση Pyrin ή ένα ιδιωτικό κλειδί.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unconfirmed": "Ανεπιβαιβέωτο",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "notAccepted": "not accepted",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "accepted": "accepted",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unknown": "Άγνωστο",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlock": "Ξεκλείδωμα",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlockBiometrics": "Κάντε πιστοποίηση για να ξεκλειδώσετε το πορτοφόλι",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlockPin": "Εισάγετε το εξαψήφιο PIN για να ξεκλειδώσετε το πορτοφόλι",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "utxosUppercase": "UTXOs",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "viewAddress": "Δείτε την διεύθυνση",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "viewTransaction": "Δείτε την συναλλαγή",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletAddresses": "Διευθύνσεις πορτοφολιού",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletName": "Όνομα πορτοφολιού",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletNameDescription": "Εισάγετε όνομα για το πορτοφόλι σας",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletNameHint": "Όνομα πορτοφολιού",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletSetupAddressDiscovery": "Η εύρεση διεύθυνσης βρίσκεται σε εξέλιξη.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletSetupMessage": "Δημιουργία ενός πορτοφολιού.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletsTitle": "Πορτοφόλια",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "warning": "Προειδοποίηση",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "welcomeMessage": "Καλως ήρθατε!\n\nΑυτή είναι η έκδοση {version} του Kapitanium - το φορητό πορτοφόλι για το Pyrin\n ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "welcomeText": "Καλώς ήρθατε στο Kapitanium. Για να ξεκινήσετε, μπορείτε να δημιουργήσετε ένα νέο πορτοφόλι ή να εισάγετε ένα υπάρχον πορτοφόλι.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "xMinutes": "Μετά από {minutes, plural, =1{1 λεπτό} other{{minutes} λεπτά}}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yes": "Ναι",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yesButton": "Ναι",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yesUppercase": "ΝΑΙ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNotSyncedException": "Ο κόμβος δεν είναι συγχρονισμένος.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNoUTXOIndexException": "Ο κόμβος δεν έχει δείκτη UTXO.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeSecureConnection": "Ασφαλής σύνδεση.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspaUriInvalid": "Invalid Pyrin URI",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxos": "Compound transactions",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxosDescription": "Combine multiple UTXOs into one",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxosConfirmation": "Compound transactions?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundingUtxos": "Compounding transactions",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundingMessage": "Please wait...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundSuccess": "Compound successful",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundFailure": "Failed to compound transactions",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundTooFewUtxos": "At least two UTXOs are required",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "balance": "Balance",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "maxSend": "Max Send",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUppercased": "COMPOUND",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "closeUppercased": "CLOSE",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanMoreAddresses": "Scan For More Addresses",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressDiscovery": "Address Discovery",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanningTitle": "Scanning",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanningDescription": "Scanning for new addresses...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanMore": "SCAN MORE",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanFailedMessage": "Scan failed, please try again later",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "indexHeader": "Index",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currentIndex": "Current",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scannedIndex": "Scanned",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newIndex": "New",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogTitle": "Address Filter",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogOptionAllAddresses": "View All Addresses",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogOptionNonZeroBalances": "View Addresses With Balance",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption24WordsTitle": "Import 24 Word Secret Phrase",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption24WordsDescription": "Compatible with Cli Wallet and Ledger",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption12WordsTitle": "Import 12 Word Secret Phrase",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption12WordsDescription": "Compatible with Web Wallet and KDX",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOptionKpubTitle": "Import Watch Only Wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOptionKpubDescription": "Monitor the balance and transactions of a wallet using an extended public key",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpub": "Import Watch Only Wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubHint": "Please enter your extended public key.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubClipboardError": "Clipboard content is not a valid extended public key",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubQrCodeError": "QR code does not contain a valid extended public key",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubInvalidMessage": "Please check that your extended public key is entered correctly!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddressListEmpty": "Receive address list is empty",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddressListEmpty": "Change address list is empty",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "hintAddressListEmpty": "Check address filter from the top right corner"
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
 }
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+

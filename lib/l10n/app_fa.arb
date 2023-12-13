@@ -1,1220 +1,1220 @@
 {
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "@@last_modified": "2023-09-25T17:48:36.587Z",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "@@author": "arb-converter-cli",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "account": "حساب کاربری",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "accounts": "حساب ها",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "ackBackedUp": "آیا مطمئن هستید که از عبارت مخفی خود بکاپ گرفته اید؟",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "add": "اضافه کردن",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addAccount": "اضافه کردن حساب کاربری",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addContact": "اضافه کردن مخاطب",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNode": "اضافه کردن گره یا نود",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeFailed": "ناموفق در اضافه کردن گره کسپا",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeFailedMessage": "ناموفق: {error}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeSuccess": "گره با موفقیت اضافه شد",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addingNodeMessage": "لطفا تا زمان دسترسی به گره شکیبا باشید",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addingNodeTitle": "در حال اضافه کردن گره",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "address": "آدرس",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressCopied": "آدرس کپی شد",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressCopiedFailed": "آدرس کپی نشد",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressHint": "آدرس را وارد کنید",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressMising": "لطفا یک آدرس را وارد کنید",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressShare": "به اشتراک گذاری آدرس",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "advancedHeader": "پیشرفته",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amount": "مقدار",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountConfirm": "مقدار {amount} {coin}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountMissing": "لطفا مقدار را وارد کنید",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountZero": "مقدار نمی تواند صفر باشد",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "areYouSure": "آیا مطمئن هستید؟",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authBiometricMessage": "هویت سنجی برای اضافه کردن کیف پول",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authMethod": "روش هویت سنجی",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authPinMessage": "برای اضافه کردن کیف پول، پین را وارد کنید",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "autoLockHeader": "قفل خودکار",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "available": "در دسترس",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "backupConfirmButton": "من آن را بکاپ گرفته ام",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "backupSecretPhrase": "بکاپ گرفتن از عبارت مخفی",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "biometricsMethod": "بیومتریک",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "blockExplorer": "کاوشگر بلاک",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "cancel": "لغو",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "change": "تغییر",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddress": "تغییر آدرس",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddressCopied": "تغییر آدرس کپی شد",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeIndex": "تغییر شاخص",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeIndexParam": "تغییر {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "checkCameraPermission": "لطفا مجوزهای دوربین را بررسی کنید",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "clipboardEmpty": "کلیپ بورد خالی است",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "close": "بستن",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirm": "تایید",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmPasswordHint": "کلمه عبور را تایید کنید",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmations": "{confirmations} تاییدیه ها",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmed": "تایید شد",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirming": "در حال تایید",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactAdded": "{contactName} به مخاطبین اضافه شد",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactAddressCopied": "آدرس {address} کپی شد",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactExists": "مخاطب از قبل وجود دارد",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactHeader": "مخاطب",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactInvalid": "نام مخاطب نامعتبر است",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactNameHint": "یک نام وارد کنید @",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactNameMissing": "یک نام برای این مخاطب انتخاب کنید",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactRemoved": "{contactName} از مخاطبین حذف شده است!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsHeader": "مخاطبین",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsImportErr": "وارد کردن مخاطبین انجام نشد",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsImportSuccess": "مخاطبین {noContacts} با موفقیت وارد شدند",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copied": "کپی شد",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copy": "کپی",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copyAddress": "کپی کردن آدرس",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copyErrorButton": "کپی کردن خطا",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createAPasswordHeader": "کلمه عبور بسازید.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordFirstParagraph": "برای افزودن امنیت بیشتر به کیف پول خود، می توانید کلمه عبور ایجاد کنید.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordHint": "کلمه عبور بسازید",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordSecondParagraph": "رمز عبور اختیاری است و کیف پول شما در هر صورت با پین یا بیومتریک شما محافظت می شود.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordSheetHeader": "ایجاد",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currency": "واحد پول",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currencyPoweredBy": "ارائه شده توسط CoinGecko",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultAccountName": "آدرس 1",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultNewAccountName": "دریافت {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultWalletName": "کیف پول من",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disablePasswordSheetHeader": "غیرفعال",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disablePasswordSuccess": "کلمه عبور غیرفعال شده است",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disableWalletPassword": "غیرفعال کردن کلمه عبور کیف پول",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "doContinue": "ادامه",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "donate": "اهدا",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "dontShowAgain": "دیگر نشان نده",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyCardIntroUtxos": "این برگه UTXO ها است. همه UTXO های کیف پول شما در اینجا ظاهر می شوند",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyResult": "بدون نتیجه",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyWalletName": "نام کیف پول نمی تواند خالی باشد",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "encryptionFailedError": "رمز عبور کیف پول تنظیم نشد",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterAddress": "آدرس را وارد کنید",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterAmount": "مقدار را وارد کنید",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterNote": "یادداشت را وارد کنید",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterPasswordHint": "کلمه عبور خود را وارد کنید",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "errorMessageCopied": "پیام خطا در کلیپ بورد کپی شد",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "exampleCardIntro": "این برگه تراکنش هاست. پس از ارسال یا دریافت، تراکنش در اینجا نمایش داده خواهد شد.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "export": "صدور",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fee": "کارمزد",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "feeConfirm": "کارمزد {amount} {coin}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "feeTitle": "هزینه",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fetchingTransactions": "در حال دریافت تراکنش ها",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fingerprintSeedBackup": "هویت سنجی برای بکاپ گیری عبارت مخفی",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "goBackButton": "بازگشت",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "gotItButton": "فهمیدم!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "import": "وارد کردن",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhrase": "وارد کردن عبارت مخفی",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHint": "لطفا عبارت مخفی 24 کلمه ای خود را در زیر وارد کنید.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHintCombo": "لطفا عبارت مخفی 12 یا 24 کلمه ای خود را در زیر وارد کنید.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHintLegacy": "لطفا عبارت مخفی 12 کلمه ای خود را در زیر وارد کنید.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importWallet": "وارد کردن کیف پول",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importWalletDescription": "لطفاً یکی از گزینه های زیر را انتخاب کنید.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "instantly": "فورا",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "insufficientBalance": "موجودی ناکافی",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "insufficientBalanceDetails": "شما PYI کافی برای این تراکنش ندارید",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidAddress": "آدرس وارد شده نامعتبر بود",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidAmount": "مقدار نامعتبر",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidChecksumMessage": "لطفا عبارت مخفی خود را بررسی نمایید\nکه درست وارد شده است!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidKpubMessage": "لطفاً بررسی کنید که کلید عمومی توسعه یافته شما به درستی وارد شده باشد!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidDestinationAddress": "آدرس مقصد نامعتبر",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidPassword": "کلمه عبور نامعتبر",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspaDevFund": "صندوق توسعه دهندگان Pyrin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspiumWallet": "کیف پول Kapitanium",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "language": "زبان",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "loadingTransactions": "در حال بارگیری تراکنش ها...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "lockAppSetting": "هویت سنجی در موقع راه اندازی",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "locked": "قفل شده",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "loggingOutMessage": "در حال خروج از سیستم...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logout": "خروج",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logoutDialogContent": "آیا مطمئن هستید که می خواهید از این کیف پول خارج شوید؟",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logoutOrSwitchWallet": "خروج از سیستم / تغییر کیف پول",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "manage": "مدیریت",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "manualEntry": "ورود دستی",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "networkHeader": "شبکه",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newAddress": "آدرس جدید",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newWallet": "کیف پول جدید",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nextButton": "بعدی",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "no": "خیر",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noContactsExport": "هیچ مخاطبی برای صدور موجود نیست",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noContactsImport": "هیچ مخاطب جدیدی برای ورود، وجود ندارد",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noQrCodeFound": "هیچ QR کدی یافت نشد",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noSkipButton": "خیر، رد شو",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noUppercase": "خیر",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeAddress": "نود Pyrin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeDeleteMessage": "آیا مطمئن هستید که می خواهید حذف کنید؟",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeDeleteTitle": "پیکربندی نود Pyrin حذف شود؟",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNameEmpty": "نام نود نمی تواند خالی باشد",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNameHint": "نام نود را وارد کنید",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeUrlHint": "آدرس نود را وارد کنید",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeUrlInvalid": "آدرس نود نامعتبر است",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodesSheetTitle": "نودهای Pyrin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "off": "خاموش",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "on": "روشن",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "paperWallet": "کیف پول کاغذی",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordBlank": "کلمه عبور نمی تواند خالی باشد",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordNoLongerRequiredToOpenParagraph": "برای باز کردن این کیف پول نیازی به کلمه عبور نخواهید داشت.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordWillBeRequiredToOpenParagraph": "این کلمه عبور برای باز کردن این کیف پول مورد نیاز خواهد بود.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordsDontMatch": "کلمه های عبور مطابقت ندارند",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pasteMnemonicError": "محتوای کلیپ بورد، عبارت مخفی معتبر نیست",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pending": "در حال انتظار",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinConfirmError": "پین ها مطابقت ندارند",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinConfirmTitle": "پین خود را تایید کنید",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinCreateTitle": "یک پین 6 رقمی ایجاد کنید",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinEnterTitle": "پین را وارد کنید",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinInvalid": "پین اشتباه وارد شده است",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinMethod": "پین",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinSeedBackup": "پین را برای بکاپ گیری عبارت مخفی وارد کنید",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "preferences": "سلایق",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "privacyPolicy": "سیاست حفظ حریم خصوصی",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrInvalidAddress": "QR کد حاوی آدرس معتبری نیست",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrInvalidSeed": "QR کدها شامل seed یا کلید خصوصی معتبر نمی باشد",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrMnemonicError": "QR کدها شامل عبارت مخفی معتبر نمی باشد",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receive": "دریافت",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddress": "آدرس دریافتی",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddressCopied": "آدرس دریافتی کپی شد",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveIndex": "شاخص دریافتی",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveIndexParam": "دریافت {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "received": "دریافت شد",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeContact": "حذف مخاطب",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeContactConfirmation": "آیا از حذف {contactName} مطمئن هستید؟",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletAction": "حذف کیف پول",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletBiometricsMessage": "هویت سنجی برای حذف کیف پول",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletDetail": "حذف این کیف پول عبارت مخفی و تمام داده های مربوط به کیف پول را از این دستگاه حذف می کند. اگر عبارت مخفی بکاپ گیری نشود، دیگر هرگز نمی توانید به ارزهای خود مجددا دسترسی پیدا کنید.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletPinMessage": "جهت حذف کیف پول، پین را وارد کنید",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletReassurance": "تا زمانی که از عبارت مخفی بکاپ تهیه کرده باشید، نگران هیچ چیزی در این خصوص نباشید.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "requireAPasswordToOpenHeader": "آیا برای باز کردن این کیف پول به کلمه عبور نیاز دارید؟",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "restartSetupButton": "راه اندازی مجدد",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanQrCode": "اسکن QR کد",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanQrCodeError": "عدم موفقیت در تفکیک QR کد",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretInfo": "در صفحه بعدی، عبارت مخفی خود را خواهید دید. این کلمه عبور شما برای دسترسی به ارزهای شما است. بسیار ضروری است که از آن بکاپ تهیه کنید و هرگز آن را با کسی به اشتراک نگذارید.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretInfoHeader": "ابتدا ایمنی!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretPhrase": "عبارت مخفی",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretWarning": "اگر دستگاه خود را گم کنید یا برنامه را حذف کنید، به عبارت مخفی خود برای بازیابی ارزهای خود نیاز دارید!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "securityHeader": "امنیت",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "seed": "Seed",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "seedInvalid": "Seed نامعتبر است",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "send": "ارسال",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendConfirm": "ارسال",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendError": "خطایی پیش آمد. لطفا مجددا تلاش کنید",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendNote": "یادداشت",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendToAddressTitle": "به",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendTxProgressDescription": "لطفا تا ارسال تراکنش، شکیبا باشید",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendTxProgressTitle": "در حال ارسال تراکنش",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sending": "ارسال",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sent": "ارسال شد",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sentTo": "ارسال به",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setPassword": "تنظیم کلمه ورود",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setPasswordSuccess": "کلمه عبور کیف پول تنظیم شد",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setWalletPassword": "تنظیم کلمه عبور کیف پول",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "settingsHeader": "تنظیمات",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "settingsTransfer": "بارگزاری از کیف پول کاغذی",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setupFailedMessage": "خطایی پیش آمد",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspium": "اشتراک گذاری Kapitanium",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspiumSubject": "بررسی کیف پول Kapitanium",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspiumText": "بررسی Kapitanium - کیف پول موبایلی Pyrin\nوبسایت - https://github.com/e4p1k0/karlsen_mobile/tree/pyrin"",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "somethingWentWrong": "خطایی پیش آمد",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "systemDefault": "پیش فرض سیستم",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tapToHide": "برای پنهان کردن، لمس کنید",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tapToReveal": "برای آشکار کردن، لمس کنید",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeDark": "تم تاریک",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeHeader": "تم",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeLight": "تم روشن",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "thisWallet": "#این کیف پول",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "to": "به",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "toAddress": "به آدرس",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tooManyFailedAttempts": "تلاش های ناموفق فراوان برای گشودن قفل .",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "totalValue": "ارزش کل",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transactionId": "شناسه تراکنش",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transactionsUppercase": "تراکنش ها",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transfer": "انتقال",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferClose": "هر جایی را لمس کنید تا پنجره بسته شود.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferComplete": "تعداد {amount} PYI با موفقیت به کیف پول Kapitanium شما منتقل شد.\n",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfo": "کیف پولی با موجودی {amount} PYI شناسایی شد.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfoSecond": "برای تایید انتقال وجه، لمس کنید.\n",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfoThird": "انتقال ممکن است چند ثانیه طول بکشد تا تکمیل شود.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferError": "در حین انتقال خطایی رخ داده است. لطفا بعدا مجددا تلاش کنید.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferHeader": "انتقال وجه",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferIntro": "این فرآیند وجوه را از کیف پول کاغذی به کیف پول Kapitanium شما منتقل خواهد کرد.\n\nبرای شروع، \"{button}\" را لمس کنید.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferLoading": "در حال انتقال",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferManualHint": "لطفا seed زیر را وارد کنید.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferNoFunds": "این seed شامل هیچ PYI نمی باشد",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferQrScanError": "این QR کد شامل هیچ seed معتبری نیست.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferQrScanHint": "اسکن Pyrin\nseed یا کلید خصوصی",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unconfirmed": "تایید نشده",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "notAccepted": "قابل قبول نیست",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "accepted": "پذیرفته شد",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unknown": "نامعلوم",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlock": "گشودن قفل",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlockBiometrics": "هویت سنجی برای گشودن قفل کیف پول",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlockPin": "برای گشودن قفل کیف پول، پین را وارد کنید",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "utxosUppercase": "UTXOs",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "viewAddress": "نمایش آدرس",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "viewTransaction": "نمایش تراکنش",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletAddresses": "آدرس های کیف پول",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletName": "نام کیف پول",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletNameDescription": "یک نام برای کیف پول خود انتخاب کنید",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletNameHint": "نام کیف پول",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletSetupAddressDiscovery": "در حال پیداکردن آدرس",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletSetupMessage": "راه اندازی کیف پول",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletsTitle": "کیف پول ها",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "warning": "هشدار",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "welcomeMessage": "خوش آمدید!\n\nاین نسخه شماره {version} Kapitanium است - کیف پول موبایلی Pyrin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "welcomeText": "به Kapitanium خوش آمدید. برای شروع، می توانید یک کیف پول جدید بسازید یا کیف پول موجود را وارد کنید.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "xMinutes": "بعد از {minutes, plural, =1{1 minute} other{{minutes} minutes}}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yes": "بله",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yesButton": "بله",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yesUppercase": "بله",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNotSyncedException": "نود همگام سازی نمی شود",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNoUTXOIndexException": "نود شاخص UTXO ندارد",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeSecureConnection": "ارتباط امن",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspaUriInvalid": " Pyrin URI یا شناسه منبع یکپارچه Pyrin نامعتبر است",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxos": "ترکیب تراکنش ها",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxosDescription": "چندین UTXO را یکی و ترکیب کن",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxosConfirmation": "تراکنش ها ترکیب شوند؟",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundingUtxos": "ترکیب تراکنش ها",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundingMessage": "لطفا صبر کنید...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundSuccess": "ترکیب موفق بود",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundFailure": "ترکیب تراکنش ها ناموفق بود",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundTooFewUtxos": "حداقل دو UTXO مورد نیاز است",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "balance": "موجودی",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "maxSend": "حداکثر ارسال",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUppercased": "ترکیب",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "closeUppercased": "بستن",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanMoreAddresses": "برای آدرس های بیشتر اسکن کنید",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressDiscovery": "پیداکردن آدرس",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanningTitle": "در حال اسکن",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanningDescription": "در حال اسکن آدرس های جدید...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanMore": "اسکن بیشتر",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanFailedMessage": "اسکن انجام نشد، لطفاً بعداً دوباره امتحان کنید",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "indexHeader": "شاخص",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currentIndex": "جاری",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scannedIndex": "اسکن شد",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newIndex": "جدید",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogTitle": "فیلتر آدرس",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogOptionAllAddresses": "مشاهده همه آدرس ها",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogOptionNonZeroBalances": "مشاهده آدرس ها با موجودی",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption24WordsTitle": "وارد کردن عبارت مخفی 24 کلمه ای ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption24WordsDescription": "سازگار با کیف پول Cli و Ledger",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption12WordsTitle": "وارد کردن عبارت مخفی 12 کلمه ای",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption12WordsDescription": "سازگار با کیف پول KDX و Web Wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOptionKpubTitle": "وارد کردن کیف پول Watch Only",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOptionKpubDescription": "با استفاده از کلید عمومی توسعه یافته، موجودی و تراکنش های کیف پول را کنترل کنید",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpub": "وارد کردن کیف پول Watch Only",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubHint": "لطفا کلید عمومی توسعه یافته خود را وارد کنید.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubClipboardError": "محتوای کلیپ بورد یک کلید عمومی توسعه یافته معتبر نیست",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubQrCodeError": "کد QR حاوی یک کلید عمومی توسعه یافته معتبر نیست",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubInvalidMessage": "لطفاً بررسی کنید که کلید عمومی توسعه یافته شما به درستی وارد شده باشد!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddressListEmpty": "لیست آدرس دریافت خالی است",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddressListEmpty": "لیست تغییر آدرس خالی است",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "hintAddressListEmpty": "فیلتر آدرس را از گوشه بالا سمت راست بررسی کنید"
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
 }
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+

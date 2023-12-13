@@ -1,1220 +1,1220 @@
 {
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "@@last_modified": "2023-10-08T18:51:30.958Z",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "@@author": "arb-converter-cli",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "account": "პირადი ანგარიში",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "accounts": "პირადი ანგარიშები",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "ackBackedUp": "დარწმუნებული ხართ, რომ შექმენით თქვენი საიდუმლო ფრაზის სარეზერვო ასლი?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "add": "დამატება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addAccount": "პირადი ანგარიშის დამატება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addContact": "კონტაქტის დამატება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNode": "ნოუდის დამატება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeFailed": "ვერ მოხერხდა Pyrin-ს ნოუდის დამატება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeFailedMessage": "ვერ მოხერხდა: {error}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeSuccess": "ნოუდი წარმატებულად იქნა დამატებული",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addingNodeMessage": "გთხოვთ მოიცადოთ იქამდე სანამ ვუკავშირდებით ნოუდს",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addingNodeTitle": "ნოუდის დამატება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "address": "მისამართი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressCopied": "მისამართი დაკოპირებულია",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressCopiedFailed": "მისამართის კოპირება ვერ მოხერხდა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressHint": "შეიყვანეთ მისამართი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressMising": "გთხოვთ შეიყვანოთ მისამართი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressShare": "მისამართის გაზიარება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "advancedHeader": "სიღრმისეული",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amount": "ოდენობა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountConfirm": "ოდენობა {amount} {coin}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountMissing": "გთხოვთ შეიყვანოთ ოდენობა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountZero": "ოდენობა არ შეიძლება იყოს ნოლი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "areYouSure": "დარწმუნებული ხართ?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authBiometricMessage": "ავთენტიფიკაცია საფულის დასამატებლად",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authMethod": "ავთეტიფიკაციის მეთოდი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authPinMessage": "შეიყვანეთ პინ კოდი საფულის დასამატებლად",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "autoLockHeader": "ავტომატური დაკეტვა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "available": "ხელმისაწვდომი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "backupConfirmButton": "მე შევქმენი სარეზერვო ასლი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "backupSecretPhrase": "საიდუმლო ფრაზის ბექაფი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "biometricsMethod": "ბიომეტრიკა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "blockExplorer": "ბლოკის მაძიებელი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "cancel": "გაუქმება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "change": "შეცვლა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddress": "მისამართის ცვლილება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddressCopied": "დაკოპირებული მისამართის ცვლილება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeIndex": "ინდექსის ცვლილება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeIndexParam": "ცვლილება {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "checkCameraPermission": "გთხოვთ, შეამოწმოთ კამერის ნებართვა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "clipboardEmpty": "ბუფერი ცარიელია",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "close": "დახურვა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirm": "დადასტურება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmPasswordHint": "პაროლის დასტური",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmations": "{confirmations} დასტური",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmed": "დადასტურდა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirming": "დასტურდება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactAdded": "{contactName} დამატებულია კონტაქტებში",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactAddressCopied": "{address} მისამართი კოპირებულია",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactExists": "აღნიშნული კონტაქტი უკვე არსებობს",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactHeader": "კონტაქტი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactInvalid": "არასწორი კონტაქტის დასახელება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactNameHint": "მიუთითეთ კონტაქტის სახელი @",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactNameMissing": "აირჩიეთ დასახელება კონტაქტისთვის",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactRemoved": "{contactName} ამოღებული იქნა კონტაქტების სიიდან!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsHeader": "კონტაქტები",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsImportErr": "დაფიქსირდა შეცდომა კონტაქტების იმპორტირებისას",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsImportSuccess": "წარმატებით დაიმპორტდა {noContacts} კონტაქტები",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copied": "დაკოპირდა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copy": "დაკოპირება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copyAddress": "მისამართის დაკოპირება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copyErrorButton": "კოპირების შეცდომა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createAPasswordHeader": "შექმენით პაროლი.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordFirstParagraph": "თქვენ შეგიძლიათ შექმნათ პაროლი თქვენს საფულეზე დამატებითი უსაფრთხოების დასამატებლად.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordHint": "შექმენით პაროლი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordSecondParagraph": "პაროლი არჩევითია, თქვენი საფულე დაცული იქნება თქვენი PIN-ით ან ბიომეტრიით, მიუხედავად იმისა დააყენებთ თუ არა პაროლს.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordSheetHeader": "შექმნა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currency": "ვალუტა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currencyPoweredBy": "უზრუნველყოფილია CoinGecko-ს მიერ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultAccountName": "მისამართი 1 ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultNewAccountName": "მიღება {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultWalletName": "ჩემი საფულე",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disablePasswordSheetHeader": "გამორთვა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disablePasswordSuccess": "პაროლი გამორთულია",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disableWalletPassword": "საფულის პაროლის გამორთვა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "doContinue": "გაგრძელება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "donate": "დონაცია",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "dontShowAgain": "აღარ მაჩვენო",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyCardIntroUtxos": "ეს არის UTXO-ს გვერდი. ყველა UTXO თქვენს საფულეში გამოჩნდება აქ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyResult": "ცარიელი შედეგი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyWalletName": "საფულის დასახელება არ შეიძლება იყოს ცარიელი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "encryptionFailedError": "საფულის პაროლის დაყენება ვერ მოხერხდა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterAddress": "შეიყვანეთ მისამართი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterAmount": "შეიყვანეთ ოდენობა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterNote": "შეიყვანეთ ტექსტი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterPasswordHint": "შეიყვანეთ თქვენი პაროლი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "errorMessageCopied": "შეცდომის შეტყობინება კოპირებულია ბუფერში",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "exampleCardIntro": "ეს არის ტრანზაქციების გვერდი. ტრანზაქციის გაგზავნის ან მიღების შემდეგ, იგი გამოჩნდება აქ.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "export": "ექსპორტი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fee": "საკომისიო",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "feeConfirm": "საკომისიო {amount} {coin}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "feeTitle": "საკომისიო",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fetchingTransactions": "ტრანზაქციის მიღება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fingerprintSeedBackup": "გაიარეთ ავთენტიფიკაცია საიდუმლო ფრაზის სარეზერვო ასლის შესაქმნელად",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "goBackButton": "უკან წასვლა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "gotItButton": "მიღებულია!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "import": "იმპორტი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhrase": "საიდუმლო ფრაზის იმპორტი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHint": "გთხოვთ ქვემოთ შეიყვანოთ თქვენი 24 სიტყვიანი საიდუმლო ფრაზა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHintCombo": "გთხოვთ შეიყვანოთ თქვენი 12 ან 24 სიტყვიანი საიდუმლო ფრაზა ქვემოთ.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHintLegacy": "გთხოვთ შეიყვანოთ თქვენი 12 სიტყვიანი საიდუმლო ფრაზა ქვემოთ.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importWallet": "საფულის იმპორტი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importWalletDescription": "გთხოვთ აირჩიოთ ქვემოთმოცემული ოფცია.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "instantly": "მყისიერად",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "insufficientBalance": "აკმარისი ბალანსი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "insufficientBalanceDetails": "თქვენ არ გაქვთ საკმარისი PYI ამ ტრანზაქციისთვის",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidAddress": "შეყვანილი მისამართი იყო არასწორი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidAmount": "არასწორი ოდენობა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidChecksumMessage": "გთხოვთ შეამოწმოთ, რომ თქვენ მიერ შეყვანილი საიდუმლო ფრაზა\nშეყვანილია სწორად!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidKpubMessage": "გთხოვთ შეამოწმოთ რომ თქვენი გაფართოებული საჯარო გასაღები შეყვანილია სწორად!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidDestinationAddress": "არასწორი დანიშნულების მისამართი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidPassword": "არასწორი პაროლი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspaDevFund": "Pyrin-ს Dev ფონდი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspiumWallet": "Kapitanium საფულე",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "language": "ენა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "loadingTransactions": "ტრანზაქციები იტვირთება...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "lockAppSetting": "ავთენტიფიკაცია გაშვებისას",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "locked": "ჩაკეტილია",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "loggingOutMessage": "გასვლა...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logout": "გასვლა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logoutDialogContent": "დარწმუნებული ხართ რომ გსურთ ამ საფულიდან გასვლა?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logoutOrSwitchWallet": "გასვლა / საფულის ცვლილება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "manage": "მართვა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "manualEntry": "ხელით შეყვანა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "networkHeader": "ქსელ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newAddress": "ახალი მისამართი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newWallet": "ახალი საფულე",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nextButton": "შემდეგი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "no": "არა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noContactsExport": "არ არის კონტაქტები ექსპორტისთვის",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noContactsImport": "არ არის კონტაქტები იმპორტისთვის",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noQrCodeFound": "QR კოდი არ იქნა ნაპოვნი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noSkipButton": "არა, გამოტოვე",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noUppercase": "არა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeAddress": "Pyrin-ს ნოუდი ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeDeleteMessage": "Დარწმუნებული ხართ რომ გსურთ წაშლა?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeDeleteTitle": "წაიშალოს Pyrin-ს ნოუდის კონფიგურაცია?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNameEmpty": "ნოუდის დასახელება არ შეიძლება იყოს ცარიელი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNameHint": "შეიყვანეთ ნოუდის დასახელება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeUrlHint": "შეიყვანეთ ნოუდის URL",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeUrlInvalid": "არასწორი ნოუდის URL",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodesSheetTitle": "Pyrin-ს ნოუდები",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "off": "გამორთული",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "on": "ჩართული",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "paperWallet": "ქაღალდის საფულე",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordBlank": "პაროლი არ შეიძლება იყოს ცარიელი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordNoLongerRequiredToOpenParagraph": "ამ საფულის გასახსნელად პაროლი არ დაგჭირდებათ.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordWillBeRequiredToOpenParagraph": "ეს პაროლი საჭირო იქნება ამ საფულის გასახსნელად.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordsDontMatch": "პაროლები არ ემთხვევა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pasteMnemonicError": "ბუფერში არსებული ინფორმაცია არ არის ვალიდური საიდუმლო ფრაზა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pending": "მოლოდინის რეჟიმი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinConfirmError": "წერტილები არ ემთხვევა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinConfirmTitle": "დაადასტურეთ თქვენი პინ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinCreateTitle": "შექმენით 6-ციფრა პინ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinEnterTitle": "შეიყვანეთ პინ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinInvalid": "იქნა შეყვანილი არასწორი PIN",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinMethod": "PIN",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinSeedBackup": "შეიყვანეთ PIN საიდუმლო ფრაზის სარეზერვო ასლის შესაქმნელად",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "preferences": "პრეფერენციები",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "privacyPolicy": "კონფიდენციალურობის პოლიტიკა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrInvalidAddress": "QR კოდი არ შეიცავს სწორ მისამართს",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrInvalidSeed": "QR კოდი არ შეიცავს ვალიდურ seed-ს ან პირად გასაღებს ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrMnemonicError": "QR კოდი არ შეიცავს მოქმედ საიდუმლო ფრაზას",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receive": "მიღება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddress": "მიმღები მისამართი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddressCopied": "მიმღები მისამართი დაკოპირებიულია",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveIndex": "მიმღები ინდექსი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveIndexParam": "მიმღები {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "received": "მიღებული",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeContact": "კონტაქტის ამოღება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeContactConfirmation": "დარწმუნებული ხართ რომ გსურთ წაშლა {contactName}?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletAction": "საფულის ამოღება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletBiometricsMessage": "ავთენტიფიკაცია საფულის ამოსაღებად",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletDetail": "ამ საფულის ამოღება ამოშლის საიდუმლო ფრაზას და საფულესთან დაკავშირებულ ყველა მონაცემს ამ მოწყობილობიდან. თუ საიდუმლო ფრაზის სარეზერვო ასლი არ არსებობს, თქვენ ვეღარასოდეს შეძლებთ თქვენს სახსრებზე წვდომას.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletPinMessage": "შეიყვანეთ PIN საფულის ამოსაღებად",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletReassurance": "სანამ საიდუმლო ფრაზის სარეზერვო ასლი გაქვთ, სანერვიულო არაფერი გაქვთ.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "requireAPasswordToOpenHeader": "მოვითხოვოთ პაროლი ამ საფულის გასახსნელად?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "restartSetupButton": "წყობის გადატვირთვა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanQrCode": "QR კოდის სკანირება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanQrCodeError": "qr კოდის გარჩევა ვერ მოხერხდა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretInfo": "შემდეგ ეკრანზე ნახავთ თქვენს საიდუმლო ფრაზას. ეს არის პაროლი თქვენს სახსრებზე წვდომისთვის. გადამწყვეტი მნიშვნელობა აქვს მისი სარეზერვო ასლის შენახვას, რომელიც არასოდეს უნდა გაუზიაროთ ვინმეს.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretInfoHeader": "უსაფრთხოება უპირველეს ყოვლისა!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretPhrase": "საიდუმლო ფრაზა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretWarning": "თუ დაკარგავთ თქვენს მოწყობილობას ან წაშლით აპლიკაციას, დაგჭირდებათ თქვენი საიდუმლო ფრაზა სახსრების დასაბრუნებლად!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "securityHeader": "უსაფრთხოება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "seed": "Seed",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "seedInvalid": "Seed არასწორია",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "send": "გაგზავნა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendConfirm": "გაგზავნა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendError": "დაფიქსირდა შეცდომა. გთხოვთ სცადოთ თავიდან",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendNote": "შენიშვნა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendToAddressTitle": "რომ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendTxProgressDescription": "გთხოვთ, დაელოდოთ ტრანზაქციის გაგზავნას",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendTxProgressTitle": "იგზავნება ტრანზაქცია",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sending": "გაგზავნა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sent": "გაგზავნილია",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sentTo": "გაგზავნა ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setPassword": "პაროლის დაყენება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setPasswordSuccess": "საფულის პაროლი დაყენებული იქნა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setWalletPassword": "საფულის პაროლის დაყენება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "settingsHeader": "პარამეტრები",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "settingsTransfer": "ქაღალდის საფულიდან ჩატვირთვა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setupFailedMessage": "Რაღაც წავიდა არასწორად",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspium": "Kapitanium-ის გაზიარება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspiumSubject": "Kapsium-ის საფულის შემოწმება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspiumText": "იხილეთ Kapitanium - Pyrin-ს მობილური საფულე. \nვებსაიტი - https://github.com/e4p1k0/karlsen_mobile/tree/pyrin"",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "somethingWentWrong": "Რაღაც წავიდა არასწორად",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "systemDefault": "სისტემის ქარხნული პარამეტრები",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tapToHide": "შეეხეთ დასამალად",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tapToReveal": "შეეხეთ გამოსაჩენად",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeDark": "მუქი თემა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeHeader": "თემა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeLight": "ღია თემა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "thisWallet": "#ეს საფულე",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "to": "რომ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "toAddress": "ამ მისამართზე",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tooManyFailedAttempts": "ზედმეტად ბევრი გახსნის მცდელობა.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "totalValue": "სრული ღირებულება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transactionId": "ტრანზაქციის ID",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transactionsUppercase": "ტრანზაქციები",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transfer": "ტრანსფერი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferClose": "შეეხეთ ნებისმიერ ადგილას ფანჯრის დასახურად.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferComplete": "{amount} PYI წარმატებით გადავიდა თქვენ Kapitanium-ის საფულეში.\n",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfo": "აღმოჩენილია საფულე {amount} PYI-ის ბალანსით.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfoSecond": "შეეხეთ დადასტურებას სახსრების გადასარიცხად.\n",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfoThird": "ტრანსფერის დასრულებას შეიძლება დასჭირდეს რამოდენიმე წამი.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferError": "ტრანსფერისას მოხდა შეცდომა. გთხოვთ სცადოთ მოგვიანებით.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferHeader": "სახსრების ტრასფერი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferIntro": "ეს პროცესი გადაიტანს თანხებს ქაღალდის საფულედან თქვენს კასპიუმის საფულეში. \n\nშეეხეთ \"{button}\" ღილაკს დასაწყებად.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferLoading": "მიმდინარეობს ტრანსფერი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferManualHint": "გთხოვთ შეიყვანოთ seed",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferNoFunds": "ამ seed-ს არ აქვს PYI",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferQrScanError": "ეს QR კოდი არ შეიცავს მოქმედ seed-ს.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferQrScanHint": "დაასკანირეთ Pyrin\nseed ან პირადი გასაღები",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unconfirmed": "დაუდასტურებელი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "notAccepted": "არ არის მიღებული",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "accepted": "მიღებულია",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unknown": "უცნობი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlock": "გახსნა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlockBiometrics": "ავთენტიფიკაცია საფულის გასახსნელად",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlockPin": "შეიყვანეთ PIN საფულის გასახსნელად",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "utxosUppercase": "UTXO-ები",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "viewAddress": "მისამართის ნახვა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "viewTransaction": "ტრანზაქციების ნახვა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletAddresses": "საფულის მისამართები",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletName": "საფულის დასახელება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletNameDescription": "შეიყვანეთ დასახელება თქვენი საფულისთვის",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletNameHint": "საფულის დასახელება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletSetupAddressDiscovery": "მიმდინარეობს მისამართიების აღმოჩენა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletSetupMessage": "საფულის დაყენება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletsTitle": "საფულეები",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "warning": "გაფრთხილება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "welcomeMessage": "მოგესალმებით\n\nეს არის Kapitanium-ის ვერსია {version} - მობილური საფულე Pyrin-სთვის",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "welcomeText": "კეთილი იყოს თქვენი მობრძანება Kapitanium-ში. დასაწყებათ, შეგიძლიათ შექმნათ ახალი საფულე ან დააიმპორტოთ არსებული.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "xMinutes": "შემდეგ {minutes, plural, =1{1 წუთი} other{{minutes} წუთი}}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yes": "დიახ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yesButton": "დიახ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yesUppercase": "დიახ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNotSyncedException": "ნოუდი არ არის სინქრონიზირებული",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNoUTXOIndexException": "ნოუდს არ აქვს UTXO ინდექსი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeSecureConnection": "დაცული კავშირი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspaUriInvalid": "არასწორი Pyrin URI",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxos": "გაერთიანებული ტრანზაქციები",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxosDescription": "გააერთიანეთ რამდენიმე UTXO ერთში",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxosConfirmation": "გაერთიანებული ტრანზაქციები?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundingUtxos": "ტრანზაქციების გაერთიანება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundingMessage": "გთხოვთ დაელოდოთ...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundSuccess": "გაერთიანება წარმატებულია",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundFailure": "ვერ მოხერხდა ტრანზაქციების გაერთიანება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundTooFewUtxos": "როგორც მინიმუმ ორი UTXO არის სავალდებულო",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "balance": "ბალანსი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "maxSend": "მაქსიმალური გაგზავნა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUppercased": "გაერთიანება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "closeUppercased": "დახურვა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanMoreAddresses": "დაასკანირეთ მეტი მისამართებისათვის",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressDiscovery": "მისამართების ძებნა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanningTitle": "სკანირება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanningDescription": "სკანირება ახალი მისამართებისთვის...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanMore": "მეტის სკანირება",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanFailedMessage": "სკანირება ვერ მოხერხდა, გთხოვთ მოგვიანებით სცადოთ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "indexHeader": "ინდექსი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currentIndex": "ამჟამინდელი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scannedIndex": "სკანირებული",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newIndex": "ახალი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogTitle": "მისამართების ფილტრი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogOptionAllAddresses": "ყველა მისამართის ნახვა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogOptionNonZeroBalances": "ბალანსიანი მისამართების ნახვა",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption24WordsTitle": "24 სიტყვიანი საიდუმლო ფრაზის იმპორტი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption24WordsDescription": "თავსებადია Cli Wallet-თან და Ledger-თან",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption12WordsTitle": "12 სიტყვიანი საიდუმლო ფრაზის იმპორტი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption12WordsDescription": "თავსებადია Web Wallet-თან და KDX-თან",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOptionKpubTitle": "Watch Only Wallet-ის იმპორტი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOptionKpubDescription": "აკონტროლეთ საფულის ბალანსი და ტრანზაქციები გაფართოებული საჯარო გასაღების გამოყენებით",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpub": "Watch Only Wallet-ის იმპორტი",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubHint": "გთხოვთ, შეიყვანოთ თქვენი გაფართოებული საჯარო გასაღები.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubClipboardError": "ბუფერში არსებული კონტენტი არ არის სწორი გაფართოებული საჯარო გასაღები",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubQrCodeError": "QR კოდი არ შეიცავს მოქმედ გაფართოებულ საჯარო გასაღებს",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubInvalidMessage": "გთხოვთ, შეამოწმოთ, რომ თქვენი გაფართოებული საჯარო გასაღები სწორად არის შეყვანილი!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddressListEmpty": "მიმღების მისამართების სია ცარიელია",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddressListEmpty": "მისამართების შეცვლა ცარიელია",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "hintAddressListEmpty": "შეამოწმეთ მისამართის ფილტრი ზედა მარჯვენა კუთხიდან"
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
 }
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+

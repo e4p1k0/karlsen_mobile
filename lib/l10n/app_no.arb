@@ -1,1220 +1,1220 @@
 {
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "@@last_modified": "2023-09-25T17:48:36.587Z",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "@@author": "arb-converter-cli",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "account": "Konto",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "accounts": "Kontoer",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "ackBackedUp": "Er du sikker på at du har sikkerhetskopiert den hemmelige frasen din?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "add": "Legg til",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addAccount": "Legg til konto",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addContact": "Legg til kontakt",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNode": "Legg til node",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeFailed": "Klarte ikke å legge til node",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeFailedMessage": "Feilet: {error}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeSuccess": "Node lagt til",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addingNodeMessage": "Vent mens noden kontaktes",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addingNodeTitle": "Legger til node",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "address": "Adresse",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressCopied": "Adresse kopiert",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressCopiedFailed": "Failed to copy address",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressHint": "Angi adresse",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressMising": "Angi en adresse",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressShare": "Del adresse",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "advancedHeader": "Avansert",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amount": "Beløp",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountConfirm": "Beløp {amount} {coin}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountMissing": "Tast inn beløp",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountZero": "Beløp kan ikke være null",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "areYouSure": "Er du sikker?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authBiometricMessage": "Autentiser for å legge til lommebok",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authMethod": "Autentiseringsmetode",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authPinMessage": "Angi PIN for å legge til lommebok",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "autoLockHeader": "Lås automatisk",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "available": "Tilgjengelig",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "backupConfirmButton": "Jeg har tatt sikkerhetskopi",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "backupSecretPhrase": "Sikkerhetskopier hemmelig frase",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "biometricsMethod": "Biometri",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "blockExplorer": "Blokkutforsker",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "cancel": "Avbryt",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "change": "Veksel",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddress": "Vekseladresse",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddressCopied": "Vekseladresse kopiert",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeIndex": "Vekselindeks",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeIndexParam": "Veksel {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "checkCameraPermission": "Sjekk rettigheter for kamera",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "clipboardEmpty": "Utklippstavlen er tom",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "close": "Lukk",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirm": "Bekreft",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmPasswordHint": "Bekreft passordet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmations": "{confirmations} bekreftelser",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmed": "bekreftet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirming": "bekrefter",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactAdded": "{contactName} er lagt til i kontakter",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactAddressCopied": "{address} adresse kopiert",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactExists": "Kontakt eksisterer allerede",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactHeader": "Kontakt",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactInvalid": "Ugyldig navn på kontakt",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactNameHint": "Angi navn @",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactNameMissing": "Velg et navn på denne kontakten",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactRemoved": "{contactName} har blitt fjernet fra kontakter!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsHeader": "Kontakter",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsImportErr": "Kunne ikke importere kontakter",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsImportSuccess": "{noContacts} kontakter importert",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copied": "Kopiert",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copy": "Kopier",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copyAddress": "Kopier adresse",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copyErrorButton": "Kopiering feilet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createAPasswordHeader": "Lag et passord.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordFirstParagraph": "Du kan opprette et passord for ekstra sikkerhet på din lommebok.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordHint": "Lag et passord",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordSecondParagraph": "Passord er valgfritt, og din lommebok vil uansett være beskyttet med din PIN-kode eller biometri.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordSheetHeader": "Opprett",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currency": "Valuta",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currencyPoweredBy": "Leveres av CoinGecko",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultAccountName": "Adresse 1",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultNewAccountName": "Motta {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultWalletName": "Min lommebok",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disablePasswordSheetHeader": "Deaktiver",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disablePasswordSuccess": "Passordet har blitt deaktivert",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disableWalletPassword": "Deaktiver passord på lommebok",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "doContinue": "Fortsett",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "donate": "Doner",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "dontShowAgain": "Ikke vis på nytt",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyCardIntroUtxos": "Dette er UTXO-fanen. Alle UTXOene i din lommebok vil vises her",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyResult": "Tøm resultat",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyWalletName": "Navn på lommebok kan ikke være tom",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "encryptionFailedError": "Klarte ikke å sette passord på lommebok",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterAddress": "Angi adresse",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterAmount": "Tast inn beløp",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterNote": "Angi notis",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterPasswordHint": "Tast inn ditt passord",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "errorMessageCopied": "Feilmelding ble kopiert til utklippstavlen",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "exampleCardIntro": "Dette er transaksjonsfanen. Når du sender eller mottar en transaksjon vil den vises her.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "export": "Eksporter",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fee": "Avgift",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "feeConfirm": "Avgift {amount} {coin}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "feeTitle": "AVGIFT",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fetchingTransactions": "Henter transaksjoner",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fingerprintSeedBackup": "Autentiser for å sikkerhetskopiere hemmelig frase.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "goBackButton": "Gå tilbake",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "gotItButton": "Forstått!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "import": "Importer",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhrase": "Importer hemmelig frase",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHint": "Vennligst angi din hemmelige 24-ords frase nedenfor.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHintCombo": "Please enter your 12 or 24 word secret phrase below.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHintLegacy": "Please enter your 12 word secret phrase below.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importWallet": "Importer lommebok",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importWalletDescription": "Please select an option below.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "instantly": "Øyeblikkelig",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "insufficientBalance": "Saldo er utilstrekkelig",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "insufficientBalanceDetails": "Du har ikke nok PYI for denne transaksjonen",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidAddress": "Den angitte adressen er ugyldig",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidAmount": "Ugyldig beløp",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidChecksumMessage": "Sjekk at den hemmelige frasen er riktig angitt!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidKpubMessage": "Please check that your extended public key is entered correctly!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidDestinationAddress": "Ugyldig destinasjonsadresse",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidPassword": "Ugyldig passord",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspaDevFund": "Pyrin utviklerfond",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspiumWallet": "Kapitanium Wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "language": "Språk",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "loadingTransactions": "Laster transaksjoner...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "lockAppSetting": "Verifiser ved oppstart",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "locked": "Låst",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "loggingOutMessage": "Logger ut...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logout": "Logg ut",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logoutDialogContent": "Er du sikker på at du vil logge ut fra denne lommeboken?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logoutOrSwitchWallet": "Logg ut / bytt lommebok",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "manage": "Administrer",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "manualEntry": "Manuell inntasting",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "networkHeader": "Nettverk",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newAddress": "Ny adresse",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newWallet": "Ny lommebok",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nextButton": "Neste",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "no": "Nei",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noContactsExport": "Det er ingen kontakter å eksportere",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noContactsImport": "Ingen nye kontakter å importere",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noQrCodeFound": "Ingen QR-kode funnet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noSkipButton": "Nei, hopp over",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noUppercase": "NEI",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeAddress": "Pyrin node",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeDeleteMessage": "Er du sikker på at du vil slette?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeDeleteTitle": "Slett Pyrin nodekonfigurasjon?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNameEmpty": "Nodenavn kan ikke være tom",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNameHint": "Angi nodenavn",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeUrlHint": "Angi URL til noden",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeUrlInvalid": "Ugyldig URL til node",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodesSheetTitle": "Pyrin noder",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "off": "Av",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "on": "På",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "paperWallet": "Papirlommebok",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordBlank": "Passordet kan ikke være tomt",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordNoLongerRequiredToOpenParagraph": "Du kommer ikke til å trenge et passord for å åpne denne lommeboken.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordWillBeRequiredToOpenParagraph": "Dette passordet vil være påkrevd for å åpne lommeboken.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordsDontMatch": "Passordene stemmer ikke overens",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pasteMnemonicError": "Utklippstavlen inneholder ikke en gyldig hemmelig frase",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pending": "venter",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinConfirmError": "PIN-kodene stemmer ikke overens",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinConfirmTitle": "Bekreft din PIN-kode",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinCreateTitle": "Opprett en 6-sifret PIN-kode",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinEnterTitle": "Tast inn PIN-kode",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinInvalid": "Den inntastede PIN-koden er ugyldig",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinMethod": "PIN-kode",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinSeedBackup": "Angi PIN-kode for a sikkerhetskopiere hemmelig frase",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "preferences": "Preferanser",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "privacyPolicy": "Personvernerklæring",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrInvalidAddress": "QR-koden inneholder ikke en gyldig adresse",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrInvalidSeed": "QR-koden inneholder ikke en gyldig seed eller privatnøkkel",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrMnemonicError": "QR-kode inneholder ikke en gyldig hemmelig frase",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receive": "Motta",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddress": "Mottaksadresse",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddressCopied": "Mottaksadresse kopiert",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveIndex": "Mottaksindeks",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveIndexParam": "Mottak {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "received": "Mottatt",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeContact": "Fjern kontakt",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeContactConfirmation": "Er du sikker på at du vil slette {contactName}?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletAction": "Fjern lommebok",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletBiometricsMessage": "Autentiser for å fjerne lommebok",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletDetail": "Fjerning av lommeboken vil fjerne den hemmelige frasen og alle relaterte data fra denne enheten. Hvis den hemmelige frasen ikke er sikkerhetskopiert, så vil du aldri få tilgang til midlene på den igjen.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletPinMessage": "Angi PIN-kode for å fjerne lommebok",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletReassurance": "Så lenge du har sikkerhetskopi av den hemmelige frasen så har du ingenting å bekymre deg over.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "requireAPasswordToOpenHeader": "Krev et passord for å åpne denne lommeboken?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "restartSetupButton": "Start oppsett på nytt",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanQrCode": "Skan QR-kode",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanQrCodeError": "Klarte ikke å lese QR-kode",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretInfo": "På neste skjerm vil du se din hemmelige frase. Den er et passord som gir tilgang til midlene dine. Det er avgjørende at du sikkerhetskopierer denne og aldri deler den med noen.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretInfoHeader": "Sikkerhet først!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretPhrase": "Hemmelig frase",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretWarning": "Om du mister denne enheten eller avinstallerer applikasjonen, trenger du din hemmelige frase for å få tilgang til midlene dine!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "securityHeader": "Sikkerhet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "seed": "Seed",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "seedInvalid": "Seed er ugyldig",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "send": "Send",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendConfirm": "Send",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendError": "En feil oppstod. Prøv på nytt",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendNote": "NOTIS",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendToAddressTitle": "Til",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendTxProgressDescription": "Vent mens transaksjonen sendes",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendTxProgressTitle": "Sender transaksjon",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sending": "Sender",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sent": "Sendt",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sentTo": "Sendt til",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setPassword": "Sett passord",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setPasswordSuccess": "Lommebokens passord er satt",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setWalletPassword": "Sett lommebokens passord",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "settingsHeader": "Innstillinger",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "settingsTransfer": "Last fra papirlommebok",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setupFailedMessage": "Noe gikk galt",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspium": "Del Kapitanium",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspiumSubject": "Sjekk ut Kapitanium Wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspiumText": "Sjekk ut Kapitanium - Den mobile lommeboken for Pyrin.\nNettsted - https://github.com/e4p1k0/karlsen_mobile/tree/pyrin"",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "somethingWentWrong": "Noe gikk galt",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "systemDefault": "Systemstandard",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tapToHide": "Trykk for å skjule",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tapToReveal": "Trykk for å vise",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeDark": "Mørkt tema",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeHeader": "Tema",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeLight": "Lyst tema",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "thisWallet": "#Denne lommeboken",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "to": "Til",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "toAddress": "Til adresse",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tooManyFailedAttempts": "For mange mislykkede opplåsingsforsøk",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "totalValue": "Totalverdi",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transactionId": "Transaksjons-ID",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transactionsUppercase": "TRANSAKSJONER",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transfer": "Overføre",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferClose": "Trykk hvor som helst for å lukke vinduet.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferComplete": "{amount} PYI ble overført til din Kapitanium lommebok.\n",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfo": "En lommebok med balanse {amount} PYI ble oppdaget.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfoSecond": "Trykk bekreft for å overføre midlene.\n",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfoThird": "Det kan ta flere sekunder å gjennomføre overførselen.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferError": "Det oppsto en feil under overføringen. Prøv igjen senere.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferHeader": "Overfør midler",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferIntro": "Denne prosessen vil overføre midler fra en papirlommebok til din Kapitanium lommebok.\n\nTrykk på \"{button}\"-knappen for å starte.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferLoading": "Overfører",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferManualHint": "Tast inn seed nedenfor.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferNoFunds": "Det er ingen PYI på denne seeden",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferQrScanError": "Denne QR-koden inneholder ikke et gyldig seed.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferQrScanHint": "Skan PYI \nSeed eller privat nøkkel",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unconfirmed": "ubekreftet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "notAccepted": "not accepted",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "accepted": "accepted",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unknown": "ukjent",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlock": "Lås opp",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlockBiometrics": "Autentiser for å låse opp lommebok",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlockPin": "Angi PIN-kode for å låse opp lommebok",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "utxosUppercase": "UTXOer",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "viewAddress": "Vis adresse",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "viewTransaction": "Vis transaksjoner",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletAddresses": "Adresser i lommebok",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletName": "Navn på lommebok",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletNameDescription": "Angi et navn for din lommebok",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletNameHint": "Navn på lommebok",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletSetupAddressDiscovery": "Oppdager adresser",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletSetupMessage": "Setter opp lommebok",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletsTitle": "Lommebøker",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "warning": "Advarsel",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "welcomeMessage": "Velkommen!\n\nDette er versjon {version} av Kapitanium - Den mobile lommeboken for Pyrin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "welcomeText": "Velkommen til Kapitanium. Opprett en ny lommebok eller importer en eksisterende for å begynne.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "xMinutes": "Etter {minutes, plural, =1{1 minute} other{{minutes} minutes}}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yes": "Ja",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yesButton": "Ja",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yesUppercase": "JA",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNotSyncedException": "Noden er ikke synkronisert",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNoUTXOIndexException": "Noden har ikke UTXO-indeksering aktivert",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeSecureConnection": "Sikker tilkobling",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspaUriInvalid": "Invalid Pyrin URI",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxos": "Compound transactions",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxosDescription": "Combine multiple UTXOs into one",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxosConfirmation": "Compound transactions?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundingUtxos": "Compounding transactions",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundingMessage": "Please wait...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundSuccess": "Compound successful",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundFailure": "Failed to compound transactions",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundTooFewUtxos": "At least two UTXOs are required",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "balance": "Balance",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "maxSend": "Max Send",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUppercased": "COMPOUND",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "closeUppercased": "CLOSE",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanMoreAddresses": "Scan For More Addresses",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressDiscovery": "Address Discovery",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanningTitle": "Scanning",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanningDescription": "Scanning for new addresses...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanMore": "SCAN MORE",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanFailedMessage": "Scan failed, please try again later",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "indexHeader": "Index",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currentIndex": "Current",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scannedIndex": "Scanned",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newIndex": "New",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogTitle": "Address Filter",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogOptionAllAddresses": "View All Addresses",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogOptionNonZeroBalances": "View Addresses With Balance",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption24WordsTitle": "Import 24 Word Secret Phrase",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption24WordsDescription": "Compatible with Cli Wallet and Ledger",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption12WordsTitle": "Import 12 Word Secret Phrase",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption12WordsDescription": "Compatible with Web Wallet and KDX",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOptionKpubTitle": "Import Watch Only Wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOptionKpubDescription": "Monitor the balance and transactions of a wallet using an extended public key",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpub": "Import Watch Only Wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubHint": "Please enter your extended public key.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubClipboardError": "Clipboard content is not a valid extended public key",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubQrCodeError": "QR code does not contain a valid extended public key",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubInvalidMessage": "Please check that your extended public key is entered correctly!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddressListEmpty": "Receive address list is empty",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddressListEmpty": "Change address list is empty",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "hintAddressListEmpty": "Check address filter from the top right corner"
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
 }
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+

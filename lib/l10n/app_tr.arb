@@ -1,1220 +1,1220 @@
 {
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "@@last_modified": "2023-09-25T17:48:36.587Z",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "@@author": "arb-converter-cli",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "account": "Hesap",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "accounts": "Hesaplar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "ackBackedUp": "Gizli cümlenizi yedeklediğinizden emin misiniz?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "add": "Ekle",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addAccount": "Hesap Ekle",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addContact": "Kişi Ekle",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNode": "Node Ekle",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeFailed": "Pyrin node'u ekleme işlemi başarısız",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeFailedMessage": "Başarısız: {error}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeSuccess": "Node Başarıyla Eklendi",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addingNodeMessage": "Node ile iletişim kurulurken lütfen bekleyin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addingNodeTitle": "Node Ekleniyor",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "address": "Adres",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressCopied": "Adres Kopyalandı",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressCopiedFailed": "Adres kopyalanamadı",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressHint": "Adres Gir",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressMising": "Lütfen Bir Adres Girin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressShare": "Adresi Paylaş",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "advancedHeader": "Gelişmiş",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amount": "Miktar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountConfirm": "Miktar {amount} {coin}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountMissing": "Lütfen Bir Miktar Girin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountZero": "Miktar, sıfır olamaz",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "areYouSure": "Emin misiniz?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authBiometricMessage": "Cüzdan Eklemek için Kimliğinizi Doğrulayın",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authMethod": "Doğrulama Metodu",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authPinMessage": "Cüzdan Eklemek için PIN kodunu girin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "autoLockHeader": "Otomatik Kilitle",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "available": "Mevcut",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "backupConfirmButton": "Yedekledim",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "backupSecretPhrase": "Gizli Cümleyi Yedekle",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "biometricsMethod": "Biyometrik",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "blockExplorer": "Blok Tarayıcı",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "cancel": "İptal",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "change": "Para Üstü",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddress": "Para Üstü Adresi",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddressCopied": "Para üstü adresi kopyalandı",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeIndex": "Para Üstü Dizini",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeIndexParam": "Para üstü {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "checkCameraPermission": "Lütfen kamera izinlerini kontrol edin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "clipboardEmpty": "Pano boş",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "close": "Kapat",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirm": "Onayla",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmPasswordHint": "Şifreyi onayla",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmations": "{confirmations} onay",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmed": "onaylandı",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirming": "onaylanıyor",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactAdded": "{contactName} rehbere eklendi!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactAddressCopied": "{address} adresi kopyalandı",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactExists": "Bu Kişi Zaten Mevcut",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactHeader": "Kişi",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactInvalid": "Geçersiz Kişi İsmi",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactNameHint": "Bir İsim Girin @",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactNameMissing": "Bu Kişi için bir isim seçin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactRemoved": "{contactName} rehberden silindi!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsHeader": "Rehber",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsImportErr": "Rehberi içe aktarmada sorun oluştu",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsImportSuccess": "{noContacts} kişi başarıyla içe aktarıldı",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copied": "Kopyalandı",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copy": "Kopyala",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copyAddress": "Adresi Kopyala",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copyErrorButton": "Kopyalama Hatası",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createAPasswordHeader": "Bir şifre oluşturun.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordFirstParagraph": "Cüzdanınızı daha güvenli hale getirmek için bir şifre oluşturabilirsiniz.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordHint": "Şifre oluştur",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordSecondParagraph": "Şifre isteğe bağlıdır. Şifre belirlemeseniz de cüzdanınız PIN kodu veya biyometrik doğrulama ile korunur.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordSheetHeader": "Oluştur",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currency": "Para Birimi",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currencyPoweredBy": "CoinGecko tarafından desteklenmektedir",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultAccountName": "1. Adres",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultNewAccountName": "Al {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultWalletName": "Cüzdanım",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disablePasswordSheetHeader": "Devre Dışı Bırak",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disablePasswordSuccess": "Şifre devre dışı bırakıldı",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disableWalletPassword": "Cüzdan Şifresini Devre Dışı Bırak",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "doContinue": "Devam et",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "donate": "Bağış Yap",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "dontShowAgain": "Tekrar gösterme",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyCardIntroUtxos": "Burası UTXO sekmesi. Cüzdanınızdaki tüm UTXO işlemleri burada gösterilir.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyResult": "Boş Sonuç",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyWalletName": "Cüzdan İsmi boş bırakılamaz",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "encryptionFailedError": "Cüzdan şifresi oluşturma işlemi başarısız",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterAddress": "Adres Girin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterAmount": "Miktar Girin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterNote": "Not Gir",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterPasswordHint": "Şifrenizi girin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "errorMessageCopied": "Hata mesajı panoya kopyalandı",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "exampleCardIntro": "Burası işlemler sekmesi. Gönderilen ya da alınan bir işlem olduğunda işlemler burada gösterilir.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "export": "Dışa Aktar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fee": "Ücret",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "feeConfirm": "Ücret {amount} {coin}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "feeTitle": "ÜCRET",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fetchingTransactions": "İşlemler Çekiliyor",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fingerprintSeedBackup": "Gizli Cümleyi Yedeklemek için Kimliğinizi Doğrulayın",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "goBackButton": "Geri Git",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "gotItButton": "Anladım!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "import": "İçe Aktar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhrase": "Gizli Cümle Aktar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHint": "Lütfen 24 kelimelik gizli cümlenizi aşağıya girin.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHintCombo": "Lütfen 12 veya 24 kelimelik gizli cümlenizi aşağıya girin.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHintLegacy": "Lütfen 12 kelimelik gizli cümlenizi aşağıya girin.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importWallet": "Cüzdanı İçe Aktar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importWalletDescription": "Lütfen aşağıdaki bir seçeneği seçin.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "instantly": "Hemen",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "insufficientBalance": "Yetersiz Bakiye",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "insufficientBalanceDetails": "Bu işlem için elinizde yeterince PYI bulunmuyor",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidAddress": "Girilen adres geçerli değil",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidAmount": "Geçersiz Miktar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidChecksumMessage": "Lütfen Gizli Cümlenizin doğru girildiğinden emin olun!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidKpubMessage": "Lütfen genişletilmiş herkese açık anahtarınızın (public key) doğru girildiğinden emin olun!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidDestinationAddress": "Hedef Adres Geçersiz",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidPassword": "Geçersiz Şifre",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspaDevFund": "Pyrin Geliştirici Fonu",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspiumWallet": "Kapitanium Wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "language": "Dil",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "loadingTransactions": "İşlemler Yükleniyor...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "lockAppSetting": "Başlangıçta Kimlik Doğrula",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "locked": "Kilitli",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "loggingOutMessage": "Çıkış yapılıyor...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logout": "Çıkış Yap",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logoutDialogContent": "Bu cüzdandan çıkış yapmak istediğinizden emin misiniz?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logoutOrSwitchWallet": "Çıkış Yap / Cüzdan Değiştir",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "manage": "Yönet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "manualEntry": "Manuel Giriş",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "networkHeader": "Ağ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newAddress": "Yeni Adres",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newWallet": "Yeni Cüzdan",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nextButton": "İleri",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "no": "Hayır",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noContactsExport": "Dışa aktarılabilecek bir kişi bulunamadı",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noContactsImport": "İçe aktarılacak yeni bir kişi bulunamadı",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noQrCodeFound": "QR kod bulunamadı",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noSkipButton": "Hayır, Atla",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noUppercase": "HAYIR",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeAddress": "Pyrin Node'u",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeDeleteMessage": "Silmek istediğinizden emin misiniz?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeDeleteTitle": "Pyrin Node Ayarları Silinsin mi?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNameEmpty": "Node adı boş bırakılamaz",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNameHint": "Node İsmi Girin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeUrlHint": "Node Bağlantısı Girin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeUrlInvalid": "Geçersiz node bağlantısı",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodesSheetTitle": "Pyrin Node'ları",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "off": "Kapalı",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "on": "Açık",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "paperWallet": "Kağıt Cüzdan",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordBlank": "Şifre alanı boş olamaz",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordNoLongerRequiredToOpenParagraph": "Bu cüzdanı açmak için bir şifreye ihtiyacınız olmayacak.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordWillBeRequiredToOpenParagraph": "Bu şifre, bu cüzdanı açmak için gerekecek.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordsDontMatch": "Şifreler eşleşmiyor",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pasteMnemonicError": "Panodaki içerik geçerli bir gizli cümle değil",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pending": "beklemede",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinConfirmError": "PIN kodları uyuşmuyor",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinConfirmTitle": "PIN kodunuzu onaylayın",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinCreateTitle": "6 haneli bir PIN kodu oluşturun",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinEnterTitle": "PIN kodunu girin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinInvalid": "Geçersiz bir PIN kodu girdiniz",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinMethod": "PIN Kodu",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinSeedBackup": "Gizli Cümleyi Yedeklemek için PIN Kodunu Girin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "preferences": "Tercihler",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "privacyPolicy": "Gizlilik Politikası",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrInvalidAddress": "QR kodu geçerli bir adres içermiyor",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrInvalidSeed": "QR kodu geçerli bir anahtar cümle (seed) ya da özel anahtar içermiyor",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrMnemonicError": "QR kodu geçerli bir gizli cümle içermiyor",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receive": "İste",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddress": "Alma Adresi",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddressCopied": "Alma adresi kopyalandı",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveIndex": "Alma Dizini",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveIndexParam": "Al {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "received": "Alındı",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeContact": "Kişiyi Sil",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeContactConfirmation": "{contactName} kişisini silmek istediğinizden emin misiniz?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletAction": "Cüzdanı Kaldır",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletBiometricsMessage": "Cüzdanı Kaldırmak için Kimliğinizi Doğrulayın",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletDetail": "Bu cüzdanı kaldırdığınızda Gizli Cümle ve bu cihazdaki cüzdanla ilgili tüm veriler silinir. Gizli Cümlenizi yedeklemediyseniz bu cüzdandaki varlıklarınıza bir daha asla erişemezsiniz.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletPinMessage": "Cüzdanı Kaldırmak için PIN Kodunu Girin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletReassurance": "Gizli Cümlenizi yedeklediğiniz sürece endişelenmeniz gereken hiçbir şey yoktur.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "requireAPasswordToOpenHeader": "Bu cüzdan açılırken bir şifre sorulsun mu?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "restartSetupButton": "Kurulumu Yeniden Başlat",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanQrCode": "QR Kodu Tara",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanQrCodeError": "QR kodu okuma başarısız",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretInfo": "Bir sonraki ekranda gizli cümlenizi göreceksiniz. Gizli cümle, cüzdanınıza ve bakiyenize erişmenizi sağlayan bir çeşit şifredir. Gizli cümlenizi güvenli bir yerde yedeklemeniz ve kimseyle paylaşmamanız çok önemlidir.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretInfoHeader": "Önce Güvenlik!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretPhrase": "Gizli Cümle",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretWarning": "Cihazınızı kaybederseniz ya da uygulamayı kaldırırsanız bakiyenize erişmek için gizli cümlenize ihtiyacınız olacak!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "securityHeader": "Güvenlik",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "seed": "Seed",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "seedInvalid": "Anahtar cümle (seed) geçersiz",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "send": "Gönder",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendConfirm": "Gönder",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendError": "Bir hata oluştu. Lütfen daha sonra tekrar deneyin.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendNote": "NOT",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendToAddressTitle": "Kime",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendTxProgressDescription": "İşlem gönderilirken lütfen bekleyin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendTxProgressTitle": "İşlem Gönderiliyor",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sending": "Gönder",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sent": "Gönderildi",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sentTo": "Alıcı",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setPassword": "Şifre Belirle",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setPasswordSuccess": "Cüzdan şifresi belirlendi",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setWalletPassword": "Cüzdan Şifresi Belirle",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "settingsHeader": "Ayarlar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "settingsTransfer": "Kağıt Cüzdandan Yükle",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setupFailedMessage": "Bir hata oluştu",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspium": "Kapitanium'u Paylaş",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspiumSubject": "Kapitanium Wallet'a göz at",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspiumText": "Kapitanium - Pyrin Mobil Cüzdana göz atın.\nWeb sitesi - https://github.com/e4p1k0/karlsen_mobile/tree/pyrin"",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "somethingWentWrong": "Bir hata oluştu",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "systemDefault": "Sistem Varsayılanı",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tapToHide": "Gizlemek için dokunun",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tapToReveal": "Göstermek için dokunun",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeDark": "Karanlık Tema",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeHeader": "Tema",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeLight": "Aydınlık Tema",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "thisWallet": "#Bu Cüzdan",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "to": "Adres",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "toAddress": "Hedef Adres",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tooManyFailedAttempts": "Çok fazla kilit açma denemesi başarız oldu.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "totalValue": "Toplam Değer",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transactionId": "İşlem ID'si",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transactionsUppercase": "İŞLEMLER",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transfer": "Transfer Et",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferClose": "Pencereyi kapatmak için herhangi bir yere dokunun.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferComplete": "{amount} PYI başarıyla Kapitanium Cüzdanınıza transfer edildi.\n",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfo": "{amount} PYI bakiyesine sahip bir cüzdan tespit edildi.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfoSecond": "Transfer işlemini başlatmak için onayla düğmesine dokunun.\n",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfoThird": "Transfer işleminin tamamlanması birkaç saniye sürebilir.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferError": "Transfer esnasında bir problem oluştu. Lütfen daha sonra tekrar deneyin.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferHeader": "Bakiye Transferi",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferIntro": "Bu işlem bir kağıt cüzdanda bulunan bakiyeyi Kapitanium cüzdanınıza transfer edecek.\n\nBaşlamak için \"{button}\" düğmesine dokunun.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferLoading": "Transfer Ediliyor",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferManualHint": "Lütfen anahtar cümlesini (seed) aşağıya girin.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferNoFunds": "Bu anahtar cümlesinde (seed) hiç PYI yok.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferQrScanError": "Bu QR kodu geçerli bir anahtar cümle (seed) içermiyor.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferQrScanHint": "Bir Pyrin anahtar\ncümlesi (seed) ya da özel anahtar tarayın",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unconfirmed": "onaylanmamış",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "notAccepted": "kabul edilmedi",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "accepted": "kabul edildi",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unknown": "bilinmiyor",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlock": "Kilidi Aç",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlockBiometrics": "Cüzdanın Kilidini Açmak için Kimliğinizi Doğrulayın",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlockPin": "Cüzdanın Kilidini Açmak için PIN Kodunu Girin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "utxosUppercase": "UTXO'lar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "viewAddress": "Adresi Göster",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "viewTransaction": "İşlemi Göster",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletAddresses": "Cüzdan Adresleri",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletName": "Cüzdan adı",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletNameDescription": "Cüzdanınız için bir ad girin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletNameHint": "Cüzdan Adı",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletSetupAddressDiscovery": "Adres Keşfi Çalıştırılıyor",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletSetupMessage": "Cüzdan kuruluyor",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletsTitle": "Cüzdanlar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "warning": "UYARI",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "welcomeMessage": "Hoş geldiniz!\n\nBu, Pyrin mobil cüzdanı olan Kapitanium'un {version} sürümü.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "welcomeText": "Kapitanium'a hoş geldiniz. Başlamak için yeni bir cüzdan oluşturabilir veya var olan bir cüzdanı içe aktarabilirsiniz.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "xMinutes": "{minutes, plural, =1{1 dakika} other{{minutes} dakika}} sonra",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yes": "Evet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yesButton": "Evet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yesUppercase": "EVET",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNotSyncedException": "Node senkronize edilmedi",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNoUTXOIndexException": "Node'un UTXO dizini yok",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeSecureConnection": "Güvenli bağlantı",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspaUriInvalid": "Geçersiz Pyrin URI Adresi",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxos": "Compound transactions",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxosDescription": "Birden çok UTXO'yu tek bir UTXO'da birleştir",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxosConfirmation": "Compound transactions?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundingUtxos": "Compounding transactions",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundingMessage": "Lütfen bekleyin...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundSuccess": "Birleştirme işlemi başarılı",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundFailure": "Failed to compound transactions",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundTooFewUtxos": "En az iki UTXO gerekiyor",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "balance": "Bakiye",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "maxSend": "Maks. Gönderim Miktarı",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUppercased": "BİRLEŞTİR",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "closeUppercased": "KAPAT",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanMoreAddresses": "Daha Fazla Adresi Tara",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressDiscovery": "Adres Keşfi",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanningTitle": "Taranıyor",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanningDescription": "Yeni adresler taranıyor...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanMore": "DAHA FAZLASINI TARA",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanFailedMessage": "Tarama başarısız, lütfen daha sonra tekrar deneyin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "indexHeader": "Dizin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currentIndex": "Mevcut",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scannedIndex": "Tarandı",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newIndex": "Yeni",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogTitle": "Adres Filtresi",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogOptionAllAddresses": "Tüm Adresleri Göster",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogOptionNonZeroBalances": "Bakiyesi Olan Adresleri Göster",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption24WordsTitle": "24 Kelimelik Gizli Cümleyi Aktar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption24WordsDescription": "Cli Cüzdan ve Ledger ile uyumlu",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption12WordsTitle": "12 Kelimelik Gizli Cümleyi Aktar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption12WordsDescription": "Web Cüzdan ve KDX ile uyumlu",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOptionKpubTitle": "Sadece İzlemek için Cüzdan Aktar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOptionKpubDescription": "Bir genişletilmiş herkese açık anahtar (public key) kullanarak bir cüzdanın bakiyesini ve işlemlerini gözlemleyin",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpub": "Sadece İzlemek için Cüzdan Aktar",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubHint": "Lütfen genişletilmiş herkese açık anahtarınızı (public key) girin.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubClipboardError": "Panodaki içerik geçerli bir genişletilmiş herkese açık anahtar (public key) değil",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubQrCodeError": "QR kodu geçerli bir genişletilmiş herkese açık anahtar (public key) içermiyor",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubInvalidMessage": "Lütfen genişletilmiş herkese açık anahtarınızın (public key) doğru girildiğinden emin olun!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddressListEmpty": "Alma adres listesi boş",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddressListEmpty": "Para üstü adres listesi boş",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "hintAddressListEmpty": "Sağ üst köşedeki adres filtresini kontrol edin"
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
 }
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+

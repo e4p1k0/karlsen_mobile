@@ -1,1220 +1,1220 @@
 {
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "@@last_modified": "2023-09-30T20:57:42.789Z",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "@@author": "arb-converter-cli",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "account": "账户",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "accounts": "账户",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "ackBackedUp": "您确定助记词已备份？",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "add": "添加",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addAccount": "添加账户",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addContact": "添加联系人",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNode": "添加节点",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeFailed": "添加 Pyrin 节点失败",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeFailedMessage": "失败: {error}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeSuccess": "添加节点成功",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addingNodeMessage": "连接节点中, 请等待",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addingNodeTitle": "添加节点中",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "address": "地址",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressCopied": "地址已复制",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressCopiedFailed": "复制地址失败",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressHint": "输入地址",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressMising": "请输入地址",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressShare": "分享地址",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "advancedHeader": "高级",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amount": "数额",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountConfirm": "数额 {amount} {coin}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountMissing": "请输入数额",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountZero": "数额不能为零",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "areYouSure": "请确认?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authBiometricMessage": "验证添加钱包",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authMethod": "验证方法",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authPinMessage": "输入 PIN 添加钱包",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "autoLockHeader": "自动锁定",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "available": "可用余额",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "backupConfirmButton": "我已备份",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "backupSecretPhrase": "备份助记词",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "biometricsMethod": "生物识别",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "blockExplorer": "区块浏览器",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "cancel": "取消",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "change": "零钱",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddress": "零钱地址",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddressCopied": "零钱地址已复制",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeIndex": "零钱索引",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeIndexParam": "零钱 {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "checkCameraPermission": "请检查相机权限",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "clipboardEmpty": "粘贴板为空",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "close": "关闭",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirm": "确认",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmPasswordHint": "确认密码",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmations": "{confirmations} 确认",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmed": "已确认",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirming": "确认中",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactAdded": "{contactName} 已被添加到联系人",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactAddressCopied": "{address} 地址已被复制",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactExists": "联系人已存在",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactHeader": "联系人",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactInvalid": "联系人姓名无效",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactNameHint": "输入姓名 @",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactNameMissing": "为此联系人选择一个姓名",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactRemoved": "{contactName} 已从联系人名单中刪除!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsHeader": "联系人",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsImportErr": "无法导入联系人",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsImportSuccess": "已成功导入 {noContacts} 位联系人",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copied": "已复制",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copy": "复制",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copyAddress": "复制地址",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copyErrorButton": "复制出现错误",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createAPasswordHeader": "创建一个密码。",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordFirstParagraph": "您可以创建一个密码来加强您钱包的安全性。",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordHint": "创建密码",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordSecondParagraph": "密码是可选的，无论如何您的钱包仍会被识别码或生物识别技术保护。",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordSheetHeader": "创建",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currency": "货币",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currencyPoweredBy": "由 CoinGecko 提供支持",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultAccountName": "地址 1",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultNewAccountName": "账户 {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultWalletName": "我的钱包",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disablePasswordSheetHeader": "解除",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disablePasswordSuccess": "钱包密码已被解除",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disableWalletPassword": "解除钱包密码",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "doContinue": "继续",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "donate": "捐赠",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "dontShowAgain": "不再显示",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyCardIntroUtxos": "这是 UTXO 选项卡。此钱包中的所有 UTXO 都会在这里显示。",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyResult": "空结果",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyWalletName": "钱包名称不能为空",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "encryptionFailedError": "钱包密码设置失败",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterAddress": "输入地址",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterAmount": "输入数额",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterNote": "输入笔记",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterPasswordHint": "输入您的密码",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "errorMessageCopied": "错误信息已复制到粘贴板",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "exampleCardIntro": "欢迎来到交易选项卡。您发送或接收的交易记录将会在此显示。",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "export": "导出",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fee": "费用",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "feeConfirm": "费用 {amount} {coin}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "feeTitle": "费用",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fetchingTransactions": "获取交易",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fingerprintSeedBackup": "验证指纹以备份助记词。",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "goBackButton": "返回",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "gotItButton": "明白！",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "import": "导入",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhrase": "导入助记词",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHint": "请在下方输入您的 24 个助记词。",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHintCombo": "请在下方输入 12 或 24 个助记词。",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHintLegacy": "请在下方输入 12 个助记词。",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importWallet": "导入现有钱包",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importWalletDescription": "请选择一个以下选项。",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "instantly": "立刻",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "insufficientBalance": "余额不足",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "insufficientBalanceDetails": "您没有足够的 PYI 支付这笔交易",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidAddress": "无效的目标地址",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidAmount": "无效数额",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidChecksumMessage": "请确认助记词\n已正确输入!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidKpubMessage": "请确认您的扩展公钥被正确输入！",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidDestinationAddress": "无效目标地址",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidPassword": "无效密码",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspaDevFund": "Pyrin 开发基金",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspiumWallet": "Kapitanium 钱包",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "language": "语言",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "loadingTransactions": "加载交易中... ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "lockAppSetting": "启动时要求验证",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "locked": "已锁定",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "loggingOutMessage": "登出中...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logout": "登出",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logoutDialogContent": "您确认希望登出这个钱包?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logoutOrSwitchWallet": "登出 / 切换钱包",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "manage": "管理",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "manualEntry": "手动输入",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "networkHeader": "网络",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newAddress": "新地址",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newWallet": "创建新钱包",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nextButton": "继续",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "no": "否认",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noContactsExport": "没有要导出的联系人",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noContactsImport": "没有新的联系人需要导入",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noQrCodeFound": "没有发现二维码",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noSkipButton": "不，跳过",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noUppercase": "否",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeAddress": "Pyrin 节点",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeDeleteMessage": "您确定要删除吗？",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeDeleteTitle": "删除 Pyrin 节点配置?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNameEmpty": "节点名称不能为空",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNameHint": "输入节点名称",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeUrlHint": "输入节点 URL",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeUrlInvalid": "无效节点 URL",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodesSheetTitle": "Pyrin 节点",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "off": "关闭",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "on": "开启",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "paperWallet": "纸钱包",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordBlank": "密码不能为空",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordNoLongerRequiredToOpenParagraph": "您以后打开 Kapitanium 不再需要密码了。",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordWillBeRequiredToOpenParagraph": "以后需要这个密码才能打开Kapitanium。",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordsDontMatch": "密码不匹配",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pasteMnemonicError": "粘贴板内容不是有效的助记词",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pending": "待处理",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinConfirmError": "识别码不匹配",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinConfirmTitle": "确认您的识别码",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinCreateTitle": "创建一个 6 位数的识别码",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinEnterTitle": "输入识别码",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinInvalid": "输入的识别码无效",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinMethod": "识别码",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinSeedBackup": "输入识别码以备份钱包助记词",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "preferences": "偏好",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "privacyPolicy": "隐私政策",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrInvalidAddress": "二维码不包含一个有效的地址",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrInvalidSeed": "二维码不包含任何有效的种子或私钥",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrMnemonicError": "二维码不包含有效的助记词",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receive": "接收",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddress": "接收地址",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddressCopied": "接收地址已复制",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveIndex": "接收索引",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveIndexParam": "接收 {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "received": "已接收",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeContact": "删除联系人",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeContactConfirmation": "您确认要刪除 {contactName} 吗？",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletAction": "删除钱包",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletBiometricsMessage": "验证移除钱包",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletDetail": "移除钱包将会从此设备移除助记词和所有钱包相关数据。如果助记词没有备份，资金将永远无法访问。",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletPinMessage": "输入识别码移除钱包",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletReassurance": "如备份已助记词则不必担心。",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "requireAPasswordToOpenHeader": "需要密码来打开 Kapitanium 吗？",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "restartSetupButton": "重新设置",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanQrCode": "扫描二维码",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanQrCodeError": "解析二维码已失败",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretInfo": "下一屏，将会看到您的助记词，它是存取资金的密码。请确保备份好，且不要与任何人透露。",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretInfoHeader": "安全第一！",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretPhrase": "助记词",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretWarning": "如果手机丢失或此程序被卸载，您将需要助记词恢复钱包访问！",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "securityHeader": "安全",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "seed": "助记词",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "seedInvalid": "助记词无效",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "send": "发送",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendConfirm": "发送",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendError": "发生错误。请稍后再试。",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendNote": "笔记",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendToAddressTitle": "至",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendTxProgressDescription": "交易发送请等待",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendTxProgressTitle": "发送交易中",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sending": "发送",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sent": "已发送",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sentTo": "发送至",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setPassword": "设置密码",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setPasswordSuccess": "密码设置成功",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setWalletPassword": "设置钱包密码",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "settingsHeader": "设置",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "settingsTransfer": "从纸钱包载入",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setupFailedMessage": "发生了错误",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspium": "分享 Kapitanium",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspiumSubject": "查看 Kapitanium 钱包",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspiumText": "查看 Kapitanium - Pyrin 移动钱包\n网站 - https://github.com/e4p1k0/karlsen_mobile/tree/pyrin"",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "somethingWentWrong": "发生了错误",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "systemDefault": "系统默认",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tapToHide": "点击隐藏",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tapToReveal": "点击揭示",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeDark": "深色主题",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeHeader": "主题",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeLight": "浅色主题",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "thisWallet": "#当前钱包",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "to": "至",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "toAddress": "至地址",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tooManyFailedAttempts": "尝试解锁失败次数过多。",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "totalValue": "总数",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transactionId": "交易 ID",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transactionsUppercase": "交易",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transfer": "传送",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferClose": "点击任意位置关闭窗口。",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferComplete": "{amount} PYI 成功传送到您的 Kapitanium 钱包。\n",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfo": "检测到一个包含 {amount} PYI 的钱包。",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfoSecond": "按键确定传送钱币。\n",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfoThird": "传送需要几秒钟完成，请稍等一下。",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferError": "传送出现了问题，请稍后再尝试。",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferHeader": "传送钱币",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferIntro": "这个过程会将纸钱包的钱币转移到您的 Kapitanium 钱包。\n\n请按 \"{button}\" 键开始。",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferLoading": "传送中",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferManualHint": "请在下方输入助记词。",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferNoFunds": "这组助记词不包含任何 PYI",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferQrScanError": "这个二维码没有包含任何有效的助记词。",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferQrScanHint": "请扫描 Pyrin\n助记词或私钥",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unconfirmed": "未确认",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "notAccepted": "未能接受",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "accepted": "已接受",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unknown": "未知",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlock": "解锁",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlockBiometrics": "验证并解锁 Kapitanium",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlockPin": "请输入识别码来解锁 Kapitanium",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "utxosUppercase": "UTXO",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "viewAddress": "查看地址",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "viewTransaction": "查看交易",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletAddresses": "钱包地址",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletName": "钱包名称",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletNameDescription": "输入钱包名称",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletNameHint": "钱包名称",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletSetupAddressDiscovery": "运行地址发现",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletSetupMessage": "设置钱包中",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletsTitle": "钱包",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "warning": "警告",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "welcomeMessage": "欢迎您！\n\n这是 Kapitanium {version} - Pyrin 的移动钱包",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "welcomeText": "欢迎来到 Kapitanium。下一步，您可以创建新钱包或导入已有钱包。",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "xMinutes": "{minutes, plural, =1{1} other{{minutes}}} 分钟后",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yes": "是",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yesButton": "是",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yesUppercase": "是",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNotSyncedException": "节点没有同步",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNoUTXOIndexException": "节点没有 UTXO 索引",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeSecureConnection": "安全连接",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspaUriInvalid": "无效的 Pyrin 地址",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxos": "合并交易（化零为整）",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxosDescription": "合并多个地址的零钱到一个地址。",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxosConfirmation": "合并交易（化零为整）?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundingUtxos": "正在合并交易（化零为整）",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundingMessage": "请等待...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundSuccess": "合并成功",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundFailure": "合并交易失败",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundTooFewUtxos": "至少需要两个 UTXO",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "balance": "余额",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "maxSend": "最大发送",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUppercased": "合并",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "closeUppercased": "关闭",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanMoreAddresses": "扫描更多地址",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressDiscovery": "地址发现",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanningTitle": "扫描中",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanningDescription": "扫描更多地址中",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanMore": "扫描更多",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanFailedMessage": "扫描失败，请稍后尝试",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "indexHeader": "索引",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currentIndex": "当前",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scannedIndex": "已扫描",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newIndex": "新建",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogTitle": "地址过滤",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogOptionAllAddresses": "查看全部地址",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogOptionNonZeroBalances": "查看所有非零余额地址",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption24WordsTitle": "导入 24 个助记词",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption24WordsDescription": "与 Cli 钱包和 Ledger 兼容",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption12WordsTitle": "导入 12 个助记词",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption12WordsDescription": "与网页钱包和 KDX 兼容",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOptionKpubTitle": "导入只读钱包",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOptionKpubDescription": "使用扩展公钥监视一个钱包的余额和交易",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpub": "导入只读钱包",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubHint": "请输入你的扩展公钥",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubClipboardError": "粘贴板内容不是一个有效的扩展公钥",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubQrCodeError": "二维码没有包含一个有效的扩展公钥",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubInvalidMessage": "请确认你的扩展公钥输入正确。",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddressListEmpty": "接收地址列表为空",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddressListEmpty": "零钱地址列表为空",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "hintAddressListEmpty": "从右上角查看地址过滤"
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
 }
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+

@@ -1,1220 +1,1220 @@
 {
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "@@last_modified": "2023-09-25T17:48:36.587Z",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "@@author": "arb-converter-cli",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "account": "اکاؤنٹ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "accounts": "اکاؤنٹس",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "ackBackedUp": "کیا آپ کو یقین ہے کہ آپ نے اپنے خفیہ جملے کا بیک اپ لیا ہے؟",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "add": "شامل کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addAccount": "اکاؤنٹ شامل کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addContact": "رابطہ شامل کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNode": "نوڈ شامل کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeFailed": "کیسپا نوڈ شامل کرنے میں ناکام",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeFailedMessage": "ناکام: {error}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeSuccess": "نوڈ کامیابی کے ساتھ شامل ہو گیا",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addingNodeMessage": "براہ کرم نوڈ سے رابطہ کرتے وقت انتظار کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addingNodeTitle": "نوڈ شامل کیا جا رہا ہے",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "address": "پتہ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressCopied": "پتہ کاپی کر دیا گیا ہے",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressCopiedFailed": "Failed to copy address",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressHint": "پتہ درج کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressMising": "براہ کرم ایک پتہ درج کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressShare": "پتہ شیئر کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "advancedHeader": "اعلی درجے",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amount": "رقم",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountConfirm": "رقم {amount} {coin}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountMissing": "براہ کرم ایک رقم درج کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountZero": "رقم صفر نہیں ہو سکتی",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "areYouSure": "کیا آپ کو یقین ہے؟",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authBiometricMessage": "والیٹ شامل کرنے کے لیے تصدیق کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authMethod": "تصدیق کا طریقہ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authPinMessage": "والیٹ شامل کرنے کے لیے PIN درج کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "autoLockHeader": "خودکار طور پر لاک",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "available": "دستیاب",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "backupConfirmButton": "میں نے اس کا بیک اپ لیا ہے",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "backupSecretPhrase": "بیک اپ خفیہ جملہ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "biometricsMethod": "بایومیٹرکس",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "blockExplorer": "بلاک ایکسپلورر",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "cancel": "منسوخ کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "change": " تبدیل کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddress": "پتہ تبدیل کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddressCopied": "پتہ تبدیلی کا کاپی کیا گیا ہے",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeIndex": "انڈیکس کو تبدیل کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeIndexParam": "{addressIndex} کو تبدیل کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "checkCameraPermission": "براہ کرم کیمرے کی اجازتیں چیک کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "clipboardEmpty": "کلپ بورڈ خالی ہے",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "close": "بند کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirm": "تصدیق کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmPasswordHint": "پاس ورڈ کی تصدیق کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmations": "{confirmations} تصدیقات",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmed": "تصدیق شدہ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirming": "تصدیق کی جا رہی ہے",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactAdded": "{contactName} کو رابطوں میں شامل کیا گیا",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactAddressCopied": "{address} پتہ کاپی ہو گیا",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactExists": "رابطہ پہلے سے موجود ہے",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactHeader": "رابطہ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactInvalid": "غلط رابطہ نام",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactNameHint": "ایک نام درج کریں @",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactNameMissing": "اس رابطہ کے لیے ایک نام منتخب کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactRemoved": "{contactName} کو رابطوں سے ہٹا دیا گیا ہے!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsHeader": "رابطے",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsImportErr": "رابطے درآمد کرنے میں ناکام",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsImportSuccess": "{noContacts} رابطے کامیابی کے ساتھ درآمد کیے گئے",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copied": "کاپی ہو گئی",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copy": "کاپی",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copyAddress": "ایڈریس کاپی کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copyErrorButton": "کاپی کی خرابی",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createAPasswordHeader": "پاس ورڈ بنائیں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordFirstParagraph": "آپ اپنے بٹوے میں اضافی سیکیورٹی شامل کرنے کے لیے پاس ورڈ بنا سکتے ہیں۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordHint": "پاس ورڈ بنائیں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordSecondParagraph": "پاس ورڈ اختیاری ہے، اور آپ کے بٹوے کو آپ کے PIN یا بایومیٹرکس سے قطع نظر محفوظ رکھا جائے گا۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordSheetHeader": "بنائیں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currency": "کرنسی",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currencyPoweredBy": "CoinGecko کے ذریعہ تقویت یافتہ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultAccountName": "پتہ 1",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultNewAccountName": "وصول کریں {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultWalletName": "میرا بٹوہ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disablePasswordSheetHeader": "غیر فعال کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disablePasswordSuccess": "پاس ورڈ کو غیر فعال کر دیا گیا ہے",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disableWalletPassword": "بٹوا پاس ورڈ کو غیر فعال کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "doContinue": "جاری رہے",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "donate": "عطیہ کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "dontShowAgain": "دوبارہ مت دکھانا",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyCardIntroUtxos": "یہ UTXOs ٹیب ہے۔ آپ کے بٹوے میں موجود تمام UTXO یہاں ظاہر ہوں گے۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyResult": "خالی نتیجہ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyWalletName": "بٹوا نام خالی نہیں ہو سکتا",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "encryptionFailedError": "بٹوا پاس ورڈ سیٹ کرنے میں ناکام",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterAddress": "پتہ درج کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterAmount": "رقم درج کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterNote": "نوٹ درج کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterPasswordHint": "اپنا پاس ورڈ درج کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "errorMessageCopied": "خرابی کا پیغام کلپ بورڈ پر کاپی ہو گیا",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "exampleCardIntro": "یہ لین دین کا ٹیب ہے۔ ایک بار جب آپ کوئی لین دین بھیجتے یا وصول کرتے ہیں، تو یہ یہاں ظاہر ہوگا۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "export": "برآمد کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fee": "فیس",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "feeConfirm": "فیس {amount} {coin}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "feeTitle": "فیس",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fetchingTransactions": "لین دین کی بازیافت",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fingerprintSeedBackup": "بیک اپ خفیہ جملے کی توثیق کریں۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "goBackButton": "واپس جاو",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "gotItButton": "سمجھ گیا!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "import": "درآمد کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhrase": "خفیہ جملہ درآمد کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHint": "براہ کرم ذیل میں اپنا 24 الفاظ کا خفیہ جملہ درج کریں۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHintCombo": "Please enter your 12 or 24 word secret phrase below.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHintLegacy": "Please enter your 12 word secret phrase below.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importWallet": "بٹوا درآمد کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importWalletDescription": "Please select an option below.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "instantly": "فوری طور پر",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "insufficientBalance": "ناکافی بیلنس",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "insufficientBalanceDetails": "آپ کے پاس اس لین دین کے لیے کافی PYI نہیں ہے",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidAddress": "درج کردہ پتہ غلط تھا",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidAmount": "غلط رقم",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidChecksumMessage": "براہ کرم چیک کریں کہ آپ کا خفیہ جملہ   درست درج کیا گیا ہے!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidKpubMessage": "Please check that your extended public key is entered correctly!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidDestinationAddress": "غلط منزل کا پتہ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidPassword": "غلط پاسورڈ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspaDevFund": "کاسپا دیو فنڈ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspiumWallet": "کاسپیم بٹوا ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "language": "زبان",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "loadingTransactions": "لین دین لوڈ ہو رہا ہے...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "lockAppSetting": "لانچ پر تصدیق کریں۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "locked": "مقفل",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "loggingOutMessage": "لاگ آؤٹ ہو رہا ہے...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logout": "لاگ آوٹ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logoutDialogContent": "کیا آپ واقعی اس بٹوے سے لاگ آؤٹ کرنا چاہتے ہیں؟",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logoutOrSwitchWallet": "لاگ آؤٹ / سوئچ بٹوا",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "manage": "انتظام کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "manualEntry": "دستی اندراج",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "networkHeader": "نیٹ ورک",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newAddress": "نیا پتہ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newWallet": "نیا بٹوا",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nextButton": "اگلے",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "no": "نہیں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noContactsExport": "برآمد کرنے کے لیے کوئی رابطہ نہیں ہے",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noContactsImport": "درآمد کرنے کے لیے کوئی نیا رابطہ نہیں ہے",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noQrCodeFound": "کوئی QR کوڈ نہیں ملا",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noSkipButton": "نہیں، چھوڑیں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noUppercase": "نہیں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeAddress": "کاسپا نوڈ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeDeleteMessage": "کیا آپ واقعی حذف کرنا چاہتے ہیں؟",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeDeleteTitle": "Pyrin Node Config کو حذف کریں؟",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNameEmpty": "نوڈ کا نام خالی نہیں ہو سکتا",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNameHint": "نوڈ کا نام درج کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeUrlHint": "نوڈ URL درج کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeUrlInvalid": "غلط نوڈ URL",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodesSheetTitle": "کاسپا نوڈس",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "off": "بند",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "on": "آن",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "paperWallet": "کاغذی بٹوا",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordBlank": "پاس ورڈ خالی نہیں ہو سکتا",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordNoLongerRequiredToOpenParagraph": "اس بٹوے کو کھولنے کے لیے آپ کو پاس ورڈ کی ضرورت نہیں ہوگی۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordWillBeRequiredToOpenParagraph": "اس بٹوا کو کھولنے کے لیے اس پاس ورڈ کی ضرورت ہوگی۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordsDontMatch": "پاس ورڈ میچ نہیں کرتے",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pasteMnemonicError": "کلپ بورڈ مواد ایک درست خفیہ جملہ نہیں ہے",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pending": "زیر التواء",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinConfirmError": "پن میچ نہیں کرتے",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinConfirmTitle": "اپنے PIN کی تصدیق کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinCreateTitle": "6 ہندسوں کا پن بنائیں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinEnterTitle": "PIN درج کریں۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinInvalid": "غلط PIN درج کیا گیا۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinMethod": "PIN",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinSeedBackup": "خفیہ جملہ کو بیک اپ کرنے کے لیے PIN درج کریں۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "preferences": "ترجیحات",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "privacyPolicy": "رازداری کی پالیسی",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrInvalidAddress": "QR کوڈ میں درست پتہ نہیں ہے۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrInvalidSeed": "QR کوڈ میں درست سیڈ یا نجی کلید نہیں ہے۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrMnemonicError": "QR کوڈ میں ایک درست خفیہ جملہ نہیں ہے۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receive": "وصول کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddress": "ایڈریس وصول کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddressCopied": "کاپی شدہ ایڈریس وصول کریں۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveIndex": "انڈیکس وصول کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveIndexParam": "وصول کریں {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "received": "موصول ہوا",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeContact": "رابطہ کو ہٹا دیں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeContactConfirmation": "کیا آپ واقعی {contactName} کو حذف کرنا چاہتے ہیں؟",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletAction": "بٹوے کو ہٹا دیں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletBiometricsMessage": "بٹوا کو ہٹانے کے لیے تصدیق کریں۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletDetail": "اس بٹوے کو ہٹانے سے اس ڈیوائس سے خفیہ جملہ اور بٹوے سے متعلق تمام ڈیٹا ہٹ جائے گا۔ اگر خفیہ جملے کا بیک اپ نہیں لیا جاتا ہے، تو آپ دوبارہ کبھی بھی اپنے فنڈز تک رسائی حاصل نہیں کر پائیں گے۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletPinMessage": "بٹوا کو ہٹانے کے لیے پن درج کریں۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletReassurance": "جب تک آپ نے خفیہ جملے کا بیک اپ لیا ہے آپ کو فکر کرنے کی کوئی ضرورت نہیں ہے۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "requireAPasswordToOpenHeader": "اس بٹوا کو کھولنے کے لیے پاس ورڈ کی ضرورت ہے؟",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "restartSetupButton": "سیٹ اپ دوبارہ شروع کریں۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanQrCode": "کیو آر کوڈ اسکین کریں۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanQrCodeError": "کیو آر کوڈ کو پارس کرنے میں ناکام",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretInfo": "اگلی اسکرین میں، آپ کو اپنا خفیہ جملہ نظر آئے گا۔ یہ آپ کے فنڈز تک رسائی کا پاس ورڈ ہے۔ یہ بہت ضروری ہے کہ آپ اس کا بیک اپ لیں اور اسے کبھی کسی کے ساتھ شیئر نہ کریں۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretInfoHeader": "پہلے حفاظت!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretPhrase": "خفیہ جملہ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretWarning": "اگر آپ اپنا آلہ کھو دیتے ہیں یا ایپلیکیشن ان انسٹال کرتے ہیں، تو آپ کو اپنے فنڈز کی وصولی کے لیے اپنے خفیہ جملے کی ضرورت ہوگی!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "securityHeader": "سیکورٹی",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "seed": "Seed",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "seedInvalid": "سیڈ غلط ہے",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "send": "بھیجیں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendConfirm": "بھیجیں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendError": "ایک خرابی آگئی. دوبارہ کوشش کریں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendNote": "نوٹ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendToAddressTitle": "کو",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendTxProgressDescription": "براہ کرم ٹرانزیکشن بھیجے جانے تک انتظار کریں۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendTxProgressTitle": "لین دین بھیجنا",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sending": "بھیجیں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sent": "بھیجا",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sentTo": "کے لئے بھیج",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setPassword": "پاس ورڈ رکھیں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setPasswordSuccess": "والیٹ پاس ورڈ سیٹ کر دیا گیا ہے۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setWalletPassword": "والیٹ پاس ورڈ سیٹ کریں۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "settingsHeader": "ترتیبات",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "settingsTransfer": "کاغذی بٹوے سے لوڈ کریں۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setupFailedMessage": "کچھ غلط ہو گیا",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspium": "Kapitanium کا اشتراک کریں۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspiumSubject": "Kapitanium Wallet چیک کریں۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspiumText": "Kapitanium - Pyrin Mobile Wallet  ویب سائٹ - https://github.com/e4p1k0/karlsen_mobile/tree/pyrin" چیک کریں۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "somethingWentWrong": "کچھ غلط ہو گیا",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "systemDefault": "سسٹم ڈیفالٹ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tapToHide": "چھپانے کے لئے ٹیپ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tapToReveal": "ظاہر کرنے کے لئے ٹیپ کریں۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeDark": "ڈارک تھیم",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeHeader": "تھیم",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeLight": "ہلکی تھیم",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "thisWallet": "#یہ بٹوا",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "to": "کو",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "toAddress": "وہ پتہ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tooManyFailedAttempts": "غیر مقفل کرنے کی بہت ساری ناکام کوششیں۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "totalValue": "کل قیمت",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transactionId": "ٹرانزیکشن ID",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transactionsUppercase": "لین دین",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transfer": "منتقلی",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferClose": "کھڑکی کو بند کرنے کے لیے کہیں بھی ٹیپ کریں۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferComplete": "{amount} PYI کامیابی کے ساتھ آپ کے Kapitanium Wallet میں منتقل ہو گیا۔\n",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfo": "{amount} PYI کے بیلنس والے پرس کا پتہ چلا ہے۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfoSecond": "رقوم کی منتقلی کے لیے تصدیق پر ٹیپ کریں۔\n",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfoThird": "منتقلی مکمل ہونے میں کئی سیکنڈ لگ سکتے ہیں۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferError": "منتقلی کے دوران ایک خرابی پیش آگئی ہے۔ براہ کرم کچھ دیر بعد کوشش کریں.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferHeader": "فنڈز کی منتقلی",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferIntro": "یہ عمل کاغذی بٹوے سے آپ کے Kapitanium والیٹ میں رقم منتقل کر دے گا۔\n\n شروع کرنے کے لیے \"{button}\" بٹن کو تھپتھپائیں  ۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferLoading": "منتقلی",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferManualHint": "براہ کرم ذیل میں بیج درج کریں۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferNoFunds": "اس سیڈ پر کوئی PYI نہیں ہے۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferQrScanError": "اس QR کوڈ میں درست سیڈ نہیں ہے۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferQrScanHint": "Pyrin سیڈ یا نجی کلید اسکین کریں۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unconfirmed": "غیر تصدیق شدہ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "notAccepted": "not accepted",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "accepted": "accepted",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unknown": "غیر تصدیق شدہ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlock": "غیر مقفل کریں۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlockBiometrics": "بٹوا کو غیر مقفل کرنے کے لیے تصدیق کریں۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlockPin": "بٹوا کو غیر مقفل کرنے کے لیے پن درج کریں۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "utxosUppercase": "UTXOs",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "viewAddress": "پتہ دیکھیں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "viewTransaction": "لین دین دیکھیں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletAddresses": "بٹوے کے پتے",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletName": "بٹوے کا نام",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletNameDescription": "اپنے بٹوے کے لیے ایک نام درج کریں۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletNameHint": "بٹوے کا نام",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletSetupAddressDiscovery": "ایڈریس ڈسکوری چل رہا ہے۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletSetupMessage": "بٹوا لگانا",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletsTitle": "بٹوے",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "warning": "وارننگ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "welcomeMessage": "خوش آمدید!یہ \n\n  Kapitanium کا ورژن {version} ہے - Pyrin کے لیے موبائل والیٹ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "welcomeText": "Kapitanium میں خوش آمدید۔ شروع کرنے کے لیے، آپ ایک نیا پرس بنا سکتے ہیں یا پہلے سے موجود کو درآمد کر سکتے ہیں۔",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "xMinutes": "کے بعد {minutes, plural, =1{1 minute} other{{minutes} minutes}}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yes": "جی ہاں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yesButton": "جی ہاں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yesUppercase": "جی ہاں",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNotSyncedException": "نوڈ مطابقت پذیر نہیں ہے",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNoUTXOIndexException": "نوڈ میں UTXO انڈیکس نہیں ہے",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeSecureConnection": "محفوظ کنکشن",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspaUriInvalid": "Invalid Pyrin URI",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxos": "Compound transactions",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxosDescription": "Combine multiple UTXOs into one",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxosConfirmation": "Compound transactions?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundingUtxos": "Compounding transactions",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundingMessage": "Please wait...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundSuccess": "Compound successful",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundFailure": "Failed to compound transactions",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundTooFewUtxos": "At least two UTXOs are required",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "balance": "Balance",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "maxSend": "Max Send",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUppercased": "COMPOUND",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "closeUppercased": "CLOSE",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanMoreAddresses": "Scan For More Addresses",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressDiscovery": "Address Discovery",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanningTitle": "Scanning",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanningDescription": "Scanning for new addresses...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanMore": "SCAN MORE",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanFailedMessage": "Scan failed, please try again later",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "indexHeader": "Index",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currentIndex": "Current",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scannedIndex": "Scanned",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newIndex": "New",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogTitle": "Address Filter",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogOptionAllAddresses": "View All Addresses",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogOptionNonZeroBalances": "View Addresses With Balance",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption24WordsTitle": "Import 24 Word Secret Phrase",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption24WordsDescription": "Compatible with Cli Wallet and Ledger",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption12WordsTitle": "Import 12 Word Secret Phrase",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption12WordsDescription": "Compatible with Web Wallet and KDX",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOptionKpubTitle": "Import Watch Only Wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOptionKpubDescription": "Monitor the balance and transactions of a wallet using an extended public key",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpub": "Import Watch Only Wallet",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubHint": "Please enter your extended public key.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubClipboardError": "Clipboard content is not a valid extended public key",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubQrCodeError": "QR code does not contain a valid extended public key",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubInvalidMessage": "Please check that your extended public key is entered correctly!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddressListEmpty": "Receive address list is empty",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddressListEmpty": "Change address list is empty",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "hintAddressListEmpty": "Check address filter from the top right corner"
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
 }
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+

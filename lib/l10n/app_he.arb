@@ -1,1220 +1,1220 @@
 {
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "@@last_modified": "2023-09-30T20:57:42.789Z",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "@@author": "arb-converter-cli",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "account": "חשבון",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "accounts": "חשבונות",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "ackBackedUp": "האם אתם בטוחים ששמרתם את הביטוי הסודי שלכם?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "add": "הוספה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addAccount": "הוסף חשבון",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addContact": "הוסף איש קשר",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNode": "הוסף צומת",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeFailed": "הוספת צומת כספא נכשלה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeFailedMessage": "שגיאה: {error}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addNodeSuccess": "צומת הוספה בהצלחה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addingNodeMessage": "אנא המתינו בזמן יצירת קשר עם צומת",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addingNodeTitle": "מוסיף צומת",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "address": "כתובת ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressCopied": "כתובת הועתקה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressCopiedFailed": "נכשל להעתיק את הכתובת",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressHint": "הזן כתובת",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressMising": "אנא הזן כתובת",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressShare": "שתף כתובת",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "advancedHeader": "מתקדם ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amount": "סכום ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountConfirm": "סכום {amount} {coin}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountMissing": "הזן סכום",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "amountZero": "הסכום לא יכול להיות אפס",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "areYouSure": "את/ה בטוח/ה?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authBiometricMessage": "התאמתו על מנת להוסיף ארנק",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authMethod": "שיטת אימות",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "authPinMessage": "הזן קוד להוספת ארנק",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "autoLockHeader": "נעל באופן אוטומטי",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "available": "זמין",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "backupConfirmButton": "גיביתי במקום בטוח",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "backupSecretPhrase": "גבה את הביטוי הסודי",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "biometricsMethod": "ביומטריה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "blockExplorer": "בלוק אקספלורר",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "cancel": "בטל",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "change": "עודף ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddress": "כתובת עודף",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddressCopied": "כתובת עודף הועתקה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeIndex": "עודף אינדקס",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeIndexParam": "עודף {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "checkCameraPermission": "אנא בדקו הרשאות מצלמה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "clipboardEmpty": "לוח העתקה ריק",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "close": "סגור",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirm": "אשר",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmPasswordHint": "אשר את הסיסמה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmations": "{confirmations} אישורים",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirmed": "מאושר",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "confirming": "מאשר",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactAdded": "{contactName} נוסף לאנשי הקשר",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactAddressCopied": "הכתובת {address} הועתקה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactExists": "איש קשר כבר קיים",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactHeader": "איש קשר",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactInvalid": "שם איש קשר לא תקין",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactNameHint": "הזן שם @",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactNameMissing": "בחרו שם עבור איש קשר זה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactRemoved": "{contactName} הוסר מאנשי הקשר!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsHeader": "אנשי קשר",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsImportErr": "ייבוא איש קשר נכשל",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "contactsImportSuccess": "יבוא אנשי הקשר של {noContacts} עבר בהצלחה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copied": "הועתק",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copy": "העתק",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copyAddress": "העתק כתובת",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "copyErrorButton": "שגיאת העתקה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createAPasswordHeader": "צור סיסמה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordFirstParagraph": "ניתן לבחור סיסמה כדי להוסיף אבטחה נוספת לארנק",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordHint": "צור סיסמה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordSecondParagraph": "ניתן לדלג על בחירת הסיסמה. הארנק מאובטח על ידי הקוד הסודי או טביעת אצבע בכל מקרה.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "createPasswordSheetHeader": "צור",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currency": "מטבע חליפין",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currencyPoweredBy": "מופעל על ידי CoinGecko",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultAccountName": "כתובת 1",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultNewAccountName": "כתובת {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "defaultWalletName": "הארנק שלי",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disablePasswordSheetHeader": "בטל",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disablePasswordSuccess": "הסיסמה בוטלה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "disableWalletPassword": "בטל את סיסמת הארנק",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "doContinue": "המשך",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "donate": "תרומה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "dontShowAgain": "אל תציג שוב",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyCardIntroUtxos": "לשונית ה-UTXO. כל ה-UTXO בארנק יופיעו פה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyResult": "תוצאה ריקה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "emptyWalletName": "שם הארנק אינו יכול להיות ריק",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "encryptionFailedError": "הגדרת סיסמת הארנק נכשלה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterAddress": "הזן כתובת",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterAmount": "הזן כמות",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterNote": "הזן הערה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "enterPasswordHint": "הזן סיסמה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "errorMessageCopied": "הודעת שגיאת הועתקה ללוח העתקות",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "exampleCardIntro": "זוהי לשונית עסקאות. לאחר שתשלחו או תקבלו עסקה, היא תופיע פה.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "export": "יצוא",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fee": "עמלה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "feeConfirm": "עמלה {amount} {coin}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "feeTitle": "עמלה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fetchingTransactions": "הבאת עסקאות",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "fingerprintSeedBackup": "התאמתו כדי לגבות את הביטוי הסודי",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "goBackButton": "חזור",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "gotItButton": "הבנתי!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "import": "יבוא",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhrase": "יבוא ביטוי סודי",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHint": "הזן את 24 מילות הביטוי הסודי למטה ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHintCombo": "אנא הזן את הביטוי הסודי שלך בן 12 או 24 מילים למטה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importSecretPhraseHintLegacy": "הזן את 12 מילות הביטוי הסודי למטה ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importWallet": "יבוא ארנק",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importWalletDescription": "אנא בחר אפשרות למטה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "instantly": "באופן מידי",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "insufficientBalance": "אין מספיק מטבעות בחשבון",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "insufficientBalanceDetails": "אין מספיק כספא לעסקה זו",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidAddress": "כתובת יעד שהוזנה אינה תקינה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidAmount": "סכום לא חוקי",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidChecksumMessage": "בבקשה תבדוק שהזנת נכון את הביטוי הסודי",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidKpubMessage": "אנא בדוק שהמפתח הציבורי המורחב שלך הוזן כראוי!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidDestinationAddress": "כתובת יעד לא חוקית",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "invalidPassword": "סיסמה לא חוקית",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspaDevFund": "קרן פיתוח כספא",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspiumWallet": "ארנק כספיום",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "language": "שפה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "loadingTransactions": "טוען עסקאות...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "lockAppSetting": "בצע אימות בעת הפעלה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "locked": "נעול",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "loggingOutMessage": "מתנתק מהמערכת...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logout": "התנתקות",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logoutDialogContent": "בטוחים שאתם רוצים להתנתק מהארנק?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "logoutOrSwitchWallet": "התנתקות / שינוי ארנק",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "manage": "נהל",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "manualEntry": "הזנה ידנית",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "networkHeader": "רשת",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newAddress": "כתובת חדשה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newWallet": "ארנק חדש",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nextButton": "הבא",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "no": "לא",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noContactsExport": "לא קיימים אנשי קשר לייצא",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noContactsImport": "לא נמצאו אנשי קשר לייבוא",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noQrCodeFound": "קוד QR לא נמצא",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noSkipButton": "לא, דלג",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "noUppercase": "לא",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeAddress": "צומת כספא",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeDeleteMessage": "בטוחים שברצונכם למחוק?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeDeleteTitle": "למחוק את הגדרות צומת הכספא?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNameEmpty": "שם הצומת אינו יכול להיות ריק",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNameHint": "הזן את שם הצומת",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeUrlHint": "הזן את כתובת הצומת",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeUrlInvalid": "כתובת הצומת אינה חוקית",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodesSheetTitle": "צמתי כספא",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "off": "כבוי",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "on": "פועל",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "paperWallet": "ארנק נייר",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordBlank": "הסיסמה לא יכולה להיות ריקה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordNoLongerRequiredToOpenParagraph": "אין צורך בסיסמה לפתיחת ארנק זה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordWillBeRequiredToOpenParagraph": "חייבים להשתמש בסיסמה זו לפתיחת הארנק.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "passwordsDontMatch": "הסיסמאות לא תואמות",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pasteMnemonicError": "תוכן לוח העתקה אינו ביטוי סודי חוקי",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pending": "בהמתנה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinConfirmError": "הקודים אינם תואמים",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinConfirmTitle": "אשר את הקוד",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinCreateTitle": "יצר קוד באורך 6 ספרות",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinEnterTitle": "הזן קוד",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinInvalid": "הוזן קוד לא תקין",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinMethod": "קוד",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "pinSeedBackup": "הזן קוד כדי לגבות את הביטוי הסודי",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "preferences": "העדפות",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "privacyPolicy": "מדיניות הפרטיות",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrInvalidAddress": "קוד ה-QR לא מכיל כתובת חוקית",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrInvalidSeed": "הברקוד אינו מכיל \"סיד\" תקין או מפתח פרטי",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "qrMnemonicError": "ה-QR קוד לא מכיל ביטוי סודי חוקי",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receive": "קבל",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddress": "כתובת קבלה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddressCopied": "כתובת קבלה הועתקה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveIndex": "אינדקס קבלה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveIndexParam": "אינדקס כתובת מקבלת {addressIndex}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "received": "התקבל",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeContact": "הסר איש קשר",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeContactConfirmation": "האם אתה בטוח שאתה רוצה למחוק את {contactName}?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletAction": "הסר ארנק",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletBiometricsMessage": "אישור הסרת ארנק",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletDetail": "אזהרה 🛑\nהסרת הארנק יגרום למחיקת הביטוי הסודי וכל המידע והנתונים הקשורים \nלארנק מהמכשיר הזה.\nאם הביטוי הסודי לא מגובה / שמור בנפרד איתכם, אתם תאבדו את הגישה לארנק והכספים שלכם!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletPinMessage": "הזן קוד להסרת הארנק",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "removeWalletReassurance": "כל עוד הביטוי הסודי שלכם מגובה / שמור בנפרד איתכם אז אין לכם על מה לדאוג ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "requireAPasswordToOpenHeader": "האם לדרוש סיסמה לפתיחת הארנק?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "restartSetupButton": "הפעל מחדש את ההכנה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanQrCode": "סרוק ברקוד",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanQrCodeError": "ניתוח קוד ה-QR נכשל",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretInfo": "המסך הבא יראה את הביטוי הסודי שלכם. זה ביטוי שמאפשר לכם גישה לכספים שלכם.\nמאוד חשוב שתשמרו את הביטוי במקום בטוח בנפרד למכשיר ושלא תשתפו אותו עם אנשים אחרים!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretInfoHeader": "בטיחות קודמת לכול!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretPhrase": "ביטוי סודי",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "secretWarning": "אם תאבדו את המכשיר או תורידו את האפליקציה מהמכשיר אתם תצטרכו להשתמש בביטוי הסודי כדי לגשת לכספים שלכם! ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "securityHeader": "אבטחה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "seed": "סיד",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "seedInvalid": "ה\"סיד\" אינו תקין",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "send": "שלח",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendConfirm": "שלח",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendError": "קרתה תקלה. נסה שוב מאוחר יותר",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendNote": "הערה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendToAddressTitle": "אל",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendTxProgressDescription": "אנא המתינו בעת שליחת העסקה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sendTxProgressTitle": "העסקה נשלחת",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sending": "שלח",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sent": "נשלח",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "sentTo": "נשלח אל",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setPassword": "הגדר סיסמה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setPasswordSuccess": "סיסמת הארנק הוגדרה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setWalletPassword": "הגדר סיסמת הארנק",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "settingsHeader": "הגדרות",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "settingsTransfer": "טען מארנק נייר",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "setupFailedMessage": "משהו השתבש",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspium": "שתף את כספיום",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspiumSubject": "תראו כמה מגניב כספיום",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "shareKaspiumText": "תראו את כספיום - ארנק כספא לנייד.\nאתר - https://github.com/e4p1k0/karlsen_mobile/tree/pyrin"",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "somethingWentWrong": "משהו השתבש",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "systemDefault": "ברירת מחדל",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tapToHide": "הקש להחביא",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tapToReveal": "הקש להראות",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeDark": "מצב תצוגה כהה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeHeader": "ערכת נושא",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "themeLight": "מצב תצוגה בהיר",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "thisWallet": "#ארנק זה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "to": "מ-",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "toAddress": "לכתובת",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "tooManyFailedAttempts": "יותר מדי נסיונות כושלים לשחרור הנעילה.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "totalValue": "ערך כולל ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transactionId": "מספר עסקה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transactionsUppercase": "עסקאות",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transfer": "העבר",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferClose": "לחץ בכל מקום בכדי לסגור את החלון.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferComplete": "{amount} כספא הועברו לארנק כספיום בהצלחה.\n",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfo": "ארנק עם מאזן של {amount} כספא אותר.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfoSecond": "לחץ על אשר בכדי להעביר את הסכום.\n",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferConfirmInfoThird": "העברה יכולה לקחת מספר שניות",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferError": "חלה תקלה במהלך ההעברה. בבקשה נסה מאוחר יותר.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferHeader": "העבר כספים",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferIntro": "התהליך יעביר את הסכום שברשותך מארנק הנייר לארנק כספיום\n\nלחץ על כפתור ה-\"{button}\" כדי להתחיל.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferLoading": "מעביר",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferManualHint": "אנא הזן את ה\"סיד\" למטה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferNoFunds": "ה\"סיד\" אינו מכיל שום כספא",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferQrScanError": "הברקוד אינו מכיל \"סיד\" תקין",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "transferQrScanHint": "סרוק \"סיד\" של \nכספא או מפתח פרטי",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unconfirmed": "לא מאושר",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "notAccepted": "לא התקבל",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "accepted": "התקבל",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unknown": "לא ידוע",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlock": "שחרר מנעילה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlockBiometrics": "התאמתו כדי לשחרר ארנק מנעילה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "unlockPin": "הזן קוד על מנת לשחרר ארנק מנעילה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "utxosUppercase": "UTXOs",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "viewAddress": "הצג כתובת",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "viewTransaction": "הצג עסקה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletAddresses": "כתובות הארנקים",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletName": "שם הארנק",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletNameDescription": "הזן שם לארנק שלך",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletNameHint": "שם הארנק",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletSetupAddressDiscovery": "מריץ גילוי כתובות",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletSetupMessage": "הכנת ארנק",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "walletsTitle": "ארנקים",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "warning": "אזהרה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "welcomeMessage": "ברוכים הבאים!\n\nזו גרסה {version} של כספיום - ארנק כספא לנייד",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "welcomeText": "ברוך הבא לכספיום. כדי להתחיל, ניתן ליצור ארנק חדש או לייבא אחד קיים.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "xMinutes": "אחרי {minutes, plural, =1{1 דקה} other{{minutes} דקות}}",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yes": "כן",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yesButton": "כן",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "yesUppercase": "כן",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNotSyncedException": "הצומת אינה בסנכרון מלא",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeNoUTXOIndexException": "בצומת אין אינדקס UTXO",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "nodeSecureConnection": "חיבור מאובטח",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "kaspaUriInvalid": "URI של כספא לא חוקי",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxos": "עסקאות מורכבות",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxosDescription": "שלב מספר UTXOs לאחד",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUtxosConfirmation": "עסקאות מורכבות?",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundingUtxos": "עסקאות מורכבות",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundingMessage": "בבקשה תחכה...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundSuccess": "הרכבה הוצלחה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundFailure": "נכשל בהרכבת העסקאות",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundTooFewUtxos": "נדרשים לפחות שני UTXOs",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "balance": "יתרה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "maxSend": "מקסימום שליחה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "compoundUppercased": "תרכובת",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "closeUppercased": "סגור",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanMoreAddresses": "סרוק לקבלת כתובות נוספות",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressDiscovery": "גילוי כתובות",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanningTitle": "סורק",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanningDescription": "סורק בשביל כתובות חדשות...",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanMore": "סרוק עוד",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scanFailedMessage": "סריקה נכשלה, בבקשה נסה/י מאוחר יותר",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "indexHeader": "אינדקס",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "currentIndex": "נוכחי",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "scannedIndex": "נסרק",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "newIndex": "חדש",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogTitle": "סנן כתובות",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogOptionAllAddresses": "הצג את כל הכתובות",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "addressFilterDialogOptionNonZeroBalances": "הצג כתובות עם יתרה ",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption24WordsTitle": "יבוא ביטוי סודי של 24 מילים",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption24WordsDescription": "תואם עם Cli Wallet ו- Ledger",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption12WordsTitle": "ייבוא ​​ביטוי סודי של 12 מילים",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOption12WordsDescription": "תואם עם ארנק Web ו-KDX",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOptionKpubTitle": "ייבוא ארנק צפייה בלבד",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importOptionKpubDescription": "עקוב אחר היתרה והעסקאות של ארנק באמצעות מפתח ציבורי מורחב",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpub": "ייבוא ארנק צפייה בלבד",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubHint": "אנא הזן את המפתח הציבורי המורחב שלך.",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubClipboardError": "תוכן ההתעקה אינו מפתח ציבורי מורחב חוקי",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubQrCodeError": "קוד QR אינו מכיל מפתח ציבורי מורחב תקין",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "importKpubInvalidMessage": "אנא בדוק שהמפתח הציבורי המורחב שלך הוזן כראוי!",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "receiveAddressListEmpty": "רשימת כתובות קבלה ריקה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "changeAddressListEmpty": "רשימת הכתובות לשינוי ריקה",
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
   "hintAddressListEmpty": "בדוק את מסנן הכתובות מהפינה השמאלית העליונה"
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
 }
-pp_af.arb
-pp_af.arb
-pp_af.arb
+
+
+
